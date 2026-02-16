@@ -1,0 +1,1330 @@
+Pregunta: ¿Cuál es la diferencia entre Derecho Financiero y Derecho Tributario?
+Respuesta Correcta: El Derecho Financiero es el conjunto de normas que regulan la actividad financiera del sector público (la Hacienda Pública). El Derecho Tributario es solo una rama del Derecho Financiero, centrada en los tributos. El concepto de Derecho Financiero es más amplio que el de Derecho Tributario.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+
+Pregunta: ¿Cuál es la razón de ser de la actividad financiera del sector público?
+Respuesta Correcta: Obtener los ingresos necesarios que permitan financiar el gasto público. El propósito último es prestar a los ciudadanos los servicios públicos básicos (educación, sanidad, infraestructuras). Se articula como binomio indisoluble: Ingresos Públicos y Gasto Público.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+
+Pregunta: ¿Cuáles son las ramas principales del Derecho Financiero?
+Respuesta Correcta: 1) Derecho Tributario (Derecho de Ingresos): regula la obtención de ingresos a través de tributos. 2) Derecho Presupuestario (Derecho de Gasto): regula la gestión y planificación de los gastos públicos a través de los presupuestos.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+
+Pregunta: ¿Cuáles son las ramas complementarias del Derecho Financiero?
+Respuesta Correcta: 1) Derecho Patrimonial Público: regula los ingresos provenientes del patrimonio de las Administraciones Públicas (como el patrimonio cultural). 2) Derecho de la Deuda Pública: regula los ingresos que provienen del endeudamiento del Estado (crédito o deuda).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+
+Pregunta: ¿En qué cuatro ramas se divide el Derecho Financiero?
+Respuesta Correcta: 1) Derecho Tributario (ingresos por tributos), 2) Derecho Presupuestario (gestión del gasto), 3) Derecho Patrimonial Público (ingresos del patrimonio), 4) Derecho de la Deuda Pública (ingresos por endeudamiento/crédito). Tres regulan ingresos y una el gasto.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+
+Pregunta: Cuando el Gobierno sube el tipo de gravamen del IVA, ¿qué rama del Derecho Financiero se modifica?
+Respuesta Correcta: Se modifica una norma de Derecho Tributario, ya que regula la obtención de ingresos a través de tributos. En cambio, si el Gobierno anuncia una ayuda para el alquiler de jóvenes, es una medida de gasto que se encuadra en el Derecho Presupuestario.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Diferencia entre Derecho Financiero y Derecho Tributario
+Pregunta: ¿Cuáles son los seis principios constitucionales del Derecho Financiero?
+Respuesta Correcta: 1) Principio de justicia financiera (eje filosófico), 2) Principio de legalidad (exigencia formal), 3) Principio de control (garantía institucional), 4) Principio de redistribución de la renta y la riqueza (objetivo material), 5) Principio de solidaridad (cohesión territorial), 6) Principio de coordinación de las distintas haciendas (eficiencia territorial).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+
+Pregunta: ¿Cuáles son los subprincipios del principio de justicia financiera según el art. 31.1 CE?
+Respuesta Correcta: Generalidad ("todos contribuirán"), Capacidad económica (según recursos y circunstancias), Igualdad (mismo trato ante igual capacidad), Progresividad (carga aumenta más que proporcional a la riqueza), No confiscatoriedad (prohibido anular riqueza/propiedad), y Justicia del gasto público (asignación equitativa de recursos, art. 31.2).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+
+Pregunta: ¿Qué significa el principio de progresividad tributaria?
+Respuesta Correcta: Que a mayor aumento de la riqueza (base imponible), debe aumentar la carga tributaria (cuota) de forma más que proporcional. Importante: la progresividad se exige al conjunto del sistema tributario, no a cada tributo individualmente. El IRPF es progresivo; el IVA o el IES no lo son.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+
+Pregunta: ¿Qué implica el principio de legalidad en el Derecho Financiero?
+Respuesta Correcta: Que tanto los ingresos como los gastos públicos deben establecerse en la ley. Art. 31.3 CE: prestaciones patrimoniales públicas solo con arreglo a ley. Art. 133 CE: potestad para establecer tributos corresponde al Estado mediante ley. También la legalidad de gastos (art. 133.4), presupuestaria (art. 134.1) y de deuda (art. 135.3).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+
+Pregunta: ¿Cómo se ejerce el principio de control de la actividad financiera?
+Respuesta Correcta: En dos esferas: 1) Control externo: lo realiza el Tribunal de Cuentas, órgano que depende de las Cortes Generales y vigila las cuentas del Estado y su gestión económica. 2) Control interno: lo realiza la Intervención General de la Administración del Estado (IGAE).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+
+Pregunta: ¿Qué establecen los principios de solidaridad y coordinación de las haciendas públicas?
+Respuesta Correcta: El principio de solidaridad (art. 2 y 138 CE) busca establecer equilibrio económico entre los distintos territorios de España, procurando que todos tengan nivel adecuado de servicios e infraestructuras. Para alcanzarlo, es necesaria la coordinación de las Haciendas de las distintas CCAA (art. 156 CE).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios constitucionales del derecho financiero
+Pregunta: ¿Qué es el Derecho Presupuestario y dónde se regulan los PGE?
+Respuesta Correcta: Es el conjunto de normas que tienen por objeto regular el gasto público a través de los presupuestos. Los Presupuestos Generales del Estado (PGE) se regulan en la Constitución Española, principalmente en el artículo 134.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+
+Pregunta: ¿Quién elabora y quién aprueba los Presupuestos Generales del Estado?
+Respuesta Correcta: La elaboración corresponde al Gobierno (Poder Ejecutivo), específicamente al Ministerio de Hacienda. La aprobación corresponde a las Cortes Generales (Poder Legislativo), por lo que el Gobierno necesita conseguir el apoyo de los distintos grupos parlamentarios.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+
+Pregunta: ¿Cuál es el plazo para aprobar los PGE y qué ocurre si no se aprueban a tiempo?
+Respuesta Correcta: Los presupuestos tienen carácter anual y deben aprobarse tres meses antes de que expiren los del año anterior (listos para el 1 de octubre). Prórroga: si no se aprueban antes del 31 de diciembre, se prorrogarán los del año anterior hasta que se aprueben unos nuevos.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+
+Pregunta: ¿Puede la Ley de Presupuestos crear tributos?
+Respuesta Correcta: No. La Ley de Presupuestos Generales del Estado no puede crear tributos, solo puede modificarlos si ya están previstos en una ley sustantiva. Ejemplo: se puede modificar el tipo de gravamen del Impuesto sobre Sociedades, pero para aprobar un nuevo impuesto se requiere una ley específica.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+
+Pregunta: ¿Cómo se estructura el presupuesto de ingresos?
+Respuesta Correcta: Mediante dos clasificaciones: 1) Clasificación Orgánica: divide los ingresos según el órgano al que corresponden (ej: Seguridad Social, Administración General del Estado). 2) Clasificación Económica: divide según el tipo de operación (corrientes: tributos; de capital: venta de inversión; financieras: venta de acciones).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+
+Pregunta: ¿Cómo se estructura el presupuesto de gastos?
+Respuesta Correcta: Con tres clasificaciones: 1) Clasificación Orgánica: qué órgano gasta (secciones y servicios). 2) Clasificación Económica: a qué se destina (corriente: salarios; capital: compra inmueble; financiera: amortización préstamo). 3) Clasificación por Programas: finalidad y objetivos del gasto (áreas de gasto).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los presupuestos
+Pregunta: ¿Cuáles son los principios de la programación presupuestaria según la LGP?
+Respuesta Correcta: 1) Estabilidad presupuestaria y sostenibilidad financiera (evitar déficit, "techo de gasto" art. 135 CE), 2) Plurianualidad (horizonte de varios años), 3) Transparencia (presupuestos conocidos por ciudadanos), 4) Eficiencia en asignación de recursos, 5) Responsabilidad (cumplir normativa), 6) Lealtad institucional (colaboración entre Administraciones).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+
+Pregunta: ¿Por qué el principio de estabilidad presupuestaria tiene rango constitucional?
+Respuesta Correcta: Es tan fundamental que se elevó a rango constitucional mediante la reforma del artículo 135 CE, siendo uno de los dos artículos constitucionales que ha sido reformado para incluir el denominado "techo de gasto", un límite al endeudamiento de las Administraciones.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+
+Pregunta: ¿Cuáles son los principios de gestión de los presupuestos?
+Respuesta Correcta: 1) Anualidad: vigencia de un año. 2) Universalidad: incluir la totalidad de ingresos y gastos del sector público (art. 134 CE). 3) Especialidad: recursos destinados solo a la finalidad prevista. 4) Unidad: recogidos en un único documento.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+
+Pregunta: ¿Cuáles son las fases del ciclo presupuestario?
+Respuesta Correcta: 1) Fase política (elaboración y aprobación): elabora el Gobierno/Ministerio de Hacienda, remisión antes del 1 de octubre, aprobación por Cortes Generales. 2) Fase ejecutiva (gestión del gasto): aprobación, compromiso, reconocimiento de obligación, ordenación del pago, pago material. 3) Fase fiscalizadora (control).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+
+Pregunta: ¿Cuáles son las cinco etapas de la gestión y ejecución del gasto público?
+Respuesta Correcta: 1) Aprobación del gasto: autorización, cuantía aproximada o concreta. 2) Compromiso del gasto: acuerdo, cuantía determinada, intervienen terceros. 3) Reconocimiento de la obligación: existe crédito contra Hacienda. 4) Ordenación del pago: orden a la caja del Tesoro. 5) Pago material: ejecución final.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+
+Pregunta: ¿Cómo se ejerce el control en la fase fiscalizadora del ciclo presupuestario?
+Respuesta Correcta: Control interno: lo realiza la Intervención General de la Administración del Estado (IGAE). Control externo: lo realiza el Tribunal de Cuentas. Además, las Cortes intervienen en el control externo al aprobar las leyes presupuestarias y la Cuenta General del Estado (documento que elabora la IGAE).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Principios del Derecho Presupuestario
+Pregunta: ¿Cuáles son las características esenciales del tributo según la LGT?
+Respuesta Correcta: 1) Prestación pecuniaria: se exige cantidad de dinero, no trabajo u obra. 2) Ingreso público: exigido por una Administración, no por particulares. 3) Exigencia ex lege: por realizar un supuesto de hecho al que la ley vincula el deber de contribuir (no es voluntario). 4) Finalidad financiera: obtener ingresos para financiar el gasto público.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+
+Pregunta: ¿Cuáles son las tres clases de tributos y cuál es su diferencia esencial?
+Respuesta Correcta: Impuestos, tasas y contribuciones especiales. La diferencia radica en la existencia o inexistencia de contraprestación directa: los impuestos no tienen contraprestación; las tasas y contribuciones especiales sí la tienen (servicio público o beneficio de obra pública).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+
+Pregunta: ¿Qué son las tasas y cuál es su característica clave?
+Respuesta Correcta: Tributos que se exigen a cambio de aprovechar el dominio público o disfrutar de un servicio público. Característica clave: el servicio o actividad solo puede ser prestado por una Administración Pública (exclusividad pública). Ejemplos: pago por renovar el DNI o por el examen de conducir.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+
+Pregunta: ¿Cuál es la diferencia entre tasa y precio público?
+Respuesta Correcta: La tasa es un tributo por un servicio que solo puede prestar la Administración (exclusividad pública). El precio público se exige cuando el servicio también puede ser prestado por una empresa privada (no hay exclusividad). Ejemplo de precio público: pago por título universitario o entrada a piscina municipal.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+
+Pregunta: ¿Qué son las contribuciones especiales?
+Respuesta Correcta: Tributos que se exigen cuando el contribuyente se beneficia de una obra pública o mejora de servicio público. Se distinguen de las tasas porque derivan de una actividad a iniciativa de la Administración (no del contribuyente). Ejemplo: instalación de nuevas farolas en una urbanización, exigiendo pago a los vecinos beneficiados.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+
+Pregunta: ¿Qué son los impuestos y cuál es la diferencia entre directos e indirectos?
+Respuesta Correcta: Tributos que se exigen sin contraprestación directa, cuando el sujeto realiza actos que manifiestan capacidad económica. Impuestos directos: gravan manifestación directa de capacidad económica (riqueza), ej: IRPF. Impuestos indirectos: gravan manifestación indirecta (utilización de riqueza), ej: IVA (consumo).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Tributos
+Pregunta: ¿Cómo se estructura el Derecho Tributario para su estudio?
+Respuesta Correcta: En Parte General y Parte Especial. Parte General: leyes que regulan genéricamente el Derecho Tributario (norma principal: Ley General Tributaria - LGT), aspectos transversales como el procedimiento tributario. Parte Especial: leyes que regulan impuestos concretos (Ley del IVA, Ley del IRPF, Ley del IES).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+
+Pregunta: ¿Cuáles fueron las motivaciones para aprobar la LGT de 2003?
+Respuesta Correcta: 1) Incluir el uso de nuevas tecnologías en los procedimientos tributarios. 2) Reducir la conflictividad y mejorar las relaciones entre la Administración y los contribuyentes. 3) Sistematizar (reunir) las distintas normas de derecho tributario que se encontraban muy dispersas. La primera LGT fue de 1963.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+
+Pregunta: ¿Cuáles son los principios de ordenación del sistema tributario según el art. 3.1 LGT?
+Respuesta Correcta: Son la concreción de los principios de justicia tributaria del art. 31 CE: Capacidad económica, Generalidad, Igualdad, Progresividad, No confiscatoriedad, Justicia, y Equitativa distribución de la carga tributaria (este último es exclusivo de la LGT, no está expresamente en la CE).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+
+Pregunta: ¿Cuáles son los principios de aplicación del sistema tributario según el art. 3.2 LGT?
+Respuesta Correcta: Guían la aplicación por parte de la Administración: 1) Proporcionalidad: equilibrio entre lo que se quiere conseguir y las medidas empleadas. 2) Eficacia: la Administración debe lograr sus objetivos. 3) Limitación de costes indirectos: exigir solo obligaciones formales estrictamente necesarias, reduciendo burocracia.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+
+Pregunta: ¿Qué otros principios recoge la LGT fuera del artículo 3?
+Respuesta Correcta: 1) Principio de legalidad (art. 4 LGT): réplica del principio constitucional del art. 133 CE. 2) Principio de impugnabilidad y carácter reglado de los actos (art. 6 LGT): los actos de aplicación de tributos y de imposición de sanciones estarán regulados en las normas y podrán ser recurridos (impugnados).
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+
+Pregunta: ¿Qué es la Ley General Tributaria (LGT)?
+Respuesta Correcta: Es la norma principal que desarrolla la Parte General del Derecho Tributario. Vigente desde 2003, regula principios generales, los tributos y su aplicación, y los distintos procedimientos tributarios. Representa la modernización y sistematización del Derecho Tributario español.
+Manual: Manual de Derecho Tributario
+Bloque: 1
+Tema: Los Principios del Derecho Tributario
+Pregunta: ¿Cuáles son las fuentes del Derecho Tributario por orden jerárquico según el art. 7 LGT?
+Respuesta Correcta: 1) Constitución Española (fuente suprema, arts. 31 y 133). 2) Tratados y Convenios Internacionales (con cláusulas tributarias, evitan doble imposición). 3) Normas de la UE y organismos supranacionales. 4) LGT y otras leyes tributarias. 5) Disposiciones reglamentarias. En defecto de estas, normas supletorias (Derecho Administrativo y Derecho Común).
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+
+Pregunta: ¿Qué es la doble imposición y cómo la evitan los convenios internacionales?
+Respuesta Correcta: Ocurre cuando un sujeto tributa dos veces por el mismo hecho (ej: residente fiscal en España que trabaja y paga impuestos en Reino Unido, pero también debe declarar esas ganancias en España). Los convenios buscan asegurar que se tribute solo en un lugar, evitando la doble tributación.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+
+Pregunta: ¿Cómo se clasifica el Derecho de la Unión Europea como fuente tributaria?
+Respuesta Correcta: Derecho Originario: tratados fundacionales y modificativos (alcance general, aplicación directa). Derecho Derivado - Reglamentos: obligatorios en todos sus elementos, aplicación directa. Derecho Derivado - Directivas: obligatorias en el resultado pero no en la forma, requieren transposición. Derecho Derivado - Decisiones: obligatorias en todos sus elementos, aplicación directa.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+
+Pregunta: ¿Qué tipos de leyes tributarias existen y qué limitación tienen los Decretos Leyes?
+Respuesta Correcta: Pueden ser: Leyes Orgánicas, Leyes Ordinarias, Decretos Legislativos y Decretos Leyes. Los Decretos Leyes están limitados a situaciones de extraordinaria y urgente necesidad y deben respetar el principio de Reserva de Ley. Ejemplo: RDL 34/2020 con medidas tributarias urgentes durante la pandemia.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+
+Pregunta: ¿Qué diferencia existe entre el principio de legalidad y la reserva de ley en materia tributaria?
+Respuesta Correcta: El principio de legalidad (art. 133 CE y art. 4 LGT) exige que los tributos se establezcan en la ley. Sin embargo, la reserva de ley solo rige para los aspectos más esenciales (enumerados en art. 8 LGT). Los elementos no esenciales pueden regularse por otras fuentes como los reglamentos.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+
+Pregunta: ¿Cuáles son las disposiciones reglamentarias en materia tributaria?
+Respuesta Correcta: Son los reglamentos que desarrollan las normas superiores. En ámbito estatal: Órdenes Ministeriales dictadas por el Ministerio de Hacienda (ej: Reglamento de Recaudación). En ámbito local: Ordenanzas Fiscales.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Parte General del Derecho Tributario (Fuentes)
+Pregunta: ¿Qué es la doble imposición y qué tipos existen según su ámbito?
+Respuesta Correcta: Es la situación que se produce cuando recaen varios impuestos sobre una misma renta en el mismo periodo impositivo. Doble imposición internacional: impuestos exigidos por diferentes Estados (mayor relevancia actual). Doble imposición interna: impuestos exigidos por un mismo Estado.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+
+Pregunta: ¿Qué diferencia existe entre doble imposición jurídica y económica?
+Respuesta Correcta: Doble imposición jurídica: la misma renta es gravada en el mismo período y soportada por un mismo contribuyente (ej: empresa española gravada en España y Portugal por la misma renta). Doble imposición económica: la misma renta es gravada dos veces pero la soportan sujetos distintos (ej: beneficios gravados en filial francesa y dividendos gravados en matriz española).
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+
+Pregunta: ¿Cuáles son los criterios de sujeción que causan la doble imposición jurídica internacional?
+Respuesta Correcta: Criterio de residencia: impone IRPF o IS a residentes sobre su renta mundial (residencia: más de 183 días o núcleo de actividades en España). Criterio de territorialidad: exige IRNR sobre rentas generadas en el territorio (ej: actividad en España o establecimiento permanente). La coexistencia de ambos criterios causa la doble imposición.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+
+Pregunta: ¿Qué es el método de exención para eliminar la doble imposición?
+Respuesta Correcta: El Estado de residencia considera exentas las rentas obtenidas en el extranjero, gravando solo las nacionales. Exención con progresividad: las rentas extranjeras se tienen en cuenta solo para determinar el tipo de gravamen progresivo. Incluye cláusulas antievasión: no aplica si el otro país es paraíso fiscal.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+
+Pregunta: ¿Qué es el método de imputación (crédito) para eliminar la doble imposición?
+Respuesta Correcta: Las rentas extranjeras sí tributan en el Estado de residencia (se integran en la base imponible), pero el contribuyente deduce en la cuota la menor de dos cantidades: el impuesto pagado en el extranjero o la cuota íntegra española correspondiente. Así, como máximo paga lo que le hubiera correspondido en España.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+
+Pregunta: ¿Dónde se regulan los métodos de exención e imputación en la legislación española?
+Respuesta Correcta: Exención jurídica: IRPF art. 7 (límite 60.100€), IS art. 22 (tributación mínima 10% y no paraíso fiscal). Exención económica (dividendos): IS art. 21 (participación mínima 5%, duración 1 año, tributación 10%, no paraíso fiscal). Imputación jurídica: IRPF art. 80 e IS art. 31. Imputación económica: IS art. 32.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La Doble Imposición
+Pregunta: ¿Cuál es la regla general de entrada en vigor de las normas tributarias?
+Respuesta Correcta: Según el art. 10 LGT (replica art. 2 CC): las normas tributarias entran en vigor a los 20 días naturales de su completa publicación en el boletín oficial correspondiente. Excepción: la propia norma puede establecer otra entrada en vigor. Vigencia: plazo indefinido hasta que se deroguen.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+
+Pregunta: ¿Qué establece el principio de irretroactividad en materia tributaria y cuál es su excepción?
+Respuesta Correcta: Regla general: las normas tributarias no tienen efectos retroactivos salvo que se disponga lo contrario. Excepción (retroactividad favorable): sí tienen efectos retroactivos las normas que regulen infracciones, sanciones y recargos, siempre que resulte más favorable para el interesado y respecto de actos no firmes.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+
+Pregunta: ¿Cómo se aplica temporalmente una nueva norma según el tipo de tributo?
+Respuesta Correcta: Tributos instantáneos (ej: IVA): se devengan por realizar una operación, la nueva norma se aplica desde que entra en vigor. Tributos periódicos (ej: IRPF): se devengan por operaciones a lo largo de un periodo impositivo, la nueva norma se aplica cuando el periodo impositivo se inicie después de la entrada en vigor.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+
+Pregunta: ¿Cuáles son los criterios de aplicación espacial de las normas tributarias según el art. 11 LGT?
+Respuesta Correcta: Criterio de residencia: se aplica la norma del lugar donde reside la persona (ej: IRPF). Criterio de territorialidad: se aplica según puntos de conexión como lugar del negocio o ubicación de inmueble (ej: IRNR a no residentes con inmuebles en España).
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+
+Pregunta: ¿Cuál es el orden de aplicación de los criterios espaciales según la LGT?
+Respuesta Correcta: 1) Aplicación preferente: se aplica el criterio que establezca cada norma tributaria específica. 2) Aplicación supletoria (en defecto): a los tributos de carácter personal se les aplica el criterio de residencia; a los demás tributos se les aplica el criterio de territorialidad.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+
+Pregunta: Si una norma tributaria se publica el 17 de noviembre, ¿cuándo entra en vigor?
+Respuesta Correcta: Entra en vigor 20 días naturales después, es decir, el 8 de diciembre (salvo que la propia norma disponga otra fecha de entrada en vigor). Si es una modificación del IRPF (tributo periódico), se aplicará a partir del 1 de enero del año siguiente.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: Aplicación temporal y espacial de las normas tributarias
+Pregunta: ¿Cómo se interpretan las normas tributarias según el art. 12 LGT?
+Respuesta Correcta: Régimen general: conforme al art. 3.1 del Código Civil (literalidad, contexto y finalidad de la norma), igual que el resto de normas. Interpretación específica: en el sentido que se establezca en la propia norma y, si no, en el sentido jurídico, técnico o usual. Ante dudas prácticas: consultas tributarias a la Dirección General de Tributos.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+
+Pregunta: ¿Qué son las consultas tributarias y qué fuerza tienen?
+Respuesta Correcta: Son consultas que el contribuyente puede realizar ante el Ministerio de Hacienda (Dirección General de Tributos) para resolver dudas en la interpretación de normas. Las respuestas vinculan a los órganos de la Administración Tributaria encargados de aplicar los tributos.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+
+Pregunta: ¿Qué es la calificación de los negocios tributarios según el art. 13 LGT?
+Respuesta Correcta: Consiste en encuadrar el hecho o acto realizado en el presupuesto de la norma tributaria (ponerle nombre al negocio). Regla fundamental: principio de sustancia sobre forma. La Administración debe exigir obligaciones tributarias según el negocio real, sin tener en cuenta la calificación de las partes ni los defectos de forma.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+
+Pregunta: ¿Está permitida la analogía en Derecho Tributario?
+Respuesta Correcta: En general sí se permite la analogía. Prohibición expresa (art. 14 LGT): no se admite la analogía para extender el ámbito del hecho imponible, de las exenciones y demás beneficios e incentivos fiscales. Finalidad: evitar que se extienda demasiado la aplicación de deducciones amparándose en la analogía.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+
+Pregunta: ¿Qué es el conflicto en la aplicación de la norma (art. 15 LGT)?
+Respuesta Correcta: Antes llamado "fraude de ley", ocurre cuando se busca pagar menos tributos mediante actos artificiosos. Presupuestos acumulativos: 1) evitación o minoración del hecho imponible/base/deuda, 2) negocios notoriamente artificiosos o impropios, 3) ausencia de efectos relevantes distintos del ahorro fiscal. Requiere informe de comisión consultiva.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+
+Pregunta: ¿Qué diferencia existe entre el conflicto en la aplicación de la norma y la simulación?
+Respuesta Correcta: Conflicto (art. 15): un solo negocio lícito pero artificioso, intención de ahorro fiscal, se aplica la norma del negocio normal, requiere informe de comisión consultiva. Simulación (art. 16): dos negocios (simulado falso y disimulado real), hay falsedad y ocultación, se grava el negocio disimulado (real), declaración directa por la Administración. Ambos conllevan intereses de demora y posibles sanciones.
+Manual: Manual de Derecho Tributario
+Bloque: 2
+Tema: La interpretación, calificación y analogía
+Pregunta: ¿Qué es la relación jurídico-tributaria según el art. 17 LGT?
+Respuesta Correcta: El conjunto de obligaciones, derechos y potestades originados por la aplicación de los tributos. Afecta tanto a la Administración como a los obligados tributarios y puede derivar en sanciones en caso de incumplimiento.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+
+Pregunta: ¿Cuál es la diferencia entre obligaciones materiales y formales en la relación jurídico-tributaria?
+Respuesta Correcta: Obligaciones materiales: tienen carácter pecuniario, implican un pago (ej: ingresar el resultado de la declaración). Obligaciones formales: no tienen carácter pecuniario (ej: presentar la declaración, comunicar cambio de domicilio fiscal). El art. 29 LGT recoge la lista de obligaciones formales.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+
+Pregunta: ¿Cuáles son los cuatro tipos de obligaciones materiales según la LGT?
+Respuesta Correcta: 1) Obligación tributaria principal: pago de la cuota tributaria. 2) Obligación de realizar pagos a cuenta: anticipos (retenciones, ingresos a cuenta, pagos fraccionados). 3) Obligaciones entre particulares: por repercusión, retención o ingreso a cuenta. 4) Obligaciones tributarias accesorias: intereses de demora, recargos.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+
+Pregunta: ¿Cuáles son los tres tipos de pagos a cuenta según el art. 23 LGT?
+Respuesta Correcta: 1) Retenciones: anticipos del pagador a Hacienda sobre rentas en dinero (ej: sueldos). 2) Ingresos a cuenta: similares a retenciones pero sobre rentas en especie (ej: dietas). 3) Pagos fraccionados: anticipos realizados por quien percibe rentas (empresa o autónomo) a lo largo del periodo impositivo.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+
+Pregunta: ¿Qué es la repercusión tributaria?
+Respuesta Correcta: Acto por el cual se traslada la cuota tributaria al destinatario de una determinada operación (ej: el consumidor final en el IVA y en los Impuestos Especiales). Genera obligación entre el obligado a repercutir y el obligado a soportar la repercusión.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+
+Pregunta: ¿Cuáles son las obligaciones tributarias accesorias?
+Respuesta Correcta: Deben acompañar siempre a otra obligación tributaria (arts. 25 a 28 LGT): 1) Satisfacer el interés de demora: cuando se paga fuera de plazo. 2) Satisfacer los recargos por declaración extemporánea: cuando se presenta declaración fuera de plazo. 3) Satisfacer los recargos del periodo ejecutivo: cuando se inicia el periodo ejecutivo.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La relación jurídico-tributaria
+Pregunta: ¿Qué es el hecho imponible según el art. 20 LGT?
+Respuesta Correcta: El presupuesto fijado por la ley para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal. Es el acto, negocio u operación que la ley considera que debe ser gravado con un tributo. Si el sujeto lo realiza, queda obligado al pago de la cuota tributaria.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+
+Pregunta: ¿Cuál es el hecho imponible de los principales impuestos españoles?
+Respuesta Correcta: IS (Impuesto sobre Sociedades): obtención de renta por personas jurídicas y otras entidades. IRPF: obtención de renta por personas físicas. ISD (Impuesto sobre Sucesiones y Donaciones): adquisición de bienes y derechos por herencia o donación.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+
+Pregunta: ¿Qué diferencia existe entre devengo y exigibilidad?
+Respuesta Correcta: Devengo: momento en que se entiende realizado el hecho imponible y nace la obligación tributaria principal (ej: IRPF devenga el 31 de diciembre). Exigibilidad: momento del pago, no tiene por qué coincidir con el devengo (ej: IRPF se paga generalmente el 30 de junio). Ambos están sometidos a reserva de ley.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+
+Pregunta: ¿Qué diferencia existe entre no sujeción y exención según el art. 22 LGT?
+Respuesta Correcta: No sujeción: supuestos en los que NO se ha llegado a realizar el hecho imponible, por lo que la obligación no surge (ej: entrega de muestras de mercancías con fines de promoción en IVA). Exención: A PESAR de realizarse el hecho imponible, la ley exime del cumplimiento de la obligación (ej: exención de servicios sanitarios en IVA).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+
+Pregunta: ¿Por qué el hecho imponible y el devengo están sometidos a reserva de ley?
+Respuesta Correcta: Por ser elementos esenciales del tributo. Esto significa que una ordenanza fiscal de un ayuntamiento no puede modificarlos ni establecerlos, sino que debe realizarse mediante ley. Solo la ley puede configurar estos elementos fundamentales del tributo.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+
+Pregunta: ¿Cuál es la secuencia lógica del nacimiento de la obligación tributaria principal?
+Respuesta Correcta: 1) Hecho Imponible: se realiza el presupuesto legal fijado por la ley. 2) Devengo: nace la obligación tributaria (momento de aplicación de la norma). 3) Exigibilidad: se hace efectivo el pago (plazo legal de ingreso). El devengo y la exigibilidad no tienen por qué coincidir.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: La obligación tributaria principal
+Pregunta: ¿Qué es la base imponible según el art. 50 LGT?
+Respuesta Correcta: La magnitud dineraria o de otra naturaleza que resulta de la medición o valoración del hecho imponible. Es el punto de partida del proceso de cuantificación. Ejemplos: IS y IRPF (renta obtenida), ISD (valor neto de bienes y derechos adquiridos por herencia o donación).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+
+Pregunta: ¿Cuáles son los tres métodos de estimación de la base imponible?
+Respuesta Correcta: 1) Estimación directa (art. 51): método general, BI calculada a partir de datos reales (declaraciones, libros). 2) Estimación objetiva (art. 52): BI a partir de magnitudes, índices o módulos (datos aproximados), siempre voluntaria, nunca obligatoria. 3) Estimación indirecta (art. 53): excepcional, cuando no hay datos por causas imputables al obligado.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+
+Pregunta: ¿Cuándo se aplica la estimación indirecta de la base imponible?
+Respuesta Correcta: Cuando la Administración no dispone de datos para calcular la BI por causas imputables al obligado tributario: no presentar declaración, resistencia a actuaciones de inspección, incumplimiento de obligaciones contables, o desaparición de libros o justificantes. Es un método excepcional.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+
+Pregunta: ¿Cuál es la secuencia lógica de cuantificación de la obligación tributaria?
+Respuesta Correcta: Base Imponible → (menos reducciones) → Base Liquidable → (aplicar tipo de gravamen) → Cuota Íntegra → (menos deducciones/bonificaciones) → Cuota Líquida → (menos pagos a cuenta) → Cuota Diferencial → (más intereses/recargos) → Deuda Tributaria.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+
+Pregunta: ¿Qué diferencia existe entre tipos de gravamen proporcionales y progresivos?
+Respuesta Correcta: Proporcionales: el tipo de gravamen no aumenta al aumentar la base (ej: IVA con tipo general fijo del 21%). Progresivos: el tipo de gravamen aumenta más que proporcionalmente al aumentar la BI (ej: IRPF con tramos de BL y tipos crecientes). La tarifa es el conjunto de tipos aplicables a los distintos tramos.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+
+Pregunta: ¿Qué compone la deuda tributaria según el art. 58 LGT?
+Respuesta Correcta: Puede estar constituida solo por la cuota, pero también pueden formar parte: intereses de demora, recargos por declaración extemporánea, recargos del periodo ejecutivo y otros recargos exigibles. Exclusión clave: las sanciones NUNCA forman parte de la deuda tributaria.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Cuantificación de la obligación tributaria
+Pregunta: ¿Cuáles son las tres obligaciones principales de la Administración Tributaria (arts. 30-33 LGT)?
+Respuesta Correcta: 1) Devoluciones derivadas de la normativa de cada tributo (ej: cuando IRPF sale a devolver). 2) Devoluciones de ingresos indebidos (ingresos que no se debieron producir, ej: duplicidad de pago). 3) Reembolso de los costes de las garantías (cuando un acto suspendido o deuda aplazada se declara improcedente).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+
+Pregunta: ¿Qué tipo de interés se aplica en cada obligación de la Administración?
+Respuesta Correcta: Devolución por normativa: intereses de demora, desde la finalización del plazo para devolver. Devolución de ingresos indebidos: intereses de demora, desde que se realizó el ingreso indebido. Reembolso de garantías: interés legal (NO de demora), desde que se incurrió en los costes de garantías.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+
+Pregunta: ¿Cuándo debe la Administración pagar intereses de demora por devoluciones del IRPF?
+Respuesta Correcta: Si transcurrido el plazo (seis meses desde la finalización del plazo de declaración, el 30 de junio) la Administración no ha ordenado la devolución, deberá satisfacer intereses de demora a su cargo. Los intereses se devengan desde la finalización del plazo hasta que se ordene el pago.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+
+Pregunta: ¿Cuáles son los principales grupos de derechos de los obligados tributarios según el art. 34 LGT?
+Respuesta Correcta: 1) Derechos a la información: sobre ejercicio de derechos, estado de procedimientos, valoración de inmuebles, alcance de actuaciones inspectoras. 2) Derechos a devoluciones y reembolsos. 3) Derechos de participación y defensa: formular alegaciones, aportar documentación, ser oído en audiencia. 4) Otros derechos formales: lenguas oficiales, no duplicar documentación, formular quejas.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+
+Pregunta: ¿Es cerrada la lista de derechos del art. 34 LGT?
+Respuesta Correcta: No, la lista de derechos del artículo 34 LGT no es cerrada, lo que significa que pueden existir otros derechos reconocidos en la normativa tributaria que complementen esta relación fundamental.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+
+Pregunta: ¿Qué derecho tiene el contribuyente respecto a documentos ya presentados?
+Respuesta Correcta: El derecho a no aportar documentos ya presentados y que se encuentren en poder de la Administración. Este es uno de los derechos formales reconocidos en el art. 34 LGT para reducir la carga burocrática del contribuyente.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Las obligaciones de la administración tributaria y los derechos de los contribuyentes
+Pregunta: ¿Cuáles son las formas de extinción de la deuda tributaria según el art. 59 LGT?
+Respuesta Correcta: Pago, prescripción, compensación, deducción sobre transferencias y condonación. El pago es la forma más habitual. La deuda tributaria no es eterna y puede extinguirse por cualquiera de estos medios.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+
+Pregunta: ¿Cuáles son los plazos de pago en periodo voluntario para deudas liquidadas por la Administración?
+Respuesta Correcta: Depende de la fecha de notificación de la liquidación: Si se notifica entre el día 1 y 15 del mes: desde la recepción hasta el día 20 del mes posterior. Si se notifica entre el día 16 y último del mes: desde la recepción hasta el día 5 del segundo mes posterior.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+
+Pregunta: ¿Cuál es el plazo general de prescripción en materia tributaria y qué derechos prescriben?
+Respuesta Correcta: 4 años. Prescriben 4 derechos: De la Administración: 1) derecho a liquidar la deuda, 2) derecho a exigir el pago de deudas ya liquidadas. Del contribuyente: 3) derecho a solicitar devoluciones y reembolsos, 4) derecho a obtener dichas devoluciones y reembolsos.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+
+Pregunta: ¿Desde cuándo se computa el plazo de prescripción del derecho a liquidar de la Administración?
+Respuesta Correcta: Desde el día siguiente a que finalice el plazo para presentar la declaración o autoliquidación. Ejemplo: IRPF 2020 (plazo final 30 junio 2021) prescribe el 30 de junio de 2025. La interrupción provoca que el plazo se reinicie desde el principio.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+
+Pregunta: ¿Qué es la compensación como forma de extinción de la deuda tributaria?
+Respuesta Correcta: Se produce cuando las deudas recíprocas entre el obligado tributario y la Administración se anulan hasta la concurrencia del importe menor, extinguiéndose. Puede ser a instancia del obligado tributario (en periodo voluntario o ejecutivo) o de oficio por la Administración (si las deudas están en periodo ejecutivo).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+
+Pregunta: ¿Qué es la condonación de la deuda tributaria?
+Respuesta Correcta: Implica que la deuda se perdone. Debe estar prevista en la ley, en la cuantía y requisitos que se establezcan en la misma. No puede concederse arbitrariamente, sino que requiere habilitación legal específica.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Formas de extinción de la deuda tributaria
+Pregunta: ¿Qué son los obligados tributarios según el art. 35 LGT?
+Respuesta Correcta: Las personas físicas o jurídicas a las que la Ley impone el cumplimiento de obligaciones tributarias. Son aquellas personas obligadas a satisfacer las exigencias de la normativa fiscal. El art. 35 LGT establece un catálogo de las distintas clases de obligados tributarios.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+
+Pregunta: ¿Quiénes son los sujetos pasivos según el art. 35.2 LGT?
+Respuesta Correcta: El contribuyente y el sustituto del contribuyente. El contribuyente es quien realiza el hecho imponible. El sustituto desplaza al contribuyente en la obligación de pagar y cumplir obligaciones formales sin haber realizado el hecho imponible. Ambos deben cumplir la obligación principal y las formales inherentes.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+
+Pregunta: ¿Qué diferencia existe entre contribuyente y sustituto del contribuyente?
+Respuesta Correcta: El contribuyente realiza el hecho imponible (ej: Lorena vende acciones obteniendo ganancia patrimonial, es contribuyente del IRPF). El sustituto NO realiza el hecho imponible pero la ley le impone cumplir la obligación principal y formales (ej: en plusvalía municipal, si el contribuyente está fuera de España, el adquirente actúa como sustituto).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+
+Pregunta: ¿Quiénes son los obligados a realizar pagos a cuenta según el art. 37 LGT?
+Respuesta Correcta: Obligados a realizar pagos fraccionados, retenedores y obligados a realizar ingresos a cuenta. Anticipan el cumplimiento de la obligación tributaria principal. Ejemplo: una empresa que contrata a Verónica está obligada a retener parte de su sueldo e ingresarla a Hacienda.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+
+Pregunta: ¿Quiénes son los obligados en las obligaciones entre particulares según el art. 38 LGT?
+Respuesta Correcta: Obligados a repercutir, obligados a soportar la repercusión, obligados a soportar la retención y obligados a soportar los ingresos a cuenta. Ejemplo: en el IVA concurren dos obligados tributarios distintos: el obligado a repercutir (vendedor) y el obligado a soportar la repercusión (comprador).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+
+Pregunta: ¿Qué otras clases de obligados tributarios enumera el art. 35 LGT?
+Respuesta Correcta: Sucesores y responsables (arts. 39-43 LGT), beneficiarios de exenciones, devoluciones o bonificaciones (cuando no sean sujetos pasivos), personas con obligaciones formales y entidades en régimen de atribución de renta (herencias yacentes, comunidades de bienes y otras entidades sin personalidad jurídica).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Obligados tributarios
+Pregunta: ¿Qué se transmite a los herederos cuando fallece una persona física obligada tributaria (art. 39 LGT)?
+Respuesta Correcta: Las obligaciones tributarias (deudas) del causante SÍ se transmiten a los herederos, incluso si la deuda no estaba liquidada. Las sanciones pendientes de pago NO se transmiten a los herederos. La obligación del responsable tampoco se transmite, salvo que el acuerdo de derivación se notificara antes del fallecimiento.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+
+Pregunta: ¿Qué es la herencia yacente y quién cumple las obligaciones tributarias?
+Respuesta Correcta: Es la herencia que aún no ha sido aceptada. En este caso, el cumplimiento de las obligaciones tributarias corresponde al representante de dicha herencia yacente, hasta que sea aceptada por los herederos.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+
+Pregunta: ¿Qué diferencia existe entre sociedad disuelta y sociedad liquidada?
+Respuesta Correcta: La disolución es una fase anterior a la liquidación; la sociedad disuelta aún no se ha extinguido. La liquidación es el proceso que conlleva la extinción de la sociedad, cuando se procede al pago de sus deudas. Esta distinción es clave para determinar el régimen de sucesión tributaria.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+
+Pregunta: ¿Cuál es el límite de responsabilidad de los socios en sociedades con limitación (SA, SL) disueltas y liquidadas?
+Respuesta Correcta: Responden solidariamente pero solo hasta el valor de la cuota de liquidación que les corresponda, más las percepciones patrimoniales recibidas los dos años anteriores a la fecha de disolución. Esto evita que el socio sustraiga u oculte bienes de la sociedad.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+
+Pregunta: ¿Se transmiten las sanciones en la sucesión de personas jurídicas?
+Respuesta Correcta: SÍ. A diferencia de las personas físicas (donde las sanciones NO se transmiten a herederos), en la sucesión de personas jurídicas disueltas y liquidadas las sanciones SÍ se transmiten a los sucesores. En sociedades con limitación, con el límite de cuota de liquidación + percepciones; sin limitación, sin límite alguno.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+
+Pregunta: ¿Cómo funciona la sucesión en sociedades disueltas pero NO liquidadas?
+Respuesta Correcta: Las obligaciones se transmiten a los sucesores o personas que se beneficien de la operación. Ejemplo: si la sociedad A es absorbida por la sociedad B, las obligaciones tributarias de la absorbida (A) se transmiten a la absorbente (B). Las sanciones también se transmiten.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Sucesores como obligados tributarios
+Pregunta: ¿Qué diferencia fundamental existe entre responsable solidario y subsidiario?
+Respuesta Correcta: Responsable solidario (art. 42): NO necesita previa declaración de fallido del deudor principal, la Administración puede dirigirse directamente contra él. Responsable subsidiario (art. 43): SÍ necesita previa declaración de fallido del deudor principal y de los responsables solidarios, la exigencia opera en último lugar.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+
+Pregunta: ¿Cuáles son las normas comunes de la responsabilidad tributaria según el art. 41 LGT?
+Respuesta Correcta: 1) Regla general de subsidiariedad: salvo precepto legal contrario. 2) Alcance de la deuda: totalidad de la deuda exigida en periodo voluntario, salvo excepciones. 3) Alcance de las sanciones: la responsabilidad NO alcanza a las sanciones, salvo excepciones legales. 4) Derecho de reembolso frente al deudor principal.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+
+Pregunta: ¿Quiénes son los principales responsables solidarios del art. 42.1 LGT?
+Respuesta Correcta: 1) Causantes o colaboradores de infracción tributaria (su responsabilidad se extiende también a la sanción). 2) Partícipes de entidades sin personalidad jurídica (en proporción a sus participaciones). 3) Sucesores en explotaciones o actividades económicas (por obligaciones del anterior titular). Estos responden por deuda en periodo voluntario.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+
+Pregunta: ¿Qué responsabilidad ampliada tienen los responsables solidarios del art. 42.2 LGT?
+Respuesta Correcta: Quienes impiden o dificultan el embargo (ocultadores, incumplidores de órdenes de embargo, colaboradores en levantamiento de embargos, depositarios) responden por: deuda en periodo voluntario + sanciones + intereses de demora + recargo del periodo ejecutivo. Límite: valor de los bienes que se hubieran podido embargar.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+
+Pregunta: ¿Qué responsables subsidiarios responden también de las sanciones?
+Respuesta Correcta: 1) Administradores de sociedades que cometan infracciones (si no realizaron lo necesario, consintieron o adoptaron acuerdos). 2) Creadores o utilizadores de entidades para elusión. 3) Administradores por deudas de retención/repercusión reiterada (con falta de intención real de cumplir).
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+
+Pregunta: ¿Cuál es el orden de exigencia de la deuda tributaria?
+Respuesta Correcta: 1º) Deudor principal (contribuyente/sustituto): inmediata en periodo voluntario. 2º) Responsable solidario: inmediata (sin requisito previo). 3º) Responsable subsidiario: solo tras declaración de fallido del principal y solidarios. El régimen de exigibilidad es la clave diferenciadora.
+Manual: Manual de Derecho Tributario
+Bloque: 3
+Tema: Los responsables tributarios: diferencia entre solidarios y subsidiarios
+Pregunta: ¿Qué extensión de la capacidad de obrar establece el art. 44 LGT?
+Respuesta Correcta: Tienen capacidad de obrar: 1) Las personas que la tienen conforme a Derecho (mayores de edad no incapacitados). 2) Los menores de edad y los incapacitados en las relaciones tributarias derivadas de actividades cuyo ejercicio les esté permitido sin asistencia de quien ejerza patria potestad, tutela, curatela o defensa judicial.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+
+Pregunta: ¿Cuáles son los tres supuestos de representación legal según el art. 45 LGT?
+Respuesta Correcta: A) Por falta de capacidad de obrar: menores no emancipados o incapacitados (patria potestad, tutela, curatela, defensa judicial). B) Personas jurídicas: actúan mediante quien ostente la titularidad de los órganos de representación (ej: administrador). C) Entes sin personalidad jurídica: 1º persona designada fehacientemente, 2º gestor o director aparente, 3º cualquier miembro.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+
+Pregunta: ¿Qué actos del representante voluntario exigen acreditación obligatoria?
+Respuesta Correcta: Los actos de mero trámite presumen la representación concedida. Los actos relevantes exigen acreditación: interponer recursos o reclamaciones, desistir de ellos, renunciar a derechos, asumir obligaciones, solicitar devoluciones o reembolsos, y otros casos que requieran firma del interesado.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+
+Pregunta: ¿Cómo se determina el domicilio fiscal de las personas físicas?
+Respuesta Correcta: Regla general: lugar de residencia habitual. Excepción (actividades económicas): la Administración puede considerar el lugar donde se desarrolle la gestión y dirección de la actividad. Regla subsidiaria: donde radique el mayor valor del inmovilizado en que se realicen las actividades.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+
+Pregunta: ¿Cómo se determina el domicilio fiscal de las personas jurídicas?
+Respuesta Correcta: Regla principal: domicilio social. Excepción: si en el domicilio social no está centralizada la gestión y dirección del negocio, será el lugar donde se lleve a cabo dicha gestión. Regla subsidiaria: donde se encuentre el mayor valor del inmovilizado. La primacía es del lugar de efectiva gestión sobre el domicilio social/registral.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+
+Pregunta: ¿Cómo se determina el domicilio fiscal de los no residentes?
+Respuesta Correcta: Regla específica: según lo establecido en la norma de cada tributo. Regla subsidiaria: el domicilio de su representante en España (art. 47 LGT). Si opera mediante establecimiento permanente: se aplican las reglas de personas físicas o jurídicas según corresponda al EP.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Capacidad de obrar, representación y domicilio fiscal
+Pregunta: ¿Qué es la providencia de apremio y qué características tiene?
+Respuesta Correcta: Es el acto que inicia el procedimiento de apremio (art. 167 LGT), notificado al obligado. Identifica la deuda, liquida los recargos del periodo ejecutivo y requiere el pago. Tiene la misma fuerza ejecutiva que una sentencia judicial para proceder contra los bienes y derechos del obligado.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+
+Pregunta: ¿Cuál es el plazo de pago tras la providencia de apremio según el art. 62.5 LGT?
+Respuesta Correcta: Si la notificación se produce entre el día 1 y 15 del mes: hasta el día 20 de dicho mes. Si se notifica entre el día 16 y último del mes: hasta el día 5 del mes siguiente. Si se paga en plazo: recargo reducido del 10%. Si no se paga: recargo ordinario del 20% + intereses de demora + embargo.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+
+Pregunta: ¿Cuáles son los motivos tasados de oposición a la providencia de apremio?
+Respuesta Correcta: 1) Deuda extinguida o prescrito el derecho a exigir el pago. 2) Solicitud de aplazamiento, fraccionamiento o compensación en periodo voluntario (u otras causas de suspensión). 3) Falta de notificación de la liquidación. 4) Anulación de la liquidación. 5) Error u omisión que impida identificar al deudor o la deuda.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+
+Pregunta: ¿Qué diferencia existe entre tercería de dominio y tercería de mejor derecho?
+Respuesta Correcta: Tercería de dominio: el tercero alega ser dueño o titular del bien, se suspende el apremio sobre ese bien hasta la resolución administrativa. Tercería de mejor derecho: el tercero alega que su crédito tiene preferencia para cobrar, el procedimiento NO se suspende, continúa hasta realización de los bienes y el precio se consigna hasta la resolución.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+
+Pregunta: ¿Cuál es el orden legal de embargo de bienes según el art. 169 LGT?
+Respuesta Correcta: 1º Dinero/cuentas bancarias, 2º créditos/valores a corto plazo, 3º sueldos/salarios/pensiones, 4º bienes inmuebles, 5º rentas/frutos, 6º establecimientos mercantiles, 7º metales preciosos/joyería, 8º bienes muebles/semovientes, 9º créditos a largo plazo, 10º bienes que requieren entrada en domicilio. Se prioriza facilidad de enajenación y menor onerosidad.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+
+Pregunta: ¿Cómo termina el procedimiento de apremio según el art. 173 LGT?
+Respuesta Correcta: Por pago de la cantidad debida, por acuerdo que declare el crédito total o parcialmente incobrable (una vez declarados fallidos todos los obligados al pago), o por acuerdo de haber quedado extinguida la deuda por cualquier otra causa. El procedimiento NO caduca a los 6 meses, puede extenderse hasta que prescriba el derecho de cobro.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación II (Apremio)
+Pregunta: ¿Qué es el derecho de prelación de la Hacienda Pública según el art. 77 LGT?
+Respuesta Correcta: La Hacienda Pública tiene preferencia para el cobro respecto de otros acreedores. Excepciones: no tiene prelación respecto de acreedores con derechos de dominio, prenda, hipoteca u otro derecho inscrito en el registro antes que el de la Hacienda. En caso de concurso, se aplican las reglas concursales.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+
+Pregunta: ¿Qué es la hipoteca legal tácita según el art. 78 LGT?
+Respuesta Correcta: Garantía para tributos que graven periódicamente bienes inscribibles o sus productos (ej: IBI). El Estado, CCAA y entidades locales tienen preferencia sobre cualquier otro acreedor o adquirente, aunque hayan inscrito sus derechos. Límite: solo garantiza las deudas del año natural en que se exige el pago y el inmediato anterior (dos anualidades).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+
+Pregunta: ¿Qué es la afección de bienes según el art. 79 LGT?
+Respuesta Correcta: Los adquirentes de bienes afectos por ley al pago de la deuda tributaria responden subsidiariamente con ellos, por derivación de la acción tributaria. Los bienes transmitidos quedan afectos a la responsabilidad de los tributos que graven la transmisión. Excepción: tercero protegido por fe pública registral o adquirente de buena fe con justo título en establecimiento mercantil.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+
+Pregunta: ¿Qué requisitos deben cumplir las medidas cautelares según el art. 81 LGT?
+Respuesta Correcta: Se adoptan cuando existen indicios racionales de que el cobro podría no producirse. Deben estar motivadas, ser proporcionadas (no excesivas), y no causar perjuicio de difícil o imposible reparación. Duración: deben levantarse a los 6 meses, salvo excepciones. Ejemplos: retención de devoluciones, embargo preventivo, prohibición de enajenar.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+
+Pregunta: ¿Qué es el derecho de retención según el art. 80 LGT?
+Respuesta Correcta: Propio del ámbito aduanero, implica que la A.T. puede retener las mercancías en las aduanas para garantizar los derechos e impuestos liquidados. Es una garantía específica del comercio exterior que asegura el cobro de los tributos aduaneros.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+
+Pregunta: ¿Qué garantías puede exigir la A.T. para conceder aplazamiento o fraccionamiento?
+Respuesta Correcta: Según el art. 82 LGT, puede exigir aval solidario de entidad de crédito o certificado de seguro de caución. Pueden ser sustituidas por hipoteca, fianza o prenda. Pueden ser dispensadas en caso de imposibilidad de aportarlas.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación III (Garantías)
+Pregunta: ¿Qué comprende la aplicación de los tributos según el art. 83 LGT?
+Respuesta Correcta: Actividades administrativas: información y asistencia a obligados, y procedimientos de gestión, inspección y recaudación. Actuaciones de los obligados: en ejercicio de sus derechos o cumplimiento de obligaciones. El procedimiento de revisión (reclamaciones económico-administrativas) NO se considera parte de la aplicación de los tributos.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+
+Pregunta: ¿Cuáles son las cinco vías de información y asistencia del art. 85 LGT?
+Respuesta Correcta: 1) Publicaciones: difusión periódica de actualizaciones normativas. 2) Comunicaciones y actuaciones de información: sobre criterios administrativos. 3) Contestaciones a consultas escritas: respuestas vinculantes a dudas tributarias. 4) Asistencia en declaraciones: ayuda en autoliquidaciones. 5) Actuaciones previas de valoración: determinación anticipada de valores fiscales.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+
+Pregunta: ¿Qué efectos tienen las contestaciones a consultas escritas según el art. 89 LGT?
+Respuesta Correcta: Vinculan a los órganos de la A.T. en su relación con el consultante (cesa si cambia legislación, jurisprudencia o circunstancias). Se extienden a terceros en iguales circunstancias. NO vinculan si la consulta se presenta sobre un procedimiento ya iniciado. No cabe recurso contra ellas, solo contra los actos posteriores que apliquen sus criterios.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+
+Pregunta: ¿Qué diferencia existe entre valoración previa de inmuebles y acuerdos previos de valoración?
+Respuesta Correcta: Valoración previa de inmuebles (art. 90): contestación en 3 meses, la falta de respuesta NO implica aceptación, efectos vinculantes 3 meses. Acuerdos previos de valoración (art. 91): plazo según normativa del tributo, la falta de respuesta SÍ implica aceptación de los valores propuestos por el obligado, efectos vinculantes hasta 3 años.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+
+Pregunta: ¿Cuándo debe el Ministerio de Hacienda realizar publicaciones tributarias?
+Respuesta Correcta: El primer trimestre de cada año, conteniendo: actualizaciones de normas tributarias con rango de ley o real decreto que hayan variado respecto del año anterior, relación de todas las disposiciones tributarias aprobadas ese año, y contestaciones a consultas y resoluciones económico-administrativas de mayor trascendencia.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+
+Pregunta: ¿Cuál es el plazo para formular y contestar consultas escritas?
+Respuesta Correcta: Formulación: antes de que finalice el plazo para el ejercicio de los derechos, presentación de declaraciones o autoliquidaciones. Contestación: seis meses. La falta de respuesta NO implica aceptación de los criterios expresados. Órgano competente: Dirección General de Tributos (DGT).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Información y asistencia a los obligados tributarios
+Pregunta: ¿Cuál es la normativa aplicable a los procedimientos tributarios según el art. 97 LGT?
+Respuesta Correcta: Principio de especialidad: prioritariamente se aplican la LGT, los reglamentos de desarrollo y otras normas procedimentales tributarias. En defecto de estas, se aplican supletoriamente las disposiciones generales sobre procedimientos administrativos (ej: Ley 39/2015).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+
+Pregunta: ¿Cómo pueden iniciarse los procedimientos tributarios según el art. 98 LGT?
+Respuesta Correcta: De oficio: por la Administración Tributaria (ej: inicio de procedimiento inspector). A instancia de los obligados tributarios: mediante autoliquidación, declaración, comunicación, solicitud o cualquier otro medio previsto en la normativa. La A.T. puede aprobar modelos para simplificar la iniciación.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+
+Pregunta: ¿En qué documentos se documentan las actuaciones de aplicación de los tributos?
+Respuesta Correcta: Comunicaciones: para notificar inicio del procedimiento u otras cuestiones, y efectuar requerimientos. Diligencias: documentos públicos que hacen constar hechos o manifestaciones (NO pueden contener propuestas de liquidación). Informes: los preceptivos, solicitados por otras administraciones o poderes, y los necesarios para resolver. Otros: como las actas (inspección).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+
+Pregunta: ¿Cuándo puede suprimirse el trámite de audiencia previo a la propuesta de resolución?
+Respuesta Correcta: Solo en dos casos: 1) Si se suscriben actas con acuerdo (procedimiento de inspección). 2) Si está previsto un trámite de alegaciones posterior a la propuesta. Es decir, se prescinde si el obligado tiene otro momento para expresarse. El trámite de alegaciones no puede ser inferior a 10 días ni superior a 15 días.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+
+Pregunta: ¿Cuáles son las causas de terminación de los procedimientos tributarios según el art. 100 LGT?
+Respuesta Correcta: Resolución (ej: liquidación), desistimiento (permite nuevo inicio), renuncia al derecho (NO permite nuevo inicio), imposibilidad material de continuarlos por causas sobrevenidas, caducidad, cumplimiento, u otra causa prevista en el ordenamiento tributario.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+
+Pregunta: ¿Qué es la liquidación según los arts. 101 y 102 LGT?
+Respuesta Correcta: Acto resolutorio mediante el cual el órgano competente de la A.T. realiza las operaciones de cuantificación necesarias y determina el importe de la deuda o cantidad a devolver/compensar. Salvo excepciones, se consideran provisionales. La A.T. no está obligada a ajustarse a los datos declarados por el obligado.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Los procedimientos de aplicación de los tributos
+Pregunta: ¿Cuál es la regla general sobre la obligación de resolver de la A.T. según el art. 103 LGT?
+Respuesta Correcta: La A.T. debe resolver todas las cuestiones planteadas y notificar la resolución expresa. Excepción: no es necesario resolver expresamente en procedimientos relativos a derechos que solo deban ser comunicados, y en los que se produzca caducidad, pérdida sobrevenida del objeto, renuncia o desistimiento.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+
+Pregunta: ¿Qué actos de la A.T. deben estar motivados obligatoriamente?
+Respuesta Correcta: Actos de liquidación (determinación de la deuda), comprobación de valor (valoración de bienes y derechos), actos que impongan una obligación o nieguen un beneficio fiscal, y actos que suspendan la ejecución. La motivación es la exposición de hechos y fundamentos de derecho.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+
+Pregunta: ¿Cuál es el plazo máximo de resolución según el art. 104 LGT?
+Respuesta Correcta: Regla prioritaria: el que establezca la normativa del procedimiento (límite superior: 6 meses, salvo que ley o norma UE establezca uno superior). Regla subsidiaria: si no se fija plazo, será de 6 meses. Cómputo: desde notificación del acuerdo de inicio (oficio) o entrada en registro (instancia).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+
+Pregunta: ¿Cómo funciona la carga de la prueba en los procedimientos tributarios?
+Respuesta Correcta: Corresponde al obligado tributario probar su derecho. La valoración de la prueba se rige por las normas de la Ley de Enjuiciamiento Civil. Las diligencias son documentos públicos que hacen prueba de los hechos. Si los hechos son aceptados por el obligado, se presumen ciertos (solo se destruye por error de hecho).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+
+Pregunta: ¿Qué efecto tiene el rechazo de una notificación tributaria?
+Respuesta Correcta: Rechazo por el obligado o su representante: se tiene por realizada la notificación. Rechazo por persona distinta de ellos: no se considera realizada, simplemente no efectuada. Tras dos intentos sin éxito: notificación por comparecencia (publicación en BOE + 15 días naturales para comparecer).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+
+Pregunta: ¿Cuáles son los efectos del silencio administrativo según el tipo de iniciación?
+Respuesta Correcta: A instancia del interesado (regla general): silencio estimatorio. A instancia del interesado (impugnación): silencio desestimatorio. De oficio (favorable al interesado): silencio desestimatorio (no se reconoce el derecho). De oficio (desfavorable/gravamen): caducidad (se archiva, pero puede reiniciarse).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Normas comunes a los procedimientos tributarios
+Pregunta: ¿Cuáles son las principales funciones de gestión tributaria según el art. 117 LGT?
+Respuesta Correcta: Comprobación y realización de devoluciones, realización y tramitación de declaraciones, actuaciones de verificación de datos, actuaciones de comprobación limitada, actuaciones de comprobación de valores, gestión censal, certificados tributarios, información y asistencia. Abarca cualquier función que no sea propia de inspección o recaudación.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+
+Pregunta: ¿Qué diferencia existe entre declaración y autoliquidación?
+Respuesta Correcta: Declaración (art. 119): documento que reconoce o manifiesta la realización de cualquier hecho relevante para la aplicación de tributos, sin cuantificar. Autoliquidación (art. 120): el obligado, además de comunicar datos, realiza por sí mismo las operaciones de calificación y cuantificación para determinar e ingresar la deuda o cantidad a devolver.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+
+Pregunta: ¿Pueden rectificarse las opciones ejercitadas en una declaración?
+Respuesta Correcta: No. Las opciones que se deban ejercitar, solicitar o renunciar con la presentación de una declaración NO pueden rectificarse con posterioridad a ese momento. Excepción: sí pueden rectificarse si la rectificación se presenta dentro del periodo reglamentario de declaración (ej: cambio de tributación individual a conjunta en IRPF hasta el 30 de junio).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+
+Pregunta: ¿Qué diferencia existe entre autoliquidación rectificativa y complementaria?
+Respuesta Correcta: Rectificativa: corrige un error que perjudica al obligado (menor ingreso o mayor devolución/compensación). Es un derecho del obligado. Complementaria: corrige un error que beneficia al obligado (mayor ingreso o menor devolución/compensación). Funciona en perjuicio de la A.T. Ambas pueden presentarse dentro o fuera del plazo, siempre que no haya prescrito.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+
+Pregunta: ¿Qué es la comunicación de datos según el art. 122 LGT?
+Respuesta Correcta: Es una clase de declaración que se presenta ante la A.T. para que esta determine la cantidad que, en su caso, resulta a devolver. La devolución se entiende solicitada mediante la presentación de la comunicación. No requiere que el obligado realice cuantificación.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+
+Pregunta: ¿Cuándo debe la A.T. abonar intereses de demora en rectificaciones de autoliquidación?
+Respuesta Correcta: Si de la rectificación se deriva cantidad a devolver y el pago no se ordena en 6 meses. Cómputo: si la rectificación se presenta dentro del periodo de declaración, desde la finalización del periodo. Si se presenta fuera de plazo, desde la presentación de la rectificación. En devoluciones de ingresos indebidos: desde la realización del ingreso indebido.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 1)
+Pregunta: ¿Cuáles son los procedimientos de gestión tributaria tipificados en el art. 123 LGT?
+Respuesta Correcta: Procedimiento de devolución, procedimiento iniciado mediante declaración, procedimiento de verificación de datos, procedimiento de comprobación de valores, y procedimiento de comprobación limitada. Cada uno tiene características y alcance diferenciados.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+
+Pregunta: ¿En qué supuestos puede utilizarse el procedimiento de verificación de datos (art. 131 LGT)?
+Respuesta Correcta: 1) Defectos formales o aritméticos en declaración/autoliquidación. 2) Discrepancias entre datos declarados y los de la A.T. 3) Aplicación indebida de la normativa. 4) Aclaración o justificación de algún dato que NO se refiera a actividades económicas. NO puede comprobarse actividades económicas (requiere comprobación limitada o inspección).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+
+Pregunta: ¿Qué limitaciones tiene el procedimiento de comprobación limitada (art. 136 LGT)?
+Respuesta Correcta: NO puede examinar la contabilidad mercantil. NO puede requerir información sobre movimientos financieros a terceros. Con carácter general, las actuaciones NO pueden realizarse fuera de las oficinas de la A.T. Sí puede examinar declaraciones, justificantes, libros, registros y facturas.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+
+Pregunta: ¿Qué efecto tiene una resolución de comprobación limitada sobre futuras actuaciones?
+Respuesta Correcta: Una vez dictada resolución en comprobación limitada, NO se pueden iniciar de nuevo actuaciones en relación con el mismo objeto, salvo que se descubran nuevos hechos o circunstancias. A diferencia de la verificación de datos, donde el objeto SÍ puede comprobarse de nuevo.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+
+Pregunta: ¿Cómo puede impugnarse una comprobación de valores?
+Respuesta Correcta: No cabe recurso independiente contra la valoración. Opciones: 1) Promover tasación pericial contradictoria (plazo 1 mes). 2) Plantear las cuestiones en recurso contra la regularización. En la tasación: si la diferencia entre perito A.T. y perito obligado es ≤120.000€ Y ≤10% de la tasación del obligado, prevalece la del obligado. Si no, se nombra perito tercero.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+
+Pregunta: ¿Cómo termina el procedimiento iniciado mediante declaración?
+Respuesta Correcta: Por liquidación provisional (la A.T. debe notificarla en 6 meses), por caducidad (si transcurren 6 meses sin notificación, aunque puede reiniciarse dentro de los 4 años de prescripción), o por inicio de procedimiento de comprobación limitada o inspección. NO puede finalizar iniciándose verificación de datos.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento de gestión (Parte 2)
+Pregunta: ¿Cuáles son las funciones de la inspección tributaria según el art. 141 LGT?
+Respuesta Correcta: Doble función: 1) Investigación y obtención de información: investigar supuestos de hecho para descubrir obligaciones tributarias desconocidas. 2) Comprobación y liquidación: realizar comprobaciones de valores y limitadas, y practicar liquidaciones. También asesoramiento a obligados tributarios y otros órganos.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+
+Pregunta: ¿Qué facultades tiene la inspección tributaria según el art. 142 LGT?
+Respuesta Correcta: Examen documental e informático: libros, contabilidad, ficheros, facturas, correspondencia (con trascendencia tributaria), bases de datos informáticas. Inspección de bienes y explotaciones. Entrada y acceso: sin domicilio protegido requiere acuerdo administrativo; en domicilio constitucionalmente protegido requiere autorización judicial.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+
+Pregunta: ¿Qué requisitos se exigen para la entrada en domicilio constitucionalmente protegido?
+Respuesta Correcta: Es necesaria autorización judicial. El domicilio constitucionalmente protegido de una persona jurídica incluye espacios físicos privados donde se desarrolla la dirección o se custodian documentos esenciales (ej: oficina de una farmacia, según STC 69/1999). Sin domicilio protegido basta acuerdo del Director del Departamento o Delegado.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+
+Pregunta: ¿Qué son las actas de inspección y qué valor probatorio tienen?
+Respuesta Correcta: Son documentos públicos extendidos por los órganos de inspección para recoger el resultado de las actuaciones, proponiendo regularización o declarando correcta la situación. Hacen prueba de los hechos que motiven su formalización, salvo prueba en contrario. Los hechos aceptados por el obligado se presumen ciertos (solo rectificables por error de hecho).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+
+Pregunta: ¿Cuáles son las clases de actas de inspección y sus beneficios en sanciones?
+Respuesta Correcta: Actas con acuerdo (art. 155): reducción del 65% de la sanción, requieren autorización del Inspector Jefe y constitución de garantía, solo impugnables por nulidad de pleno derecho. Actas de conformidad (art. 156): reducción del 30%, el obligado debe probar error de hecho para impugnar. Actas de disconformidad (art. 157): sin reducción.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+
+Pregunta: ¿En qué supuestos pueden documentarse actas con acuerdo?
+Respuesta Correcta: 1) Cuando se deba concretar la aplicación de conceptos jurídicos indeterminados (norma usa términos no exactos). 2) Cuando sea necesaria la apreciación de hechos que determinen la correcta aplicación de la norma (norma clara, hechos no). 3) Cuando sea necesario realizar estimaciones, valoraciones o mediciones.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 1)
+Pregunta: ¿Qué es el Plan de Inspección y cuáles son sus características?
+Respuesta Correcta: Programación interna que responde a criterios de carga (riesgo fiscal y oportunidad). Es revisable por los órganos pero es de mero trámite y NO es recurrible. Tiene carácter totalmente reservado. El Inspector Jefe ordena la carga atendiendo a estos criterios.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+
+Pregunta: ¿Qué diferencia existe entre alcance general y parcial de la inspección?
+Respuesta Correcta: Alcance general: se comprueba la totalidad de los elementos de la obligación tributaria. Alcance parcial: se comprueban solo algunos elementos (ej: una deducción concreta). El obligado puede solicitar (en 15 días desde notificación de inicio) que las actuaciones parciales tengan carácter general.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+
+Pregunta: ¿Cuál es el plazo de duración del procedimiento inspector según el art. 150 LGT?
+Respuesta Correcta: Plazo general: 18 meses. Plazo extendido: 27 meses si concurre: cifra de negocios ≥5,7 millones de euros, grupo en consolidación fiscal o entidades especiales, o entidad vinculada a otra comprobada. Las dilaciones no imputables a la A.T. se computan en el plazo (no lo amplían). Las suspensiones paralizan el plazo.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+
+Pregunta: ¿Cuáles son los supuestos de suspensión del plazo de inspección?
+Respuesta Correcta: 1) Orden de paralización de órgano jurisdiccional. 2) Remisión del expediente al Ministerio Fiscal por delito contra Hacienda Pública. 3) Conflicto ante Juntas Arbitrales. 4) Intento de notificación de propuesta de regularización o acuerdo de actuaciones complementarias. 5) Fuerza mayor. Se puede continuar respecto de periodos no afectados (desagregación).
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+
+Pregunta: ¿Qué efectos tiene que la A.T. no resuelva el procedimiento inspector en plazo?
+Respuesta Correcta: El procedimiento prosigue pero: 1) La prescripción sigue computando (no se interrumpe). 2) Si el obligado efectúa ingresos, suponen regularización voluntaria sin consecuencias sancionadoras (solo recargos por extemporaneidad). 3) No se devengan intereses de demora desde el incumplimiento hasta la finalización.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+
+Pregunta: ¿Dónde y cuándo deben examinarse los documentos en el procedimiento inspector?
+Respuesta Correcta: Regla general: en el despacho, local u oficina del obligado, en presencia del obligado o persona designada. Excepciones (análisis en oficinas A.T.): con consentimiento del obligado, si son copias, o si son libros y registros exigidos por la normativa tributaria. Horario: en locales del obligado, dentro de la jornada laboral.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: El procedimiento inspector (Parte 2)
+Pregunta: ¿Cuáles son las vías de revisión de los actos tributarios según el art. 213 LGT?
+Respuesta Correcta: Los procedimientos especiales de revisión (art. 216 LGT), el recurso de reposición, y las reclamaciones económico-administrativas. Límite: si existe sentencia judicial firme, no cabe revisión. Si existe resolución económico-administrativa firme, solo caben nulidad de pleno derecho, rectificación de errores y recurso extraordinario de revisión.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+
+Pregunta: ¿Cuáles son los procedimientos especiales de revisión según el art. 216 LGT?
+Respuesta Correcta: 1) Revisión de actos nulos de pleno derecho (art. 217). 2) Declaración de lesividad de actos anulables (art. 218). 3) Revocación (art. 219). 4) Rectificación de errores (art. 220). 5) Devolución de ingresos indebidos (art. 221). Solo rectificación de errores y devolución de ingresos indebidos NO agotan la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+
+Pregunta: ¿Cuáles son las causas de nulidad de pleno derecho del art. 217 LGT?
+Respuesta Correcta: Lesión de derechos susceptibles de amparo constitucional, actos dictados por órgano manifiestamente incompetente por materia o territorio, actos con contenido imposible, actos constitutivos de infracción penal, actos dictados prescindiendo totalmente del procedimiento, y actos contrarios al ordenamiento por los que se adquieren derechos sin requisitos esenciales.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+
+Pregunta: ¿Qué características tiene el procedimiento de revocación del art. 219 LGT?
+Respuesta Correcta: Permite a la A.T. revocar actos desfavorables para los interesados en beneficio de estos. Causas: infracción manifiesta de la ley, improcedencia del acto, o indefensión. Solo puede iniciarse de oficio. Plazo de resolución: 6 meses (caducidad). Límite: mientras no prescriba. La resolución pone fin a la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+
+Pregunta: ¿Qué características tiene la declaración de lesividad del art. 218 LGT?
+Respuesta Correcta: Permite a la A.T. declarar lesivo para el interés público un acto favorable al interesado que infrinja el ordenamiento, para impugnarlo en vía contencioso-administrativa. Solo puede iniciarse de oficio. Plazo de caducidad: 3 meses. Plazo de prescripción: 4 años desde notificación del acto. Órgano competente: Ministro de Hacienda.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+
+Pregunta: ¿Qué procedimientos especiales de revisión NO ponen fin a la vía administrativa?
+Respuesta Correcta: La rectificación de errores (art. 220) y la devolución de ingresos indebidos (art. 221). Solo estos dos permiten interponer posteriormente recurso de reposición y reclamación económico-administrativa. Nulidad de pleno derecho, declaración de lesividad y revocación SÍ ponen fin a la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 4
+Tema: Procedimiento de recaudación I (Revisión)
+Pregunta: ¿Cuáles son los principios de la potestad sancionadora tributaria según el art. 178 LGT?
+Respuesta Correcta: Legalidad, tipicidad, responsabilidad, proporcionalidad, no concurrencia e irretroactividad. La LGT pone especial énfasis en los principios de responsabilidad y no concurrencia. Las sanciones no forman parte de la deuda tributaria (compuesta por cuota, intereses y recargos).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+
+Pregunta: ¿Cuáles son las causas de exclusión de responsabilidad sancionadora según el art. 179 LGT?
+Respuesta Correcta: 1) Falta de capacidad de obrar en el orden tributario. 2) Fuerza mayor. 3) Decisiones colectivas para quienes salvaron su voto o no asistieron. 4) Diligencia necesaria (interpretación razonable de la norma o ajuste a criterios de la AT). 5) Deficiencias técnicas en programas informáticos de asistencia de la AT.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+
+Pregunta: ¿Cuándo se considera que el obligado ha puesto la diligencia necesaria para excluir la responsabilidad sancionadora?
+Respuesta Correcta: Cuando se ha amparado en una interpretación razonable de la norma, o ha ajustado su actuación a los criterios establecidos por la AT en publicaciones, comunicaciones o consultas de otro obligado tributario con igualdad sustancial de circunstancias.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+
+Pregunta: ¿Cuál es el plazo de prescripción para imponer sanciones tributarias y cómo se interrumpe?
+Respuesta Correcta: El plazo es de 4 años contados desde que se cometió la infracción. Se interrumpe por: acciones de la AT con conocimiento del interesado para imponer la sanción, interposición de recursos o reclamaciones, o remisión del tanto de culpa a la jurisdicción penal.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+
+Pregunta: ¿En qué consiste el principio de no concurrencia (non bis in idem) en materia sancionadora tributaria?
+Respuesta Correcta: Prohíbe imponer una sanción por un hecho que ya sirva para graduar o calificar la infracción (no se puede sancionar dos veces por el mismo hecho). Ejemplo: la infracción por dejar de ingresar calificada por anomalía contable es incompatible con la infracción contable del art. 200 LGT.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+
+Pregunta: ¿Quiénes pueden ser sujetos infractores según el art. 181 LGT?
+Respuesta Correcta: Contribuyentes y sustitutos, retenedores y obligados a practicar ingresos a cuenta, obligados al cumplimiento de obligaciones formales, entidades representantes de un grupo fiscal, representantes legales de sujetos sin capacidad de obrar, y entidad dominante en el régimen especial del grupo de entidades del IVA.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Principios de la potestad sancionadora
+Pregunta: ¿Qué es una infracción tributaria según el art. 184 LGT y cómo se clasifican?
+Respuesta Correcta: Son las acciones u omisiones dolosas o culposas con cualquier grado de negligencia tipificadas y sancionadas en la LGT u otra ley. No es necesario el dolo, basta la culpa o negligencia. Se califican como leves, graves o muy graves según lo dispuesto para cada infracción específica (arts. 191 a 206 bis LGT).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+
+Pregunta: ¿Cuándo existe ocultación de datos como criterio de calificación de infracciones?
+Respuesta Correcta: Existe ocultación cuando: 1) No se presentan declaraciones. 2) Se presentan declaraciones con hechos u operaciones inexistentes o importes falsos. 3) Se omiten operaciones, ingresos, rentas o bienes en las declaraciones. Límite cuantitativo: la deuda derivada de la ocultación debe tener incidencia en la base de la sanción superior al 10%.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+
+Pregunta: ¿Cuándo se considera que se emplean medios fraudulentos en infracciones tributarias?
+Respuesta Correcta: 1) Anomalías sustanciales en contabilidad: incumplimiento absoluto, contabilidad B, o contabilidad incorrecta con incidencia superior al 50%. 2) Empleo de facturas o documentos falsos con incidencia superior al 10%. 3) Utilización de personas o entidades interpuestas para ocultar la identidad del infractor.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+
+Pregunta: ¿Cuáles son las clases de sanciones tributarias según los arts. 185 y 186 LGT?
+Respuesta Correcta: 1) Sanciones pecuniarias (dinerarias): multa fija o multa proporcional. 2) Sanciones no pecuniarias (accesorias): pérdida de posibilidad de obtener subvenciones y beneficios fiscales, prohibición de contratar con la Administración (1-5 años según gravedad), y suspensión de empleo público o profesión (3 meses).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+
+Pregunta: ¿Cuáles son los criterios de graduación de las sanciones según el art. 187 LGT?
+Respuesta Correcta: 1) Comisión repetida: sancionado por infracción de la misma naturaleza en los 4 años anteriores (incremento 5-25% según gravedad). 2) Perjuicio económico para la Hacienda Pública (incremento 10-25 puntos). 3) Incumplimiento sustancial de obligación de facturación (afecta al 20% de operaciones). 4) Acuerdo o conformidad (posibilita reducciones).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+
+Pregunta: ¿Qué reducciones de sanciones establece el art. 188 LGT?
+Respuesta Correcta: 1) Reducción por acuerdo/conformidad: 65% si actas con acuerdo (sin recurso contencioso e ingreso en plazo), 30% si conformidad (sin recurrir la regularización). 2) Reducción por pago en plazo: 40% adicional si paga en periodo voluntario o aplazamiento y no recurre. Las reducciones del 65% y 40% son excluyentes entre sí.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Normas generales sobre infracciones y sanciones tributarias
+Pregunta: ¿En qué consiste la infracción de dejar de ingresar del art. 191 LGT y cómo se califica?
+Respuesta Correcta: Consiste en dejar de ingresar dentro del plazo la totalidad o parte de la deuda que debiera resultar de la correcta autoliquidación. Base de sanción: cuantía no ingresada. Calificación: Leve (base inferior a 3.000€ o sin ocultación, multa 50%), Grave (base superior a 3.000€ con ocultación, multa 50% graduable), Muy grave (medios fraudulentos, multa 100-150%).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+
+Pregunta: ¿Qué ocurre si el obligado deja de ingresar y además obtiene indebidamente una devolución?
+Respuesta Correcta: La base de la sanción será la suma de la devolución obtenida indebidamente y la cuantía que debió ingresar, considerándose que hay un perjuicio económico del 100%. Ejemplo: si debía ingresar 500€ y obtuvo devolución indebida de 200€, la base de sanción es 700€.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+
+Pregunta: ¿En qué consiste la infracción del art. 195 LGT (determinar improcedentemente partidas)?
+Respuesta Correcta: Consiste en determinar o acreditar improcedentemente partidas positivas o negativas o créditos tributarios a compensar o deducir en declaraciones futuras (propias o de terceros). Calificación: Grave. Sanción: multa proporcional del 15% si afecta a la base, o 50% si afecta a la cuota o créditos tributarios.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+
+Pregunta: ¿Cuáles son las principales infracciones formales sin perjuicio económico directo?
+Respuesta Correcta: Art. 198: No presentar en plazo autoliquidaciones o declaraciones sin perjuicio económico (leve, multa 200€). Art. 199: Presentar incorrectamente declaraciones (grave, multa 150€). Art. 200: Incumplir obligaciones contables y registrales (grave, multa 150-6.000€). Art. 202: Incumplir obligaciones NIF (leve, multa 150€).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+
+Pregunta: ¿En qué consiste la infracción del art. 201 LGT (incumplir obligaciones de facturación)?
+Respuesta Correcta: Consiste en incumplir obligaciones de facturación o documentación (ej. no conservar facturas). Calificación: Grave con multa del 2% de las operaciones que originaron la infracción. Si se utilizan documentos falsos: Muy grave con multa del 75% de las operaciones.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+
+Pregunta: ¿En qué consiste la infracción de resistencia, obstrucción o negativa del art. 203 LGT?
+Respuesta Correcta: Consiste en resistencia, obstrucción, excusa o negativa a las actuaciones de la AT. Conductas: no facilitar examen de documentación, no atender requerimientos, no comparecer, negar o impedir entrada, coaccionar a funcionarios. Calificación: Grave. Sanción: multa básica de 150€ graduable.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las infracciones tributarias
+Pregunta: ¿Cuál es la regla general sobre la tramitación del procedimiento sancionador tributario?
+Respuesta Correcta: La regla general es que se tramita de forma separada a los procedimientos de aplicación de los tributos (gestión, inspección, recaudación). Excepciones (tramitación conjunta): cuando se suscriban actas con acuerdo, o cuando el obligado haya renunciado a la tramitación separada.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+
+Pregunta: ¿Cuál es el plazo límite para iniciar el procedimiento sancionador según el art. 209 LGT?
+Respuesta Correcta: El procedimiento no podrá iniciarse respecto de la persona o entidad una vez transcurridos 6 meses desde que se hubiese notificado la resolución o liquidación del procedimiento de aplicación de los tributos (declaración, verificación, comprobación o inspección). Transcurrido ese plazo, la AT pierde la facultad de iniciarlo.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+
+Pregunta: ¿Cuál es el plazo máximo de duración del procedimiento sancionador y qué efecto tiene su incumplimiento?
+Respuesta Correcta: El procedimiento debe concluir en un plazo máximo de 6 meses desde la comunicación de inicio. Si transcurre este plazo sin notificarse la resolución, el procedimiento caduca. La caducidad impide que el procedimiento se inicie de nuevo, a diferencia de los procedimientos de aplicación de los tributos.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+
+Pregunta: ¿Cuáles son los derechos del afectado en el procedimiento sancionador tributario?
+Respuesta Correcta: 1) Derecho a ser notificado de los hechos que se le imputan (infracción, sanción, identidad del instructor, autoridad competente y norma que atribuye competencia). 2) Derecho a formular alegaciones para defenderse. 3) Los demás derechos establecidos en el art. 34 LGT.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+
+Pregunta: ¿Qué efectos tiene la interposición de recurso contra una sanción tributaria?
+Respuesta Correcta: Se suspende la ejecución de la sanción sin necesidad de aportar garantías. No se exigen intereses de demora hasta que finalice el plazo de pago voluntario que se abre con la notificación de la resolución poniendo fin a la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+
+Pregunta: ¿Cómo afecta la interposición de recursos a las reducciones de las sanciones?
+Respuesta Correcta: Reducción 30% (conformidad): se mantiene si solo se recurre la sanción, se pierde si se recurre la regularización. Reducción 40% (pronto pago): se pierde si se recurre la sanción. Reducción 65% (acta con acuerdo): no puede impugnarse en vía administrativa, solo contencioso-administrativo, y se pierde la reducción.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Las normas del procedimiento sancionador
+Pregunta: ¿Cuáles son los requisitos del delito de defraudación tributaria del art. 305 CP?
+Respuesta Correcta: Conducta: eludir el pago de tributos, retenciones o ingresos a cuenta, u obtener indebidamente devoluciones o beneficios fiscales. Elemento subjetivo: dolo (ánimo de defraudar), no basta el simple error. Elemento objetivo: que la cuota defraudada exceda de 120.000 euros. Pena: prisión de 1 a 5 años y multa del tanto al séxtuplo de la cuantía defraudada.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+
+Pregunta: ¿Cuáles son los umbrales económicos relevantes en los delitos tributarios?
+Respuesta Correcta: 120.000€: umbral del delito de defraudación tributaria (art. 305 CP). 240.000€: umbral del delito contable tributario (art. 310 CP) para anotaciones omitidas o falsas. 600.000€: agravante del delito de defraudación (art. 305 bis CP) que aumenta las penas. Prescripción penal: 5 años desde la comisión del delito.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+
+Pregunta: ¿En qué consiste el delito contable tributario del art. 310 CP?
+Respuesta Correcta: Castiga a quien: 1) Incumple absolutamente la obligación de llevar contabilidad. 2) Lleva contabilidades distintas que oculten la situación real (contabilidad B). 3) No anota operaciones o las anota con cifras falsas. En los dos últimos casos se requiere además que no se presenten declaraciones o sean falsas, y que la cuantía sea al menos 240.000€. Pena: prisión de 5 a 7 meses.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+
+Pregunta: ¿Cuál es el procedimiento general ante indicios de delito tributario (arts. 250, 253 LGT)?
+Respuesta Correcta: 1) La AT formaliza propuesta de liquidación vinculada al delito con audiencia de 15 días. 2) Se dicta liquidación administrativa vinculada al delito (requiere autorización previa del órgano competente para interponer denuncia). 3) Se remite el expediente al Ministerio Fiscal o jurisdicción penal. La liquidación vinculada al delito NO es recurrible en vía administrativa (art. 254 LGT).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+
+Pregunta: ¿Cuándo se aplica el procedimiento especial de remisión inmediata del art. 251 LGT?
+Respuesta Correcta: Se aplica en casos de urgencia: 1) Cuando la liquidación administrativa pueda ocasionar prescripción del delito (5 años). 2) Cuando no pueda determinarse exactamente el importe o atribuirse a un obligado concreto. 3) Cuando la liquidación pueda perjudicar la investigación. En estos casos la AT remite directamente sin practicar ninguna liquidación vinculada al delito.
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+
+Pregunta: ¿Qué ocurre si se inadmite la denuncia o querella por delito tributario?
+Respuesta Correcta: Las actuaciones se retrotraen al momento de la propuesta de liquidación. La Inspección formaliza el acta correspondiente (actuación normal). El procedimiento debe finalizar en el plazo que restaba o en 6 meses si fuese menor. Si hay inexistencia de delito, se puede iniciar procedimiento sancionador por la infracción correspondiente (ej. art. 191 LGT).
+Manual: Manual de Derecho Tributario
+Bloque: 5
+Tema: Los delitos contra la Hacienda Pública
+Pregunta: ¿Cuáles son las vías de revisión de los actos tributarios según el art. 213 LGT?
+Respuesta Correcta: Los procedimientos especiales de revisión, el recurso de reposición y las reclamaciones económico-administrativas. Limitación: si existe sentencia judicial firme NO es posible la revisión. Si existe resolución económico-administrativa firme, solo cabe nulidad de pleno derecho, rectificación de errores y recurso extraordinario de revisión.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+
+Pregunta: ¿Cuáles son los procedimientos especiales de revisión enumerados en el art. 216 LGT?
+Respuesta Correcta: 1) Revisión de actos nulos de pleno derecho (art. 217). 2) Declaración de lesividad de actos anulables (art. 218). 3) Revocación (art. 219). 4) Rectificación de errores (art. 220). 5) Devolución de ingresos indebidos (art. 221).
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+
+Pregunta: ¿Cuáles son las principales causas de nulidad de pleno derecho del art. 217 LGT?
+Respuesta Correcta: Lesión de derechos susceptibles de amparo constitucional, actos dictados por órgano manifiestamente incompetente por razón de materia o territorio, contenido imposible, actos constitutivos de infracción penal, actos dictados prescindiendo totalmente del procedimiento, y actos contrarios al ordenamiento por los que se adquieren derechos sin requisitos esenciales.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+
+Pregunta: ¿En qué consiste la declaración de lesividad del art. 218 LGT?
+Respuesta Correcta: Permite a la AT declarar lesivos para el interés público sus actos favorables a los interesados (que normalmente no podría anular), si incurren en infracción del ordenamiento, para impugnarlos en vía contenciosa. Solo se inicia de oficio. Plazo caducidad: 3 meses. Plazo para declarar lesividad: 4 años desde notificación del acto. Órgano competente: Ministro de Hacienda.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+
+Pregunta: ¿En qué consiste la revocación del art. 219 LGT y cuándo procede?
+Respuesta Correcta: Permite a la AT revocar actos desfavorables para los interesados en su beneficio. Procede si: infringen manifiestamente la ley, son improcedentes, o se ha producido indefensión. Solo se inicia de oficio. Plazo: 6 meses (caducidad). Límite: mientras no prescriba. Trámites: audiencia e informe del órgano de asesoramiento jurídico. Pone fin a la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+
+Pregunta: ¿Qué procedimientos especiales de revisión NO ponen fin a la vía administrativa?
+Respuesta Correcta: Solo dos procedimientos NO ponen fin a la vía administrativa (cabe recurso de reposición y reclamación económico-administrativa): 1) Rectificación de errores (art. 220 LGT). 2) Devolución de ingresos indebidos (art. 221 LGT). Los demás (nulidad, lesividad, revocación) SÍ ponen fin a la vía administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión I
+Pregunta: ¿Cuáles son las características principales del recurso de reposición tributario?
+Respuesta Correcta: Es potestativo (no obligatorio antes de la reclamación económico-administrativa). No es jerárquico (resuelve el mismo órgano que dictó el acto). Plazo de interposición: 1 mes desde notificación. Plazo de resolución: 1 mes. Silencio: desestimatorio (habilita la reclamación E-A). Prohibida la reformatio in peius.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+
+Pregunta: ¿Qué actos son impugnables en recurso de reposición y reclamación económico-administrativa?
+Respuesta Correcta: Actos administrativos que reconozcan o denieguen un derecho o declaren una obligación. Actos de trámite que decidan sobre el fondo o pongan término al procedimiento. Ejemplos: liquidaciones, resoluciones de rectificación, actos de beneficios fiscales, actos de recaudación, sanciones, y actuaciones de particulares sobre repercusión o retención.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+
+Pregunta: ¿Quiénes están legitimados para interponer recursos tributarios según el art. 232 LGT?
+Respuesta Correcta: Los obligados tributarios, los sujetos infractores, y cualquier persona cuyos intereses legítimos resulten afectados. NO están legitimados: funcionarios (salvo vulneración de sus derechos), particulares que obren por delegación de la AT, denunciantes, quienes asumen obligaciones por pacto, ni los órganos que dictaron el acto impugnado.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+
+Pregunta: ¿Cómo funciona la suspensión de la ejecución en el recurso de reposición (art. 224 LGT)?
+Respuesta Correcta: Suspensión con garantía: requiere garantizar el importe del acto, intereses de demora y recargos (depósito, aval, certificado de seguro de caución, fianza). Suspensión automática sin garantía: cuando se impugna una sanción, o cuando el recurso se basa en error aritmético, material o de hecho.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+
+Pregunta: ¿En qué consiste la prohibición de reformatio in peius en los recursos tributarios?
+Respuesta Correcta: El órgano competente para resolver no puede empeorar la situación inicial del recurrente. Ejemplo: si el obligado recurre una liquidación para que se le reconozca una deducción, el órgano no puede suprimir otra deducción ya aplicada. Esta prohibición garantiza que el obligado no se vea perjudicado por el simple hecho de recurrir.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+
+Pregunta: ¿Qué ocurre si transcurre el plazo de resolución del recurso de reposición sin resolverse?
+Respuesta Correcta: Transcurrido el plazo de 1 mes sin notificarse resolución, el recurso se entiende desestimado por silencio administrativo. El interesado podrá entonces interponer la reclamación económico-administrativa. No es posible interponer de nuevo un recurso de reposición.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Procedimientos de revisión II - Recurso de reposición
+Pregunta: ¿Cuáles son los órganos económico-administrativos y sus competencias principales?
+Respuesta Correcta: 1) TEAC: única instancia (órganos centrales y autonómicos superiores), segunda instancia (alzada contra resoluciones regionales/locales), recursos extraordinarios. 2) Tribunales Regionales/Locales: primera o única instancia contra órganos periféricos del Estado y autonómicos no superiores. 3) Sala Especial para Unificación de Doctrina. La doctrina reiterada del TEAC vincula a tribunales regionales, locales y a la AT.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+
+Pregunta: ¿Cómo se determina si una reclamación se conoce en única o primera instancia?
+Respuesta Correcta: Depende de la cuantía. Única instancia: cuota NO superior a 150.000€ o base NO superior a 1.800.000€ (no cabe recurso de alzada). Primera instancia: cuota igual o superior a 150.000€ o base igual o superior a 1.800.000€ (permite recurso de alzada al TEAC).
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+
+Pregunta: ¿Cuáles son los plazos principales de la reclamación económico-administrativa?
+Respuesta Correcta: Plazo de interposición: 1 mes desde notificación del acto o efectos del silencio. Plazo de puesta de manifiesto del expediente: 1 mes para alegaciones. Plazo de resolución: 1 año. Silencio administrativo: desestimatorio (transcurrido 1 año sin resolver). Resoluciones: estimatoria, desestimatoria o de inadmisión.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+
+Pregunta: ¿Cuáles son las causas de inadmisión de una reclamación económico-administrativa?
+Respuesta Correcta: Impugnar actos no susceptibles de reclamación, presentarse fuera de plazo, no identificar el acto o actuación, que la petición no tenga relación con el acto recurrido, defectos de legitimación o representación, o existir cosa juzgada.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+
+Pregunta: ¿Qué diferencia la suspensión en la reclamación económico-administrativa respecto al recurso de reposición?
+Respuesta Correcta: En la reclamación es posible la suspensión con dispensa total o parcial de las garantías cuando se considere que la ejecución del acto podría producir perjuicios de difícil o imposible reparación. También si el interesado no puede aportar garantías, se puede acordar su sustitución por otras. Esta posibilidad de dispensa por perjuicios es diferencia fundamental respecto a la reposición.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+
+Pregunta: ¿Qué efecto tiene la doctrina reiterada del TEAC?
+Respuesta Correcta: La doctrina reiterada del TEAC vincula a los tribunales económico-administrativos regionales y locales, a los órganos económico-administrativos autonómicos y al resto de la Administración Tributaria. Esto garantiza la unidad de criterio en la aplicación de la normativa tributaria.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Las reclamaciones económico-administrativas
+Pregunta: ¿Qué es el recurso de alzada ordinario del art. 241 LGT?
+Respuesta Correcta: Se interpone ante el TEAC contra resoluciones dictadas en primera instancia por Tribunales Regionales/Locales y órganos E-A de CCAA. Plazo interposición: 1 mes. Plazo resolución: 1 año. Legitimados: interesados, directores generales del Ministerio de Hacienda y directores de Departamento de la AEAT. Solo procede si la cuantía supera 150.000€ de cuota o 1.800.000€ de base.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa
+
+Pregunta: ¿Cuáles son las causas tasadas del recurso de anulación del art. 241 bis LGT?
+Respuesta Correcta: Solo procede en tres supuestos: 1) Se haya declarado incorrectamente la inadmisibilidad de la reclamación. 2) Se hayan declarado inexistentes las alegaciones o pruebas oportunamente presentadas. 3) Se alegue incongruencia completa y manifiesta de la resolución. Plazo interposición: 15 días. Plazo resolución: 1 mes. Ante el tribunal que dictó la resolución recurrida.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa
+
+Pregunta: ¿En qué consiste el recurso extraordinario de alzada para unificación de criterio (art. 242 LGT)?
+Respuesta Correcta: Procede contra resoluciones de tribunales E-A Regionales/Locales y órganos E-A de CCAA no susceptibles de alzada ordinaria. Causas: resoluciones gravemente dañosas y erróneas, o con criterios distintos a otros tribunales E-A. Órgano: TEAC. Legitimados: Directores de Hacienda/AEAT. Plazo interposición y resolución: 3 meses. El criterio es vinculante para tribunales E-A y AEAT.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa
+
+Pregunta: ¿Cuáles son las causas tasadas del recurso extraordinario de revisión (art. 244 LGT)?
+Respuesta Correcta: Contra actos firmes de la AT y resoluciones firmes de órganos E-A. Causas: 1) Documentos de valor esencial posteriores o de imposible aportación que evidencien error. 2) Documentos o testimonios declarados falsos por sentencia firme. 3) Acto dictado como consecuencia de prevaricación, cohecho, violencia u otra conducta punible declarada en sentencia firme. Órgano: TEAC. Plazo: 3 meses desde conocimiento. Resolución: 6 meses.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa
+
+Pregunta: ¿Qué características tiene el procedimiento abreviado de reclamación económico-administrativa?
+Respuesta Correcta: Ámbito: reclamaciones con cuantía inferior a 6.000€ o 72.000€ de base. Órgano: tribunales E-A en única instancia. Plazo de resolución: 6 meses (frente al año del ordinario). Silencio: desestimatorio. No cabe recurso de alzada ordinario, pero sí los demás recursos extraordinarios. Diseñado para agilizar reclamaciones de menor cuantía.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa
+
+Pregunta: ¿Qué recurso cabe contra las resoluciones que ponen fin a la vía económico-administrativa?
+Respuesta Correcta: Contra las resoluciones de los recursos que ponen fin a la vía económico-administrativa solo cabe el recurso contencioso-administrativo (art. 249 LGT). Ya no es posible ningún recurso administrativo adicional, debe acudirse a la jurisdicción contencioso-administrativa.
+Manual: Manual de Derecho Tributario
+Bloque: 6
+Tema: Recursos en vía económico-administrativa

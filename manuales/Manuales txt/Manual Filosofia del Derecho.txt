@@ -1,0 +1,4164 @@
+ Filosofía del
+Derecho
+Última actualización: 25/09/2025
+Aviso legal
+Este libro es propiedad exclusiva de Derecho Virtual y ha sido elaborado
+únicamente para el uso de los alumnos inscritos en la academia. Su contenido
+está protegido por las leyes de propiedad intelectual y derechos de autor.
+Queda estrictamente prohibida cualquier forma de reproducción, distribución,
+comercialización, comunicación pública, transformación o cualquier otro uso no
+autorizado total o parcial del contenido de esta obra, en cualquier formato o por
+cualquier medio, sin el consentimiento previo y por escrito de Derecho Virtual.
+El incumplimiento de esta prohibición podrá dar lugar a las responsabilidades
+legales correspondientes. Todos los derechos reservados
+2
+3
+4
+ÍNDICE DE FILOSOFÍA DEL DERECHO (con artículos) Pág.
+BLOQUE 1: LOS PILARES DEL ESPÍRITU DEL DERECHO ................................................................... 6
+Artículo 1: ¿Qué es la filosofía del derecho? ....................................................................................................................... 7
+Artículo 2: Tridimensionalismo jurídico ........................................................................................................................... 14
+Artículo 3: Derecho objetivo y subjetivo ........................................................................................................................... 20
+Artículo 4: Criterios de distinción de los usos sociales y las normas jurídicas ................................................................. 28
+Artículo 5: Derecho natural y derecho positivo ................................................................................................................. 35
+Artículo 6: El realismo jurídico ......................................................................................................................................... 37
+BLOQUE 2: PLURALISMO, DERECHO ESTATAL Y DERECHOS FUNDAMENTALES ................. 40
+Artículo 1: Pluralismo jurídico .......................................................................................................................................... 41
+Artículo 2: Derecho alternativo ......................................................................................................................................... 45
+Artículo 3: Uso alternativo del derecho ............................................................................................................................. 49
+Artículo 4: El pluralismo jurídico en la doctrina ............................................................................................................... 55
+Artículo 5: Oposición estatal al pluralismo jurídico .......................................................................................................... 60
+Artículo 6: El pluralismo jurídico en la actualidad ............................................................................................................ 64
+BLOQUE 3: LAS RELACIONES DERECHO-ESTADO Y SUS MODELOS ........................................... 66
+Artículo 1: La noción de Estado ........................................................................................................................................ 67
+Artículo 2: Las relaciones entre Derecho y Estado ............................................................................................................ 70
+Artículo 3: Estado absoluto ................................................................................................................................................ 72
+Artículo 4: Estado Liberal de Derecho I ............................................................................................................................ 75
+Artículo 5: Estado Liberal de Derecho II ........................................................................................................................... 78
+Artículo 6: Estado Social de Derecho ................................................................................................................................ 82
+BLOQUE 4: LA MORAL Y LA ÉTICA EN LA CONSTRUCCIÓN DEL DERECHO ............................ 87
+Artículo 1: Moral y ética .................................................................................................................................................... 88
+Artículo 2: La 'moralización' del derecho .......................................................................................................................... 92
+Artículo 3: La construcción ética del Derecho .................................................................................................................. 95
+BLOQUE 5: ANALIZANDO EL DERECHO, DE LA NORMA JURÍDICA AL ORDENAMIENTO
+JURÍDICO .......................................................................................................................................................... 97
+Artículo 1: Enfoque en el análisis del Derecho ................................................................................................................. 98
+Artículo 2: Tipología de la interpretación ........................................................................................................................ 102
+Artículo 3: El derecho como lenguaje ............................................................................................................................. 105
+Artículo 4: Criterios de interpretación actuales en España .............................................................................................. 107
+Artículo 5: Estructura de la norma jurídica I ................................................................................................................... 111
+Artículo 6: Estructura de la norma jurídica II .................................................................................................................. 116
+Artículo 7: Las normas primarias y las secundarias ........................................................................................................ 118
+Artículo 8: Tipos de normas secundarias ......................................................................................................................... 121
+BLOQUE 6: APLICACIÓN DEL DERECHO Y SUS INSTRUMENTOS ............................................... 123
+Artículo 1: Aplicación del Derecho ................................................................................................................................. 124
+Artículo 2: La equidad ..................................................................................................................................................... 127
+BLOQUE 7: LIBERTADES FORMALES Y MATERIALES .................................................................... 130
+Artículo 1: La libertad ...................................................................................................................................................... 131
+5
+BLOQUE 1
+LOS PILARES DEL ESPÍRITU DEL DERECHO
+6
+Tema 1: ¿Qué es la filosofía
+del derecho?
+La filosofía del derecho constituye una disciplina fundamental que examina los
+fundamentos, principios y naturaleza del ordenamiento jurídico en su relación
+intrínseca con la sociedad humana.
+La intrínseca conexión entre
+derecho y sociedad
+Resulta doctrinalmente pacífica la
+aseveración de que el Derecho constituye
+un producto consustancial a la vida
+humana en comunidad. De ahí el clásico
+aforismo ubi societas, ibi ius (donde hay
+sociedad, hay Derecho), que postula la
+imposibilidad de concebir un ordenamiento
+jurídico al margen de una estructura social.
+El derecho como sistema
+normativo
+Nótese que esta conexión intrínseca es un
+presupuesto fundamental para el estudio de
+la disciplina, pues el Derecho se manifiesta
+como un sistema de formas normativas
+cuya función primordial es la regulación
+del desarrollo de la convivencia.
+A mayor abundamiento, la omnipresencia del Derecho se manifiesta de forma
+constante en la vida de los individuos, a menudo de manera inadvertida. Desde
+el nacimiento de una persona, que debe ser debidamente inscrito en el Registro
+Civil, hasta su fallecimiento, que igualmente se hace constar en el libro de
+defunciones, la existencia humana se encuentra jalonada por actos con
+trascendencia jurídica.
+Incluso las acciones más cotidianas, como la adquisición de un billete de
+transporte público o el consumo en un establecimiento de hostelería,
+constituyen en puridad la celebración de contratos, donde el Derecho
+despliega su eficacia reguladora, aunque los sujetos intervinientes no sean
+plenamente conscientes de ello.
+7
+1. La perspectiva doctrinal
+La doctrina ha refrendado esta concepción
+del Derecho como un fenómeno capilar que
+impregna la totalidad de las relaciones
+sociales. Para Martínez Roldán, el Derecho se
+erige como un elemento básico, necesario y
+omnipresente en la vida social.
+En una línea similar, Soriano Díaz afirma que el
+Derecho forma parte inescindible de nuestra realidad
+cotidiana, hasta el punto de que los individuos se
+desenvuelven en un verdadero «mar de normas e
+instituciones» de manera casi inconsciente.
+El fundamento del derecho: la noción de justicia
+01
+El sentimiento jurídico como experiencia humana
+El fundamento último del Derecho reside en la capacidad del ser humano para
+discernir, de manera espontánea, entre lo que es correcto y lo que es
+incorrecto, lo justo y lo injusto. Este sentimiento jurídico innato, que se presenta
+como una experiencia humana inmediata, constituye el sustrato sobre el que se
+edifican los ordenamientos.
+02
+La manifestación de la capacidad valorativa
+En puridad, la percepción de lo que debe ser conforme a Derecho no es sino la
+manifestación de esta capacidad valorativa inherente al ser humano en su
+dimensión social y moral.
+8
+2. La perspectiva filosófica kantiana
+Desde la perspectiva filosófica, conviene precisar que, tal y como afirmó Kant,
+la Filosofía del Derecho tiene por objeto explicar cuáles son las razones y los
+criterios que subyacen a estas distinciones entre lo bueno y lo malo en el
+ámbito de la convivencia social.
+2.1 El carácter histórico y socialmente condicionado de la justicia
+Concepto no inmutable 1
+Es de capital importancia para
+el examen comprender que la
+noción de justicia no es un
+concepto inmutable o
+ahistórico. Por el contrario,
+cada sociedad, en función de
+su contexto social e histórico
+particular, desarrolla una
+concepción propia sobre lo que
+considera justo o injusto.
+2 Ejemplo ilustrativo: la
+tauromaquia
+Un ejemplo ilustrativo de esta
+mutabilidad se encuentra en la
+percepción social de la
+tauromaquia en España. Lo
+que durante décadas fue un
+fenómeno cultural de masas,
+socialmente aceptado y
+normativamente regulado, se
+encuentra hoy sometido a un
+intenso debate social que
+evidencia un cambio en los
+valores colectivos.
+Evolución del derecho 3
+Este viraje en la opinión pública
+podría, eventualmente,
+traducirse en una modificación
+de su estatus jurídico, lo que
+demuestra cómo el Derecho
+evoluciona en paralelo a las
+transformaciones de la
+sociedad que lo genera.
+9
+3. Las dimensiones del concepto de
+Derecho
+El término «Derecho» es polisémico y se utiliza en el lenguaje común para hacer referencia a
+realidades distintas, si bien conectadas. Una distinción fundamental es la que se establece entre el
+Derecho en sentido objetivo y el Derecho en sentido subjetivo.
+Derecho objetivo (norma agendi)
+Se refiere al conjunto de normas externas y
+vinculantes que rigen el comportamiento de
+los individuos con independencia de su
+voluntad. La máxima «la ignorancia de la ley
+no exime de su cumplimiento» es un claro
+exponente de esta dimensión.
+La norma existe y obliga
+Se puede promover su modificación por
+cauces legales
+Su vigencia no puede ser desconocida
+unilateralmente
+Derecho subjetivo (facultas agendi)
+Apela a un poder o una facultad que el
+ordenamiento jurídico otorga a un sujeto
+para la satisfacción de un interés que se
+considera legítimo. Expresiones como
+«tengo derecho a la vida» o «tengo derecho a
+que se me devuelva el préstamo» reflejan
+esta faceta del fenómeno jurídico.
+Poder individual reconocido por el
+ordenamiento
+Facultad para satisfacer intereses
+legítimos
+Manifestación subjetiva del derecho
+objetivo
+10
+4. Distinción entre normas jurídicas y
+normas sociales
+No todas las normas que regulan el comportamiento humano son de
+naturaleza jurídica. Es preciso distinguir el ordenamiento jurídico de otros
+órdenes normativos, como las normas sociales o usos sociales.
+Normas sociales
+Estas últimas consisten en pautas de conducta
+aceptadas por la mayoría de los miembros de
+una comunidad, pero que carecen de los
+atributos de la norma jurídica.
+Esperar el turno en una fila
+Utilizar determinados cubiertos
+para comer
+Normas de cortesía y protocolo
+social
+Origen estatal
+Las normas jurídicas emanan del
+poder del Estado, específicamente
+del poder legislativo, con
+procedimientos formalizados de
+creación.
+Origen social espontáneo
+Las normas sociales surgen de forma
+espontánea en el seno de la
+sociedad, sin estar escritas ni
+formalizadas por autoridad alguna.
+Coercibilidad jurídica
+Su cumplimiento es exigible
+coactivamente por el Estado a través
+de sus órganos jurisdiccionales y
+ejecutivos.
+Sanción social informal
+Su incumplimiento no puede ser
+forzado por el poder público,
+limitándose a sanciones sociales
+informales.
+11
+5. Comparativa entre normas jurídicas y normas
+sociales
+Criterio Normas jurídicas Normas sociales (usos
+sociales)
+Origen Emanan del poder del Estado
+(poder legislativo)
+Surgen de forma espontánea
+en el seno de la sociedad. No
+están escritas
+Coercib
+ilidad
+Su cumplimiento es exigible
+coactivamente por el Estado
+Su incumplimiento no puede
+ser forzado por el poder
+público
+Sanción Conlleva una sanción tasada y
+formalizada (multa, privación
+de libertad, etc.), aplicada por
+órganos específicos
+(tribunales)
+La sanción es informal y
+difusa (reproche social,
+exclusión del grupo, ridículo)
+Ámbito Regulan las conductas más
+trascendentales para la
+convivencia (matrimonio,
+propiedad, contratos, etc.)
+Regulan conductas de la vida
+cotidiana y cortesía
+Trascendencia de las normas
+jurídicas
+A pesar de la existencia de estos otros
+órdenes, las conductas más
+trascendentales a lo largo de la
+existencia humana, como el matrimonio,
+la adquisición de una vivienda o la
+sucesión hereditaria, se encuentran
+necesariamente reguladas por el
+Derecho.
+Complementariedad normativa
+Ambos tipos de normas coexisten y se
+complementan en la regulación de la vida
+social, creando un entramado normativo
+complejo que abarca desde las
+relaciones más formales hasta las
+interacciones cotidianas.
+12
+6. Estructura del fenómeno jurídico
+Sociedad Humana
+Base que genera la
+necesidad de regulación
+Necesidad de
+Regulación
+Demanda de normas para
+convivencia
+Órdenes Normativos
+Normas sociales y normas
+jurídicas
+Valores y Justicia
+Principios que orientan la
+creación normativa
+Regulación de
+Convivencia
+Otorga facultades y
+retroalimenta sociedad
+Esta estructura circular demuestra cómo el fenómeno jurídico constituye un
+sistema dinámico y autorregenerativo que se adapta continuamente a las
+transformaciones sociales, manteniendo su función esencial de regulación de la
+convivencia humana a través de la articulación entre el derecho objetivo y los
+derechos subjetivos.
+Sociedad humana
+Base fundamental que
+genera la necesidad de
+regulación normativa para la
+convivencia pacífica y
+ordenada.
+Valores y justicia
+Conceptos fundamentales
+que orientan y legitiman la
+creación del ordenamiento
+jurídico en cada contexto
+histórico.
+Normas jurídicas
+Sistema formal de regulación
+que establece derechos,
+deberes y procedimientos
+para la organización social.
+Derechos subjetivos
+Facultades individuales
+reconocidas por el
+ordenamiento para la
+satisfacción de intereses
+legítimos.
+13
+Tema 2: Tridimensionalismo
+jurídico
+1. Introducción a la Teoría
+Tridimensional de Miguel Reale
+Concepto fundamental
+Para una comprensión cabal y exhaustiva del fenómeno jurídico, la doctrina contemporánea
+considera que la teoría que mejor lo define es la propuesta por el jurista y filósofo Miguel Reale,
+conocida como la Teoría Tridimensional del Derecho.
+Enfoque integrador
+Este enfoque postula que el estudio del Derecho debe abordarse desde una triple perspectiva,
+analizando de forma interrelacionada sus tres dimensiones constitutivas: la fáctica (el hecho
+social), la normativa (la norma jurídica) y la axiológica (el valor).
+Cada una de estas dimensiones representa un aspecto inescindible de la
+realidad jurídica. De acuerdo con esta concepción, resulta de capital
+importancia para el examen retener la definición canónica que integra estos
+elementos:
+El Derecho es una integración normativa de los hechos según sus valores.
+Nótese que esta formulación no presenta los componentes como
+compartimentos estancos, sino como un todo dinámico y dialéctico. A
+continuación, se procederá al análisis pormenorizado de cada una de estas
+dimensiones.
+14
+2. La dimensión fáctica del derecho
+2.1 El derecho como hecho social
+materializado
+La dimensión fáctica postula que el Derecho
+debe ser estudiado, en primer término, como
+un hecho social. Esto significa que el
+fenómeno jurídico se materializa y adquiere
+relevancia en la realidad social en el preciso
+momento en que los individuos interactúan
+entre sí.
+El Derecho, por tanto, no es una abstracción
+etérea, sino un acontecimiento que se
+manifiesta en las relaciones intersubjetivas
+con la finalidad primordial de facilitar y
+ordenar la convivencia social.
+Ejemplo ilustrativo
+A efectos ilustrativos, piénsese en el supuesto de un sujeto, María, que tras
+un conflicto con otra persona, Antonio, experimenta el deseo de causarle
+un mal. Dicho sujeto, sin embargo, se abstiene de materializar su impulso
+lesivo al ser consciente de que su conducta encajaría en el tipo penal del
+delito de homicidio.
+En este escenario, el Derecho se manifiesta como un hecho social que
+condiciona y modula la conducta de los individuos.
+15
+3. Ámbitos de manifestación y la
+dimensión normativa
+Extensión del ámbito fáctico
+Esta dimensión fáctica no se limita a las relaciones entre particulares,
+sino que se extiende a la propia regulación del Estado, definiendo su
+forma de gobierno y delimitando sus funciones y obligaciones.
+Perspectivas de estudio
+Desde un punto de vista metodológico, el estudio del Derecho como
+hecho puede abordarse desde dos perspectivas:
+Perspectiva externa
+A través de disciplinas no
+estrictamente jurídicas como la
+sociología, la economía o la
+psicología, que analizan el impacto y
+las causas del fenómeno jurídico en
+la sociedad.
+Perspectiva interna
+Mediante ciencias jurídicas como la
+Sociología Jurídica o la Historia del
+Derecho, que examinan el Derecho
+desde su propia estructura y
+evolución.
+La dimensión normativa del derecho
+En segundo lugar, el Derecho debe ser analizado como un conjunto de
+normas, cuyo rasgo distintivo y fundamental es la coactividad. Esta
+dimensión normativa se encarga de materializar las necesidades y
+aspiraciones de una sociedad en un cuerpo de preceptos jurídicos que
+ordenan cuál es la conducta social obligatoria, permitida o prohibida.
+16
+4. La coactividad y los elementos de la
+teoría
+El objetivo de estas normas
+coactivas es, por tanto, regular el
+comportamiento tanto de los
+ciudadanos como del propio Estado,
+estableciendo un marco de actuación
+cuyo incumplimiento acarrea la
+amenaza de una sanción o castigo.
+Dimensión Fáctica
+Dimensión
+Normativa
+Dimensión
+Axiológica
+Retomando el ejemplo anterior, la decisión de María de no agredir a Antonio no responde a
+un mero impulso moral, sino a la internalización de una norma coactiva que le advierte de las
+consecuencias jurídicas desfavorables de su potencial acción. La coacción es, pues, la
+garantía última de la eficacia del ordenamiento.
+El fenómeno jurídico no se agota en la constatación de un hecho social regulado
+por una norma coactiva. Conviene precisar, siguiendo al profesor Álvarez, que
+detrás de dichas normas, como razón última de su obligatoriedad, subyacen
+necesariamente los valores que todo Derecho persigue.
+Dimensión fáctica
+Hecho social que se
+materializa en las relaciones
+intersubjetivas
+Dimensión normativa
+Norma jurídica con carácter
+coactivo que regula
+conductas
+Dimensión axiológica
+Valor (justicia) que
+fundamenta la validez de las
+normas
+17
+5. La dimensión axiológica y el
+tetradimensionalismo
+Dimensión axiológica del derecho
+Esta dimensión axiológica se ocupa del estudio de los valores jurídicos,
+afirmando que la validez de una norma no es meramente formal, sino que
+integra los valores que la fundamentan. Es en esta esfera donde el Derecho
+encuentra su justificación y su capacidad para distinguir entre lo bueno y lo
+malo, lo justo y lo injusto.
+5.1 Anexo: la dimensión histórica (tetradimensionalismo)
+Algunos sectores doctrinales proponen complementar las tres dimensiones
+básicas con una cuarta: la dimensión histórica. Esta no se concibe como un
+elemento constitutivo en el mismo plano que las anteriores, sino como un eje
+metodológico que permite temporalizar el análisis, estableciendo un marco
+cronológico que contextualiza la interacción entre el hecho, la norma y el valor.
+Su inclusión varía según el manual, por lo que su estudio dependerá de las
+exigencias específicas del programa académico.
+1
+Dimensión histórica
+Eje metodológico temporal
+2
+Contextualización
+Marco cronológico de análisis
+3
+Integración
+Interacción hecho-norma-valor
+18
+6. La integración de las dimensiones: el
+tridimensionalismo jurídico
+En puridad, el concepto de tridimensionalismo jurídico no es una categoría
+distinta de las ya expuestas, sino la síntesis integradora de las mismas. La
+teoría de Reale concibe el Derecho desde una perspectiva dialéctica, como una
+correlación permanente y progresiva entre los tres términos analizados.
+Hecho social
+Realidad social que
+requiere regulación
+Tensión dialéctica
+Valoración por la
+comunidad
+Norma jurídica
+Regla de conducta
+obligatoria
+Fórmula clave para el examen: El objetivo final de este enfoque, y su principal aportación, es
+lograr la integración del hecho en el valor, dando origen a las normas.
+Esta fórmula, clave para el examen, resume la dinámica incesante en la que la
+realidad social (hecho) es valorada por la comunidad (valor), y de dicha tensión
+surge la regla de conducta obligatoria (norma).
+Hecho Social Valor (Justicia)
+Tensión
+DialécticaNorma Jurídica
+Síntesis final
+El tridimensionalismo jurídico representa la comprensión integral del fenómeno jurídico como
+una realidad compleja donde hecho, norma y valor se articulan de manera dialéctica y
+permanente, constituyendo la esencia misma del Derecho como fenómeno social regulador.
+19
+Tema 3: Derecho objetivo y
+subjetivo
+1. El derecho en sentido objetivo: la
+norma agendi
+Concepto
+El Derecho como conjunto de normas que
+ordenan la vida de una determinada
+comunidad social
+Norma agendi
+Norma de obrar que alude al sistema
+normativo en su totalidad
+En una primera aproximación, el Derecho en su sentido objetivo se concibe
+como el conjunto de normas, reglas y disposiciones vigentes que ordenan la
+vida de una determinada comunidad social. Esta acepción, a la que la doctrina
+se refiere como norma agendi (norma de obrar), alude al sistema normativo en
+su totalidad.
+Ámbito de aplicación
+Puede hacer referencia tanto al ordenamiento
+de un Estado concreto, como cuando se
+habla del Derecho español, como a un sector
+específico de la regulación jurídica,
+verbigracia, el Derecho administrativo o el
+Derecho mercantil.
+Derecho positivo
+La alusión al Derecho se hace identificándolo
+con el Derecho positivo, esto es, el conjunto
+de normas formalmente reconocidas y
+dictadas por la potestad soberana del Estado
+y, a su vez, aceptadas y observadas por la
+ciudadanía.
+Se trata, por tanto, de una perspectiva literal y descriptiva del fenómeno
+jurídico, desprovista de un análisis crítico o valorativo. Doctrinalmente, se suele
+emplear la metáfora del «Derecho en mayúsculas» para referirse a esta
+dimensión, en cuanto alude al Ordenamiento Jurídico como una estructura
+normativa superior y externa al individuo.
+20
+2. El derecho en sentido objetivo: la
+norma agendi
+Concepto
+El Derecho como conjunto de
+normas que ordenan la vida de una
+determinada comunidad social
+Norma agendi
+Norma de obrar que alude al
+sistema normativo en su totalidad
+En una primera aproximación, el Derecho en su sentido objetivo se concibe
+como el conjunto de normas, reglas y disposiciones vigentes que ordenan la
+vida de una determinada comunidad social. Esta acepción, a la que la doctrina
+se refiere como norma agendi (norma de obrar), alude al sistema normativo en
+su totalidad.
+Ámbito de aplicación
+Puede hacer referencia tanto al
+ordenamiento de un Estado
+concreto, como cuando se habla del
+Derecho español, como a un sector
+específico de la regulación jurídica,
+verbigracia, el Derecho
+administrativo o el Derecho
+mercantil.
+Derecho positivo
+La alusión al Derecho se hace
+identificándolo con el Derecho
+positivo, esto es, el conjunto de
+normas formalmente reconocidas y
+dictadas por la potestad soberana
+del Estado y, a su vez, aceptadas y
+observadas por la ciudadanía.
+Se trata, por tanto, de una perspectiva literal y descriptiva del fenómeno
+jurídico, desprovista de un análisis crítico o valorativo. Doctrinalmente, se suele
+emplear la metáfora del «Derecho en mayúsculas» para referirse a esta
+dimensión, en cuanto alude al Ordenamiento Jurídico como una estructura
+normativa superior y externa al individuo.
+21
+3. El ordenamiento jurídico: estructura
+y coherencia
+Sistema integrado
+El Ordenamiento Jurídico se define como el sistema que integra la totalidad de los
+preceptos vigentes en un país, dotándolos de coherencia y autonomía.
+Función reguladora
+Su función no es solo la de regular conductas, sino también la de establecer los
+mecanismos para la creación de nuevas normas.
+Fuentes del derecho
+El propio Ordenamiento contiene las normas que determinan y confieren a ciertos actos
+la potestad de crear nuevos preceptos.
+El concepto de Derecho objetivo se encuentra intrínsecamente ligado al de
+Ordenamiento Jurídico. Lejos de ser una mera agregación de normas
+inconexas, el Ordenamiento Jurídico constituye un sistema coherente y
+autónomo.
+Estos actos, a los que se les reconoce tal capacidad, constituyen las
+fuentes del Derecho. Su jerarquía es un elemento capital para la
+comprensión de cualquier sistema jurídico.
+22
+4. Jerarquía normativa del
+ordenamiento jurídico español
+1
+Constitución española y tratados de la unión
+europea
+2 Tratados internacionales
+3
+Leyes orgánicas, leyes ordinarias, decretosleyes, decretos legislativos
+4 Reales decretos, órdenes ministeriales
+5
+La costumbre y los principios
+generales del derecho
+4.1 Jerarquía Normativa del Ordenamiento Jurídico Español
+(Pirámide de Kelsen adaptada)
+Perspectiva filosófica
+Desde una perspectiva filosófica, la exigencia
+de coherencia del ordenamiento adquiere
+una relevancia fundamental.
+Legitimidad del sistema
+La eventual creación de normas que violen
+derechos humanos fundamentales o
+discriminen a colectivos específicos haría
+imposible la existencia de un ordenamiento
+jurídico legítimo.
+Se quebrantaría la racionalidad y sensatez que debe presidir todo sistema de
+Derecho.
+23
+5. El derecho en sentido subjetivo: la
+facultas agendi
+Concepto fundamental
+El Derecho subjetivo o facultas agendi (facultad de obrar) se define como
+la posibilidad, poder o facultad, anclada en la moralidad o la ética.
+Manifestación práctica
+Facultad de querer o pretender algo, de hacer o de abstenerse de hacer
+alguna cosa.
+Frente a la dimensión objetiva, esta dimensión se pone de manifiesto en el
+lenguaje cotidiano cuando un individuo afirma:
+Estas expresiones no aluden a la norma en sí, sino a las pretensiones y
+facultades que los individuos entienden que el ordenamiento debe reconocer y
+proteger. Representan, por tanto, la perspectiva del sujeto que es titular de
+poderes o facultades para intervenir en la vida jurídica y social.
+«Tengo derecho a disfrutar de mi
+propiedad»
+«Tengo derecho al voto»
+24
+6. La distinción terminológica:
+«derecho» frente a «derecho»
+Derecho objetivo
+«Derecho en mayúsculas» - La
+norma externa y coercitiva
+Derecho subjetivo
+«derecho en minúsculas» - La
+facultad o poder del individuo
+A efectos didácticos, si el Derecho objetivo se asocia al «Derecho en
+mayúsculas», el sentido subjetivo se corresponde con el «derecho en
+minúsculas».
+Aclaración importante
+Esta distinción no implica en modo alguno
+una jerarquía de valor o una menor
+importancia del derecho subjetivo.
+Herramienta comparativa
+Se trata, simplemente, de una herramienta
+comparativa para diferenciar ambos
+conceptos jurídicos fundamentales.
+Como no podría ser de otro modo, ambos sentidos se encuentran
+íntimamente relacionados, pues la existencia de una facultad subjetiva
+presupone, por regla general, el reconocimiento de una norma objetiva
+que la ampare.
+25
+7. La problemática de la relación entre
+derecho objetivo y subjetivo
+7.1 Planteamiento de la cuestión: la prioridad conceptual
+Una de las cuestiones centrales en la Filosofía del Derecho es la relativa a la
+posible prioridad de un sentido sobre otro. ¿Existe una preeminencia conceptual
+del Derecho objetivo sobre el subjetivo, o viceversa?
+Interrogante
+fundamental
+¿Cuál tiene prioridad
+conceptual?
+Debate doctrinal
+El análisis ofrece dos
+posturas claramente
+contrapuestas
+Análisis esencial
+Cuyo estudio resulta
+fundamental
+La tensión entre ambas concepciones fue magistralmente expuesta por Hans
+Kelsen. A continuación, se sintetizan las dos tesis principales:
+26
+7. Dos perspectivas doctrinales
+contrapuestas
+Tesis de la anterioridad del
+derecho subjetivo
+Para quienes sostienen un
+concepto amplio del derecho, el
+subjetivo goza de un rango de
+anterioridad frente al objetivo.
+El derecho subjetivo es un
+concepto pre-jurídico
+Una exigencia moral o de
+justicia inmanente
+De la cual emana el Derecho
+objetivo
+Tesis de la dependencia del
+derecho subjetivo
+Desde una óptica tecnojurista o
+positivista estricta, el derecho
+subjetivo no tiene existencia
+autónoma.
+Se encuentra subsumido
+dentro del Derecho objetivo
+No es una fuente, sino una
+consecuencia
+Es una derivación de la norma
+jurídica objetiva
+Criterio Perspectiva amplia
+(prioridad del subjetivo)
+Perspectiva tecnojurista
+(prioridad del objetivo)
+Prioridad El derecho subjetivo es anterior
+conceptual y moralmente
+El Derecho objetivo es anterior y
+lógicamente necesario
+Naturaleza del d.
+subjetivo
+Concepto pre-jurídico, emanado
+de la moral o la justicia
+Creación del Derecho objetivo;
+una consecuencia de la norma
+Relación El Derecho objetivo es una
+cristalización de los derechos
+subjetivos
+El derecho subjetivo es
+dependiente y está contenido en
+el Derecho objetivo
+27
+Tema 4: Criterios de
+distinción de los usos
+sociales y las normas
+jurídicas
+El ordenamiento jurídico no constituye el único sistema normativo que regula la
+conducta humana en sociedad. Junto a las normas jurídicas, coexisten otros
+conjuntos de preceptos, como las normas morales o los denominados usos
+sociales, que condicionan y orientan el comportamiento de los individuos.
+Para el jurista, resulta de capital importancia disponer de criterios rigurosos
+que permitan deslindar la esfera de lo estrictamente jurídico de aquella otra
+regida por las convenciones sociales. La correcta identificación de la naturaleza
+de cada precepto es presupuesto indispensable para determinar su régimen de
+aplicación y sus consecuencias.
+28
+1. El origen de la norma: procedencia estatal
+versus génesis social
+Normas jurídicas
+Emanan de un órgano estatal específico,
+dotado de potestad normativa conforme a
+un procedimiento preestablecido.
+Estructura jerarquizada y formalizada
+Validez dependiente del sistema de
+fuentes
+Procedimiento reglado de creación
+Usos sociales
+Nacen de manera espontánea en el seno de
+la propia sociedad como resultado de una
+práctica reiterada y generalizada.
+Sistema difuso e informal
+Fuerza obligatoria por presión social
+Aceptación colectiva como base
+Esta diferencia en el origen determina la estructura de cada sistema. El Derecho se configura como
+un ordenamiento jerarquizado, mientras que los usos sociales conforman un sistema asistemático
+cuya fuerza obligatoria reposa exclusivamente en la presión social y la aceptación colectiva.
+2. El contenido de la regulación y el fenómeno del
+trasvase normativo
+Un segundo criterio se centra en el contenido material de los preceptos. Se ha sostenido que las
+normas jurídicas poseen un contenido específico, distinto del de los usos sociales. Sin embargo,
+este criterio resulta insatisfactorio debido al constante intercambio entre ambos órdenes
+normativos.
+Uso social inicial
+Las mujeres no fumaban en
+público por convención
+social
+Proceso de cambio
+Evolución de las
+percepciones sociales sobre
+el tabaco
+Regulación jurídica
+Ley antitabaco con
+prohibiciones y sanciones
+formales
+Este fenómeno de trasvase normativo evidencia la permeabilidad entre ambos sistemas. Materias
+inicialmente reguladas por usos sociales pueden ser objeto de minuciosa regulación jurídica, y
+viceversa. Se transitó de una prohibición fáctica, basada en costumbre social, a una prohibición
+jurídica formalmente establecida.
+29
+3. La imperatividad o fuerza vinculante
+Tradicionalmente se afirma que las normas jurídicas poseen un grado de
+imperatividad superior al de los usos sociales. Su obligatoriedad es
+incondicionada y su cumplimiento puede ser exigido coactivamente. No
+obstante, esta afirmación debe ser matizada.
+Fuerza de los usos sociales
+En determinados supuestos, el sentido de la obligación que percibe un
+sujeto ante una norma social puede ser superior al que experimenta frente
+a una norma jurídica.
+Ejemplos prácticos
+Consumo de alcohol en celebraciones sociales
+Presión del grupo para conducir bajo efectos
+Actos vandálicos en celebraciones
+Existen situaciones donde ha podido más la fuerza del uso social que la
+conminación de la norma jurídica, llevando incluso a la contravención
+del ordenamiento jurídico.
+30
+4. Cuadro comparativo de criterios
+distintivos
+Criterio Normas jurídicas Usos sociales
+Origen Emanan de órganos
+estatales específicos
+Nacen espontáneamente
+de la sociedad
+Contenido Específico, aunque
+susceptible de trasvase
+General y difuso, aunque
+susceptible de
+juridificación
+Imperatividad Máxima y coactiva por
+definición
+Variable, depende de la
+presión social. Puede ser
+fácticamente superior
+Finalidad Salvaguarda de bienes
+esenciales para la
+convivencia
+Ordenación general de las
+relaciones sociales
+Sanción Institucionalizada:
+organizada, sistemática,
+previsible y aplicada
+mediante la fuerza
+coactiva del Estado
+Social: espontánea,
+imprecisa, basada en la
+reprobación o exclusión
+del grupo
+31
+5. La finalidad de la norma
+Otro criterio de distinción radica en la finalidad
+perseguida. Se postula que las normas jurídicas tienen
+por objeto la salvaguarda de los bienes y valores
+esenciales para la subsistencia de la comunidad,
+mientras que los usos sociales se limitarían a ordenar
+aspectos más superficiales. Sin embargo, este criterio
+también es relativo.
+Normas de tráfico
+Intensificación del carácter coactivo
+Modificación de usos
+Cambio en formas de conducir
+Reducción efectiva
+Disminución sostenida de siniestralidad
+La eficacia real de muchas normas jurídicas depende,
+en gran medida, de su sintonía con los usos sociales
+vigentes. Las normas jurídicas que no conectan con los
+valores y usos de una sociedad en un momento
+determinado corren el riesgo de devenir ineficaces.
+32
+6. El sistema de sanción: la coacción
+institucionalizada
+El criterio de distinción más decisivo y concluyente es el relativo a la naturaleza
+de la sanción y su modo de imposición. La característica esencial de la norma
+jurídica reside en que su mecanismo sancionador implica necesariamente el
+uso de la fuerza de manera organizada y sistemática.
+Sanciones jurídicas
+Tasadas y predeterminadas
+Procedimiento reglado con
+garantías
+Respaldadas por la fuerza
+coactiva del Estado
+Ejecución sistemática y
+organizada
+Sanciones sociales
+Naturaleza difusa y espontánea
+Aplicación imprecisa por el
+grupo
+Reprobación social y pérdida de
+prestigio
+Exclusión del círculo social en
+casos graves
+Es precisamente esta institucionalización de la coacción lo que
+constituye el rasgo definitorio por excelencia del Derecho.
+33
+7. El proceso de
+trasvase normativo:
+ejemplo del tabaco
+1 Fase 1: uso social
+Conducta regulada por la costumbre
+"Las mujeres no fuman en público"
+Sanción social: Reprobación del grupo,
+miradas de desaprobación, cuestionamiento
+de la pertenencia
+2 Fase 2: concienciación social
+La sociedad percibe la conducta como un
+problema de salud pública
+El Estado interviene progresivamente
+3 Fase 3: norma jurídica
+Conducta regulada por la Ley
+"Ley antitabaco: prohibido fumar en
+espacios cerrados"
+Sanción jurídica: Multas económicas,
+sanciones a establecimientos, fuerza
+coactiva del Estado
+Este ejemplo paradigmático ilustra cómo una
+materia puede transitar de la regulación
+social informal a la normativa jurídica formal,
+manteniendo el mismo objetivo regulador
+pero cambiando radicalmente el sistema de
+sanciones y su aplicación.
+34
+Tema 5: Derecho natural y
+derecho positivo
+1. Iusnaturalismo (derecho natural)
+El iusnaturalismo postula la existencia de un derecho previo y superior al
+derecho creado por los humanos (derecho positivo). Este "derecho natural" no
+necesita ser escrito ni inventado, ya que se considera inherente a la naturaleza
+misma o a la razón humana, existiendo incluso antes que las sociedades.
+Función
+Su propósito es servir de
+fundamento, guía y límite
+para el derecho positivo.
+Dualismo
+Históricamente, muchas
+sociedades operaron bajo
+un sistema dualista, donde
+el derecho natural (casi
+divino o modélico)
+coexistía con el derecho
+positivo.
+Problema
+Su principal debilidad es la
+falta de un único concepto
+de "naturaleza", lo que
+genera controversias y
+distintas interpretaciones.
+Para simplificar, estas interpretaciones se agrupan en tres grandes familias:
+1
+Teológica
+El derecho emana de la
+voluntad de Dios y su
+creación. Las normas
+divinas son las que deben
+regir las relaciones
+sociales.
+2
+Cosmológica
+La naturaleza es un
+universo con sus propias
+leyes físicas. El ser
+humano, como parte de
+este cosmos, se somete a
+estas leyes a través de sus
+instintos y necesidades.
+3
+Racionalista
+La razón es la cualidad
+distintiva de la humanidad,
+y es a través de ella que se
+determinan las normas
+justas para la convivencia.
+Esta es la corriente que
+más ha influido en el
+pensamiento moderno.
+35
+2. Positivismo jurídico (derecho positivo)
+El positivismo jurídico define el derecho como el conjunto de normas
+promulgadas por el legislador, es decir, un producto de la voluntad humana
+que depende del poder en un lugar y tiempo determinados. Es el derecho del
+"aquí y ahora".
+Versión extrema
+Niega por completo la validez y juridicidad del
+derecho natural.
+Versión moderada
+Acepta la influencia del derecho natural como
+una guía para evitar desviaciones peligrosas
+en la ley.
+Además, el positivismo se puede clasificar en tres tipos principales:
+01
+Positivismo
+metodológico
+Aborda el derecho como una
+ciencia. Su objetivo es estudiar
+las leyes tal y como son, de
+manera neutral y objetiva,
+ordenando los datos para crear
+un sistema de conceptos.
+Busca eliminar la ambigüedad y
+la metafísica.
+02
+Positivismo ontológico
+Entiende el derecho
+principalmente a través de la
+coacción estatal. Según el
+filósofo Hans Kelsen, una
+norma es válida si forma parte
+de una cadena jerárquica que
+desciende de una "norma
+fundamental". El derecho se
+justifica a sí mismo, sin
+necesidad de factores externos
+como la moral o la divinidad.
+03
+Positivismo ideológico
+Sostiene que el deber de
+obedecer la ley es
+incondicionado, sin importar su
+contenido. Esta visión, al
+separar por completo la ley de
+la moral, puede abrir la puerta a
+concepciones totalitarias de la
+sociedad. Un ejemplo clásico
+de esta línea de pensamiento
+es el Leviatán de Thomas
+Hobbes.
+La tensión entre derecho natural y derecho positivo sigue siendo uno de
+los debates fundamentales en la filosofía jurídica contemporánea,
+influyendo en cómo entendemos la justicia, la legitimidad y los límites
+del poder estatal.
+36
+Tema 6: El realismo jurídico
+El realismo jurídico sostiene que el derecho válido es el derecho eficaz, es
+decir, aquel que realmente se aplica y se cumple en la sociedad.
+1. Origen y diferencia clave
+El realismo jurídico es una variante del positivismo científico, pero con una
+diferencia fundamental: no es formalista. Mientras que el positivismo
+científico se centra en el estudio objetivo de la ley escrita, sin valorarla ni
+buscar cambiarla, el realismo jurídico argumenta que el derecho no puede
+separarse de la vida social, ya que nace de las necesidades de la sociedad.
+Esta corriente filosófica revolucionó la comprensión tradicional del derecho al
+enfatizar la importancia de la aplicación práctica por encima de la teoría
+abstracta. Los realistas jurídicos consideran que el verdadero derecho no reside
+únicamente en los textos legales, sino en cómo estos se materializan en la
+realidad social cotidiana.
+37
+2. Corrientes principales del realismo
+jurídico
+A partir del siglo XX, el realismo jurídico se dividió principalmente en dos
+grandes corrientes: la estadounidense y la escandinava.
+La corriente estadounidense
+Esta corriente se desarrolla en el contexto del common law anglosajón, donde los jueces
+tienen un margen interpretativo muy amplio.
+Precedentes judiciales: En este sistema, las decisiones judiciales anteriores (precedentes)
+tienen más peso que el derecho legislado. Casos importantes pueden ser invocados en un
+juicio con valor de ley.
+El juez como investigador social: Se espera que el juez no solo aplique la ley, sino que
+también investigue el contexto social para que sus veredictos se alineen con el "derecho
+vivo" de la sociedad.
+Factores extrajurídicos: Se reconoce que las decisiones de los jueces pueden estar
+influenciadas por factores personales como su estado de ánimo, prejuicios o creencias
+ideológicas.
+Ética del legalismo
+Donde se puede confundir lo ético
+con lo jurídico.
+Ética del activismo
+Donde el juez podría tomar
+decisiones basándose únicamente
+en sus propias concepciones éticas
+o políticas, lo cual puede ser
+problemático.
+Esta capacidad del juez para "crear derecho" a través de sus sentencias
+plantea un debate ético fundamental, diferenciando entre estas dos
+aproximaciones que pueden generar tensiones en el sistema judicial.
+38
+3. La corriente escandinava
+Los realistas escandinavos adoptaron un enfoque más teórico y crítico,
+buscando desmitificar la naturaleza del derecho.
+Crítica a la metafísica
+Consideran que conceptos como "justicia" y "voluntad del Estado" son residuos del
+iusnaturalismo y la metafísica, no realidades tangibles.
+Voluntades individuales
+No existe la "voluntad del
+Estado", sino voluntades
+individuales de las personas
+que lo componen.
+Imperativos
+independientes
+Las normas no son mandatos
+del Estado, sino "imperativos
+independientes" que cada juez
+interpreta y aplica.
+Pacto social implícito
+La obediencia y aplicación de
+las normas se basa en un
+pacto social implícito: los
+ciudadanos obedecen las
+reglas para evitar
+consecuencias negativas, y los
+jueces las aplican porque la
+sociedad las considera
+obligatorias. Hay una
+reciprocidad entre la ciudadanía
+y el poder judicial.
+La corriente escandinava representa una revolución conceptual en la
+comprensión del derecho, alejándose de abstracciones metafísicas para
+centrarse en las realidades sociales concretas que sustentan el
+funcionamiento del sistema jurídico.
+39
+BLOQUE 2
+PLURALISMO, DERECHO ESTATAL Y DERECHOS
+FUNDAMENTALES
+40
+Tema 1: Pluralismo jurídico
+El pluralismo jurídico constituye un tema central en la Filosofía del Derecho, ya
+que desafía la concepción tradicional de que la ley emana exclusivamente del
+Estado. En esencia, se refiere a la coexistencia de múltiples sistemas o
+fuentes de derecho dentro de un mismo espacio social.
+Este fenómeno se puede abordar desde dos perspectivas principales: una
+versión fuerte y una versión débil, cada una con características distintivas que
+determinan cómo se estructura y aplica el derecho en una sociedad
+determinada.
+41
+1. Versión fuerte del pluralismo jurídico
+Concepto fundamental
+La versión fuerte defiende la
+existencia de una diversidad de
+derechos que coexisten, a
+menudo de forma jerárquica o
+interdependiente, en un mismo
+territorio o aplicables a la misma
+situación.
+Pluralidad de sistemas
+La clave en esta versión es la
+pluralidad de sistemas de
+derechos, no solo de fuentes.
+Diversos sistemas legales pueden
+operar en paralelo dentro del
+mismo marco jurídico.
+Un ejemplo claro de esto en el ordenamiento español es la coexistencia del
+Derecho Civil y el Derecho Mercantil, que se aplican según las circunstancias
+específicas de cada caso. Otro ejemplo significativo es la existencia de un
+derecho propio para las comunidades autónomas junto con el derecho estatal,
+demostrando que diversos sistemas legales pueden operar en paralelo.
+Jerarquía
+Relaciones de
+subordinación entre
+sistemas
+Dependencia
+Sistemas
+interdependientes que
+se complementan
+Igualdad
+Sistemas que
+coexisten en el mismo
+nivel
+En este marco, las relaciones entre estos derechos pueden ser de jerarquía,
+dependencia o incluso de igualdad. La cultura jurídica de cada país influye
+significativamente en cómo se estructuran estas relaciones complejas.
+42
+2. Versión débil del pluralismo jurídico
+La versión débil del pluralismo jurídico se
+centra en la diversidad de fuentes del
+derecho en lugar de la pluralidad de sistemas
+de derechos. Esta perspectiva se manifiesta
+en la coexistencia de diferentes orígenes de la
+ley más allá de la ley estatal.
+En el caso de España, esta versión se
+ejemplifica en el hecho de que, además de la
+ley, existen otras fuentes como la costumbre
+o los principios generales del derecho.
+Pluralidad de orígenes
+En un sistema con una versión débil de pluralismo, la ley no es la única
+fuente de la que emanan las normas jurídicas.
+Distinción fundamental
+La versión débil se enfoca en la pluralidad de los orígenes formales del
+derecho, mientras que la versión fuerte se centra en la existencia de
+múltiples ordenamientos jurídicos aplicables.
+Limitación conceptual
+Es importante destacar que la existencia de una sola fuente del derecho,
+como únicamente la costumbre, no se consideraría pluralismo jurídico.
+43
+3. Implicaciones y ejemplos del pluralismo jurídico
+El pluralismo jurídico tiene importantes implicaciones, especialmente al
+considerar el desarrollo de leyes que se aplican a grupos específicos o
+situaciones particulares. Por ejemplo, los derechos para minorías o las medidas
+de protección para grupos vulnerables, como las mujeres maltratadas, pueden
+coexistir con el ordenamiento jurídico general sin que haya una contradicción.
+Adaptabilidad
+social
+Esta adaptabilidad
+del derecho a
+realidades sociales
+concretas demuestra
+cómo el pluralismo
+jurídico permite una
+respuesta legal más
+matizada y completa.
+Reflejo social
+En última instancia, el
+pluralismo jurídico es
+un resultado de las
+costumbres y la
+evolución de una
+sociedad concreta.
+Contexto
+dinámico
+Subraya que el
+derecho es un reflejo
+de su contexto
+social y no una
+entidad abstracta y
+monolítica impuesta
+por el Estado.
+Esquema comparativo de las versiones del pluralismo jurídico
+Característi
+ca
+Pluralismo jurídico fuerte
+(Pluralismo de derechos)
+Pluralismo jurídico débil
+(Pluralismo de fuentes)
+Concepto Coexistencia de dos o más sistemas
+jurídicos completos
+Diversas fuentes del derecho
+coexisten junto a la ley
+Ejemplo en
+España
+Coexistencia del derecho civil y el
+derecho mercantil. Derecho
+autonómico y derecho estatal
+La ley, la costumbre, los principios
+generales del derecho
+Relación
+entre ellos
+Puede haber jerarquías o
+interdependencia entre los sistemas
+Diferentes orígenes que contribuyen
+a un único ordenamiento
+Finalidad Aborda la diversidad de sistemas
+legales aplicables a distintas
+situaciones o personas
+Reconoce múltiples orígenes para
+la creación de normas jurídicas
+44
+Tema 2: Derecho alternativo
+El Derecho Alternativo constituye un concepto doctrinal que emerge como una
+crítica al tradicional dominio del derecho estatal. Su propósito primordial es
+subvertir esta hegemonía y lograr su propio reconocimiento jurídico. Conviene
+destacar que, si bien el término puede parecer unitario, la doctrina distingue
+dos modelos principales: la versión en sentido fuerte y la versión en sentido
+débil, distinción que ya se ha abordado en el marco del pluralismo jurídico.
+Versión fuerte
+El Derecho Alternativo aspira a la sustitución total del derecho del Estado.
+Esta posición no postula un cambio del monismo jurídico estatal a un
+pluralismo de sistemas, sino, de manera más radical, la transición de un
+monismo estatal a un monismo alternativo. El objetivo es, en suma,
+reemplazar el ordenamiento jurídico hegemónico por uno de carácter
+alternativo.
+45
+1. Coexistencia y pluralismo jurídico
+Por el contrario, la versión débil no busca la
+sustitución, sino la coexistencia de ambos
+derechos, el estatal y el alternativo. Esta
+postura propicia un genuino pluralismo
+jurídico, en el cual múltiples sistemas
+normativos coexisten en un mismo espacio
+social.
+Como bien lo define el autor Correas, el
+concepto de Derecho Alternativo puede
+entenderse como "el derecho cuyas
+normas efectivas constituyen delitos para el
+derecho hegemónico del Estado".
+Nótese que esta definición subraya la
+naturaleza conflictiva de su relación con el
+derecho establecido.
+Derecho estatal
+Sistema jurídico
+hegemónico tradicional
+Coexistencia
+Pluralismo jurídico
+genuino
+Derecho alternativo
+Sistema normativo
+emergente
+46
+2. Fundamentos y partidarios del
+derecho alternativo
+La emergencia del Derecho Alternativo se sustenta en una serie de
+fundamentos teóricos que cuestionan las bases del derecho estatal y proponen
+una relectura de su origen y función. El análisis parte de la fuente material del
+derecho, que los partidarios del Derecho Alternativo no sitúan en el Estado, sino
+en la propia sociedad, conformada por una diversidad de grupos y movimientos.
+Origen social del
+derecho
+El sujeto colectivo 4entiéndase
+minorías étnicas y sociales,
+campesinos sin tierra, obreros
+explotados, e inmigrantes
+indocumentados, entre otros4
+se erige como el verdadero
+autor del derecho. Desde esta
+perspectiva, el Derecho
+Alternativo pretende dar
+respuesta a las necesidades
+jurídicas de quienes no se
+sienten representados por un
+derecho hegemónico.
+Acto constitutivo vs.
+declarativo
+A mayor abundamiento, el
+segundo fundamento se
+encuentra en la distinción entre
+el acto constitutivo y el acto
+declarativo del derecho. Se
+sostiene que el Estado no es el
+creador del derecho, sino que
+su función es meramente
+declarativa, es decir, de
+reconocimiento y confirmación
+de un derecho que ya ha sido
+constituido por la sociedad. En
+este sentido, la sociedad sería
+la fuente de origen del derecho,
+mientras que el Estado
+simplemente lo ratifica,
+otorgándole el carácter de
+norma legal.
+Normas justas e injustas
+El tercer y último fundamento
+radica en la distinción entre
+normas justas e injustas dentro
+del ordenamiento jurídico
+estatal. Los juristas alternativos
+abogan por la idea de que
+ciertas normas, aunque
+formalmente legales, son
+intrínsecamente injustas y, por
+tanto, deberían caer en desuso.
+Proponen un cambio en la
+práctica jurídica para que esta
+adopte un carácter más
+garantista de los derechos de
+los grupos más vulnerables.
+47
+2.1 Origen geográfico
+El movimiento del Derecho Alternativo halla su origen social en América Latina,
+especialmente en Brasil, donde el derecho estatal ha sido tradicionalmente
+percibido como una herramienta opresora y de clase.
+En este contexto, el Derecho Alternativo se concibe como un instrumento de
+transformación social, diseñado para empoderar a las clases oprimidas y
+avanzar hacia una democracia más auténtica. Resulta lógico que este fenómeno
+no surja en países como Suiza o Noruega, donde los derechos de las minorías
+ya han sido reconocidos y consolidados desde hace tiempo.
+3. Modelos de derecho alternativo
+Modelo Objetivo Relación con el
+derecho estatal
+Consecuencia
+jurídica
+Fuerte Sustitución Reemplazo completo Monismo alternativo
+Débil Coexistencia Coexistencia pacífica o
+conflictiva
+Pluralismo jurídico
+3.1 Fundamentos del derecho alternativo
+Origen social del
+derecho
+La sociedad (grupos
+y movimientos) es la
+fuente material, no el
+Estado.
+Acto constitutivo vs.
+acto declarativo
+La sociedad crea el
+derecho
+(constitutivo); el
+Estado lo reconoce
+(declarativo).
+Disección de normas
+Diferencia entre
+normas legales justas
+e injustas en el
+derecho estatal.
+48
+Tema 3: Uso alternativo del
+derecho
+El uso alternativo del Derecho representa una estrategia interpretativa que
+busca reorientar la aplicación del ordenamiento jurídico vigente hacia una
+perspectiva más favorable a las clases sociales desfavorecidas, sin pretender
+sustituir el sistema legal existente.
+Concepto fundamental
+Interpretación del derecho hegemónico en
+un sentido más favorable a los intereses de
+las clases sociales desfavorecidas, sin
+anular el ordenamiento jurídico vigente sino
+reorientando su aplicación.
+Objetivo principal
+Mitigar los efectos potencialmente
+regresivos del derecho estatal mediante una
+aplicación más equitativa y socialmente
+consciente de las normas jurídicas
+existentes.
+1. Causas fundamentales del uso alternativo
+Causa de orden fáctico
+La ambigüedad, insuficiencia y las inherentes contradicciones del Derecho estatal
+posibilitan diversas interpretaciones. Este "espacio" interpretativo permite al jurista
+actuar en favor de los intereses de las clases populares.
+Causa de orden valorativo
+Las distintas ideologías que profesan los intérpretes del derecho 4jueces, abogados,
+etc.4 influyen en su labor. El derecho es susceptible de una interpretación tanto
+conservadora como progresista.
+Esta práctica da lugar a lo que se ha denominado jurisprudencia
+alternativa, un corpus de decisiones y aplicaciones jurídicas que se
+distancia de la jurisprudencia tradicional al priorizar la protección de los
+grupos más vulnerables.
+49
+2. Fundamentos del uso alternativo del derecho
+Premisa epistemológica central
+El uso alternativo del Derecho se fundamenta en una premisa
+epistemológica fundamental: la imposibilidad de una interpretación del
+derecho totalmente neutral. Esta comprensión reconoce que toda
+aplicación de la norma implica necesariamente una carga valorativa.
+Justificación teórica
+Dado que toda aplicación de la norma implica una carga
+valorativa, se justifica que dicha carga se incline en un
+sentido progresista y transformador. Esta perspectiva
+reconoce que la neutralidad absoluta en la interpretación
+jurídica es una ilusión, y por tanto, es preferible una
+orientación consciente hacia la justicia social.
+Estrategia de cambio
+A diferencia de la versión fuerte del Derecho Alternativo, el
+uso alternativo del Derecho no busca la sustitución del
+ordenamiento jurídico estatal, sino su modificación a
+través de su aplicación. Se trata de una estrategia de
+cambio que opera desde dentro del sistema.
+Transformación
+interna:
+Alterando el uso
+tradicional del
+Derecho para
+hacerlo más
+justo y
+equitativo,
+trabajando
+dentro de las
+estructuras
+existentes para
+generar cambios
+significativos.
+01
+Reconocimiento de la
+subjetividad
+Aceptación de que toda
+interpretación jurídica conlleva
+elementos valorativos y
+subjetivos inherentes al
+intérprete.
+02
+Orientación progresista
+Decisión consciente de dirigir
+esa subjetividad hacia objetivos
+de justicia social y protección
+de los más vulnerables.
+03
+Aplicación
+transformadora
+Implementación práctica de
+esta orientación en la
+interpretación y aplicación de
+las normas jurídicas existentes.
+50
+3. Ámbito de aplicación y desarrollo
+histórico
+1
+Orígenes en Italia -
+Años 70
+El uso alternativo del Derecho tiene
+sus raíces en Europa,
+concretamente en la Italia de los
+años 70, donde surgió el término y
+fue aplicado por juristas para
+favorecer a las clases populares.
+Este movimiento emergió como
+respuesta a las necesidades
+sociales de la época.
+2
+Expansión a España
+En España, autores como López
+Calera e Isavedra han estudiado y
+contribuido a esta corriente,
+desarrollando marcos teóricos
+adaptados al contexto jurídico
+español y enriqueciendo el debate
+académico sobre estas prácticas.
+3
+Consolidación teórica
+El movimiento alternativista surge
+como una respuesta a las crisis
+inherentes de los modelos de
+ciencia jurídica y del propio
+derecho occidental de la cultura
+burguesa, construyendo una
+aplicación del derecho más
+garantista.
+51
+3.1 Contexto de emergencia
+Crisis de los
+modelos jurídicos
+Esta corriente bebe
+de las
+contradicciones y
+deficiencias de los
+sistemas jurídicos
+occidentales,
+identificando las
+limitaciones
+estructurales del
+derecho burgués
+tradicional y sus
+efectos sobre las
+clases populares.
+Construcción
+alternativa
+A partir de estas
+contradicciones, se
+construye una
+aplicación del
+derecho más
+garantista, que
+aprovecha los
+espacios de
+interpretación para
+generar resultados
+más equitativos y
+socialmente justos.
+Desarrollo
+académico
+Los estudios de
+López Calera e
+Isavedra han
+contribuido
+significativamente al
+desarrollo teórico de
+esta corriente,
+proporcionando
+fundamentos sólidos
+para su aplicación
+práctica en el
+contexto español.
+"El movimiento alternativista surge como una respuesta a las crisis inherentes de los modelos de
+ciencia jurídica y del propio derecho occidental de la cultura burguesa."
+4. Esquemas conceptuales fundamentales
+4.1 Causas del uso alternativo del derecho
+Causa Descripción
+Orden
+Fáctico
+Ambigüedades y vacíos en el derecho estatal que permiten
+una interpretación flexible, creando espacios de maniobra
+para el jurista comprometido con la justicia social.
+Orden
+Valorativo
+La ideología del jurista influye en la interpretación,
+permitiendo un enfoque progresista que priorice los intereses
+de las clases desfavorecidas.
+52
+5. Diferencia conceptual fundamental
+Derecho Alternativo
+Característica Principal:
+Coexistencia o sustitución del
+derecho estatal mediante la
+creación de sistemas jurídicos
+paralelos o completamente nuevos.
+Estrategia de Cambio: Creación de
+un nuevo sistema jurídico que
+reemplace o complemente el
+existente, operando desde fuera
+del sistema establecido.
+Uso Alternativo del Derecho
+Característica Principal:
+Interpretación del derecho estatal
+en clave social, manteniendo el
+marco jurídico existente pero
+reorientando su aplicación.
+Estrategia de Cambio:
+Modificación del derecho existente
+a través de su aplicación,
+trabajando desde dentro del
+sistema para transformarlo
+gradualmente.
+53
+Interpretación flexible
+Aprovechamiento de ambigüedades
+normativas
+Orientación social
+Priorización de intereses populares
+Trabajo interno
+Transformación desde dentro del
+sistema
+Cambio progresista
+Aplicación transformadora del derecho
+La distinción fundamental radica en que
+mientras el Derecho Alternativo busca crear
+nuevos sistemas jurídicos, el uso alternativo del
+Derecho trabaja para transformar el sistema
+existente desde su interior, aprovechando sus
+propias contradicciones y espacios
+interpretativos.
+54
+Tema 4: El pluralismo
+jurídico en la doctrina
+1. La visión de Boaventura de Sousa Santos: la interlegalidad
+La concepción del pluralismo jurídico en la doctrina contemporánea se ha
+enriquecido con las aportaciones de diversos autores. Uno de los más
+influyentes es el sociólogo del derecho portugués Boaventura de Sousa Santos
+(1940), quien define el pluralismo jurídico no como un conjunto de sistemas de
+derecho independientes, sino como una amalgama de sistemas conectados y, a
+veces, superpuestos. A esta interconexión y mezcla de diversos sistemas
+jurídicos la denomina interlegalidad.
+Nótese, por ejemplo, que en el contexto español, la interlegalidad se
+manifestaría en la relación entre el derecho de una comunidad autónoma, como
+el de Castilla y León, y el derecho del Estado español. Para de Sousa Santos, no
+existe una contraposición entre estos derechos, sino una conexión.
+Modernización
+jurídica
+Incorporación
+de normas de
+un derecho
+extranjero,
+como la
+adopción de
+derecho
+europeo para
+modernizar el
+derecho
+rumano
+Convivencia
+colonial
+Coexistencia
+entre el
+derecho del
+colonizador y
+el derecho
+propio en
+países que han
+sufrido la
+colonización
+Transición
+revolucionaria
+Oposición
+entre el
+derecho
+antiguo y el
+nuevo en
+países que han
+pasado por
+procesos
+revolucionarios
+Conquista
+territorial
+Coexistencia
+de un derecho
+anterior y un
+nuevo derecho
+en países
+conquistados
+55
+El pluralismo jurídico, según de Sousa Santos, puede operar en múltiples
+niveles. A modo de ejemplo, el derecho local de un municipio puede coexistir
+con el derecho de la comunidad autónoma, el derecho del Estado y, a su vez,
+con el derecho de la Unión Europea. Esta estratificación de espacios legales,
+superpuestos e interconectados, demuestra la complejidad del fenómeno
+jurídico en la postmodernidad.
+Como dato relevante, la estancia de de Sousa Santos en Brasil durante
+la década de los setenta influenció profundamente su pensamiento,
+dado que en este país el derecho alternativo se desarrolló como una
+respuesta a la opresión de las clases desfavorecidas, lo que explica su
+particular sensibilidad hacia la crítica del derecho hegemónico.
+56
+Otro pilar del pensamiento crítico
+latinoamericano es el jurista, historiador y
+filósofo brasileño Antonio Carlos Wolkmer.
+Su contribución fundamental al debate sobre
+el pluralismo jurídico radica en la defensa de
+una multiplicidad de prácticas jurídicas en un
+mismo espacio sociopolítico, ya sean oficiales
+o no.
+Derecho oficial
+Leyes y normativas reconocidas
+formalmente por el Estado, que
+constituyen el marco jurídico
+institucional establecido
+Derecho no oficial
+Derechos que emergen de los
+movimientos sociales como
+respuesta a un derecho estatal
+percibido como opresor
+Aquí reside la clave de su teoría: para Wolkmer, el pluralismo jurídico no se
+limita a las leyes y normativas reconocidas por el Estado, sino que incluye
+también los derechos no oficiales que emergen de los movimientos sociales.
+Estos derechos no oficiales son, por lo general, la respuesta de comunidades y
+grupos oprimidos que se enfrentan a un derecho estatal que perciben como
+opresor. En este sentido, el Derecho Alternativo, que surge en países como
+Brasil, se considera una parte constitutiva del pluralismo jurídico, incluso si no
+está formalmente reconocido por el Estado.
+La distinción entre derecho oficial y no oficial es, por tanto, el elemento
+central de su pensamiento y su aportación a la doctrina.
+57
+2. La visión doctrinal general: la
+interlegalidad en la posmodernidad
+En la doctrina actual, el pluralismo jurídico se ha posicionado como un concepto
+fundamental en la visión posmoderna del derecho. Dicha visión se caracteriza
+por la coexistencia de espacios legales superpuestos, interconectados e
+interrelacionados.
+Conviene precisar que, si bien existe una jerarquía, esta no
+siempre es absoluta. Así, en ciertas materias como la cultura o la
+defensa, el derecho estatal puede conservar una mayor potestad
+que el derecho internacional.
+Superpuestos
+El derecho local, el
+autonómico, el estatal
+y el internacional
+coexisten de manera
+jerárquica, con cada
+nivel influyendo en el
+siguiente
+Interconectados
+Los diferentes niveles
+de derecho están
+ligados entre sí, de
+manera que la validez
+de un derecho local
+está condicionada por
+las normas del derecho
+autonómico o estatal
+Interrelacionados
+Los distintos
+ordenamientos
+jurídicos se influyen
+mutuamente. El
+derecho estatal puede
+estar limitado por las
+directrices del derecho
+internacional
+58
+Derecho local 1
+Normativas municipales y
+locales
+2 Derecho
+autonómico
+Legislación de comunidades
+autónomas
+Derecho estatal 3
+Constitución y leyes nacionales
+4 Derecho
+internacional
+Tratados y derecho de la Unión
+Europea
+Sin embargo, la interlegalidad, como concepto central del pluralismo jurídico, da
+cuenta de la complejidad y dinamismo de la realidad jurídica moderna, en la que
+el derecho es un tejido de normas que coexisten, se interrelacionan y se
+influencian mutuamente.
+59
+Tema 5: Oposición estatal al
+pluralismo jurídico
+La historia del derecho ha estado marcada por un esfuerzo constante de los
+grupos dominantes para imponer la idea de que la perfección jurídica reside en
+la unidad legal, mientras que la diversidad de ordenamientos se considera un
+peligro para la estabilidad social. Este enfoque ha servido, a lo largo de la
+historia, para justificar la imposición de un derecho único sobre los territorios
+colonizados, desatendiendo o suprimiendo los derechos de las culturas y
+minorías nativas.
+Contexto histórico
+Los grupos dominantes han promovido históricamente la unidad legal como sinónimo de
+perfección jurídica, utilizando este argumento para justificar la imposición de sistemas únicos
+de derecho.
+Imposición colonial
+Las potencias coloniales implementaron sus propios ordenamientos jurídicos sin reconocer de
+manera real y efectiva los sistemas preexistentes de las culturas nativas.
+Supresión sistemática
+La diversidad de ordenamientos ha sido sistemáticamente considerada como una amenaza
+para la estabilidad social, justificando así su eliminación o marginación.
+En esencia, las potencias coloniales imponían su propia ley, sin reconocer los
+ordenamientos preexistentes de manera real y efectiva. Este patrón histórico ha
+establecido las bases para la oposición contemporánea al pluralismo jurídico,
+donde el Estado moderno continúa privilegiando la uniformidad legal sobre el
+reconocimiento de la diversidad jurídica.
+60
+1. Estrategias estatales contra el reconocimiento
+Las estrategias del Estado para contener el pluralismo jurídico y marginar los
+derechos de las minorías operan en dos niveles principales: la oposición al
+reconocimiento de dichos derechos y la oposición a la eficacia de los mismos,
+una vez que ya han sido reconocidos.
+Criminalización del derecho alternativo
+El derecho alternativo es denigrado y sus preceptos son calificados
+como delictivos para la sociedad hegemónica, lo que genera una
+percepción de ilegitimidad. Este proceso busca estigmatizar a las
+minorías y a sus líderes, impidiendo que la sociedad los perciba como
+merecedores de un trato jurídico equitativo.
+Supresión de órganos de aplicación
+Una estrategia más directa es la eliminación de las instituciones que
+aplican el derecho alternativo. Un ejemplo histórico de esto podría ser
+la oposición a la creación de tribunales especializados en temas de
+minorías, como en su momento, el Juzgado de la Violencia sobre la
+Mujer.
+Derogación por cualquier medio
+Esta táctica abarca todas las formas de invalidar el derecho
+alternativo, desde la supresión de sus órganos de aplicación hasta el
+desprestigio en los medios de comunicación y el rechazo en el
+discurso político. El objetivo es defenestrar este derecho y marginarlo
+por completo de la esfera jurídica.
+1.1 Unidad jurídica como paradigma
+En la primera etapa, los grupos de poder dominantes emplean diversas tácticas
+para oponerse al reconocimiento de un derecho alternativo. En este ámbito, se
+considera que la unidad jurídica es sinónimo de éxito y seguridad, mientras que
+el pluralismo es visto como una fuente de inseguridad.
+61
+2. Limitación de la eficacia de derechos
+reconocidos
+Una vez que el derecho alternativo ha logrado ser reconocido formalmente, a
+menudo como resultado de una fuerte presión social, el poder político puede
+recurrir a estrategias para limitar su eficacia. El reconocimiento formal no
+garantiza su aplicación práctica, como demuestran las siguientes tácticas:
+01
+Subordinación a una
+legislación dilatada en el
+tiempo
+El Estado puede
+prometer la promulgación
+de leyes a favor de una
+minoría, pero dilata su
+aprobación y aplicación
+de manera intencionada,
+a fin de no afectar
+intereses económicos o
+políticos que se verían
+perjudicados. Aunque la
+promesa se cumpla de
+forma nominal, la dilación
+en el tiempo hace que la
+ley sea ineficaz en la
+práctica.
+02
+Actitudes de "brazos
+caídos"
+Una vez que el derecho
+ha sido reconocido, las
+autoridades estatales
+pueden oponerse
+directamente a su
+aplicación impidiendo su
+eficacia. Un ejemplo
+notorio es la asignación
+de un presupuesto nulo a
+una ley ya promulgada, lo
+que la convierte en letra
+muerta y la despoja de
+toda operatividad, como
+ocurrió con la Ley de
+Memoria Histórica
+durante el gobierno de
+Mariano Rajoy.
+03
+Limitaciones por
+incompatibilidad
+El derecho de las
+minorías, incluso si está
+reconocido, puede ser
+subordinado a los
+principios y normas del
+derecho estatal si se
+considera que existe una
+incompatibilidad
+fundamental. El Estado
+utiliza su poder
+hegemónico para
+priorizar su propio
+ordenamiento,
+asegurando así que el
+derecho de la minoría
+nunca pueda prevalecer
+sobre el sistema jurídico
+dominante.
+62
+Reconocimiento
+formal vs. aplicación
+práctica
+La brecha entre el reconocimiento
+teórico de los derechos y su
+implementación efectiva
+representa uno de los principales
+desafíos del pluralismo jurídico en
+el contexto estatal
+contemporáneo.
+Poder hegemónico
+del Estado
+Esta subordinación limita la
+eficacia y el alcance del derecho
+alternativo, manteniendo la
+supremacía del sistema jurídico
+dominante sobre cualquier
+ordenamiento minoritario o
+alternativo.
+63
+Tema 6: El pluralismo
+jurídico en la actualidad
+El pluralismo jurídico es un concepto que reconoce la existencia de múltiples
+sistemas o fuentes de derecho dentro de un mismo espacio social. Se divide en
+dos acepciones principales: una versión fuerte y una versión débil, ambas
+presentes en el ordenamiento jurídico español.
+1. Las dos versiones del pluralismo jurídico
+Pluralismo jurídico fuerte
+El pluralismo jurídico fuerte (o "de
+derechos") sostiene la coexistencia de dos
+o más sistemas jurídicos aplicables a una
+misma situación o que coexisten en el
+mismo espacio. Un ejemplo de esto en
+España es la convivencia del Derecho Civil y
+el Derecho Mercantil, que se aplican según
+las circunstancias, o el derecho de una
+comunidad autónoma, como Galicia,
+coexistiendo con el derecho del Estado
+español.
+En este modelo, los sistemas no tienen que
+estar al mismo nivel, pudiendo existir
+jerarquías o relaciones de dependencia
+entre ellos.
+Pluralismo jurídico débil
+El pluralismo jurídico débil (o "de fuentes")
+se refiere a la existencia de diversas fuentes
+de derecho más allá de la ley como única
+fuente. En España, esto se refleja en la
+coexistencia de la ley, la costumbre y los
+principios generales del derecho como
+fuentes del ordenamiento jurídico.
+A diferencia de la versión fuerte, no se trata
+de la coexistencia de derechos o sistemas,
+sino de la pluralidad de sus orígenes.
+El sistema jurídico español ejemplifica perfectamente
+ambas versiones del pluralismo jurídico. La estructura
+autonómica del Estado permite que coexistan diferentes
+marcos normativos territoriales, mientras que la
+diversidad de fuentes del derecho enriquece la aplicación
+de la justicia en diferentes contextos sociales y culturales.
+Ejemplo práctico: En
+Galicia coexisten el derecho
+autonómico gallego con el
+derecho estatal español,
+aplicándose según las
+competencias y materias
+específicas.
+64
+2. Manifestaciones contemporáneas
+del pluralismo
+El pluralismo jurídico es un reflejo de las costumbres de una sociedad, lo que
+demuestra que el derecho no es una entidad monolítica impuesta por el Estado.
+La existencia de leyes de protección para grupos específicos, como las medidas
+para las mujeres maltratadas, que coexisten con el ordenamiento general, es
+otro ejemplo de pluralismo jurídico fuerte.
+Reconocimiento de
+múltiples fuentes
+La condición para que exista el
+pluralismo en su versión débil
+es que haya más de una fuente
+de derecho reconocida. Esto
+incluye la ley, la costumbre y
+los principios generales del
+derecho.
+Adaptación a la
+diversidad social
+El derecho se adapta a las
+diferentes realidades sociales y
+culturales, reconociendo la
+necesidad de marcos
+normativos específicos para
+situaciones particulares.
+Coexistencia armónica
+Los diferentes sistemas y
+fuentes jurídicas coexisten de
+manera coordinada,
+estableciendo jerarquías y
+relaciones de
+complementariedad cuando es
+necesario.
+"El pluralismo jurídico demuestra que el derecho no es una imposición
+unilateral del Estado, sino un reflejo vivo de las necesidades y costumbres de
+la sociedad."
+Ejemplos en la práctica
+española
+Leyes específicas de protección contra la
+violencia de género
+Normativas autonómicas en materia de
+educación y sanidad
+Reconocimiento de costumbres locales en
+determinados ámbitos
+Aplicación de principios generales del
+derecho en casos no regulados
+Reflexión: El pluralismo jurídico no
+implica caos normativo, sino una
+organización compleja que responde
+a la diversidad inherente de las
+sociedades modernas.
+65
+BLOQUE 3
+LAS RELACIONES DERECHO-ESTADO Y SUS
+MODELOS
+66
+Tema 1: La noción de Estado
+El estudio del Estado puede abordarse desde dos facetas: a través de las
+teorías que lo conceptualizan y por medio de las construcciones históricas que
+lo han moldeado.
+Concepción estricta
+Sitúa su nacimiento en el siglo XVI.
+Este modelo se caracteriza por
+nobles que eran titulares de
+señoríos, la noción de soberanía
+entendida como poder supremo, y
+una centralización del poder en la
+figura del soberano.
+Concepción laxa
+Lo entiende como una organización
+política surgida en el siglo XVII.
+Esta visión engloba una serie de
+características definitorias que, a
+mayor abundamiento, han
+perdurado en la actualidad.
+Características fundamentales del Estado moderno
+01
+Dominio interno del soberano
+Se manifiesta en la aplicación de un
+derecho único para todo el territorio,
+estableciendo un marco normativo
+unificado que rige sobre todos los
+ciudadanos.
+02
+Posesión y control del territorio
+Un elemento fundamental para su
+existencia, que define los límites
+geográficos donde se ejerce la
+autoridad estatal y se aplican sus
+normas.
+03
+Defensa exterior
+A través de un ejército propio, lo que le
+permite hacerse respetar por otros
+Estados y, a la postre, obtener el
+reconocimiento internacional. No es
+infrecuente que este reconocimiento
+sea limitado, como sucede con
+Kosovo.
+04
+Ejercicio de poderes
+El ejercicio de los poderes normativo
+(legislativo), administrativo (ejecutivo)
+y judicial, pilares que sustentan la
+organización política contemporánea.
+67
+Teorías sobre el Estado: un recorrido
+doctrinal
+El estudio del Estado ha dado lugar a una diversidad de teorías que intentan
+capturar su esencia. A continuación, se exponen seis de las más relevantes,
+advirtiendo que ninguna por sí sola parece abarcar la totalidad del fenómeno.
+1
+Teorías organicistas
+Conciben al Estado
+como un organismo
+vivo, con órganos y
+competencias
+análogas a las de un
+ser biológico. Aunque
+hoy se considera una
+teoría rechazada,
+tuvo sus seguidores
+en el pasado.
+2
+Teorías historicistas
+o románticas
+Ven el Estado como
+la manifestación del
+carácter y estilo de
+un pueblo, traducido
+en sus normas e
+instituciones. Esta
+visión,
+estrechamente ligada
+a las teorías
+conservadoras y a
+ciertos movimientos
+independentistas,
+enfatiza la identidad
+histórica, la lengua y
+la cultura como
+elementos
+constitutivos del
+Estado.
+3
+Teorías
+espiritualistas
+Entienden el Estado
+como la concreción
+de un "espíritu del
+pueblo". En esta línea
+se inscribe la teoría
+hegeliana del Estado,
+que lo define como el
+"espíritu objetivo" o
+la síntesis de la
+voluntad popular en
+su máxima expresión.
+1
+Teorías sociológicas
+Consideran al Estado
+como un hecho
+2
+Teorías
+normativistas
+Reducen el Estado a
+3
+Teorías sociojurídicas
+Sostienen que el 68
+La visión preponderante del Estado
+A la vista de todas estas teorías, la concepción del Estado como un fenómeno
+social y jurídico se perfila como la más acertada en la actualidad. Conviene
+precisar que el Estado no puede ser ajeno a la realidad social que lo conforma,
+pero tampoco puede funcionar únicamente por la fuerza sin una base normativa
+que le otorgue cohesión y organización.
+Conclusión fundamental: La cohesión y el equilibrio entre estas dos
+dimensiones son, a la postre, los elementos que garantizan la
+estabilidad de un Estado moderno. Sin esta síntesis entre lo social y lo
+jurídico, el Estado perdería tanto su legitimidad como su capacidad
+organizativa.
+Esta perspectiva integradora reconoce que el Estado contemporáneo debe
+nutrirse tanto de la voluntad popular como del ordenamiento jurídico, creando
+un sistema donde la autoridad se ejerce de manera legítima y eficaz. La
+comprensión de esta dualidad es esencial para entender el funcionamiento de
+las democracias modernas y los desafíos que enfrentan en la actualidad.
+Realidad social
+Le confiere
+legitimidad y razón de
+ser al Estado,
+proporcionando el
+sustrato humano y
+cultural sobre el que
+se asienta la
+organización política.
+Base normativa
+La norma dota de
+entidad al Estado,
+estableciendo el marco
+jurídico que permite su
+funcionamiento
+ordenado y coherente.
+Equilibrio y cohesión
+La armonía entre las
+dimensiones social y
+jurídica garantiza la
+estabilidad y
+legitimidad del Estado
+moderno.
+69
+Tema 2: Las relaciones entre
+Derecho y Estado
+El Derecho es prioritario respecto al Estado
+Esta concepción, fundamentada en el iusnaturalismo, sostiene que el derecho preexiste al
+estado. Para esta teoría, el derecho natural surge de la conciencia de los sujetos, quienes ya
+poseen derechos por el simple hecho de ser seres humanos.
+Estos derechos naturales son la base sobre la cual se crea un pacto social,
+dando origen a la sociedad política y, finalmente, a una organización llamada
+estado. El fundamento filosófico de esta perspectiva radica en la creencia de
+que existen principios morales y jurídicos universales que trascienden cualquier
+organización política específica.
+01
+Conciencia individual
+Los sujetos poseen derechos naturales
+inherentes por su condición humana,
+reconocidos a través de la razón y la conciencia
+moral.
+02
+Pacto social
+Los individuos acuerdan voluntariamente formar
+una sociedad política para proteger y garantizar
+sus derechos naturales preexistentes.
+03
+Formación del Estado
+Surge como resultado del pacto social, con la función específica de organizar y proteger los
+derechos que ya existían anteriormente.
+Desde un punto de vista fáctico, el estado es una realidad histórica que se
+materializa cuando una organización política ya cuenta con elementos como
+una hacienda, un ejército propio, la centralización del poder y el principio de
+soberanía. Esta perspectiva argumenta que el derecho antecede al estado, ya
+que las normas y los derechos naturales son el fundamento para la formación
+de la estructura estatal.
+70
+1. El Estado es prioritario respecto al Derecho
+Positivismo jurídico
+A diferencia de la concepción anterior, esta visión, propia del positivismo jurídico, postula una
+vinculación total entre el derecho y la existencia del estado. Según esta teoría, el derecho no
+puede existir si no emana del estado, ya que el estado es el hecho social que lo crea.
+El derecho, para ser eficaz y aplicable, necesita de la coacción o coercitividad
+para imponerse. Esta capacidad de coacción es un monopolio del estado, sin
+cuya fuerza el derecho se reduce a una mera norma social y carece de
+autoridad jurídica. En esencia, el estado otorga al derecho su oficialidad y su
+capacidad de ser aplicado de manera coercitiva.
+1.1 Esquema comparativo: relación Derecho-Estado
+Concepción Teoría base Origen del
+derecho
+Rol del estado
+Derecho
+prioritario
+Iusnaturalismo Preexiste al estado
+(derecho natural)
+Surge del pacto social
+para organizar el derecho
+Estado
+prioritario
+Positivismo jurídico Creado por el
+estado
+Monopoliza la coacción
+para dar oficialidad al
+derecho
+Monopolio de la fuerza
+El estado concentra
+exclusivamente el poder
+coercitivo necesario para
+hacer cumplir las normas
+jurídicas.
+Oficialidad jurídica
+Solo las normas emanadas
+del estado adquieren
+carácter oficial y fuerza
+vinculante en la sociedad.
+Aplicación efectiva
+La capacidad del estado de
+imponer sanciones garantiza
+la efectividad práctica del
+ordenamiento jurídico.
+71
+Tema 3: Estado absoluto
+El Estado absoluto, comúnmente conocido como un "Estado sin derechos", es
+una forma de organización política que se caracteriza por la ausencia de los
+principios del Estado de Derecho que rigen en la actualidad. No obstante,
+conviene precisar que esta concepción es inexacta, pues no se trata de un
+Estado en el que no exista el Derecho, sino de un modelo en el que el Derecho
+no se rige por los preceptos de la democracia constitucional.
+Perspectiva occidental
+La concepción del Estado de Derecho, con su separación de poderes y sus
+asambleas legislativas, es un fenómeno singular de la cultura occidental,
+una "isla" en un océano de Estados que aún hoy se rigen por principios
+absolutistas.
+Distribución mundial
+Estados absolutistas predominan principalmente en África, Asia, Oceanía y
+el mundo árabe, manteniendo estructuras de poder concentrado en la
+actualidad.
+El Estado absoluto representa la formulación de Estado más antigua y de mayor
+duración en la historia, y aún en nuestros días sigue siendo una forma de
+gobierno extensa, aunque nuestra perspectiva occidental tienda a ignorarlo.
+Sus características definitorias son fundamentales para comprender esta forma
+de organización política.
+72
+1. Características del Estado absoluto
+01
+Máxima presencia
+histórica y actual
+Se trata de la forma de Estado
+más duradera y aún
+predominante en muchas
+partes del mundo, manteniendo
+su vigencia a través de los
+siglos.
+02
+Soberanía exclusiva del
+monarca
+La soberanía reside de manera
+indivisible en la figura del
+monarca, quien la ostenta por
+títulos como la tradición, la
+herencia, la divinidad o la
+conquista.
+03
+Concentración de
+poderes
+El soberano concentra en su
+persona la totalidad de los
+poderes estatales: legisla,
+aplica las leyes y juzga a
+quienes las transgreden.
+Desvinculación del soberano respecto al
+derecho
+El monarca está por encima de las leyes,
+puede dictarlas y derogarlas a su voluntad, y
+se encuentra exento de su cumplimiento. Esta
+prerrogativa se conoce con la fórmula ex
+legibus solutus ("libre de las leyes"), y es
+precisamente lo que ha llevado a concebir al
+Estado absoluto como un Estado sin Derecho,
+en contraposición al Estado de Derecho
+actual.
+Irresponsabilidad del
+soberano
+Los actos del monarca se
+consideran irresponsables en
+el sentido jurídico, es decir,
+no debe rendir cuentas por
+ellos. Su poder emana
+directamente de la divinidad
+o de la tradición, lo que le
+confiere una posición de
+invulnerabilidad legal.
+Poder delegado
+Si bien delega funciones en
+personas de su máxima confianza
+para la gestión ordinaria, puede
+revocar dicha delegación en
+cualquier momento.
+Fuente única del poder
+La capacidad de revocación
+demuestra que la fuente del poder
+reside únicamente en la figura del
+soberano absoluto.
+73
+2. Transición del estado absoluto al
+estado de derecho
+El tránsito del Estado absoluto al Estado de Derecho, particularmente en la
+cultura occidental, es un proceso histórico que se ha caracterizado por la
+progresiva limitación del poder del soberano. La principal característica de este
+proceso es la división de poderes estatales y su ejercicio por órganos distintos
+e independientes.
+Estado absoluto
+Concentración total del
+poder en el soberano
+Proceso de transición
+Progresiva limitación y
+división del poder
+Estado de derecho
+Separación de poderes
+y participación
+ciudadana
+Descentralización de funciones
+Esta descentralización y división
+de funciones representa un
+cambio fundamental en la
+estructura del poder estatal,
+estableciendo órganos
+independientes para cada función
+gubernamental.
+Transformación ciudadana
+Los ciudadanos dejan de ser
+meros súbditos para adquirir un
+rol más activo en la vida política y
+en la toma de decisiones que
+afectan a la sociedad.
+Esta transformación ha sido el pilar fundamental del Estado liberal de Derecho,
+un modelo que representa una superación histórica del absolutismo y que
+constituye la base de los sistemas democráticos modernos. Este proceso
+evolutivo marca un hito en la historia política occidental y será objeto de análisis
+detallado en el próximo capítulo del estudio.
+74
+Tema 4: Estado Liberal de
+Derecho I
+1. Orígenes y fundamentos del Estado Liberal de
+Derecho
+El Estado liberal de derecho emerge como consecuencia del triunfo de las
+grandes revoluciones del siglo XVIII, destacando la Independencia de las
+colonias inglesas en América y la Revolución Francesa de 1789. Estos
+movimientos históricos supusieron la abolición del Antiguo Régimen y de sus
+instituciones, lo que conllevó, de manera notoria, la desaparición de la
+monarquía absoluta y los privilegios de la nobleza.
+Revolución americana
+Independencia de las colonias inglesas que
+estableció nuevos principios de gobierno
+basados en la soberanía popular
+Revolución francesa
+Movimiento de 1789 que abolió
+definitivamente el Antiguo Régimen y sus
+instituciones monárquicas absolutas
+La génesis de estas revoluciones se encuentra en la nueva filosofía racionalista
+de la Ilustración, la cual impulsó la implantación de un racionalismo jurídico de
+base naturalista. Este nuevo paradigma se opuso frontalmente a la tradición
+jurídica anterior, que se basaba en la Revelación Divina, y situó a la razón como
+el elemento central del pensamiento. La Ilustración, en este contexto, introdujo
+un sentido pactista del poder público, con el objetivo de asegurar las libertades
+individuales frente a la concentración de poder de las monarquías absolutas.
+Racionalismo jurídico: Nuevo enfoque que sitúa la razón como
+fundamento del derecho, oponiéndose a la tradición basada en la
+Revelación Divina del Antiguo Régimen.
+75
+2. Características del Estado Liberal de
+Derecho
+El Estado liberal de derecho se distingue por una serie de principios que lo
+contraponen al modelo absolutista:
+01
+Soberanía popular
+La soberanía deja de residir en la
+figura del monarca y se traslada al
+pueblo. Es el pueblo, como titular de la
+soberanía, quien delega su ejercicio en
+el monarca o en el gobernante que
+elija. En este sentido, la ley se concibe
+como la expresión directa de la
+voluntad popular.
+02
+División de poderes estatales
+A diferencia del Estado absoluto,
+donde el poder estaba concentrado en
+el soberano, el Estado liberal lo divide
+en tres ramas que son ejercidas por
+órganos distintos. La asamblea o
+cortes se encargan del poder
+legislativo, aunque en sus inicios se
+elegían por voto censitario. El poder
+ejecutivo recaía frecuentemente en el
+monarca, ya sea de forma directa o a
+través de delegados. Por último, el
+poder judicial era ejercido por los
+jueces.
+Poder legislativo
+Ejercido por asambleas o
+cortes elegidas
+inicialmente por voto
+censitario
+Poder ejecutivo
+Frecuentemente en manos
+del monarca, directa o
+indirectamente
+Poder judicial
+Administrado por jueces
+independientes del poder
+político
+76
+3. Libertades individuales
+El Estado liberal de derecho no solo mantiene las libertades personales ya
+existentes, como el derecho a la seguridad y a la libertad personal, sino que
+introduce un catálogo de derechos más amplio y avanzado. En este modelo se
+establecen libertades fundamentales como la libertad de creencias, de
+pensamiento, religiosa, política, económica, de reunión, de asociación y de
+petición.
+Libertad de pensamiento
+Derecho fundamental a expresar ideas
+y opiniones sin censura previa del
+Estado
+Libertad religiosa
+Capacidad de profesar cualquier
+creencia o religión sin imposiciones
+estatales
+Libertad de asociación
+Derecho a formar grupos y
+organizaciones para fines legítimos y
+pacíficos
+Libertad económica
+Capacidad de desarrollar actividades
+comerciales y económicas sin
+restricciones arbitrarias
+Nótese que muchos de estos derechos son los pilares del estado de derecho
+actual, como el español, y se encuentran plenamente reflejados en sus
+constituciones.
+Continuidad histórica
+Los principios del Estado liberal de derecho del siglo XVIII siguen siendo
+fundamentales en las democracias contemporáneas, demostrando su
+validez y permanencia a través del tiempo.
+77
+Tema 5: Estado Liberal de
+Derecho II
+Continuando con el análisis del Estado Liberal de Derecho, es menester
+examinar los principios que, sumados a la soberanía popular, la división de
+poderes y las libertades individuales, configuran este modelo político-jurídico
+fundamental en la evolución del pensamiento constitucional moderno.
+Libertad negativa
+La libertad se erige como el valor primordial, formulada de manera
+eminentemente negativa como la no injerencia de los poderes públicos o de
+terceros en la esfera individual del ciudadano.
+Igualdad ante la ley
+El concepto de igualdad se circunscribe al ámbito legal, suponiendo la
+abolición de los privilegios estamentales y la aplicación de la ley como
+norma general para todos los ciudadanos.
+Es fundamental comprender que la igualdad material o social aún no formaba
+parte del ideario de la época, que privilegiaba claramente la libertad individual
+sobre cualquier forma de intervención estatal redistributiva o correctora de
+desigualdades económicas.
+78
+1. Abstencionismo estatal
+El Estado liberal se concibe como un Estado
+abstencionista, es decir, un Estado vigilante y
+protector de las libertades individuales, pero
+no activo en la provisión de bienestar social.
+Su rol es fundamentalmente no
+intervencionista, por lo que se abstiene
+deliberadamente de desarrollar políticas
+sociales redistributivas.
+Este enfoque, que se distingue radicalmente
+del Estado social que surgiría posteriormente
+en el siglo XX, se justifica en la prioridad
+histórica de afianzar las libertades personales
+antes de abordar las desigualdades materiales
+existentes en la sociedad.
+01
+Estado vigilante
+Protección de las libertades individuales mediante la garantía del orden público
+y la seguridad jurídica básica.
+02
+No intervención económica
+Abstención de participar activamente en la economía, permitiendo el libre juego
+de las fuerzas del mercado.
+03
+Ausencia de políticas sociales
+Renuncia consciente a desarrollar sistemas de protección social o redistribución
+de la riqueza.
+79
+2. Fundamento racionalista y pactista
+El Estado liberal abandona definitivamente los viejos fundamentos de la
+tradición medieval y la legitimidad divina en favor de la razón iusnaturalista
+ilustrada. De esta razón emanan principios jurídicos de "plena evidencia
+racional", que poseen carácter universal e inmutable, trascendiendo las
+particularidades históricas y culturales.
+Razón iusnaturalista
+Nuevo derecho natural de carácter racionalista e individualista,
+inherente a la naturaleza humana universal.
+Pacto social
+El Estado convierte estos derechos naturales en derechos civiles
+respaldados por normas coercitivas.
+Derechos civiles
+Transformación de los derechos naturales en garantías jurídicas
+efectivas y exigibles.
+Titularidad universal de los derechos: En el Estado liberal, los titulares de los
+derechos no son el monarca ni el Estado, sino los individuos. Si bien en
+algunos casos la titularidad se restringe a la condición de "ciudadano", se
+trata de derechos de carácter personal e individual, que no requieren de otra
+cualificación que la de ser hombre para ser ostentados.
+80
+3. El principio de legalidad como pilar
+fundamental
+El principio de legalidad, que constituye uno de los pilares del Estado de
+Derecho actual, adquiere una relevancia crucial en el modelo liberal. Este
+principio confiere a la ley una triple funcionalidad que articula todo el sistema
+jurídico-político.
+Función reguladora
+La ley actúa como
+norma que regula y
+define de manera
+precisa los derechos
+y deberes de los
+ciudadanos,
+estableciendo el
+marco normativo
+básico de
+convivencia.
+Función de
+protección
+Sirve como un
+sistema integral que
+protege los derechos
+regulados. Sin una
+regulación previa
+clara y precisa, no
+podría existir un
+sistema de protección
+eficaz y garantista.
+Función de limitación
+La ley actúa como
+límite efectivo al
+ejercicio abusivo del
+poder. Esta tercera
+función se basa en
+las dos anteriores:
+para limitar el poder,
+es necesario un
+sistema de protección
+de derechos.
+De este modo, el principio de legalidad se erige como el mecanismo
+fundamental que permite la realización práctica de los ideales del Estado liberal,
+asegurando que el poder del Estado se ejerza de acuerdo con las leyes
+establecidas, y no de forma arbitraria o caprichosa.
+Este principio, de marcada herencia romana, es una característica
+distintiva del sistema jurídico occidental, a diferencia de otros sistemas
+como el anglosajón basado en el common law.
+81
+Tema 6: Estado Social de
+Derecho
+1. Antecedentes y fundamento ético del Estado Social de Derecho
+Los antecedentes del Estado Social de Derecho se encuentran en las grandes crisis y conflictos del
+siglo XX. Tras la Primera Guerra Mundial, elementos de un estado con alto contenido social
+comenzaron a aparecer en diversas constituciones, como la Constitución de Weimar de 1919, la
+Constitución de México de 1917 o la Constitución Española de la Segunda República de 1931.
+Constitución de México 1917 1
+Primera constitución en
+incorporar derechos sociales
+fundamentales, estableciendo
+precedentes para el desarrollo
+del Estado Social.
+2 Constitución de Weimar 1919
+Modelo constitucional alemán
+que integró por primera vez
+derechos sociales junto a las
+Constitución Española 1931 3 libertades clásicas.
+Durante la Segunda República,
+España adoptó un modelo
+constitucional con marcado
+carácter social y democrático.
+4 Constitución Alemana 1948
+Tras la Segunda Guerra
+Mundial, consolidó
+definitivamente el modelo de
+Estado Social de Derecho.
+Constitución Española 1978 5
+Estableció en España un
+Estado Social y Democrático de
+Derecho con marcado carácter
+social.
+Posteriormente, la Segunda Guerra Mundial impulsó aún más este modelo, dando lugar a la
+Constitución Alemana de 1948 y a la mayoría de las constituciones europeas de la posguerra,
+incluyendo la Constitución Española de 1978, que se caracteriza por su marcado carácter social.
+82
+1.1 Fundamento ético
+Desde un punto de vista ético, el Estado Social de Derecho aspira a la creación
+de un bienestar general que garantice el desarrollo integral del ser humano y
+respete el ordenamiento jurídico. Este objetivo se sustenta en tres principios
+fundamentales:
+Respeto a la dignidad
+del individuo
+Reconocimiento del
+valor intrínseco de
+cada persona como
+fundamento de todos
+los derechos y
+garantías
+constitucionales.
+Armonía con la
+naturaleza
+Búsqueda del
+equilibrio entre el
+desarrollo humano y
+la preservación del
+medio ambiente para
+las generaciones
+futuras.
+Avance material de la
+sociedad
+Promoción del
+progreso económico
+y social que beneficie
+al conjunto de la
+comunidad de
+manera equitativa.
+2. Características del Estado Social de Derecho
+El Estado Social de Derecho se distingue por las siguientes características, que
+lo diferencian de los modelos anteriores y lo definen como la forma de Estado
+vigente en la actualidad:
+2.1 Conjunción de libertades individuales y derechos sociales
+En este modelo, las libertades individuales continúan su desarrollo y se
+consolidan con una protección reforzada y un alcance más universal, como lo
+demuestra la universalización del voto. A estas libertades se les suman los
+derechos sociales, que incluyen el derecho al trabajo, a la educación y a la
+subsistencia.
+Si bien las libertades individuales siguen siendo derechos de primer orden, los
+derechos sociales se entienden como normas programáticas o directrices
+dirigidas a los poderes públicos.
+83
+Libertades individuales
+Libertad de expresión
+Libertad de asociación
+Derecho al voto universal
+Libertad de movimiento
+Derechos sociales
+Derecho al trabajo
+Derecho a la educación
+Derecho a la subsistencia
+Derecho a la salud
+2.2 Valores de la igualdad material y la solidaridad
+El Estado Social va más allá de la mera igualdad ante la ley, introduciendo la
+noción de igualdad material. Esta implica que los ciudadanos deben gozar de
+condiciones económicas y sociales que les permitan satisfacer sus
+necesidades básicas y vivir con dignidad.
+Igualdad material
+Los ciudadanos deben gozar de condiciones económicas y sociales que les
+permitan satisfacer sus necesidades básicas y vivir con dignidad,
+superando la simple igualdad formal ante la ley.
+Solidaridad como cuestión de Estado
+Los poderes públicos tienen la obligación de proporcionar recursos y
+prevenir riesgos para atender las necesidades de las personas como
+colectivo social, convirtiendo la solidaridad en un principio rector.
+Al mismo tiempo, la solidaridad se convierte en una cuestión de Estado,
+obligando a los poderes públicos a proporcionar recursos y a prevenir riesgos
+para atender las necesidades de las personas como colectivo social.
+84
+3. Nuevos sujetos y límites en el Estado
+Social
+3.1 Nuevos sujetos de derecho y límites a los derechos
+individuales
+El derecho deja de estar reservado únicamente a los individuos, y reconoce a
+los colectivos sociales como sujetos de derecho, lo que da lugar al
+reconocimiento de derechos para mujeres, jóvenes, trabajadores, etc.
+Derechos de las mujeres
+Reconocimiento
+específico de los
+derechos de las mujeres
+como colectivo,
+incluyendo igualdad
+salarial y participación
+política.
+Derechos de los jóvenes
+Protección especial de
+los derechos de la
+juventud, incluyendo
+acceso a la educación y
+oportunidades laborales.
+Derechos de los
+trabajadores
+Reconocimiento del
+derecho a la negociación
+colectiva y a los
+convenios laborales
+como instrumentos de
+protección social.
+Esto se traduce en un pacto entre el trabajo y el capital y en la introducción del
+derecho a la negociación colectiva y a los convenios laborales. No obstante, en
+este modelo se establecen límites a los derechos, tanto individuales como
+sociales, para evitar su ejercicio abusivo.
+Ejemplos de límites establecidos
+Derecho a la propiedad: función social
+Derecho a la huelga: servicios mínimos
+Libertad de expresión: respeto a la dignidad
+Libertad de empresa: interés general
+85
+3.2 Intervencionismo estatal y deberes del Estado Social
+El Estado Social abandona el abstencionismo del modelo liberal y se convierte
+en un Estado intervencionista, cuya misión es la contribución activa a la eficacia
+de los derechos sociales.
+01
+Abandono del
+abstencionismo liberal
+El Estado deja de ser un
+mero observador pasivo
+y asume un papel activo
+en la garantía de los
+derechos sociales y el
+bienestar ciudadano.
+02
+Asunción de deberes
+específicos
+El Estado asume
+responsabilidades
+concretas en materia de
+educación, salud,
+vivienda y cultura como
+obligaciones
+constitucionales.
+03
+Transformación en ente
+proactivo
+El Estado se convierte en
+un agente activo cuya
+acción directa garantiza
+la materialización
+efectiva de los derechos
+sociales.
+Educación
+Garantía del acceso universal a la
+educación pública, gratuita y de
+calidad en todos los niveles
+educativos.
+Salud
+Provisión de servicios sanitarios
+universales y accesibles para toda
+la población sin discriminación.
+Vivienda
+Políticas públicas orientadas a
+garantizar el acceso a una vivienda
+digna y adecuada para todos los
+ciudadanos.
+Cultura
+Promoción y protección del
+patrimonio cultural, así como el
+acceso democrático a los bienes
+culturales.
+El Estado asume una serie de deberes en materia de educación, salud, vivienda
+y cultura, y se transforma en un ente proactivo, cuya acción garantiza la
+materialización de estos derechos.
+86
+BLOQUE 4
+LA MORAL Y LA ÉTICA EN LA CONSTRUCCIÓN DEL
+DERECHO
+87
+Tema 1: Moral y ética
+La moral y la ética, si bien a menudo se utilizan indistintamente, se refieren a
+conceptos distintos pero interrelacionados. La moral se ocupa de las
+costumbres, normas, tabúes y convenciones establecidas por una sociedad. Es
+el sistema normativo adoptado por un grupo social determinado, fundamentado
+en una escala de valores que guía la conducta de las personas.
+Por su parte, la ética es la ciencia que se encarga de teorizar de manera
+fundamentada sobre esos valores morales, centrándose en su estudio para
+explicar los principios que deben regir la conducta humana. En términos más
+llanos, se podría afirmar que la ética es el estudio de la moral.
+Delimitación conceptual
+Conceptos distintos pero profundamente interrelacionados que forman la
+base del comportamiento humano
+88
+1. La relación intrínseca entre moral y
+ética
+La relación entre ambos conceptos es
+intrínseca, ya que ambos contribuyen a la
+construcción de la base que guía el
+comportamiento humano y definen aspectos
+como el carácter, el altruismo y las virtudes de
+una persona.
+Esta conexión fundamental establece los
+cimientos sobre los cuales se desarrolla
+nuestra comprensión del bien y del mal, de lo
+correcto y lo incorrecto, proporcionando un
+marco de referencia para nuestras decisiones
+cotidianas.
+Carácter
+La formación del carácter individual a través de principios morales y
+éticos
+Altruismo
+El desarrollo de la capacidad de actuar en beneficio de otros
+Virtudes
+Las cualidades morales que definen la excelencia del comportamiento
+humano
+89
+2. La moral: el sistema normativo de la
+sociedad
+La palabra moral deriva del latín moralis, que significa "relativo a las
+costumbres". La moral, por tanto, se entiende como el conjunto de reglas no
+escritas que se aplican en la vida cotidiana de una sociedad. Estas normas
+orientan las acciones y los juicios de los individuos, distinguiendo lo que es
+correcto de lo que no lo es, dentro de una escala de valores compartida.
+Siglo XIX 1
+El divorcio era visto como un
+acto inmoral, ya que la moral
+priorizaba la institución del
+matrimonio y la familia
+2 Actualidad
+Si bien la infidelidad se
+considera inmoral, el divorcio
+es socialmente aceptado como
+una consecuencia de dicho
+acto
+Concepto dinámico: La moral evoluciona con las costumbres y valores
+de la sociedad, adaptándose a los cambios culturales y temporales.
+90
+3. La ética: el estudio teórico de la
+conducta humana
+La palabra ética proviene del griego ethos, que significa "forma de ser o
+carácter". La ética es un campo de estudio que busca, de forma racional y
+teórica, explicar los principios que deben regir la conducta humana. Es, en
+esencia, una teorización de la moral que ayuda a establecer criterios propios
+sobre lo que acontece a nuestro alrededor.
+Aunque a menudo la ética respalda las prácticas morales, en otras ocasiones
+puede entrar en contradicción con ellas. Un principio ético fundamental es el
+respeto al otro, que no está subordinado a ningún contexto cultural y se aplica
+de manera universal, sin discriminación de origen, raza, sexo o religión.
+Carácter teórico
+Busca fundamentos
+racionales para la
+conducta humana
+Carácter racional
+Utiliza la razón como
+herramienta
+principal de análisis
+Carácter universal
+Busca principios
+aplicables a toda la
+conducta humana
+Diferencias entre moral y ética
+Aspecto Moral Ética
+Origen etimológico Del latín moralis (relativo a las
+costumbres)
+Del griego ethos (forma de ser o
+carácter)
+Naturaleza Sistema de normas y
+costumbres de un grupo social
+Estudio teórico y racional de la
+moral
+Ámbito Prácticas y reglas cotidianas no
+escritas
+Principios universales que deben
+regir la conducta
+Ejemplo La inmoralidad del divorcio en el
+siglo XIX
+El respeto al otro como principio
+fundamental
+91
+Tema 2: La 'moralización' del
+derecho
+La relación entre moral y derecho representa uno de los temas más fascinantes
+del estudio jurídico. La moralización del derecho se refiere al proceso por el
+cual la moral influye en la creación y aplicación de las normas jurídicas. El
+contenido del derecho tiene una clara dependencia de la moral social vigente. A
+su vez, la moral social busca el refuerzo de la fuerza coactiva del derecho para
+lograr su eficacia social. Esta interdependencia demuestra que ambos sistemas
+normativos están íntimamente relacionados y se influyen mutuamente.
+1. Procedimientos de moralización del
+derecho
+La moralización del derecho puede ocurrir a través de dos procedimientos
+principales: uno inconsciente y otro consciente y prescriptivo.
+Moralización inconsciente
+Este primer procedimiento ocurre cuando el legislador incorpora, de manera
+inconsciente, criterios morales que están socialmente aceptados en las
+normas jurídicas. De igual forma, los encargados de la aplicación de las
+normas (jueces, abogados, funcionarios) integran estos criterios en su labor
+interpretativa.
+Un ejemplo de esto es la legalización de la compraventa de jamones en España,
+una práctica tan arraigada en la cultura que su legalidad es incuestionable,
+mientras que en otros países podría considerarse inaceptable.
+92
+2. La moral interna del derecho según
+Lon Fuller
+El autor Lon Fuller se refirió a este fenómeno
+como la moral interna del derecho. Según su
+visión, el derecho posee una moral interna
+compuesta por requisitos esenciales como la
+existencia de reglas claras y no retroactivas,
+lo que es necesario para que un sistema
+jurídico sea coherente y ordenado.
+En esencia, la moral inconsciente se
+manifiesta en la interpretación de normas
+ambiguas, donde los operadores jurídicos se
+guían por sus valores sociales, su educación y
+su experiencia personal, que están
+fuertemente influenciados por la moral de la
+sociedad en la que viven.
+Reglas claras
+Las normas deben ser comprensibles y precisas para todos los
+ciudadanos
+No retroactividad
+Las leyes no pueden aplicarse a hechos anteriores a su promulgación
+Coherencia
+El sistema jurídico debe mantener una lógica interna consistente
+93
+3. Moralización consciente y
+prescriptiva
+El segundo procedimiento tiene lugar cuando la moralización se produce de
+forma consciente y prescriptiva. En este caso, el legislador incorpora
+deliberadamente criterios de moralidad aceptados por la sociedad en las
+normas. Esto se evidencia en los grandes acuerdos fundacionales, como las
+declaraciones de derechos nacionales e internacionales y las constituciones.
+Un ejemplo destacado en España es la Constitución de 1978, de marcado
+carácter social y con un alto contenido de ética pública.
+Esta moralidad política que se convierte en moralidad jurídica positivada fue
+descrita por el jurista español Gregorio Peces Barba como ética pública.
+La ética pública se encarga de configurar la vida social y de establecer los
+objetivos del poder a través del derecho. De forma prescriptiva, los operadores
+jurídicos también incorporan estos criterios morales de manera ocasional en la
+creación y aplicación de las normas, asegurando así la cohesión social y
+evitando fracturas en la sociedad.
+Esquema: procedimientos de moralización del derecho
+Procedimiento Naturaleza Agente Ejemplos
+Moralización
+inconsciente
+Inconsciente e
+interpretativa
+Legislador, jueces,
+abogados
+Aplicación de valores
+sociales en la
+interpretación de normas
+ambiguas
+Moralización
+consciente
+Consciente y
+prescriptiva
+Legislador,
+operadores jurídicos
+Constituciones,
+declaraciones de
+derechos, ética pública
+94
+Tema 3: La construcción
+ética del Derecho
+La construcción ética del derecho: el debate de los valores. La cuestión de
+cómo queremos que sea la moral incorporada a las normas jurídicas nos lleva a
+un debate ético esencial. La elaboración de normas con un alto contenido moral
+requiere una discusión teórica sobre los fundamentos en los que deben
+asentarse.
+Debate ético
+fundamental
+Si bien una propuesta de
+este tipo puede parecer
+utópica, es indispensable
+reclamar la necesidad de
+un debate ético serio cada
+vez que el legislador se
+disponga a crear o
+modificar normas con
+carga moral.
+Proceso de decisión
+crítico
+En este proceso ideal, la
+discusión debe centrarse
+en averiguar qué valores
+jurídicos se verán
+afianzados o debilitados
+con la adopción o
+modificación de las
+normas.
+Participación
+democrática
+Aunque la capacidad de
+decisión recaiga en el
+legislador, es crucial que
+este lo haga tras un debate
+crítico y racional, incluso
+con la participación de
+referéndums cibernéticos
+para optimizar los
+procesos.
+Marco de tolerancia
+Los valores morales, a diferencia de
+los preceptos morales tajantes e
+intransigentes, introducen un marco
+de tolerancia y relativismo que
+resulta adecuado para esta
+discusión.
+Fundamento social
+La adopción de valores jurídicos
+debe basarse en la crítica y la razón,
+a fin de que las preferencias sociales
+sean el fundamento de la norma.
+95
+1. Los valores jurídicos: definición y
+naturaleza
+Los valores jurídicos son apreciaciones racionales sobre la bondad o perfección del derecho
+positivo. Estos valores ejercen una presión teleológica sobre las normas y las instituciones jurídicas,
+proclamando un "deber ser" y un "deber hacer" que se derivan de la experiencia histórica en
+general y de la jurídica en particular.
+La justicia es el valor jurídico más tradicional, pero en la actualidad es más adecuado
+considerarla como el resultado del equilibrio entre los demás valores. Es decir, la justicia se
+alcanza mediante una relación armoniosa entre la seguridad, la libertad, la igualdad y la
+solidaridad.
+Corazón social del
+derecho
+La construcción del
+derecho, por tanto,
+debe tener en
+cuenta estos valores
+para que la norma
+tenga un pleno
+"corazón social".
+Influencia ética
+necesaria
+La ética debe influir
+en la construcción
+del derecho para
+que este refleje las
+inquietudes y los
+valores de la
+sociedad.
+Adaptación regional
+Esta influencia debe
+contemplar incluso las
+particularidades de las
+diferentes regiones de un
+país, de manera que la
+norma, ya sea estatal o
+autonómica, se adapte a
+los valores de la
+comunidad a la que se
+dirige.
+Seguridad
+Consiste en la certeza y
+previsibilidad del derecho
+Libertad
+Garantiza la autonomía
+individual de los ciudadanos
+Igualdad
+Asegura que la ley se aplique
+de manera uniforme, sin
+privilegios
+Solidaridad
+Impulsa la acción estatal
+para el bienestar colectivo
+96
+BLOQUE 5
+ANALIZANDO EL DERECHO, DE LA NORMA
+JURÍDICA AL ORDENAMIENTO JURÍDICO
+97
+Tema 1: Enfoque en el
+análisis del Derecho
+1. Las normas y el lenguaje
+El presente capítulo se adentra en las características ontológicas de la norma
+jurídica, examinando la oposición entre las teorías que la conciben como una
+entidad de naturaleza lingüística y las que le atribuyen un carácter
+extralingüístico. La comprensión de esta distinción es fundamental para la
+Filosofía del Derecho. Es preciso analizar de manera metódica los rasgos que
+definen la norma en su manifestación lingüística, prestando atención a la
+sintaxis, la semántica y la pragmática.
+Norma jurídica
+Una regla u ordenación del
+comportamiento humano. Esta
+ordenación es dictada por una
+autoridad competente, actuando
+conforme a un criterio de valor y su
+incumplimiento acarrea una
+sanción, impuesta por la fuerza
+coactiva del Estado.
+Ordenamiento jurídico
+Un sistema o conjunto normativo e
+institucional. Su función es regular
+la conducta externa de las
+personas, inspirándose en
+postulados de justicia y certeza
+jurídica. Su misión radica en
+ordenar la convivencia social y
+proporcionar los medios para
+resolver conflictos de relevancia
+jurídica, permitiendo su imposición
+coactiva.
+98
+2. Análisis lingüístico de las normas
+Nótese que la redacción de las normas, como la Constitución Española, no es
+una tarea trivial o aleatoria; cada palabra se selecciona con sumo cuidado, ya
+que su significado tiene consecuencias jurídicas de gran calado. Sirva como
+ejemplo la diferencia entre "grave" y "muy grave", o entre "matar" y "asesinar",
+términos que tienen implicaciones distintas en el ámbito penal. De ahí la
+importancia de un análisis riguroso de las normas desde la perspectiva del
+lenguaje.
+2.1 Enfoques principales del carácter lingüístico
+Existen tres enfoques principales dentro de las teorías que defienden el
+carácter lingüístico de las normas jurídicas:
+Rasgos sintácticos
+Se centran en el
+orden y la estructura
+de las palabras en la
+norma, entendiendo
+que la disposición de
+los términos tiene
+una relevancia
+jurídica innegable.
+Rasgos semánticos
+Ponen el énfasis en
+los campos de
+significado que se
+emplean en cada
+precepto normativo,
+analizando el sentido
+de las palabras y su
+alcance conceptual.
+Rasgos pragmáticos
+Se refieren a la
+necesidad de que la
+redacción de cada
+artículo sea concisa y
+no excesivamente
+extensa, buscando la
+máxima eficiencia en
+la comunicación del
+contenido normativo.
+El siguiente apartado profundiza en la relación entre las normas y el lenguaje,
+examinando cómo se conciben las normas como entidades lingüísticas y la
+conexión entre las normas y los hechos a los que se refieren.
+99
+3 Relación norma jurídica y
+ordenamiento jurídico
+Elemento Norma Jurídica Ordenamiento Jurídico
+Concepto Regla u ordenación del
+comportamiento humano individual
+Sistema e institucional que regula la
+conducta social
+Función Dictar comportamientos y
+establecer sanciones por
+incumplimiento
+Regular la convivencia y resolver
+conflictos de manera sistemática
+Poder Emanan de una autoridad
+competente
+Impuesto por la fuerza coactiva del
+Estado
+3.1 Enfoques del análisis lingüístico de la norma
+Enfoques Semántico y
+Pragmático
+Campos semánticos;
+concisión y claridad
+Enfoque Sintáctico
+Orden de palabras y
+estructura gramatical
+Núcleo
+Carácter lingüístico como
+principio central
+100
+Enfoque sintáctico
+Analiza el orden de las palabras y su
+relevancia jurídica
+Enfoque semántico
+Examina los campos semánticos y el
+alcance conceptual
+Enfoque pragmático
+Busca la concisión y claridad en la
+comunicación normativa
+101
+Tema 2: Tipología de la
+interpretación
+Existen tres tipos principales de interpretación del derecho, que determinan
+cómo se aplica una norma: la objetiva, la subjetiva y la ecléctica. Cada una de
+estas perspectivas ofrece un enfoque distinto para comprender y aplicar las
+normas jurídicas en la práctica legal.
+Interpretación objetiva
+La norma jurídica es independiente
+de su autor y tiene su propia "vida"
+y sentido, más allá de la intención
+del legislador que la creó. El
+intérprete debe indagar en el
+significado intrínseco de la norma
+misma, sin basarse en la voluntad
+del legislador.
+Enfoque en el sentido intrínseco de la
+norma
+Independencia del autor original
+Interpretación objetiva sin juicios de
+valor
+Evita la politización de la aplicación legal
+Interpretación subjetiva
+El significado de una norma debe
+buscarse en la intención del
+legislador que la dictó. La norma
+es vista como un instrumento
+creado para cumplir una finalidad
+específica definida por el legislador
+original.
+Búsqueda de la intención del legislador
+La norma como instrumento con
+finalidad específica
+Riesgo de politización de la ley
+Dependencia de la ideología del creador
+La interpretación objetiva sostiene que la norma jurídica es independiente de
+su autor. La norma tiene su propia "vida" y su propio sentido, más allá de la
+intención del legislador que la creó. Desde esta perspectiva, el intérprete (ya
+sea un juez o un abogado) no debe basarse en la voluntad o las intenciones del
+legislador, sino que debe indagar en el significado intrínseco de la norma
+misma. El objetivo es desentrañar el sentido de la norma de manera objetiva, sin
+hacer juicios de valor ni politizar su aplicación.
+102
+Por el contrario, la interpretación subjetiva se opone a la objetiva. Esta visión
+sostiene que el significado de una norma debe buscarse en la intención del
+legislador que la dictó. Aquí, la norma es vista como un instrumento creado
+para cumplir una finalidad específica definida por el legislador. Esta perspectiva
+puede ser arriesgada, ya que tiende a politizar la aplicación de la ley, haciendo
+que su interpretación dependa de la ideología del partido político o del individuo
+que la propuso. Esto podría llevar a que cada cambio de gobierno altere
+radicalmente el sentido de las leyes.
+1. La interpretación ecléctica
+La interpretación ecléctica surge como una
+síntesis de las dos anteriores. Reconoce que
+tanto la intención del legislador (perspectiva
+subjetiva) como el sentido intrínseco de la
+norma (perspectiva objetiva) son válidos y
+deben ser conjugados.
+Esta interpretación busca un equilibrio entre
+ambas posturas, asumiendo que una "sabia y
+equilibrada ponderación" de estas dos tesis
+produce los resultados más justos. Al final, la
+virtud está en el medio: ni la ley debe ser un
+producto puramente de la voluntad del
+legislador, ni debe interpretarse de forma
+completamente desvinculada de su origen.
+103
+Síntesis equilibrada
+Combina la intención del legislador con el sentido intrínseco de la
+norma para lograr una interpretación más completa y justa.
+Ponderación sabia
+Aplica una evaluación cuidadosa de ambas perspectivas para
+producir resultados jurídicos más equilibrados y justos.
+Virtud del equilibrio
+Reconoce que la virtud está en el punto medio, evitando los extremos
+de ambas interpretaciones puras.
+Estos tres tipos de interpretación nos muestran que la aplicación del derecho
+no es un proceso mecánico, sino una actividad compleja donde la elección
+del método interpretativo tiene consecuencias directas y profundas en la
+justicia.
+Reflexión importante: En el siguiente vídeo, exploraremos las diferentes
+escuelas y métodos que se han desarrollado para llevar a cabo esta
+compleja tarea de interpretación jurídica, profundizando en las
+herramientas prácticas que utilizan los profesionales del derecho.
+104
+Tema 3: El derecho como
+lenguaje
+1. El derecho como metalenguaje
+Si el derecho es, en sí mismo, un lenguaje, entonces el lenguaje utilizado
+para hablar o escribir sobre él se denomina metalenguaje. En esencia, es un
+lenguaje que tiene como objeto de estudio otro lenguaje.
+1.1 Ejemplos ilustrativos del concepto
+Para ilustrar este concepto, considera dos frases que demuestran la diferencia
+fundamental entre el lenguaje legal directo y su análisis metalingüístico:
+1
+Lenguaje legal directo
+"Será nulo el testamento otorgado."
+Esta es una norma del artículo 673
+del Código Civil. Se trata de un
+enunciado lingüístico del lenguaje
+del derecho, que es el lenguaje
+legal.
+2
+Enunciado metalingüístico
+"De acuerdo con el artículo 673 del
+Código Civil, será nulo el testamento
+otorgado."
+Esta frase también es un
+enunciado lingüístico, pero es
+metalingüístico. La primera parte,
+"De acuerdo con el artículo 673 del
+Código Civil," es un enunciado que
+versa sobre el segundo, "será nulo
+el testamento otorgado".
+Por lo tanto, la segunda frase es un enunciado transparentemente metalingüístico, ya que
+contiene y se refiere a otro enunciado lingüístico, estableciendo una relación de análisis y
+referencia sobre el texto legal original.
+105
+2. Tipos de lenguaje jurídico
+Es crucial distinguir entre el lenguaje legal y el lenguaje de los juristas, aunque
+a primera vista parezcan idénticos.
+Lenguaje legal
+Es el utilizado en el texto jurídico propiamente dicho, con el cual el
+legislador redacta y promulga las normas. Se caracteriza por su
+naturaleza formal y, a menudo, utiliza una sintaxis y tiempos verbales
+específicos, como se ve en la frase "el que matare recibirá tal cosa".
+Lenguaje de los juristas
+Es el que usan los profesionales del derecho (como abogados, jueces
+y académicos) para comentar, analizar o interpretar las normas
+legales. Por ejemplo, un abogado no basaría sus argumentos en
+frases "sentenciatorias" como "será nulo el testamento...", sino que
+se referiría a ellas para construir su interpretación y defensa.
+2.1 Importancia de la distinción
+Comprender esta distinción y el concepto de metalenguaje es fundamental para
+analizar cómo se interpretan y aplican las normas dentro del sistema jurídico.
+Esta comprensión permite a los profesionales del derecho navegar eficazmente
+entre la letra de la ley y su aplicación práctica en casos concretos.
+Análisis jurídico
+Interpretación y aplicación de
+normas
+Redacción legal
+Creación de textos normativos
+formales
+106
+Tema 4: Criterios de
+interpretación actuales en
+España
+Los criterios de interpretación del derecho español se dividen en dos categorías
+principales: materiales y formales. Estos criterios orientan la labor del
+intérprete para aplicar las normas de forma coherente y justa, garantizando que
+el ordenamiento jurídico responda a las necesidades de una sociedad
+democrática y en constante evolución.
+Criterios materiales
+Contenidos obligatorios que deben guiar la
+interpretación jurídica
+Criterios formales
+Medios instrumentales para interpretar y
+aplicar las normas
+1. Criterios materiales
+Los criterios materiales se refieren a los contenidos obligatorios que deben
+guiar la interpretación. Se sintetizan en dos artículos fundamentales de la
+Constitución Española que establecen el marco normativo superior:
+Artículo 9.1 CE
+Somete a ciudadanos y poderes
+públicos a la Constitución y al
+resto del ordenamiento jurídico. La
+interpretación del derecho debe
+ser coherente con los principios y
+valores constitucionales,
+estableciendo la supremacía
+normativa de la Carta Magna.
+Artículo 10.2 CE
+Establece que los derechos fundamentales
+deben interpretarse de acuerdo con la
+Declaración Universal de Derechos
+Humanos y los Tratados Internacionales
+ratificados por España. Este precepto
+asegura que el estándar mínimo de
+derechos fundamentales en España esté
+en línea con el derecho internacional.
+107
+2. Criterios formales
+Los criterios formales, recogidos en el artículo 3.1 del Código Civil, establecen
+los medios instrumentales para interpretar y aplicar las normas. Este artículo
+resume los criterios clave de manera magistral:
+"Las normas se interpretarán según el sentido propio de sus palabras, en
+relación con el contexto, los antecedentes históricos y legislativos, y la
+realidad social del tiempo en que han de ser aplicadas, atendiendo
+fundamentalmente al espíritu y finalidad de aquellas"
+De esta disposición fundamental se extraen los siguientes criterios
+interpretativos que conforman el arsenal metodológico del jurista:
+01
+Criterio gramatical
+La interpretación parte
+del significado literal de
+las palabras en el
+diccionario y su
+contenido cultural. Si el
+significado es claro y
+unívoco, no se necesitan
+otros criterios
+adicionales para la
+comprensión normativa.
+02
+Criterio sistemático
+Se interpreta la norma en
+relación con otras
+normas del ordenamiento
+jurídico, especialmente
+las que regulan el mismo
+asunto. Se busca la
+coherencia y armonía
+entre las disposiciones
+legales del sistema.
+03
+Criterio histórico
+Se considera la
+regulación anterior de la
+materia y los trabajos
+preparatorios de la
+norma (como
+anteproyectos de ley)
+para entender su
+evolución histórica y
+propósito legislativo
+original.
+108
+01
+Criterio sociológico
+Se interpreta la norma a
+la luz de la realidad
+social del momento de
+su aplicación. Este
+criterio busca evitar que
+el derecho se convierta
+en una "realidad vieja"
+con principios obsoletos,
+garantizando que sea
+dinámico y se adapte a
+los cambios sociales
+contemporáneos.
+02
+Criterio teleológico
+Este es el criterio más
+esencial y fundamental.
+El intérprete debe
+indagar en el espíritu y
+finalidad de la norma
+para entender el
+propósito último con el
+que fue dictada por el
+legislador.
+03
+Criterio lógico
+Se rechazan las
+interpretaciones
+irracionales, arbitrarias o
+contrarias al sentido
+común. Como se
+establece en el artículo
+218.2 de la Ley de
+Enjuiciamiento Civil, las
+sentencias deben
+ajustarse a "las reglas de
+la lógica y la razón".
+109
+3. Integración y aplicación de los criterios
+Estos criterios interpretativos no actúan de forma aislada, sino que se conjugan armónicamente
+para ofrecer una interpretación completa, coherente y razonable de las normas jurídicas. Su
+aplicación conjunta asegura que el derecho mantenga su vigencia y legitimidad en una sociedad
+democrática en constante transformación.
+La correcta aplicación de estos criterios garantiza que la interpretación jurídica
+sea:
+Equilibrada
+Considerando todos los
+factores relevantes en la
+interpretación normativa
+Coherente
+Manteniendo la unidad y
+armonía del sistema
+jurídico español
+Justa
+Respondiendo a las
+necesidades de justicia de
+la sociedad
+contemporánea
+En definitiva, estos criterios constituyen las herramientas fundamentales que
+permiten al operador jurídico desarrollar una labor interpretativa rigurosa,
+adaptada a las exigencias del Estado de Derecho y comprometida con los
+valores constitucionales que inspiran nuestro ordenamiento jurídico. Su dominio
+resulta esencial para cualquier profesional del derecho que aspire a una
+aplicación correcta y justa de las normas en el contexto social actual.
+Análisis textual
+Partiendo del significado
+literal de las palabras
+Contexto sistemático
+Relacionando con otras
+normas del ordenamiento
+Perspectiva histórica
+Considerando la evolución
+normativa
+Realidad social
+Adaptándose a los cambios
+contemporáneos
+Finalidad normativa
+Buscando el espíritu de la ley
+Racionalidad jurídica
+Aplicando la lógica y la
+razón
+110
+Tema 5: Estructura de la
+norma jurídica I
+1. El carácter de la norma
+El carácter de una norma se define por su finalidad específica. Responde
+fundamentalmente a la pregunta de si la norma busca que algo deba, no
+deba, o pueda ser realizado por los sujetos destinatarios.
+Estas tres posibilidades fundamentales dan lugar a las siguientes categorías,
+conocidas como modalidades deónticas, que constituyen la base del sistema
+normativo jurídico:
+1
+Obligación
+Se establece
+específicamente para que
+algo deba ser hecho de
+manera imperativa.
+Representa el mandato
+positivo del ordenamiento
+jurídico hacia los sujetos
+de derecho, creando un
+vínculo jurídico de
+cumplimiento necesario.
+2
+Prohibición
+Se establece
+expresamente para que
+algo no deba ser hecho
+bajo ninguna
+circunstancia. Constituye
+el mandato negativo que
+limita la libertad de acción
+de los individuos en
+determinadas situaciones
+específicas.
+3
+Permiso
+Se establece claramente
+para que algo pueda ser
+hecho de forma
+facultativa. Otorga la
+libertad de elección al
+sujeto, quien puede decidir
+si ejercer o no la conducta
+permitida por el
+ordenamiento jurídico.
+El análisis detallado de las prescripciones jurídicas, que ocupan un lugar
+absolutamente central en el derecho moderno, permite entender de manera
+integral el sistema jurídico en su conjunto y su funcionamiento práctico en la
+sociedad.
+111
+2. El contenido de la norma
+El contenido de la norma jurídica es precisamente aquello que se declara
+obligatorio, prohibido o permitido por el ordenamiento. Puede consistir
+fundamentalmente en una acción o una actividad humana específica que
+produzca un resultado determinado o un estado de cosas concreto en el mundo
+real.
+Sin embargo, es importante destacar que no todos los efectos derivados de
+nuestras acciones son jurídicamente relevantes para el derecho. Para los
+juristas especializados, resulta absolutamente crucial diferenciar entre dos
+conceptos fundamentales:
+Resultados
+Son específicamente los cambios producidos
+en el mundo que constituyen el producto
+directo de un comportamiento
+completamente voluntario. Esto incluye de
+manera expresa tanto las conductas
+absolutamente intencionales como aquellas
+consideradas imprudentes por el
+ordenamiento jurídico.
+Consecuencias
+Son exclusivamente los cambios que no
+resultan ser intencionales ni pueden ser
+calificados como imprudentes. Representan
+efectos colaterales que escapan al control
+directo del sujeto que realiza la acción
+principal.
+112
+Un aspecto absolutamente fundamental del contenido normativo es que puede
+manifestarse como una acción positiva concreta o como una omisión
+específica. En el ámbito jurídico especializado, omitir no constituye simplemente
+dejar de hacer algo cualquiera, sino específicamente dejar de hacer algo que se
+podía realizar y que además se debía hacer según las circunstancias.
+La relación existente entre un resultado determinado y una omisión específica no es de
+naturaleza causal directa, sino que se establece mediante un proceso de imputación
+jurídica. Por ejemplo, si una persona se encuentra ahogándose y yo, pudiendo salvarla sin
+riesgo personal alguno, decido no hacerlo, no soy técnicamente la causa directa de la
+muerte, pero se me puede imputar jurídicamente el resultado, haciéndome completamente
+responsable.
+2.1 Grado de determinación del contenido
+El grado específico de determinación del contenido de una norma jurídica varía
+considerablemente según su naturaleza. Algunas normas son tan específicas y
+detalladas que únicamente pueden ser cumplidas o incumplidas de manera
+absoluta. Otras, en cambio, no detallan específicamente las acciones concretas
+a seguir, sino que simplemente imponen la obligación general de actuar para
+conseguir un determinado estado de cosas.
+Reglas de fin
+Estas normas establecen específicamente un
+estado de cosas que debe ser alcanzado de
+manera obligatoria, pero no especifican
+detalladamente cómo debe hacerse. Un ejemplo
+claro es el artículo 158 del Código Civil, que
+obliga expresamente al juez a "tomar medidas
+convenientes para asegurar la prestación de
+alimentos", sin precisar específicamente cuáles
+son esas medidas concretas.
+Directrices
+Estas normas tampoco especifican un umbral
+mínimo específico de cumplimiento, sino que
+marcan fundamentalmente un objetivo general
+para orientar adecuadamente la conducta.
+También se las conoce técnicamente como
+"mandatos de optimización" en la doctrina
+jurídica especializada.
+113
+3. Esquemas fundamentales
+Componente
+s de la norma
+Descripción detallada
+Carácter Determina específicamente si la norma constituye una obligación, prohibición
+o permiso dentro del ordenamiento jurídico.
+Contenido Establece precisamente lo que la norma declara obligatorio, prohibido o
+permitido para los sujetos destinatarios.
+Condición de
+aplicación
+Define específicamente las circunstancias concretas que deben darse para
+que la norma sea aplicable en la práctica.
+Autoridad Identifica claramente el agente competente que emite la norma y tiene
+potestad para hacerlo.
+Sujeto Especifica el destinatario concreto de la norma, quien debe cumplir con las
+prescripciones establecidas.
+Ocasión Determina específicamente el lugar y tiempo en que debe ser cumplida la
+norma de manera efectiva.
+Promulgación Establece la forma específica en que la norma es dada a conocer
+públicamente a sus destinatarios.
+Sanción Define el castigo o consecuencia jurídica específica por el incumplimiento de
+la norma establecida.
+Esquema 2: La distinción jurídica entre resultado y consecuencia
+1
+Hecho inicial
+Punto de partida de
+cualquier situación
+jurídicamente relevante que
+requiere análisis normativo.
+2
+Resultado
+Comportamiento
+completamente voluntario,
+ya sea intencional o
+imprudente, que genera
+efectos jurídicos directos.
+3
+Consecuencia
+Cambios no intencionales
+que no pueden calificarse
+como imprudentes y
+escapan al control directo.
+114
+Características del resultado
+Comportamiento absolutamente voluntario
+Puede ser intencional o imprudente
+Genera responsabilidad jurídica directa
+Está sujeto a imputación causal
+Características de la consecuencia
+Cambios completamente no intencionales
+No calificables como imprudentes
+Escapan al control directo del sujeto
+No generan responsabilidad directa
+Esta distinción fundamental entre resultado y consecuencia constituye uno de
+los pilares básicos del análisis jurídico moderno, permitiendo establecer
+criterios claros de responsabilidad y imputación en el ordenamiento jurídico
+contemporáneo.
+115
+Tema 6: Estructura de la
+norma jurídica II
+Siguiendo con los elementos que definen la estructura de la norma jurídica, el
+presente video se centrará en la condición de aplicación y la autoridad de la
+prescripción. Estos elementos son cruciales para comprender cómo y quién
+establece las normas que rigen la conducta social.
+1. La condición de aplicación
+La condición de aplicación es la circunstancia o conjunto de circunstancias que
+deben darse para que el contenido de una norma pueda ser ejecutado. Estas
+condiciones pueden ser de dos tipos:
+Normas categóricas
+Su condición de aplicación se agota en su mismo contenido. Por ejemplo, la
+norma "No matarás" no está sujeta a ninguna condición externa; su única
+condición es la posibilidad misma de ser obedecida.
+Normas hipotéticas
+Además de la condición de posibilidad, estas normas establecen
+condiciones adicionales que no se infieren de su contenido. Un ejemplo es:
+"Si llueve, cierra la puerta".
+Si la condición de que "llueva" se verifica, entonces se debe realizar la
+conducta de cerrar la puerta. Este tipo de normas son las que más abundan en
+los ordenamientos jurídicos, como el Código Civil o el Código Penal.
+116
+2. La autoridad de la prescripción
+La autoridad de una prescripción es el órgano que la dicta o la emite. Según el
+origen de la autoridad, las normas se pueden clasificar en:
+Teónomas
+Emanan de un agente supraempírico (por ejemplo, un dios o un
+conjunto de dioses).
+Positivas
+Son dictadas por seres humanos (por ejemplo, un padre, el presidente
+del gobierno, un parlamento o un senado).
+Asimismo, las normas pueden ser:
+Heterónomas
+Dictadas por un agente para otro.
+Autónomas
+El agente se da la norma a sí
+mismo.
+Personales
+La relación entre el autor y el
+destinatario es más relevante que
+la propia norma.
+Impersonales
+Las normas operan de forma
+independiente tanto del autor
+como del destinatario.
+Por ejemplo, un tribunal civil es impersonal, ya que acoge a todo el mundo por
+igual, mientras que un tribunal específico, como uno de violencia de género,
+podría considerarse más personal, ya que atiende a un grupo específico de
+personas.
+117
+Tema 7: las normas
+primarias y las secundarias
+1. Normas primarias y secundarias: dos
+perspectivas
+El estudio de las normas primarias y secundarias puede abordarse desde dos
+perspectivas fundamentales: la cronológica y la valorativa (o axiológica).
+Sentido cronológico
+En este enfoque, lo secundario es posterior a lo primario. Las normas
+primarias establecen las obligaciones y prohibiciones de los ciudadanos (el
+"debe o no debe"). Posteriormente, surgen las normas secundarias, que
+establecen las sanciones aplicables a quienes incumplen las normas
+primarias.
+Por ejemplo, la parte de un artículo penal que prohíbe una conducta es la
+norma primaria, mientras que la parte que indica la sanción para esa
+conducta es la norma secundaria.
+Sentido valorativo (axiológico)
+En este caso, lo secundario es lo accesorio, y lo primario es lo principal. Las
+normas primarias son más importantes porque su objetivo es prescribir un
+comportamiento. Lo verdaderamente relevante es que los ciudadanos
+cumplan con el contenido de las normas primarias.
+La sanción (la norma secundaria) es un elemento secundario y de menor
+relevancia, ya que su propósito es garantizar el cumplimiento de la norma
+primaria.
+118
+2. La unión de normas según Hart
+El jurista Herbert Hart
+definió el ordenamiento
+jurídico como un sistema
+normativo que no se
+compone únicamente de
+normas de
+comportamiento (normas
+primarias), sino que
+resulta de la unión de
+normas primarias y
+secundarias.
+En su visión, las normas primarias son
+temporalmente anteriores y tienen una
+relevancia funcional mayor que las secundarias.
+Sin embargo, esto no devalúa la importancia de
+las normas secundarias.
+Hart argumentaba que si no existen normas
+secundarias, no existe propiamente el derecho.
+Las normas secundarias son vitales para el
+sistema jurídico, ya que le confieren dinamismo
+y resuelven las deficiencias de un sistema
+compuesto solo por normas primarias.
+La ausencia de normas secundarias haría que un ordenamiento jurídico
+careciera de sentido, ya que la sanción es la "piedra angular" del
+derecho.
+Norma primaria
+Especifica la conducta prohibida o
+permitida. Puede existir de forma
+independiente y mantener su
+significado jurídico.
+Norma secundaria
+Establece la sanción
+correspondiente. Carece de
+significado sin la norma primaria
+que la fundamenta.
+Un artículo que solo dijera "será condenado a cinco años de cárcel" no tendría
+sentido sin la norma primaria que especifica la conducta prohibida. Por tanto,
+mientras que una norma primaria puede existir sin la secundaria, una
+secundaria carece de significado sin la primaria.
+119
+3. Carencias de las sociedades
+primitivas y tipos de normas
+secundarias
+Para Hart, las sociedades que se rigen exclusivamente por normas primarias
+tienen tres carencias principales:
+Falta de certeza
+No hay un método
+claro para
+determinar cuáles
+son las normas y su
+alcance.
+Carácter estático
+No hay un
+mecanismo para
+cambiar las normas
+de manera
+deliberada.
+Ineficacia de la
+presión social
+La sanción por
+incumplimiento se
+basa en la presión
+social y no existe un
+sistema centralizado
+de aplicación y
+castigo.
+4. Tipos de normas secundarias
+Las normas secundarias resuelven estas carencias y se dividen en tres tipos:
+Reglas de
+reconocimiento
+Establecen los criterios
+para identificar las normas
+primarias válidas del
+sistema jurídico.
+Proporcionan certeza al
+sistema legal.
+Reglas de cambio
+Permiten crear, modificar o
+derogar normas primarias,
+dotando de dinamismo al
+sistema. Superan el
+carácter estático.
+Reglas de
+adjudicación
+Confieren poder a ciertos
+individuos para determinar
+si se ha violado una norma
+primaria y para imponer
+una sanción. Garantizan la
+eficacia del sistema.
+120
+Tema 8: Tipos de normas
+secundarias
+Reglas de reconocimiento
+Estas reglas definen los criterios que una norma debe cumplir para ser
+considerada parte válida del ordenamiento jurídico. En esencia, resuelven el
+problema de la falta de certeza normativa, que se presenta cuando no hay
+un método claro para identificar qué normas son obligatorias y cuáles no.
+Reglas de cambio
+Indican las condiciones necesarias para promulgar, modificar o derogar
+normas. Su función es dotar al sistema jurídico de dinamismo, superando el
+problema de la estaticidad normativa en las sociedades primitivas, donde el
+cambio era un proceso lento y no deliberado.
+Reglas de adjudicación
+Confieren a ciertos individuos (como los jueces) la autoridad para
+determinar si una norma primaria ha sido violada y para imponer una
+sanción. Estas reglas abordan la inseguridad en la aplicación de las
+normas, un problema común en las sociedades primitivas donde no existían
+órganos específicos para aplicar el derecho.
+Las normas secundarias son esenciales para la existencia y el funcionamiento
+de un sistema jurídico robusto. Hart las clasificó en tres tipos, cada uno con una
+función específica que permite superar las limitaciones de los sistemas
+normativos primitivos.
+121
+1. Carencias normativas en las
+sociedades primitivas
+Según Hart, las sociedades primitivas, que se basaban exclusivamente en
+normas primarias, sufrían de tres carencias principales que un sistema jurídico
+moderno no podría tolerar:
+01
+Falta de certeza
+normativa
+Cuando existían dudas
+sobre la validez de una
+norma, no había un
+criterio para resolverlas.
+Esto generaba
+inseguridad jurídica y
+conflictos sobre qué
+reglas debían seguirse
+en situaciones
+específicas.
+02
+Estaticidad normativa
+Las normas eran rígidas
+y solo cambiaban a
+través de un proceso
+lento y no deliberado.
+Esto dificultaba la
+adaptación del derecho a
+las nuevas realidades
+sociales y limitaba la
+evolución del sistema
+jurídico.
+03
+Inseguridad en la
+aplicación
+No existían órganos con
+la facultad de determinar
+si los comportamientos
+de los individuos se
+ajustaban a las normas.
+La aplicación del derecho
+era, por tanto, incierta y
+descentralizada.
+Las normas secundarias surgieron como un remedio para estas
+carencias. No las resolvieron de manera absoluta en las primeras etapas
+del derecho, pero sentaron las bases para un sistema jurídico más
+complejo, dinámico y seguro.
+Es fundamental entender que el derecho no es un ente estático; avanza y se
+adapta junto con la sociedad que lo crea. La transición de sistemas normativos
+primitivos a sistemas jurídicos modernos representa una evolución crucial en el
+desarrollo de las sociedades humanas.
+122
+BLOQUE 6
+APLICACIÓN DEL DERECHO Y SUS
+INSTRUMENTOS
+123
+Tema 1: Aplicación del
+Derecho
+Este séptimo bloque se enfoca en la aplicación del derecho y los instrumentos
+de la plenitud del ordenamiento jurídico. El derecho tiene una vocación práctica,
+por lo que su correcta aplicación es clave para su efectividad. El Estado, como
+creador de la mayoría de las normas, también debe establecer cómo se aplican.
+Aplicación automática
+Los ciudadanos y el Estado respetan las normas de forma espontánea, sin necesidad de
+recurrir a la coacción
+Aplicación burocrática
+Requiere la intervención del Estado de forma mecánica y repetitiva para casos sencillos
+Aplicación particularizada
+Se usa para casos excepcionales y únicos que presentan perfiles especiales
+Hay tres tipos principales de aplicación de las normas jurídicas que determinan
+cómo el derecho se materializa en la práctica cotidiana de la sociedad y las
+instituciones.
+124
+1. Aplicación automática y burocrática
+Aplicación automática
+Esta aplicación ocurre cuando los ciudadanos y el Estado respetan las normas
+de forma espontánea, sin necesidad de recurrir a la coacción. Por ejemplo, lo
+más común es que se respeten los términos de un contrato, se cumplan las
+reglas de tráfico y se eviten los delitos.
+Aplicación burocrática
+La aplicación burocrática requiere la intervención del Estado, pero de una forma
+mecánica y repetitiva. Se usa para casos sencillos que no implican
+interpretaciones complejas de la norma.
+Del mismo modo, los derechos humanos
+suelen respetarse en los estados donde están
+garantizados por un sistema coactivo fuerte.
+Sin embargo, en estados débiles o fallidos,
+donde la coacción estatal es deficiente, esta
+aplicación no es posible.
+Por ejemplo, la matrícula de un estudiante en
+una universidad es un caso de aplicación
+burocrática de la norma. El Estado interviene
+para asegurar que el estudiante cumpla con
+los requisitos, pero el proceso es
+estandarizado y casi automático.
+Diferencia clave: La
+principal diferencia
+con la aplicación
+automática es la
+intervención activa
+del Estado en el
+proceso burocrático.
+125
+2. Aplicación particularizada
+Esta forma de aplicación se usa para casos excepcionales y únicos que
+presentan perfiles especiales, como la mala suerte de que Antonio empuja a
+Pepe y este muere. Estos casos suelen requerir una interpretación más
+profunda de la norma o la ponderación de distintos valores.
+01
+Análisis del caso concreto
+Los tribunales examinan los matices
+específicos de cada situación
+particular
+02
+Interpretación profunda
+Se requiere una comprensión detallada
+de la norma aplicable al caso
+03
+Ponderación de valores
+Se evalúan diferentes principios
+jurídicos que pueden entrar en
+conflicto
+04
+Decisión particularizada
+Se emite una resolución única
+adaptada a las circunstancias
+específicas
+Es un enfoque propio de los tribunales y de los casos judiciales, donde los
+matices del caso en concreto son fundamentales.
+Ejemplo práctico: caso de Pepe y
+Antonio
+En el ejemplo de Pepe y Antonio, una
+aplicación particularizada del derecho
+implicaría considerar si la intención
+de Pepe era matar o solo lesionar, y
+cómo debe ponderarse la intención
+frente al resultado de la muerte.
+Características del debate: Es un
+debate particular que requiere un
+enfoque único, ya que no se puede
+aplicar una solución genérica a un
+caso con matices tan complejos.
+126
+Tema 2: La equidad
+La equidad es una cualidad que se predica de la solución particularmente justa
+que se da a un caso concreto. Mientras que la justicia es un concepto
+abstracto, la equidad es su aplicación en la realidad, ateniéndose a las
+particularidades de cada situación. La equidad busca que una norma, que es
+justa en abstracto, se aplique de una forma concretamente justa. Su función es
+suavizar la rigidez de la ley para ajustarla a las especialidades de un caso único,
+evitando resultados desproporcionados o absurdos.
+Como un instrumento auxiliar del juez
+El juez la utiliza en la interpretación de las normas para individualizar la justicia en cada caso
+concreto, más allá de interpretaciones automáticas o ciegas.
+Como un criterio excepcional
+Los tribunales solo pueden basar sus resoluciones exclusivamente en la equidad cuando la ley
+expresamente lo permite.
+1. La equidad en el código civil español
+El artículo 3.2 del Código Civil español aborda directamente la equidad:
+"La equidad habrá de ponderarse en la aplicación de las normas, si bien las resoluciones de
+los Tribunales solo podrán descansar de manera exclusiva en ella cuando la ley expresamente
+lo permita."
+Ponderar significa sopesar o aplicar con prudencia. El aplicador de la norma
+debe mantener un equilibrio, evitando interpretaciones que lleven a resultados
+irracionales. Sin embargo, la equidad está subordinada a la norma jurídica. Esto
+significa que no puede cambiar radicalmente el sentido de una norma, sino que
+solo puede matizar y ayudar en su interpretación para asegurar una aplicación
+justa y prudente en cada caso.
+127
+Principio de igualdad
+La Constitución Española consagra la igualdad como un derecho fundamental,
+pero necesita la equidad para materializarse.
+Equidad salarial
+La equidad garantiza la aplicación práctica del principio de igualdad en el
+ámbito laboral y salarial.
+Igualdad de género
+Sin la equidad, el principio de igualdad entre hombres y mujeres serían solo
+"cantos de sirena" sin materialización real.
+Un ejemplo claro de la equidad es la aplicación del principio abstracto de
+igualdad. Si bien la Constitución Española consagra la igualdad como un
+derecho fundamental, la equidad es el vehículo que hace posible que este
+principio abstracto se aplique a la realidad, garantizando, por ejemplo, la
+equidad salarial, el pago por horas extra y la igualdad entre hombres y mujeres.
+Sin la equidad, el principio de igualdad serían solo "brindis al sol", sin una forma
+concreta de materializarse en la sociedad.
+128
+2. La relación entre justicia y equidad
+Concepto Justicia Equidad
+Definición Principio abstracto que
+establece lo bueno y lo
+malo.
+Aplicación singularmente
+justa de la norma a un
+caso concreto.
+Ámbito Principios generales y
+valores abstractos.
+Casos particulares y sus
+especialidades.
+Función Establece el "deber ser"
+general de la ley.
+Suaviza la ley y la ajusta a
+la realidad del caso.
+Relación La equidad es la
+materialización de la
+justicia en lo concreto.
+La equidad está
+subordinada a la norma
+jurídica.
+Justicia abstracta
+Principios generales que establecen el marco normativo ideal
+Proceso de aplicación
+La equidad actúa como puente entre lo abstracto y lo concreto
+Solución equitativa
+Resultado justo adaptado a las particularidades del caso específico
+129
+BLOQUE 7
+LIBERTADES FORMALES Y MATERIALES
+130
+Tema 1: La libertad
+1. Concepto fundamental
+La libertad es la facultad inherente al ser humano de comportarse de una
+manera o de abstenerse de hacerlo, siempre dentro de los límites que
+establece la ley. Es un derecho que debe ser reconocido y protegido por los
+ordenamientos jurídicos.
+2. Dos perspectivas principales de la libertad
+Libertad como estado
+Esta es la perspectiva liberal, que
+ve la libertad como una condición
+inherente al ser humano, que es
+independiente y autónomo. El
+individuo nace con esta capacidad
+natural de autodeterminación.
+Libertad como proceso
+Esta es la concepción materialista, que
+entiende la libertad como un proceso que
+se desarrolla en un contexto social y
+material. La cantidad de libertad que un
+individuo puede tener está condicionada
+por las circunstancias materiales en las
+que vive y se desarrolla.
+3. Tres interpretaciones de "yo soy libre"
+01
+Libertad como permiso
+Se refiere al
+consentimiento o
+autorización para realizar
+determinadas acciones.
+Esta dimensión implica
+que existe una autoridad
+que otorga o niega
+permisos.
+02
+Libertad como
+capacidad
+Significa ser capaz de
+ser libre, tener las
+habilidades y
+competencias necesarias
+para ejercer la libertad de
+manera efectiva y
+consciente.
+03
+Libertad como poder
+Implica tener las
+condiciones materiales,
+sociales y políticas
+necesarias para ejercer
+esa libertad de manera
+real y efectiva en la
+práctica cotidiana.
+131
+4. La libertad liberal
+La libertad liberal se ha desarrollado a lo largo de tres etapas históricas, que
+muestran su evolución y adaptación a diferentes contextos sociales y políticos a
+través de los siglos.
+Liberalismo 1
+antiguo
+Se centró en defender las
+libertades básicas del individuo
+frente al poder absoluto del
+Estado. Esta etapa marcó el
+inicio de la lucha contra el
+autoritarismo y la tiranía.
+2 Liberalismo
+mediano
+En esta etapa, el enfoque se
+trasladó a defender las
+libertades individuales frente a
+los derechos sociales, por el
+temor de que estos últimos
+pudieran limitar las libertades
+personales.
+Liberalismo 3
+contemporáneo
+En la actualidad, el liberalismo
+busca un equilibrio entre los
+derechos individuales y los
+derechos sociales,
+reconociendo que ambos
+pueden coexistir sin conflicto.
+El liberalismo surgió como una reacción a la sociedad de estamentos y al poder
+político absoluto, y las constituciones se convirtieron en la herramienta principal
+para garantizar las libertades de los individuos.
+132
+4.1 Principios clave de la libertad liberal
+Autonomía individual
+El individuo tiene el derecho a
+disponer de su cuerpo y de su
+propiedad privada de la forma que
+considere oportuna, sin
+interferencias externas
+injustificadas.
+Limitación del poder
+La acción del Estado debe ser
+limitada para salvaguardar las
+libertades personales y evitar el
+abuso de autoridad que pueda
+coartar los derechos
+fundamentales.
+No coacción
+La libertad se entiende como el
+derecho a no ser coaccionado en el
+ejercicio de la autonomía individual,
+garantizando la libre elección y
+autodeterminación.
+Protección de derechos
+La vida, la libertad y la propiedad
+son derechos fundamentales que
+deben ser protegidos por encima
+de todo, constituyendo la base del
+orden social justo.
+Filósofos como Kant, que consideraba que una constitución justa era
+aquella que unía la libertad con el poder, sentaron las bases teóricas de
+este concepto. En el siguiente vídeo, profundizaremos en los distintos ejes
+de la libertad liberal, como la libertad económica y la libertad política, y
+exploraremos las formulaciones de varios filósofos sobre este tema.
+133

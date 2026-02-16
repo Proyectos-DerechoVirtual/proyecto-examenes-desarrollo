@@ -1,0 +1,1296 @@
+Pregunta: ¿Cuál es el problema económico por excelencia?
+Respuesta Correcta: La tensión entre recursos escasos (limitados) y necesidades humanas ilimitadas. Esta disyuntiva obliga a tomar decisiones sobre qué, cómo, cuánto y para quién producir.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuál es el origen etimológico de la palabra "economía"?
+Respuesta Correcta: Procede de dos vocablos griegos: oikos (casa) y nomos (administrar). En su acepción primigenia alude a la tarea de administrar los recursos de un hogar.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuándo nace la ciencia económica moderna y con qué obra?
+Respuesta Correcta: En 1776 con la publicación de "Una investigación sobre la naturaleza y causas de la riqueza de las naciones" de Adam Smith, donde se acuña el término Economía Política.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuál es la diferencia entre Macroeconomía y Microeconomía?
+Respuesta Correcta: Macroeconomía estudia grandes magnitudes agregadas (PIB, inflación, desempleo); Microeconomía estudia unidades económicas individuales (consumidores, familias, empresas) y su toma de decisiones.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuál es la diferencia entre Economía Política y Política Económica?
+Respuesta Correcta: Economía Política es la ciencia que analiza relaciones entre producción, distribución y poder político; Política Económica es el programa de acción gubernamental con medidas concretas para alcanzar objetivos.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuáles son los tres pilares fundamentales que estudia la ciencia económica?
+Respuesta Correcta: La producción (transformación de materias primas en bienes y servicios), el crecimiento (mejora continua de cantidad y calidad) y la distribución (asignación de bienes entre los miembros de la comunidad).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 1: Introducción A La Economía Y La Ciencia Económica
+
+Pregunta: ¿Cuáles son los tres factores de producción o recursos económicos?
+Respuesta Correcta: Recursos Naturales (bienes de la naturaleza: tierra, agua, minerales), Recursos Humanos/Trabajo (facultades físicas e intelectuales de las personas) y Capital (maquinarias, infraestructuras, equipos).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Qué es el coste de oportunidad?
+Respuesta Correcta: Es el valor de la mejor alternativa desechada al realizar una elección. Toda elección implica una renuncia, y el coste de oportunidad cuantifica el valor de lo que se sacrifica.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Cuáles son las tres preguntas fundamentales que debe responder la economía?
+Respuesta Correcta: ¿Qué producir? (elección de bienes y servicios), ¿Cómo y cuánto producir? (asignación de recursos y tecnología) y ¿Para quién producir? (distribución de la producción).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Cuál es la diferencia entre bienes de consumo y bienes de capital?
+Respuesta Correcta: Bienes de consumo satisfacen directamente necesidades y generan bienestar presente (ropa, alimentos); bienes de capital sirven para producir otros bienes y aumentan la capacidad productiva futura (maquinaria).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Cuáles son los dos problemas básicos que estudia la ciencia económica derivados de la escasez?
+Respuesta Correcta: La escasez misma (recursos limitados frente a necesidades ilimitadas) y la ineludible necesidad de elegir entre diversas alternativas, lo que genera el coste de oportunidad.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Qué representa la Frontera de Posibilidades de Producción (FPP)?
+Respuesta Correcta: Es un modelo gráfico que representa todas las combinaciones posibles de producción de dos bienes que una economía puede alcanzar utilizando todos sus recursos y tecnología de manera eficiente.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 2: La Escasez Y La Necesidad De Elegir
+
+Pregunta: ¿Qué significan los puntos situados sobre la Frontera de Posibilidades de Producción?
+Respuesta Correcta: Representan combinaciones eficientes donde la economía utiliza todos sus recursos al máximo de su capacidad. Producir más de un bien implica necesariamente producir menos del otro (coste de oportunidad).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Qué significan los puntos situados por debajo de la Frontera de Posibilidades de Producción?
+Respuesta Correcta: Son combinaciones ineficientes. Indican que no se están utilizando todos los recursos disponibles o no se está haciendo de manera productiva. La economía podría aumentar la producción de ambos bienes.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Qué significan los puntos situados por encima de la Frontera de Posibilidades de Producción?
+Respuesta Correcta: Son combinaciones inalcanzables. La economía no tiene los recursos o la tecnología necesarios para alcanzar ese nivel de producción simultáneamente con los medios actuales.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Qué refleja la Frontera de Posibilidades de Producción?
+Respuesta Correcta: Refleja el potencial productivo máximo de una economía en un momento dado. Estar en la frontera significa que todos los factores de producción se están utilizando de manera eficiente.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Cómo se visualiza el coste de oportunidad en la FPP?
+Respuesta Correcta: Al moverse a lo largo de la frontera, aumentar la producción de un bien exige reducir la producción del otro. La cantidad sacrificada del segundo bien es el coste de oportunidad de producir más del primero.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Qué conceptos ilustra la Frontera de Posibilidades de Producción?
+Respuesta Correcta: Ilustra los conceptos de escasez (recursos limitados), elección (decidir entre combinaciones) y coste de oportunidad (lo que se sacrifica al elegir una combinación sobre otra).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 3: Frontera De Posibilidades De Producción
+
+Pregunta: ¿Qué es el flujo circular de la renta y cuáles son sus dos flujos?
+Respuesta Correcta: Modelo que representa la interacción entre agentes económicos. Flujo Real: movimiento físico (familias aportan factores, empresas entregan bienes). Flujo Monetario: contrapartida dineraria en sentido inverso.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Cuáles son las tres doctrinas económicas fundamentales y sus principales precursores?
+Respuesta Correcta: Liberalismo (Adam Smith, "La riqueza de las naciones"), Marxismo (Karl Marx, "El Capital" 1867) y Keynesianismo (John Maynard Keynes, tras el Crack de 1929).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Cuáles son las dos máximas clave del liberalismo económico?
+Respuesta Correcta: La "mano invisible" (el mercado se autorregula por el juego de oferta y demanda) y el principio "laissez-faire, laissez-passer" (dejar hacer, dejar pasar: no intervención del Estado).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Cuáles son las principales características del sistema de economía de mercado (capitalista)?
+Respuesta Correcta: Precios fijados por oferta y demanda, propiedad privada protegida, libertad de empresa e iniciativa, y no intervención del Estado (laissez-faire).
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Cuáles son las principales características del sistema de economía planificada (centralizada)?
+Respuesta Correcta: Precios fijados por la autoridad estatal, propiedad estatal de los medios de producción, inexistencia de libertad de empresa e intervención total del Estado. Ejemplos: Cuba, Corea del Norte.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Qué caracteriza al sistema de economía mixta?
+Respuesta Correcta: Término medio keynesiano: precios fijados por el mercado con posible regulación estatal, propiedad privada respetada, intervención del Estado limitada a corregir fallos de mercado y distribución equitativa. Ejemplo: España.
+Manual: Economía Política
+Bloque: Bloque 1
+Tema: Tema 4: El Flujo Circular de la Renta y los Sistemas Económicos
+
+Pregunta: ¿Qué establece la Ley de la Demanda?
+Respuesta Correcta: Una relación inversa entre precio y cantidad demandada (ceteris paribus): si el precio aumenta, la cantidad demandada disminuye; si el precio disminuye, la cantidad demandada aumenta.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Qué significa la condición "ceteris paribus"?
+Respuesta Correcta: Expresión latina que significa "manteniéndose todo lo demás constante". Implica que se asume que todos los demás factores que podrían influir permanecen inalterados para analizar la relación entre dos variables.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Cuál es la diferencia entre bienes sustitutivos y bienes complementarios?
+Respuesta Correcta: Sustitutivos: satisfacen la misma necesidad y pueden reemplazarse (Coca-Cola/Pepsi); relación directa con demanda del otro. Complementarios: se consumen juntos (cuchillas/espuma); relación inversa.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Cuál es la diferencia entre bienes normales y bienes inferiores respecto a la renta?
+Respuesta Correcta: Bienes normales: relación directa con la renta (si la renta aumenta, la demanda aumenta). Bienes inferiores: relación inversa (si la renta aumenta, la demanda disminuye porque se sustituyen por otros de mayor calidad).
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Cómo es la pendiente de la curva de demanda y por qué?
+Respuesta Correcta: Tiene pendiente descendente (negativa), reflejando la relación inversa entre precio y cantidad demandada: a medida que el precio sube, la cantidad demandada baja, y viceversa.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Cuáles son los principales factores determinantes de la demanda?
+Respuesta Correcta: El precio del propio bien (movimientos sobre la curva), precio de bienes relacionados (sustitutivos/complementarios), renta del consumidor, expectativas futuras y número de consumidores en el mercado.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 1: La Demanda, La Oferta Y El Mercado
+
+Pregunta: ¿Qué establece la Ley de la Oferta?
+Respuesta Correcta: Una relación directa entre precio y cantidad ofertada (ceteris paribus): si el precio aumenta, la cantidad ofertada aumenta (mayor incentivo para productores); si el precio disminuye, la cantidad ofertada disminuye.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Cómo es la pendiente de la curva de oferta y por qué?
+Respuesta Correcta: Tiene pendiente ascendente (positiva), reflejando la relación directa entre precio y cantidad ofertada: a medida que el precio sube, la cantidad que los productores están dispuestos a vender también aumenta.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Qué son bienes sustitutivos y complementarios en la producción?
+Respuesta Correcta: Sustitutivos: se pueden producir con los mismos factores (té/café); relación inversa. Complementarios: se obtienen conjuntamente en el mismo proceso (subproductos); relación directa con la oferta del otro.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Qué relación existe entre el precio de los factores de producción y la oferta?
+Respuesta Correcta: Relación inversa: si aumentan los costes de producción (precio de factores), la rentabilidad disminuye y los productores reducen la cantidad ofertada (desplazamiento a la izquierda de la curva de oferta).
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Qué efecto tienen las mejoras tecnológicas sobre la oferta?
+Respuesta Correcta: Relación directa: una mejora tecnológica siempre provoca un aumento de la oferta (desplazamiento a la derecha), ya que permite mayor rendimiento con los mismos recursos y reduce costes de producción.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Cuáles son los principales factores que desplazan la curva de oferta?
+Respuesta Correcta: Precio de bienes relacionados en producción, precio de los factores de producción, mejoras tecnológicas, objetivos de los oferentes y número de oferentes en el mercado.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 2: La Oferta En El Mercado
+
+Pregunta: ¿Qué es el equilibrio de mercado?
+Respuesta Correcta: Es el punto donde coinciden las posiciones de oferta y demanda en cantidad y precio. En este punto, todos los agentes ven satisfechas sus pretensiones y no hay presiones para que precio o cantidad varíen.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Cómo se determinan el precio y la cantidad de equilibrio gráficamente?
+Respuesta Correcta: En la intersección de las curvas de oferta (pendiente ascendente) y demanda (pendiente descendente). En ese punto de corte, la cantidad demandada es igual a la cantidad ofertada.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Qué es un excedente de mercado (exceso de oferta)?
+Respuesta Correcta: Se produce cuando el precio está por encima del equilibrio: la cantidad ofertada supera a la demandada (Oferta > Demanda). Los oferentes competirán bajando precios hasta volver al equilibrio.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Qué es una escasez de mercado (exceso de demanda)?
+Respuesta Correcta: Se produce cuando el precio está por debajo del equilibrio: la cantidad demandada supera a la ofertada (Demanda > Oferta). Los consumidores pagarán más, presionando los precios al alza hasta el equilibrio.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Cómo se corrigen las situaciones de desequilibrio en el mercado?
+Respuesta Correcta: Las propias fuerzas del mercado las corrigen: en excedente, los oferentes bajan precios; en escasez, los consumidores pagan más. Ambos mecanismos devuelven el mercado al punto de equilibrio.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Por qué es importante el equilibrio de mercado?
+Respuesta Correcta: Permite coordinar las decisiones de consumidores y productores eficientemente. Es un proceso dinámico donde oferta y demanda se ajustan continuamente, fundamental para política económica y estrategia empresarial.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 3: El Equilibrio Del Mercado
+
+Pregunta: ¿Cuál es la diferencia entre movimiento a lo largo de una curva y desplazamiento de la curva?
+Respuesta Correcta: Movimiento: variación solo del precio del bien (se cumple ceteris paribus), traslado sobre la misma curva. Desplazamiento: variación de otro factor (renta, tecnología), creación de nueva curva paralela.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Qué causa un desplazamiento de la curva de demanda hacia la derecha?
+Respuesta Correcta: Aumento de la renta (bien normal), aumento del precio de un bien sustitutivo, disminución del precio de un bien complementario, que el bien se ponga de moda, o aumento del número de consumidores.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Qué causa un desplazamiento de la curva de oferta hacia la derecha?
+Respuesta Correcta: Mejoras tecnológicas, reducción de los costes de producción (precio de factores), aumento del número de oferentes, o aumento del precio de un bien complementario en la producción.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Qué efecto tiene un aumento del precio sobre la curva de demanda?
+Respuesta Correcta: Genera un movimiento hacia arriba y a la izquierda sobre la misma curva, indicando una disminución en la cantidad demandada (no desplazamiento de la curva, sino movimiento a lo largo de ella).
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Por qué es importante distinguir entre movimientos y desplazamientos?
+Respuesta Correcta: Porque un desplazamiento de cualquiera de las curvas crea un nuevo punto de equilibrio con nuevo precio y cantidad. Es crucial para políticas públicas (impuestos desplazan oferta, subsidios desplazan demanda).
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Qué efecto tiene la imposición de un impuesto sobre un producto en el equilibrio de mercado?
+Respuesta Correcta: Provoca un desplazamiento hacia la izquierda de la curva de oferta (aumentan costes), resultando en un precio de equilibrio más alto y una cantidad de equilibrio menor.
+Manual: Economía Política
+Bloque: Bloque 2
+Tema: Tema 4: Desplazamiento De Las Curvas De Oferta Y Demanda
+
+Pregunta: ¿Qué es el excedente del consumidor?
+Respuesta Correcta: La diferencia entre la máxima cantidad que un consumidor está dispuesto a pagar por un bien y el precio que efectivamente paga. Mide el ahorro o ganancia subjetiva del consumidor en sus transacciones.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Qué es el excedente del productor?
+Respuesta Correcta: La diferencia entre el precio que un productor recibe por la venta de un bien y el coste mínimo al que estaría dispuesto a venderlo (su coste de producción). Representa la ganancia adicional del productor.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Cómo se representan gráficamente los excedentes del consumidor y productor?
+Respuesta Correcta: Excedente del consumidor: área triangular bajo la curva de demanda y sobre el precio de equilibrio. Excedente del productor: área triangular sobre la curva de oferta y bajo el precio de equilibrio.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Qué es la pérdida de peso muerto (deadweight loss)?
+Respuesta Correcta: Es la pérdida irrecuperable de eficiencia que no es recuperada por nadie cuando se impone un impuesto. Representa una reducción del bienestar general por las distorsiones que el impuesto introduce en el mercado.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Qué efecto tiene un impuesto sobre los excedentes del consumidor y productor?
+Respuesta Correcta: Reduce ambos excedentes: aumenta el precio para el consumidor y disminuye el ingreso del productor. Parte se transfiere al Estado (recaudación) y otra parte se pierde (peso muerto).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Qué efecto tiene un precio máximo sobre los excedentes?
+Respuesta Correcta: Puede aumentar el excedente del consumidor (para quienes consiguen el bien), pero reduce drásticamente el excedente del productor. Frecuentemente provoca escasez (demanda > oferta al precio regulado).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 1: Excedente Del Consumidor Y Del Productor
+
+Pregunta: ¿Qué son los fallos del mercado?
+Respuesta Correcta: Situaciones en las que el mercado, por sí solo, es incapaz de lograr una asignación óptima de recursos, generando ineficiencias y consecuencias negativas. Justifican la intervención del Estado en la economía.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Cuáles son los cinco principales tipos de fallos del mercado?
+Respuesta Correcta: Los ciclos económicos (inestabilidad), las externalidades, la competencia imperfecta (monopolio/oligopolio), la provisión insuficiente de bienes públicos y la distribución desigual de la renta.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Qué son las externalidades y cuáles son sus tipos?
+Respuesta Correcta: Efectos de la acción de un agente económico sobre terceros no involucrados en la transacción. Negativas: imponen costes (contaminación). Positivas: generan beneficios (I+D). El mercado no las internaliza.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Cuál es la diferencia entre monopolio y oligopolio?
+Respuesta Correcta: Monopolio: una sola empresa controla toda la oferta (puede fijar precios altos). Oligopolio: pocas empresas dominan el mercado (riesgo de colusión para actuar como monopolio conjunto).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Qué son los bienes públicos y cuáles son sus dos propiedades?
+Respuesta Correcta: Bienes con: 1) No rivalidad (el consumo de uno no reduce la cantidad para otros) y 2) No exclusión (imposible impedir que alguien lo consuma sin pagar). Ejemplos: defensa nacional, faros.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Por qué la distribución desigual de la renta es un fallo de mercado?
+Respuesta Correcta: Porque el mercado solo responde a quienes tienen capacidad de pago. La "soberanía del consumidor" está condicionada por la renta: se es "soberano al desear" pero "plebeyo al comprar". No garantiza distribución justa.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 2: Introducción a Los Fallos Del Mercado
+
+Pregunta: ¿Cuáles son los dos tipos principales de costes de la tributación?
+Respuesta Correcta: Costes directos (administrativos del gobierno y de cumplimiento del contribuyente) y costes de distorsión o pérdida de eficiencia (peso muerto por alteración de incentivos y reducción de transacciones).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿Qué son los costes administrativos y de cumplimiento tributario?
+Respuesta Correcta: Administrativos: gastos del gobierno para gestionar el sistema (recaudación, auditorías). De cumplimiento: gastos del contribuyente para cumplir obligaciones (contabilidad, asesores fiscales, documentación).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿De qué depende la magnitud de la pérdida de eficiencia (peso muerto) de un impuesto?
+Respuesta Correcta: De la elasticidad de oferta y demanda. Si la demanda es muy elástica, un pequeño aumento de precio reduce significativamente la cantidad demandada, amplificando la pérdida. Con demanda inelástica, el impacto es menor.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿Qué efectos distorsionadores tiene el impuesto sobre la renta?
+Respuesta Correcta: Desincentiva el trabajo (reduce la recompensa neta del esfuerzo) y la inversión (reduce las ganancias del capital). El efecto depende de la elasticidad de la oferta de trabajo y capital.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿Cuáles son las tres estrategias para minimizar los costes de la tributación?
+Respuesta Correcta: 1) Base imponible amplia con tasas bajas (menos distorsión). 2) Simplicidad (reduce costes administrativos y de cumplimiento). 3) Neutralidad (no favorecer ni castigar sectores específicos).
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿Por qué los impuestos al consumo pueden tener carácter regresivo?
+Respuesta Correcta: Porque pueden afectar desproporcionadamente a personas de menores ingresos, que destinan mayor porcentaje de su renta al consumo. Además, exenciones y tasas diferenciadas pueden agravar las distorsiones.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 3: Costes De La Tributación
+
+Pregunta: ¿Qué es un precio máximo y qué consecuencia principal genera?
+Respuesta Correcta: Límite superior al precio legal, fijado por debajo del equilibrio para proteger consumidores. Genera escasez (exceso de demanda): cantidad demandada > cantidad ofertada. Puede provocar mercados negros y colas.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Qué es un precio mínimo y qué consecuencia principal genera?
+Respuesta Correcta: Límite inferior al precio legal, fijado por encima del equilibrio para proteger productores/trabajadores. Genera excedente (exceso de oferta): cantidad ofertada > cantidad demandada. En el mercado laboral causa desempleo.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Cuál es el ejemplo más característico de precio mínimo?
+Respuesta Correcta: El Salario Mínimo Interprofesional (SMI), que establece la remuneración mínima que un empleador debe pagar. A un salario por encima del equilibrio, más personas quieren trabajar pero las empresas demandan menos mano de obra.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Qué es el control de cantidades (cuotas) y para qué se utiliza?
+Respuesta Correcta: Restricciones directas sobre la cantidad que se puede producir, vender o consumir. Se usa para corregir externalidades negativas (cuotas de pesca, límites de emisiones contaminantes) y evitar sobreexplotación de recursos.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Qué consecuencias económicas genera el control de cantidades?
+Respuesta Correcta: Menor eficiencia económica (impide asignación óptima), aparición de mercados secundarios de derechos, rigidez ante cambios del mercado, y posible influencia política en la asignación inicial de cuotas.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Qué alternativas menos distorsionadoras existen al control de precios y cantidades?
+Respuesta Correcta: Subsidios y transferencias directas, que permiten alcanzar objetivos sociales (proteger consumidores o productores) sin alterar tan significativamente los incentivos del mercado y su eficiencia.
+Manual: Economía Política
+Bloque: Bloque 3
+Tema: Tema 4: Control De Precios Y Cantidades
+
+Pregunta: ¿Cuál es la diferencia entre costes fijos y costes variables?
+Respuesta Correcta: Costes fijos: no varían con el nivel de producción (alquiler, sueldos administrativos). Costes variables: cambian en función directa del nivel de producción (materias primas, energía). Coste Total = CF + CV.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Qué es el coste marginal y para qué sirve?
+Respuesta Correcta: Es el incremento en el coste total que resulta de producir una unidad adicional. Es fundamental porque la decisión de aumentar producción se basa en comparar el coste de esa unidad con el ingreso que generará su venta.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Cuál es la regla de maximización del beneficio empresarial?
+Respuesta Correcta: Comparar Ingreso Marginal (IMg) con Coste Marginal (CMg): Si IMg > CMg, aumentar producción; si IMg < CMg, reducir producción; si IMg = CMg, se alcanza el nivel óptimo con beneficio máximo.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Qué es el punto de equilibrio o umbral de rentabilidad (break-even point)?
+Respuesta Correcta: El nivel de producción donde los Ingresos Totales igualan a los Costes Totales (beneficio = 0). Determina la cantidad mínima de producción y venta necesaria para no incurrir en pérdidas.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Qué es el coste medio y cómo se calcula?
+Respuesta Correcta: Es el coste total dividido entre la cantidad de unidades producidas (CM = CT / Q). Permite conocer el coste promedio de producir cada unidad de un bien.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Por qué es importante conocer la estructura de costes para una empresa?
+Respuesta Correcta: Permite determinar el volumen de producción necesario para cubrir gastos, aplicar la regla de maximización de beneficios (IMg = CMg), calcular el punto de equilibrio y tomar decisiones estratégicas de precios.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 1: Costes De Producción Y Maximización De Beneficios
+
+Pregunta: ¿Cuáles son los cuatro supuestos del mercado de competencia perfecta?
+Respuesta Correcta: 1) Atomización (gran número de compradores y vendedores), 2) Homogeneidad del producto (bienes idénticos), 3) Libertad de entrada y salida (sin barreras), 4) Información perfecta (conocimiento pleno del mercado).
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Qué significa que las empresas sean "precio-aceptantes" (price takers)?
+Respuesta Correcta: Que ninguna empresa tiene capacidad suficiente para influir sobre el precio del mercado. Todas compiten en igualdad de condiciones y deben aceptar el precio fijado por las fuerzas de oferta y demanda.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Por qué la publicidad individual es ineficaz en competencia perfecta?
+Respuesta Correcta: Porque los productos son homogéneos (sustitutivos perfectos). Al consumidor le resulta indiferente la marca, ya que todos los productos son idénticos. Por eso los productores se asocian para campañas publicitarias genéricas.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Por qué en competencia perfecta el beneficio tiende a cero a largo plazo?
+Respuesta Correcta: Por la libertad de entrada y salida: los beneficios extraordinarios atraen nuevas empresas (aumenta oferta, baja precio), y las pérdidas provocan salida de empresas (reduce oferta, sube precio), equilibrando el beneficio a cero.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Por qué la competencia perfecta es un modelo teórico y no una realidad común?
+Respuesta Correcta: Porque raramente se cumplen todos los supuestos simultáneamente. Su utilidad es servir como referencia para comparar otras estructuras de mercado más complejas y realistas (monopolio, oligopolio, competencia monopolística).
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Qué ejemplos de mercados se aproximan a la competencia perfecta?
+Respuesta Correcta: Productos agrícolas básicos (trigo, maíz, lentejas, patatas), donde coexisten muchos pequeños productores con productos homogéneos. También mercados de valores y mercados online con comparadores de precios.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 2: La Competencia Perfecta
+
+Pregunta: ¿Cuáles son las tres formas principales de competencia imperfecta?
+Respuesta Correcta: Monopolio (una única empresa), Oligopolio (pocas empresas con poder considerable) y Competencia Monopolística (muchas empresas con productos diferenciados). La regla: menos empresas = mayor poder sobre el precio.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Cuáles son los tipos de barreras de entrada que originan un monopolio?
+Respuesta Correcta: Acceso exclusivo a un recurso (control de factor de producción), derechos legales (patentes, concesiones), naturaleza del servicio (monopolio natural con altos costes fijos) y ventaja en costes (producción más eficiente).
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Qué es un cártel y por qué está prohibido?
+Respuesta Correcta: Es un acuerdo entre empresas oligopolísticas para fijar precios, limitar producción o repartirse el mercado, actuando como monopolio conjunto. Está prohibido por el derecho de la competencia (antitrust) porque perjudica a consumidores.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Qué caracteriza a la competencia monopolística?
+Respuesta Correcta: Muchas empresas compitiendo con productos diferenciados (no sustitutivos perfectos). Cada empresa tiene un pequeño "monopolio" sobre su versión del producto. La publicidad y el marketing son fundamentales. Ejemplo: yogures, cafeterías.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Cuál es la diferencia entre oligopolio con y sin colusión?
+Respuesta Correcta: Sin colusión: competencia estratégica férrea, guerras de precios, anticipación de acciones rivales. Con colusión (cártel): cooperación coordinada para fijar precios altos, limitar producción o repartir mercado geográficamente.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Qué es un monopolio natural y por qué surge?
+Respuesta Correcta: Surge cuando, por las características del servicio, resulta económicamente inviable o ineficiente que sea provisto por más de una empresa, debido a costes fijos extremadamente elevados. Ejemplos: recogida de basuras, red eléctrica.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 3: Competencia Imperfecta
+
+Pregunta: ¿Qué es la eficiencia asignativa?
+Respuesta Correcta: Situación en que los recursos se distribuyen de manera que el bienestar social se maximiza: bienes producidos en cantidades adecuadas y asignados a quienes más los valoran, logrando equilibrio óptimo entre oferta y demanda.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Cómo afecta el monopolio a la eficiencia asignativa?
+Respuesta Correcta: El monopolista restringe oferta para aumentar precios por encima del coste marginal, generando pérdida de peso muerto: transacciones mutuamente beneficiosas que no se realizan porque consumidores son excluidos del mercado.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Qué es la información asimétrica y qué problema genera?
+Respuesta Correcta: Cuando una parte en una transacción tiene más información que la otra. Genera selección adversa: los productos de alta calidad abandonan el mercado porque no reciben precio justo, quedando solo productos de baja calidad.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Qué es el problema del polizón (free-rider) en bienes públicos?
+Respuesta Correcta: Como no se puede excluir a quienes no pagan, muchos se benefician sin contribuir. Las empresas privadas carecen de incentivos para proveer estos bienes porque no pueden rentabilizar su inversión.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Cómo interviene el Estado ante externalidades negativas y positivas?
+Respuesta Correcta: Negativas (contaminación): impuestos pigouvianos o regulaciones para internalizar costes y reducir producción. Positivas (I+D): subvenciones o incentivos fiscales para fomentar actividad que genera beneficios sociales.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Cuál es el ejemplo clásico de información asimétrica?
+Respuesta Correcta: El mercado de coches de segunda mano: el vendedor conoce el estado real del vehículo mejor que el comprador. Los compradores ofrecen precio promedio, desincentivando venta de coches de calidad (selección adversa).
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 4: Fallos De Mercado Y Eficiencia Asignativa
+
+Pregunta: ¿Cuáles son las tres justificaciones principales para la intervención del sector público?
+Respuesta Correcta: 1) Corrección de fallos del mercado (externalidades, bienes públicos, competencia imperfecta), 2) Redistribución de la renta (impuestos progresivos, asistencia social) y 3) Estabilidad macroeconómica (suavizar ciclos económicos).
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Qué herramientas usa el Estado para mantener la estabilidad macroeconómica?
+Respuesta Correcta: Políticas fiscales (gasto público e impuestos) y políticas monetarias (control de oferta de dinero y tipos de interés). Objetivo: mitigar intensidad de ciclos económicos y promover crecimiento estable.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Qué son los "fallos del gobierno"?
+Respuesta Correcta: Ineficiencias generadas por la propia intervención pública cuando no se diseña adecuadamente: ineficiencias burocráticas, distorsión de incentivos y problemas de información para tomar decisiones óptimas.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Qué es la ineficiencia burocrática del sector público?
+Respuesta Correcta: Al no estar guiados por el beneficio ni la competencia, los gobiernos pueden operar con desperdicio de recursos, exceso de personal, lentitud administrativa y menor innovación. Sin embargo, algunos servicios no rentables son socialmente necesarios.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Cómo puede la intervención estatal distorsionar los incentivos?
+Respuesta Correcta: Ejemplo: subsidios a empresas en dificultades pueden generar "riesgo moral" (menos incentivos para mejorar eficiencia si saben que serán rescatadas). Impuestos mal diseñados pueden desincentivar inversión o trabajo.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Cómo redistribuye el Estado la renta?
+Respuesta Correcta: A través de impuestos progresivos (quien más gana, paga proporción mayor) y programas de asistencia social (pensiones, subsidios de desempleo, sanidad pública), financiando apoyo a sectores vulnerables de la sociedad.
+Manual: Economía Política
+Bloque: Bloque 4
+Tema: Tema 5: Intervención Del Sector Público
+
+Pregunta: ¿Cuál es la diferencia fundamental entre microeconomía y macroeconomía?
+Respuesta Correcta: La microeconomía estudia el comportamiento de agentes individuales (consumidores, empresas, mercados específicos). La macroeconomía estudia el comportamiento agregado y funcionamiento general de una economía (PIB, inflación, desempleo).
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿A quién se atribuye el surgimiento de la macroeconomía como rama diferenciada?
+Respuesta Correcta: A John Maynard Keynes, con su libro "Teoría General de la Ocupación, el Interés y el Dinero" (1930). La Gran Depresión de 1929 demostró que se requería una visión más amplia que la teoría clásica no podía proporcionar.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿Cuáles son los cuatro objetivos fundamentales de la macroeconomía?
+Respuesta Correcta: 1) Crecimiento económico sostenido (aumento del PIB), 2) Estabilidad de precios (control de inflación), 3) Pleno empleo (minimizar desempleo a la tasa natural), 4) Equilibrio en la balanza de pagos.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿Qué es la inflación y por qué es importante controlarla?
+Respuesta Correcta: Es el aumento generalizado y sostenido del nivel de precios. Reduce el poder adquisitivo, erosiona el ahorro y crea incertidumbre que desincentiva la inversión. La política macroeconómica busca mantenerla baja y predecible.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿Por qué el objetivo del pleno empleo no significa desempleo del 0%?
+Respuesta Correcta: Porque existe desempleo friccional (personas temporalmente entre trabajos) y estacional, que es inevitable. El objetivo realista es mantener el desempleo en su "tasa natural", que representa ese mínimo inevitable de desocupación.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿Qué es la balanza de pagos y por qué es importante su equilibrio?
+Respuesta Correcta: Es el registro contable de todas las transacciones económicas entre un país y el resto del mundo. Un déficit comercial persistente puede generar acumulación insostenible de deuda externa y pérdida de confianza en la economía.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 1: Introducción A La Macroeconomía
+
+Pregunta: ¿Qué es el Producto Interior Bruto (PIB)?
+Respuesta Correcta: El valor monetario total de todos los bienes y servicios finales producidos en el territorio de una economía durante un período determinado. Se calcula: PIB = C (Consumo) + I (Inversión) + G (Gasto Público) + XN (Exportaciones Netas).
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Qué es el IPC y para qué sirve?
+Respuesta Correcta: El Índice de Precios de Consumo mide la variación del precio de una "cesta de la compra" representativa (más de 400 artículos). Sirve para calcular la tasa de inflación y medir cambios en el coste de la vida.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Qué mide la tasa de desempleo?
+Respuesta Correcta: El porcentaje de la población económicamente activa que está sin empleo pero busca activamente trabajo. Es requisito indispensable la búsqueda activa; quienes no desean trabajar no se computan como desempleados.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Qué es la deflación y qué riesgos presenta?
+Respuesta Correcta: Es el descenso generalizado y sostenido de los precios. Puede desincentivar el consumo y la inversión ante la expectativa de futuras bajadas de precios, pudiendo conducir a una espiral recesiva.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Cómo afectan las tasas de interés bajas y altas a la economía?
+Respuesta Correcta: Bajas: crédito más barato, incentivan consumo e inversión, estimulan la actividad económica. Altas: crédito más caro, desincentivan gasto e inversión, se usan para "enfriar" la economía y controlar inflación.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Cuál es la limitación fundamental del PIB como indicador de bienestar?
+Respuesta Correcta: No refleja la distribución de la riqueza. Un país puede tener PIB elevado y simultáneamente presentar altos niveles de desigualdad económica. Tampoco incluye trabajo no remunerado ni externalidades negativas.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 2: Principales Variables Macroeconómicas
+
+Pregunta: ¿Qué es la demanda agregada (DA) y cuáles son sus componentes?
+Respuesta Correcta: La cantidad total de bienes y servicios que los sectores de la economía están dispuestos a comprar a un nivel de precios. Componentes: DA = C (Consumo) + I (Inversión) + G (Gasto Público) + XN (Exportaciones Netas).
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Por qué la curva de demanda agregada tiene pendiente descendente?
+Respuesta Correcta: Por tres efectos: 1) Efecto Riqueza (precios bajos aumentan valor real del dinero), 2) Efecto Tipo de Interés (precios bajos reducen tipos, estimulando gasto), 3) Efecto Tipo de Cambio (precios bajos hacen bienes más competitivos).
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Cuál es la diferencia entre la oferta agregada a corto y largo plazo?
+Respuesta Correcta: Corto plazo (OACP): salarios rígidos, curva ascendente, mayor precio = mayor producción. Largo plazo (OALP): todos los precios flexibles, curva vertical en el nivel de producción potencial, independiente del nivel de precios.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Cómo se alcanza el equilibrio macroeconómico?
+Respuesta Correcta: En el punto donde la curva de demanda agregada se cruza con la de oferta agregada a corto plazo. Este punto determina simultáneamente el nivel de producción real y el nivel general de precios de la economía.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Qué ocurre cuando la demanda agregada supera a la oferta agregada?
+Respuesta Correcta: Existe exceso de demanda: las empresas no pueden satisfacer todo el gasto deseado, generando presión al alza sobre los precios (inflación). Lo contrario (exceso de oferta) provoca acumulación de existencias, desempleo y deflación.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Qué factores desplazan la curva de oferta agregada?
+Respuesta Correcta: Factores que alteran la capacidad productiva: mejoras tecnológicas, aumentos del stock de capital físico o humano, cambios en los costes de producción. Una inversión en maquinaria eficiente desplaza la curva hacia la derecha.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 3: La Oferta Y La Demanda Agregada
+
+Pregunta: ¿Cuál es la diferencia entre PIB nominal y PIB real?
+Respuesta Correcta: PIB nominal: valor de la producción a precios corrientes (del año en curso), afectado por inflación. PIB real: valor a precios constantes (de un año base), elimina el efecto de la inflación y refleja el crecimiento económico genuino.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Por qué el PIB nominal puede ser engañoso para comparar períodos?
+Respuesta Correcta: Porque si los precios aumentan por inflación, el PIB nominal crece aunque la cantidad de bienes producidos no haya variado. Por eso el PIB real es más adecuado para medir el crecimiento económico real entre diferentes años.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Cuáles son los cuatro componentes del gasto agregado en la fórmula del PIB?
+Respuesta Correcta: 1) Consumo (C): gasto de hogares. 2) Inversión (I): gasto en bienes de capital y viviendas. 3) Gasto Público (G): compras del gobierno (no transferencias). 4) Exportaciones Netas (XN): exportaciones menos importaciones.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Qué incluye la Inversión (I) en el cálculo del PIB?
+Respuesta Correcta: El gasto de empresas en bienes de capital (maquinaria, edificios, equipos), la construcción de nuevas viviendas por hogares, y la variación de existencias (bienes producidos pero aún no vendidos). No incluye inversión financiera.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Por qué las transferencias (pensiones, subsidios) no se incluyen en el Gasto Público (G)?
+Respuesta Correcta: Porque no representan una contraprestación por la producción de un bien o servicio. El Gasto Público solo incluye compras de bienes y servicios (carreteras, hospitales, salarios de funcionarios), no pagos sin contrapartida productiva.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Cómo afectan las exportaciones netas (XN) al PIB?
+Respuesta Correcta: Si un país exporta más de lo que importa (X > M), las exportaciones netas son positivas y contribuyen positivamente al PIB. Si importa más de lo que exporta (M > X), el saldo es negativo y reduce el valor del PIB.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 4: PIB Nominal Y Real
+
+Pregunta: ¿Cómo se calcula el IPC?
+Respuesta Correcta: 1) Selección de cesta representativa de bienes/servicios. 2) Recopilación periódica de precios. 3) Cálculo del coste de la cesta actual vs período base. 4) IPC = (Coste cesta actual / Coste cesta base) × 100.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Cómo se calcula la tasa de inflación a partir del IPC?
+Respuesta Correcta: Tasa de Inflación = ((IPC actual - IPC anterior) / IPC anterior) × 100. Si el IPC indica inflación del 10%, la cesta de bienes es un 10% más cara que el año anterior, reduciendo el poder adquisitivo.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Qué son los "trabajadores desalentados" y cómo afectan a las estadísticas?
+Respuesta Correcta: Son personas que han dejado de buscar trabajo. No se incluyen en la población activa y, por tanto, no se contabilizan en las cifras de desempleo. Esto representa una limitación importante de la medición oficial del desempleo.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Qué es la Curva de Phillips y qué relación describe?
+Respuesta Correcta: Sugiere una relación inversa a corto plazo entre tasa de desempleo e inflación: desempleo bajo = inflación alta, y viceversa. Los responsables de política económica enfrentarían un trade-off entre ambos objetivos.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Qué es la estanflación y por qué contradice la Curva de Phillips?
+Respuesta Correcta: Es un fenómeno donde coexisten alta inflación y alto desempleo simultáneamente. Contradice la Curva de Phillips tradicional que predice relación inversa. La evidencia empírica ha demostrado que esta relación no siempre se cumple.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Cómo se relacionan la inflación y el empleo bidireccionalmente?
+Respuesta Correcta: Inflación alta genera incertidumbre, reduce demanda y puede destruir empleo. Por otro lado, cerca del pleno empleo, la escasez de mano de obra presiona salarios al alza, aumentando costes y generando inflación.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 5: IPC Y Tasas De Empleo
+
+Pregunta: ¿Cuáles son los tres enfoques para calcular el PIB?
+Respuesta Correcta: 1) Enfoque de Producción: suma del valor añadido de todas las empresas. 2) Enfoque del Gasto: PIB = C + I + G + XN. 3) Enfoque del Ingreso (Renta): suma de salarios, beneficios empresariales e impuestos netos sobre producción.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Qué es el valor añadido en el enfoque de producción?
+Respuesta Correcta: La diferencia entre el valor de la producción de una empresa y el valor de los bienes intermedios utilizados para producirla. El PIB es la suma de los valores añadidos de todas las empresas del país.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Qué es el Ingreso Nacional (IN) y cómo se calcula?
+Respuesta Correcta: El total de ingresos obtenidos por los residentes de un país, generados dentro o fuera de las fronteras. Se calcula: IN = PIB - Impuestos indirectos - Depreciación + Rentas netas recibidas del exterior.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Cuáles son los dos componentes del ahorro nacional?
+Respuesta Correcta: 1) Ahorro privado: parte de la renta de hogares y empresas que no se gasta en consumo. 2) Ahorro público: diferencia entre ingresos del gobierno (impuestos) y gastos corrientes. Superávit = ahorro positivo; Déficit = desahorro.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Por qué es importante el ahorro para el crecimiento económico?
+Respuesta Correcta: El ahorro es la fuente principal de financiación para la inversión. Un nivel adecuado de ahorro permite financiar proyectos empresariales, infraestructuras y otras inversiones clave para el crecimiento económico a largo plazo.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Qué es la "paradoja de la frugalidad"?
+Respuesta Correcta: Un exceso de ahorro en relación con el consumo puede ser síntoma de demanda agregada insuficiente, lo que podría frenar el crecimiento económico a corto plazo. El ahorro es positivo, pero en exceso puede ser contraproducente.
+Manual: Economía Política
+Bloque: Bloque 5
+Tema: Tema 6: Contabilidad Nacional
+
+Pregunta: ¿Qué es la política fiscal y cuáles son sus dos instrumentos principales?
+Respuesta Correcta: Conjunto de medidas que utiliza los instrumentos de la hacienda pública para influir en la actividad económica. Instrumentos: gastos públicos (corrientes y de inversión) e ingresos públicos (principalmente impuestos).
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Cuál es la diferencia entre impuestos directos e indirectos?
+Respuesta Correcta: Impuestos directos: gravan la renta o el patrimonio (IRPF, Impuesto de Sociedades). Impuestos indirectos: gravan el consumo (IVA). También existen tasas y contribuciones especiales (tasa de basuras).
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Qué medidas caracterizan a una política fiscal expansiva?
+Respuesta Correcta: Aumentar el gasto público (incrementa demanda y genera empleo) y disminuir impuestos (aumenta renta disponible, fomenta consumo e inversión). Objetivo: estimular demanda agregada y combatir recesión.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Qué medidas caracterizan a una política fiscal restrictiva?
+Respuesta Correcta: Disminuir el gasto público y aumentar los impuestos (reduce renta disponible y consumo). Objetivo: reducir demanda agregada para controlar inflación en fases de expansión. Riesgo: aumento del desempleo.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Cómo debe aplicarse la política fiscal según la teoría contracíclica?
+Respuesta Correcta: Restrictiva en momentos de expansión económica (para controlar inflación) y expansiva en momentos de recesión (para estimular la economía). Se recoge en los Presupuestos Generales del Estado.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Cuáles son los principales riesgos de la política fiscal?
+Respuesta Correcta: Déficit presupuestario excesivo y deuda pública insostenible (de políticas expansivas prolongadas), presiones inflacionistas, y dificultad en la sincronización temporal de las medidas.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 1: La Política Fiscal
+
+Pregunta: ¿Qué es la política monetaria y quién la ejecuta?
+Respuesta Correcta: Conjunto de decisiones del banco central para gestionar la oferta de dinero y condiciones del crédito, promoviendo estabilidad de precios, crecimiento económico y pleno empleo. Ejecutores: Reserva Federal, BCE, etc.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Cuáles son los tres mecanismos principales de la política monetaria?
+Respuesta Correcta: 1) Tasas de interés (instrumento principal). 2) Operaciones de mercado abierto (compra/venta de bonos para inyectar/retirar liquidez). 3) Requerimientos de reserva o coeficiente de caja.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Qué caracteriza a una política monetaria expansiva?
+Respuesta Correcta: Se aplica en recesión. Medidas: aumentar oferta monetaria y reducir tasas de interés para abaratar crédito e incentivar consumo e inversión. Ejemplo: crisis 2008, tasas cercanas a cero. Riesgo: inflación, burbujas financieras.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Qué caracteriza a una política monetaria contractiva?
+Respuesta Correcta: Se aplica ante alta inflación. Medidas: reducir oferta de dinero y aumentar tasas de interés para encarecer crédito y "enfriar" la economía. Ejemplo: Argentina 2018. Riesgo: desaceleración y aumento del desempleo.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Cómo funcionan las operaciones de mercado abierto?
+Respuesta Correcta: El banco central compra o vende bonos del gobierno en el mercado interbancario. La compra de bonos inyecta dinero (aumenta liquidez y oferta monetaria). La venta de bonos retira liquidez del sistema.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Qué es el coeficiente de caja y cómo afecta a la política monetaria?
+Respuesta Correcta: Es la porción de depósitos que los bancos comerciales deben mantener como reserva sin poder prestarla. Disminuirlo permite prestar más (expansivo). Aumentarlo restringe la capacidad de préstamo (contractivo).
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 2: La Política Monetaria
+
+Pregunta: ¿Cuál es la diferencia entre tipo de interés nominal y real?
+Respuesta Correcta: Nominal: tasa acordada contractualmente sin ajustar por inflación. Real: tipo nominal menos la tasa de inflación, refleja el verdadero poder adquisitivo o rendimiento del dinero. Ejemplo: 5% nominal - 2% inflación = 3% real.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cómo afectan los tipos de interés bajos al consumo de los hogares?
+Respuesta Correcta: Reducen el coste de los préstamos, haciendo más asequible la financiación para bienes duraderos (hipotecas, coches). Incentivan el consumo, impulsan la demanda agregada y estimulan el empleo en sectores como construcción.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cómo afectan los tipos de interés a la inversión empresarial?
+Respuesta Correcta: Tipos bajos: fomentan inversión al reducir el coste de financiación para proyectos de expansión, tecnología, I+D. Tipos altos: aumentan el coste de capital, haciendo que solo proyectos con alta rentabilidad sean viables.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cómo afectan los tipos de interés al ahorro?
+Respuesta Correcta: Tipos altos: aumentan el atractivo del ahorro al ofrecer mayor retorno sobre depósitos, incentivando posponer consumo. Tipos bajos: disminuyen la rentabilidad del ahorro, desincentivándolo y fomentando el consumo.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cómo usan los bancos centrales los tipos de interés como herramienta de política?
+Respuesta Correcta: En recesión: reducen tipos para estimular crecimiento (incentivar gasto e inversión). En sobrecalentamiento/inflación: aumentan tipos para "enfriar" la economía y mantener estabilidad de precios a largo plazo.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cuál es el mecanismo de transmisión de la política monetaria a través de los tipos?
+Respuesta Correcta: Bajada de tipos → crédito más barato → más consumo e inversión → mayor demanda agregada y empleo. (El mecanismo inverso aplica para subidas de tipos: encarecimiento del crédito y contracción).
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 3: Impacto De Los Tipos De Interés En La Economía
+
+Pregunta: ¿Cuáles son las cinco principales escuelas de pensamiento económico?
+Respuesta Correcta: Escuela Clásica (Adam Smith), Neoclásica (Marshall, Walras), Keynesiana (Keynes), Monetarista (Milton Friedman) y Escuela Austríaca (Hayek, Mises). Se diferencian principalmente por el rol del Estado.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Cuáles son los principios clave de la Escuela Clásica?
+Respuesta Correcta: Libertad de mercado con mínima intervención estatal, "mano invisible" como mecanismo autorregulador (Adam Smith, "La riqueza de las naciones") y división del trabajo para aumentar eficiencia y productividad.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Cuáles son los principios clave de la Escuela Keynesiana?
+Respuesta Correcta: La demanda agregada determina producción y empleo. En crisis, el Estado debe intervenir activamente con política fiscal (aumentar gasto, reducir impuestos) y monetaria expansiva. Surgió tras la Gran Depresión de 1929.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Cuál es la idea central de la Escuela Monetarista de Milton Friedman?
+Respuesta Correcta: "La inflación es siempre un fenómeno monetario" ligado a un crecimiento de la oferta de dinero superior al de la producción. Promueve reglas claras y estables en política monetaria, en lugar de intervenciones discrecionales.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Qué distingue a la Escuela Austríaca de las demás?
+Respuesta Correcta: Se opone radicalmente al intervencionismo estatal. Destaca la racionalidad individual y el sistema de precios como mecanismo de transmisión de información. Argumenta que intervenciones (como precios máximos) distorsionan señales del mercado.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Qué aporta la Escuela Neoclásica al pensamiento económico?
+Respuesta Correcta: Introduce el análisis marginal y la utilidad marginal (satisfacción adicional por unidad consumida). Desarrolla la teoría del equilibrio general (Walras): todos los mercados interactúan hasta igualar oferta y demanda.
+Manual: Economía Política
+Bloque: Bloque 6
+Tema: Tema 4: Escuelas De Pensamiento Económico
+
+Pregunta: ¿Cuáles son las tres preguntas económicas fundamentales que todo sistema debe resolver?
+Respuesta Correcta: 1) ¿Qué producir? (qué bienes y servicios generar). 2) ¿Cómo producir? (qué tecnologías y recursos emplear). 3) ¿Para quién producir? (cómo distribuir la producción entre los miembros de la sociedad).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Cuáles son los tres arquetipos principales de sistemas económicos?
+Respuesta Correcta: Economía de mercado (capitalista), economía planificada (socialista) y economía mixta. Se distinguen por el grado de intervención del Estado y el rol del mercado en la asignación de recursos.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Qué caracteriza a una economía de mercado o sistema capitalista?
+Respuesta Correcta: Las decisiones sobre qué, cómo y para quién producir las determina la interacción de oferta y demanda. Alta descentralización, propiedad privada, precios como señal. Rol del Estado mínimo. Ejemplos: EE.UU., Singapur.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Qué caracteriza a una economía planificada o sistema socialista?
+Respuesta Correcta: Control total del Estado sobre decisiones económicas: qué producir, en qué cantidades, cómo distribuir. Empresas de propiedad estatal, precios fijados administrativamente. Ejemplo histórico: URSS con planes quinquenales.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Cuáles son las ventajas y desventajas de la economía planificada?
+Respuesta Correcta: Ventajas teóricas: eliminación de desigualdades y desempleo, estabilidad laboral. Desventajas: rigidez, ausencia de incentivos para innovación/eficiencia, escasez de bienes, desperdicio de recursos, baja productividad.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Qué caracteriza a una economía mixta?
+Respuesta Correcta: Combina elementos de mercado y planificada: coexisten iniciativa privada/libre mercado con intervención estatal. El Estado regula, provee servicios públicos y redistribuye. Ejemplos: Suecia, España, Brasil. Desafío: hallar equilibrio.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 1: Introducción A Los Tipos De Mercados
+
+Pregunta: ¿Cuáles son las cinco características esenciales del monopolio?
+Respuesta Correcta: 1) Unicidad de oferente (una sola empresa). 2) Ausencia de bienes sustitutivos próximos. 3) Fuertes barreras de entrada. 4) Poder de fijación de precios (price-maker). 5) Demanda inelástica del producto.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Cuáles son los tipos de barreras de entrada en un monopolio?
+Respuesta Correcta: Legales (patentes, concesiones exclusivas), económicas (elevados costes iniciales, economías de escala - monopolio natural) y tecnológicas (dominio exclusivo de una tecnología o proceso productivo).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Por qué el monopolista es un "price-maker" y no un "price-taker"?
+Respuesta Correcta: Porque controla toda la oferta del mercado, tiene capacidad para establecer precios por encima de sus costes marginales. No obstante, debe considerar la curva de demanda, pues un precio excesivo reduciría cantidad demandada.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Cuáles son los efectos negativos habituales del monopolio?
+Respuesta Correcta: Precios excesivamente altos, reducción de la calidad del producto, menor eficiencia productiva (sin presión competitiva) y desigualdades económicas (concentración de beneficios a expensas de consumidores).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Cómo se comparan los resultados de monopolio vs competencia perfecta?
+Respuesta Correcta: Monopolio: precio más alto, cantidad menor, eficiencia baja, bienestar del consumidor reducido, beneficios extraordinarios. Competencia perfecta: precio = coste marginal, cantidad mayor, eficiencia alta, beneficios normales.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Por qué intervienen los gobiernos con regulaciones antimonopolio?
+Respuesta Correcta: Para limitar efectos negativos del monopolio (precios elevados, menor calidad, ineficiencia), prevenir su formación y fomentar un entorno de mercado más competitivo y equitativo que proteja el bienestar del consumidor.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 2: El Monopolio
+
+Pregunta: ¿Cuáles son las cuatro características distintivas del oligopolio?
+Respuesta Correcta: 1) Número reducido de empresas dominantes. 2) Interdependencia estratégica (decisiones de una afectan a las demás). 3) Barreras de entrada significativas. 4) Producto homogéneo o diferenciado.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Qué es la interdependencia estratégica en el oligopolio?
+Respuesta Correcta: Las decisiones de una empresa en precios, producción o publicidad afectan directamente a las demás. Cada empresa debe considerar las posibles reacciones de sus competidores ante cualquier movimiento estratégico.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Cuáles son los tres modelos principales de competencia en oligopolio?
+Respuesta Correcta: 1) Modelo de Cournot: competencia en cantidades (fijan niveles de producción). 2) Modelo de Bertrand: competencia en precios (guerras de precios). 3) Colusión/Cártel: acuerdan actuar como monopolio conjunto.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Qué es un cártel y por qué es ilegal?
+Respuesta Correcta: Acuerdo explícito y formal entre empresas oligopolísticas para fijar precios, repartir mercado o limitar producción. Es ilegal porque son prácticas anticompetitivas que perjudican a consumidores. Ejemplo: OPEP (petróleo).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Cuál es la diferencia entre oligopolio con producto homogéneo y diferenciado?
+Respuesta Correcta: Producto homogéneo (acero, petróleo): competencia principalmente en precio. Producto diferenciado (automóviles, móviles): competencia en precio, calidad, innovación, diseño y publicidad.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Qué ejemplos típicos existen de mercados oligopolísticos?
+Respuesta Correcta: Industria automotriz, aerolíneas, telecomunicaciones, bebidas gaseosas (Coca-Cola/PepsiCo), petróleo (OPEP), servicios de streaming. Pocas empresas controlan la mayor parte de la oferta con poder de mercado considerable.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 3: El Oligopolio Y Sus Particularidades
+
+Pregunta: ¿Qué es la competencia monopolística y quién desarrolló el concepto?
+Respuesta Correcta: Estructura de mercado con muchas empresas que ofertan productos similares pero no idénticos (diferenciados). Desarrollada por Edward Chamberlin (1930). Ejemplos: comida rápida, ropa, productos de higiene.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Cuáles son las cinco características de la competencia monopolística?
+Respuesta Correcta: 1) Gran número de vendedores. 2) Diferenciación del producto (marca, diseño, calidad). 3) Libertad de entrada y salida (barreras bajas). 4) Cierto poder sobre el precio (limitado). 5) Competencia no basada solo en precios.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Cómo funciona el equilibrio a corto y largo plazo en competencia monopolística?
+Respuesta Correcta: Corto plazo: la diferenciación permite beneficios extraordinarios. Largo plazo: la libre entrada atrae competidores que reducen demanda de cada empresa, erosionando beneficios hasta nivel normal (precio = coste total medio).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Por qué la diferenciación del producto es clave en la competencia monopolística?
+Respuesta Correcta: Es la fuente del poder de mercado limitado. Permite a cada empresa tener un pequeño "monopolio" sobre su versión del producto. Sin diferenciación, sería competencia perfecta donde empresas son precio-aceptantes.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Por qué la competencia no se basa solo en precios en este mercado?
+Respuesta Correcta: Porque la diferenciación permite competir en publicidad, marketing, calidad del producto, servicio al cliente, marca e imagen. Una empresa puede destacar sin ofrecer el precio más bajo.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Por qué es limitado el poder sobre el precio en competencia monopolística?
+Respuesta Correcta: Porque existen numerosos productos sustitutivos cercanos. Si una empresa sube mucho sus precios (ej: McDonald's), los consumidores pueden elegir alternativas similares (Burger King), lo que limita la capacidad de fijar precios arbitrariamente.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 4: Competencia Monopolística
+
+Pregunta: ¿Cómo se ordenan las estructuras de mercado según el poder de mercado?
+Respuesta Correcta: De menor a mayor poder: Competencia perfecta (nulo, precio-aceptantes) → Competencia monopolística (limitado) → Oligopolio (considerable, con interdependencia) → Monopolio (control absoluto, price-maker).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Cómo varían las barreras de entrada según el tipo de mercado?
+Respuesta Correcta: Competencia perfecta: inexistentes. Competencia monopolística: bajas (diferenciación como barrera suave). Oligopolio: altas (costes de inversión, economías de escala). Monopolio: muy altas/bloqueadas (legales, naturales).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Cuál es la relación entre tipo de mercado y eficiencia económica?
+Respuesta Correcta: Competencia perfecta: máxima eficiencia (precio = coste marginal, maximiza bienestar social). Menos competencia = menos eficiencia. Monopolio y oligopolio: precio > coste marginal, generan pérdida irrecuperable de bienestar (peso muerto).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Cómo varía el incentivo a la innovación según la estructura de mercado?
+Respuesta Correcta: Competencia perfecta: bajo incentivo (beneficios extraordinarios nulos a largo plazo). Competencia monopolística y oligopolio: alto incentivo (presión por diferenciarse). Monopolio: ambiguo (recursos para I+D pero sin presión competitiva).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Por qué no existe un único tipo de mercado ideal para todas las circunstancias?
+Respuesta Correcta: Los mercados más competitivos son más eficientes, pero estructuras menos competitivas pueden impulsar innovación y diferenciación. La estructura óptima depende del sector industrial, tecnología disponible y preferencias de consumidores.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Qué tipo de producto caracteriza a cada estructura de mercado?
+Respuesta Correcta: Competencia perfecta: homogéneo. Competencia monopolística: diferenciado. Oligopolio: homogéneo o diferenciado. Monopolio: único (sin sustitutos cercanos).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 5: Comparación De Tipos De Mercados
+
+Pregunta: ¿Qué diferencia hay entre eficiencia y equidad en los mercados?
+Respuesta Correcta: Eficiencia: capacidad de asignar recursos maximizando beneficios colectivos (mayor producción al menor coste). Equidad: distribución justa de recursos y riqueza entre los actores económicos. A menudo hay disyuntiva entre ambos.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Por qué la competencia perfecta maximiza eficiencia pero no garantiza equidad?
+Respuesta Correcta: Es eficiente porque el coste marginal coincide con el precio (óptimo de Pareto). No garantiza equidad porque los beneficios pueden concentrarse en quienes poseen mayor dotación de factores productivos (tierra, capital).
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Por qué el monopolio es ineficiente e inequitativo?
+Respuesta Correcta: Ineficiente: produce menos cantidad a precio superior al competitivo (pérdida irrecuperable de bienestar). Inequitativo: redistribución regresiva de riqueza desde consumidores hacia el monopolista, acentuando desigualdad económica.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Qué es el óptimo de Pareto?
+Respuesta Correcta: Situación en la que no es posible mejorar el bienestar de un individuo sin empeorar el de otro. Se asocia a la competencia perfecta, donde el coste marginal coincide con el precio, maximizando el bienestar social agregado.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Cómo es el nivel de eficiencia y equidad en el oligopolio?
+Respuesta Correcta: Eficiencia baja: tienden a fijar precios por encima del coste marginal y limitar producción. Equidad baja: empresas dominantes obtienen beneficios elevados mientras consumidores pagan precios más altos. Riesgo de colusión agrava ambos.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Por qué la competencia monopolística presenta un equilibrio intermedio?
+Respuesta Correcta: Eficiencia media-baja: precio > coste marginal por diferenciación, pero la competencia impulsa innovación. Equidad media: la libre entrada impide beneficios extraordinarios concentrados, distribución más equilibrada que monopolio/oligopolio.
+Manual: Economía Política
+Bloque: Bloque 7
+Tema: Tema 6: Eficiencia Y Equidad En Los Mercados
+
+Pregunta: ¿Qué es la función de producción y cómo se expresa matemáticamente?
+Respuesta Correcta: Es la fórmula que describe cómo una empresa transforma insumos (inputs) en bienes o servicios (outputs). Expresión simplificada: Q = F(K,L), donde Q = cantidad producida, K = capital, L = trabajo.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Cuáles son los cuatro factores productivos principales?
+Respuesta Correcta: 1) Trabajo (L): esfuerzo humano físico e intelectual. 2) Capital (K): bienes duraderos (maquinaria, edificios). 3) Tierra/Recursos naturales: terreno, agua, minerales, materias primas. 4) Tecnología: conocimiento, métodos y técnicas.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Cuál es la diferencia entre capital físico y capital financiero?
+Respuesta Correcta: Capital físico: bienes instrumentales que facilitan la producción (maquinaria, herramientas, edificios, equipos). Capital financiero: dinero en sí mismo. En la función de producción, K se refiere al capital físico, no al dinero.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Qué son los rendimientos crecientes a escala?
+Respuesta Correcta: Cuando al incrementar todos los factores productivos, el output aumenta en una proporción mayor que el aumento de los inputs. La eficiencia productiva mejora a medida que la escala de producción se amplía.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Qué son los rendimientos constantes y decrecientes a escala?
+Respuesta Correcta: Constantes: el output aumenta en la misma proporción que los inputs (eficiencia se mantiene). Decrecientes: al aumentar solo un factor (otros constantes), el output aumenta proporcionalmente menos o disminuye (eficiencia disminuye).
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Por qué es importante la tecnología como factor productivo?
+Respuesta Correcta: Representa el conocimiento, métodos y técnicas que permiten optimizar la eficiencia productiva. Incide en la efectividad del capital y trabajo, pudiendo revolucionar la organización del proceso productivo (I+D, algoritmos).
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 1: La Función De Producción Y Factores Productivos
+
+Pregunta: ¿Qué caracteriza al corto plazo en las decisiones de producción?
+Respuesta Correcta: La rigidez de ciertos factores: algunos son fijos (capital, infraestructura) y no pueden modificarse fácilmente, mientras otros son variables (trabajo). La producción se ajusta solo variando factores variables.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Cuál es la diferencia entre Producto Total, Marginal y Medio?
+Respuesta Correcta: Producto Total (PT): cantidad total producida (Q). Producto Marginal (PMg): incremento de Q por unidad adicional de L (ΔQ/ΔL). Producto Medio (PMe): producción promedio por unidad de L (Q/L).
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Qué establece la Ley de Rendimientos Marginales Decrecientes?
+Respuesta Correcta: Al incrementar un factor variable (trabajo) manteniendo constantes los demás (capital), el incremento de la producción es cada vez menor (el PMg disminuye). Ejemplo: más trabajadores en panadería sin más hornos.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Cuál es la diferencia entre costes fijos y variables?
+Respuesta Correcta: Costes Fijos (CF): no varían con el nivel de producción (alquiler del local). Costes Variables (CV): dependen directamente del nivel de producción (harina utilizada). Coste Total: CT = CF + CV.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Cuál es la decisión crítica a corto plazo respecto a la producción?
+Respuesta Correcta: La empresa debe buscar que al menos se cubran los Costes Variables para justificar continuar produciendo, aun cuando no se cubran los costes fijos (coste hundido). Beneficio = Ingresos Totales - Costes Totales.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Por qué es importante identificar el punto óptimo de producción?
+Respuesta Correcta: Para maximizar el uso de recursos sin incurrir en costes innecesarios. Debido a los rendimientos decrecientes, aumentar la producción más allá del punto óptimo resulta ineficiente (mayor coste que beneficio).
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 2: Decisiones De Producción A Corto Plazo
+
+Pregunta: ¿Cuál es la diferencia fundamental entre corto y largo plazo en producción?
+Respuesta Correcta: En el largo plazo todos los factores de producción son variables. La empresa puede cambiar el tamaño de instalaciones, adquirir nueva tecnología y modificar la cantidad de trabajadores. Flexibilidad total de adaptación.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+
+Pregunta: ¿Qué son las economías de escala?
+Respuesta Correcta: Cuando el coste promedio de producción disminuye a medida que la empresa incrementa su tamaño. Los costes fijos se distribuyen entre más unidades producidas, reduciendo el coste promedio por unidad.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+
+Pregunta: ¿Qué son las deseconomías de escala y cuáles son sus causas?
+Respuesta Correcta: Cuando el coste promedio por unidad aumenta al seguir creciendo la empresa. Causas: organización demasiado grande y difícil de gestionar, aumento de burocracia, problemas de coordinación entre departamentos, pérdida de control.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+
+Pregunta: ¿Qué forma tiene la curva de costes a largo plazo y por qué?
+Respuesta Correcta: Forma de U. Al inicio costes altos (sin economías de escala), luego disminuyen al expandirse (economías de escala) hasta un punto mínimo de eficiencia, después aumentan (deseconomías de escala por crecimiento excesivo).
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+
+Pregunta: ¿Cuáles son los tres tipos de rendimientos a escala?
+Respuesta Correcta: Crecientes: output aumenta más que proporcionalmente a inputs (duplicar factores, triplicar producción). Constantes: aumentan en igual proporción. Decrecientes: output aumenta menos que proporcionalmente a inputs.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+
+Pregunta: ¿Cuál es el desafío fundamental de la empresa a largo plazo?
+Respuesta Correcta: Encontrar el equilibrio adecuado entre tamaño, capacidad productiva y estructura de costes para prosperar en un mercado competitivo. Optimizar para beneficiarse de economías de escala evitando las deseconomías.
+Manual: Economía Política
+Bloque: Bloque 8
+Tema: Tema 3: Decisiones De Producción A Largo Plazo
+

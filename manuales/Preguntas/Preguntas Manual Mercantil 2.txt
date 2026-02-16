@@ -1,0 +1,1470 @@
+Pregunta: ¿Qué artículo del Código de Comercio define el contrato de compañía mercantil?
+Respuesta Correcta: El artículo 116 del Código de Comercio define el contrato de compañía como aquel por el cual dos o más personas se obligan a poner en fondo común bienes, industria o alguna de estas cosas, para obtener lucro partible.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+
+Pregunta: ¿Cuáles son los elementos estructurales del contrato de sociedad según el artículo 116 CCom?
+Respuesta Correcta: Los elementos son: base contractual (acuerdo de voluntades), pluralidad de sujetos (dos o más personas físicas o jurídicas) y obligación de aportación (poner en común un fondo de dinero, bienes o industria).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+
+Pregunta: ¿Qué significa que el contrato de sociedad sea un negocio jurídico?
+Respuesta Correcta: Significa que es un acuerdo de voluntades entre las partes, una base contractual donde los socios consienten en obligarse mutuamente para constituir la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+
+Pregunta: ¿Qué tipos de aportaciones pueden realizar los socios al fondo común?
+Respuesta Correcta: Los socios pueden aportar dinero (aportaciones dinerarias), bienes (aportaciones no dinerarias) o industria (trabajo personal), según el tipo de sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+
+Pregunta: ¿Por qué surge la necesidad de constituir una sociedad en el tráfico económico?
+Respuesta Correcta: Surge de la necesidad de organizar una colaboración entre personas para desarrollar una actividad económica conjunta, especialmente cuando el volumen de negocio crece y se requiere una estructura jurídica formal.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+
+Pregunta: ¿Qué requisito de pluralidad exige el contrato de sociedad mercantil?
+Respuesta Correcta: Se requieren dos o más personas, que pueden ser tanto personas físicas como jurídicas, para poder constituir válidamente una sociedad mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 1 - Definición de Sociedad en el Derecho Mercantil
+Pregunta: ¿Cuál es la principal diferencia entre una sociedad civil y una sociedad mercantil?
+Respuesta Correcta: La sociedad civil se constituye con la simple firma del contrato, sin escritura pública ni inscripción registral, y se rige por el Código Civil. La sociedad mercantil requiere escritura pública e inscripción en el Registro Mercantil, adquiriendo personalidad jurídica propia.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+
+Pregunta: ¿Qué caracteriza a las sociedades personalistas frente a las capitalistas?
+Respuesta Correcta: En las sociedades personalistas prima la condición personal del socio (intuitus personae) y los socios responden de forma ilimitada con su patrimonio personal. En las capitalistas, prima el capital aportado y la responsabilidad se limita a la aportación comprometida.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+
+Pregunta: ¿Qué tipos de socios existen en la Sociedad Comanditaria Simple?
+Respuesta Correcta: Existen dos tipos: los socios colectivos, que gestionan y responden ilimitadamente de las deudas sociales; y los socios comanditarios, que no gestionan y su responsabilidad está limitada a la aportación que prometieron.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+
+Pregunta: ¿Cuál es la forma societaria más habitual en el tráfico mercantil actual?
+Respuesta Correcta: La Sociedad de Responsabilidad Limitada (S.L.) es el tipo más habitual, representando las sociedades capitalistas prácticamente el 99,99% del tráfico mercantil actual.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+
+Pregunta: ¿Qué es una sociedad civil con forma mercantil?
+Respuesta Correcta: Es una figura híbrida donde una sociedad civil por su objeto adopta una forma mercantil (como la Sociedad Colectiva). Se le aplica la normativa del Código de Comercio en tanto no se oponga a las normas imperativas del Código Civil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+
+Pregunta: ¿Qué caracteriza a la Sociedad Anónima (S.A.)?
+Respuesta Correcta: Se caracteriza porque su capital está dividido en acciones, el poder de decisión del socio depende del número de acciones que posea, y la responsabilidad está limitada al capital aportado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 2 - Tipos de Sociedades
+Pregunta: ¿Qué significa que el contrato de sociedad sea un contrato plurilateral de organización?
+Respuesta Correcta: Plurilateral significa que las partes no tienen intereses contrapuestos sino dirigidos a un fin común. De organización significa que el contrato da lugar a la creación de una nueva persona jurídica, un ente autónomo distinto de los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+
+Pregunta: ¿Cuáles son los cuatro elementos esenciales del contrato de sociedad?
+Respuesta Correcta: Los cuatro elementos esenciales son: Consentimiento (voluntad de los socios), Objeto (obligaciones de los socios), Causa (fin común u objeto social) y Forma (requisitos formales como escritura pública e inscripción registral).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+
+Pregunta: ¿Puede un menor emancipado constituir una sociedad mercantil?
+Respuesta Correcta: Sí, el menor emancipado tiene capacidad suficiente para constituir y firmar un contrato de sociedad, aunque mantiene las limitaciones legales generales (como no poder enajenar bienes inmuebles sin complementos de capacidad).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+
+Pregunta: ¿Cuál es la diferencia en el objeto del contrato entre sociedades capitalistas y personalistas?
+Respuesta Correcta: En las sociedades capitalistas, el objeto se limita a la aportación de capital (dinero o bienes). En las personalistas, el objeto puede incluir también la obligación de aportar trabajo (industria), además de capital.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+
+Pregunta: ¿Qué requisitos debe cumplir la causa del contrato de sociedad?
+Respuesta Correcta: La causa (objeto social) debe ser lícita, es decir, no puede ser contraria a la ley, la moral o las buenas costumbres. Una sociedad con causa ilícita sería nula.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+
+Pregunta: ¿Qué consecuencia tiene la omisión de la inscripción registral en sociedades capitalistas frente a personalistas?
+Respuesta Correcta: En sociedades capitalistas (S.A., S.L.), la omisión de inscripción impide que la sociedad esté válidamente constituida. En sociedades personalistas, la inscripción no es constitutiva: la sociedad existirá como "sociedad irregular" aunque no se inscriba.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 1
+Tema: 3 - Contrato de Sociedad
+Pregunta: ¿Cómo responden los socios de una sociedad colectiva por las deudas sociales?
+Respuesta Correcta: Los socios responden de forma subsidiaria (primero el patrimonio social), personal e ilimitada (con todo su patrimonio) y solidaria (el acreedor puede reclamar el 100% a cualquier socio).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+
+Pregunta: ¿Qué establece el artículo 129 del Código de Comercio sobre la administración?
+Respuesta Correcta: Si el contrato de sociedad no especifica nada sobre la administración, todos los socios tendrán facultad de gestionar y administrar la entidad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+
+Pregunta: ¿Qué diferencia existe entre gestión social y administración en la sociedad colectiva?
+Respuesta Correcta: La gestión social (interna) implica dirigir la sociedad por dentro. La administración (externa) implica representar y obligar a la sociedad frente a terceros usando la firma social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+
+Pregunta: ¿Cómo debe formarse la razón social de una sociedad colectiva según el artículo 125 CCom?
+Respuesta Correcta: La razón social debe formarse con el nombre de todos los socios, o de alguno de ellos añadiendo la expresión "y compañía".
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+
+Pregunta: ¿Qué caracteriza al socio industrial en la sociedad colectiva?
+Respuesta Correcta: El socio industrial solo aporta trabajo (no capital) y su principal característica es que no participa en las pérdidas, aunque sus ganancias suelen ser menores.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+
+Pregunta: ¿Tiene carácter constitutivo la inscripción de la sociedad colectiva en el Registro Mercantil?
+Respuesta Correcta: No, a diferencia de las sociedades de capital, la inscripción no tiene carácter constitutivo. Si no se inscribe, la sociedad operará como "sociedad irregular" pero existirá entre los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 1 - La Sociedad Colectiva
+Pregunta: ¿Qué dos tipos de socios coexisten en la Sociedad Comanditaria Simple?
+Respuesta Correcta: Socios colectivos (gestionan y responden ilimitadamente) y socios comanditarios (solo aportan capital, no gestionan y su responsabilidad se limita a su aportación).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+
+Pregunta: ¿Qué prohíbe el artículo 148 del Código de Comercio a los socios comanditarios?
+Respuesta Correcta: Les prohíbe hacer cualquier acto de administración. No pueden participar en la gestión de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+
+Pregunta: ¿Qué consecuencia tiene que un socio comanditario infrinja la prohibición de administrar?
+Respuesta Correcta: Pierde su beneficio de responsabilidad limitada y pasa a responder ilimitadamente de todas las deudas sociales, como si fuera un socio colectivo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+
+Pregunta: ¿Puede el socio comanditario aportar trabajo (industria) a la sociedad?
+Respuesta Correcta: No, el socio comanditario solo puede aportar capital (dinero o bienes). Nunca puede aportar industria o trabajo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+
+Pregunta: ¿Qué derechos tiene el socio comanditario para proteger su inversión?
+Respuesta Correcta: Tiene derecho de información (acceso a información contable) y derecho de "voz" u opinión para decisiones importantes como aprobación de cuentas y nombramiento de administradores.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+
+Pregunta: ¿Pueden figurar los nombres de los socios comanditarios en la razón social?
+Respuesta Correcta: No, los nombres de los socios comanditarios no pueden figurar en la razón social. Solo deben aparecer los nombres de los socios colectivos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 2 - La Sociedad Comanditaria Simple
+Pregunta: ¿Qué se requiere para transmitir la cuota de un socio a un tercero en sociedades personalistas?
+Respuesta Correcta: Se requiere el consentimiento unánime de todos los socios colectivos, ya que supone una innovación subjetiva del contrato de sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+
+Pregunta: ¿Cómo puede expulsarse a un socio colectivo de una sociedad personalista?
+Respuesta Correcta: La expulsión no puede decidirse por mayoría interna, requiere una sentencia judicial firme. Los tribunales solo la decretarán si el socio incumple gravemente sus deberes.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+
+Pregunta: ¿De qué deudas responde el nuevo socio que se incorpora a una sociedad colectiva?
+Respuesta Correcta: Responde de forma personal, solidaria e ilimitada por absolutamente todas las deudas de la sociedad, incluidas las contraídas antes de su admisión.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+
+Pregunta: ¿Hasta cuándo responde el socio saliente por las deudas sociales?
+Respuesta Correcta: Responde ilimitadamente por las deudas contraídas antes de su salida. La salida solo tiene eficacia frente a terceros cuando se inscribe y publica en el Registro Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+
+Pregunta: ¿Qué se requiere para transformar una sociedad colectiva en una S.L.?
+Respuesta Correcta: Consentimiento unánime de todos los socios colectivos, otorgamiento de escritura pública de transformación e inscripción en el Registro Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+
+Pregunta: ¿Cuáles son las principales causas de disolución de una sociedad personalista?
+Respuesta Correcta: Cumplimiento del término prefijado, pérdida entera del capital, concurso de la sociedad, acuerdo unánime de los socios, denuncia unilateral (si es por tiempo indefinido) y muerte o inhabilitación de un socio colectivo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 3 - Modificación de Sociedades Personalistas
+Pregunta: ¿Qué son las cuentas en participación y qué las diferencia de una sociedad?
+Respuesta Correcta: Son un contrato de colaboración económica donde el partícipe aporta capital al gestor para participar en su negocio. No constituyen una sociedad, no tienen personalidad jurídica ni patrimonio común.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+
+Pregunta: ¿Cuáles son las obligaciones del partícipe en las cuentas en participación?
+Respuesta Correcta: Aportar el capital convenido y no inmiscuirse en la gestión del negocio, que corresponde exclusivamente al gestor.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+
+Pregunta: ¿Puede el partícipe aportar trabajo o servicios en las cuentas en participación?
+Respuesta Correcta: No, la aportación del partícipe debe consistir en dinero o bienes patrimoniales. No se admite que la aportación consista en trabajo o servicios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+
+Pregunta: ¿A quién pertenecen las aportaciones realizadas en las cuentas en participación?
+Respuesta Correcta: Las aportaciones pasan a integrar el patrimonio del gestor, quien adquiere su titularidad y queda obligado contractualmente a gestionarlas según lo pactado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+
+Pregunta: ¿Cómo es la responsabilidad del gestor y del partícipe frente a las pérdidas?
+Respuesta Correcta: El gestor tiene responsabilidad personal e ilimitada. El partícipe tiene responsabilidad limitada al capital aportado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+
+Pregunta: ¿Qué consecuencia tiene que el partícipe participe activamente en la gestión del negocio?
+Respuesta Correcta: Pierde su beneficio de limitación de responsabilidad y pasa a tener responsabilidad personal e ilimitada por las deudas, similar a la sanción del socio comanditario.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 4 - Cuentas en Participación
+Pregunta: ¿En qué se diferencia la cooperativa de las sociedades mercantiles tradicionales?
+Respuesta Correcta: La cooperativa no persigue obtener un lucro que se reparte, sino que se configura como un instrumento al servicio de sus miembros para satisfacer sus necesidades económicas y sociales.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+
+Pregunta: ¿Qué establece el principio democrático en las cooperativas según el artículo 13?
+Respuesta Correcta: Rige la regla de "un socio, un voto", independientemente del capital aportado. Esta es una diferencia capital respecto a las sociedades capitalistas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+
+Pregunta: ¿Cuál es la responsabilidad del socio cooperativista por las deudas sociales?
+Respuesta Correcta: La responsabilidad está limitada a las aportaciones al capital social suscritas (estén o no desembolsadas totalmente).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+
+Pregunta: ¿Cuánto tiempo responde el socio que causa baja de la cooperativa?
+Respuesta Correcta: Responde personalmente durante cinco años desde la pérdida de su condición, solo por obligaciones contraídas antes de su baja y con el límite de sus aportaciones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+
+Pregunta: ¿Qué es el retorno cooperativo y cómo se distribuye?
+Respuesta Correcta: Son los excedentes (beneficios) de la cooperativa. No se distribuyen en proporción al capital, sino en función de las operaciones o actividad realizada por cada socio.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+
+Pregunta: ¿Qué caracteriza al socio colaborador de una cooperativa?
+Respuesta Correcta: Contribuye económicamente pero no se beneficia de las actividades principales. A cambio recibe una compensación, pero no tiene derecho a voto en la Asamblea General.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 5 - La Sociedad Cooperativa
+Pregunta: ¿Qué contenido mínimo debe incluir la escritura pública de constitución de una cooperativa?
+Respuesta Correcta: Identidad de los socios fundadores, manifestación de requisitos legales, voluntad expresa de constituir la cooperativa, tipo de cooperativa, acreditación del capital suscrito y desembolsado, e identidad del primer Consejo Rector.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+
+Pregunta: ¿Dónde deben inscribirse las cooperativas para adquirir personalidad jurídica?
+Respuesta Correcta: En el Registro de Cooperativas específico, gestionado por cada Comunidad Autónoma. No se inscriben en el Registro Mercantil como las sociedades de capital.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+
+Pregunta: ¿Qué son los estatutos sociales de una cooperativa?
+Respuesta Correcta: Son la norma fundamental interna, la "constitución" de la cooperativa, que rige su organización y funcionamiento, estableciendo los derechos y obligaciones de los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+
+Pregunta: ¿Cuál es el órgano soberano de la cooperativa y qué principio lo rige?
+Respuesta Correcta: La Asamblea General es el órgano soberano, constituido por todos los socios. Se rige por el principio democrático estricto: "un socio, un voto".
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+
+Pregunta: ¿Qué funciones tiene el Consejo Rector de una cooperativa?
+Respuesta Correcta: Es el órgano de gobierno encargado de la gestión y supervisión diaria, la representación de la entidad y la toma de decisiones ordinarias, rindiendo cuentas ante la Asamblea General.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+
+Pregunta: ¿Es obligatorio el órgano de Intervención en las cooperativas?
+Respuesta Correcta: No, como regla general la Intervención no es obligatoria. Son los estatutos de la cooperativa los que pueden prever su existencia para fiscalizar las cuentas y la gestión económica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 6 - La Constitución de las Sociedades Cooperativas
+Pregunta: ¿Qué es una cooperativa de trabajo asociado?
+Respuesta Correcta: Es una entidad formada por trabajadores (socios trabajadores) que se asocian para trabajar conjuntamente en una empresa de la cual son compropietarios, con gestión democrática.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+
+Pregunta: ¿Cuál es el objeto de las cooperativas de consumidores?
+Respuesta Correcta: Adquirir bienes y servicios para uso personal y familiar de los socios en mejores condiciones, obteniendo productos de calidad a precios más justos eliminando márgenes de intermediación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+
+Pregunta: ¿Qué finalidad tienen las cooperativas agrarias?
+Respuesta Correcta: Optimizar las explotaciones de agricultores y ganaderos, mejorar la producción, transformar los productos y comercializarlos de forma conjunta para acceder a mejores mercados y precios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+
+Pregunta: ¿Cuál es la ventaja fundamental de las cooperativas de vivienda?
+Respuesta Correcta: La eliminación de intermediarios y del beneficio promotor. Los socios construyen sus viviendas a estricto precio de coste, reduciendo drásticamente el coste total de adquisición.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+
+Pregunta: ¿Qué diferencia a las cooperativas de primer grado de las de segundo grado?
+Respuesta Correcta: Las de primer grado están constituidas por un mínimo de tres socios (personas físicas o jurídicas). Las de segundo grado están formadas por al menos dos cooperativas ya existentes.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+
+Pregunta: ¿Qué son las cooperativas de servicios?
+Respuesta Correcta: Son cooperativas creadas para prestar servicios específicos a sus socios, con el objetivo de que accedan a servicios que mejoren su calidad de vida o actividad profesional a coste reducido.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 2
+Tema: 7 - Tipos de Sociedades Cooperativas
+Pregunta: ¿Cuál es el capital social mínimo para constituir una S.L. tras la Ley 18/2022?
+Respuesta Correcta: El capital social mínimo se fija en un euro (1€), frente a los 3.000 euros que se exigían anteriormente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+
+Pregunta: ¿Qué régimen especial quedó derogado con la Ley 18/2022?
+Respuesta Correcta: La Sociedad Limitada en Formación Sucesiva y la Sociedad Limitada Nueva Empresa quedaron eliminadas al perder su razón de ser con el nuevo régimen de 1 euro.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+
+Pregunta: ¿Qué porcentaje del beneficio debe destinar a reserva legal una S.L. con capital inferior a 3.000€?
+Respuesta Correcta: Debe destinar al menos el 20% del beneficio obtenido a la reserva legal, hasta que la suma de reserva legal más capital social alcance los 3.000 euros.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+
+Pregunta: ¿Cómo responden los socios de una S.L. con capital inferior a 3.000€ en caso de liquidación?
+Respuesta Correcta: Los socios responden solidariamente con su patrimonio personal de la diferencia entre 3.000 euros y la cifra del capital suscrito si el patrimonio social es insuficiente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+
+Pregunta: ¿Cuál es el objetivo principal de la Ley 18/2022 "Crea y Crece"?
+Respuesta Correcta: Agilizar y facilitar la creación de compañías en España, eliminando barreras de entrada y reduciendo los costes iniciales de constitución.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+
+Pregunta: ¿Hasta cuándo se mantienen las salvaguardias especiales para S.L. con capital inferior a 3.000€?
+Respuesta Correcta: Hasta que la suma de la reserva legal más el capital social alcance el importe de 3.000 euros.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 1 - La Ley 18/2022 de Creación y Crecimiento de Empresas
+Pregunta: ¿Cuáles son las dos formas de representación de las acciones en una S.A.?
+Respuesta Correcta: Mediante títulos-valores (al portador o nominativas) y mediante anotaciones en cuenta.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+
+Pregunta: ¿Cómo se legitima el titular de acciones al portador?
+Respuesta Correcta: Por la simple posesión del título. Son títulos anónimos que no contienen el nombre del titular.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+
+Pregunta: ¿Qué forma de representación es obligatoria para las sociedades cotizadas?
+Respuesta Correcta: Las anotaciones en cuenta, que son registros contables especiales (informáticos) donde consta el titular y número de acciones que posee.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+
+Pregunta: ¿Pueden representarse las participaciones sociales de una S.L. mediante títulos o anotaciones en cuenta?
+Respuesta Correcta: No, el art. 92.2 LSC prohíbe expresamente que las participaciones sociales se representen mediante títulos o anotaciones en cuenta.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+
+Pregunta: ¿Cuál es la única forma de representación admitida para las participaciones sociales?
+Respuesta Correcta: Su inscripción en el Libro Registro de Socios. La sociedad solo considerará como socios a quienes estén inscritos en este libro.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+
+Pregunta: ¿Cómo se produce la transmisión de acciones representadas mediante anotaciones en cuenta?
+Respuesta Correcta: Por transferencia contable, mediante una inscripción en el registro a favor del nuevo socio. Es la forma más sencilla y ágil de transmisión.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 10 - Documentación y Publicidad
+Pregunta: ¿Qué diferencia existe entre la separación y la exclusión de socios?
+Respuesta Correcta: La separación es iniciativa del propio socio (derecho a abandonar la sociedad). La exclusión es iniciativa de la sociedad (sanción/expulsión por incumplimiento grave).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+
+Pregunta: ¿Cuáles son las principales causas legales de separación según el art. 346 LSC?
+Respuesta Correcta: Modificación sustancial del objeto social, prórroga de la sociedad, cambio en prestaciones accesorias, cambio en régimen de transmisión, traslado al extranjero y transformación del tipo social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+
+Pregunta: ¿Qué quórum se requiere para acordar la exclusión de un socio por causa legal?
+Respuesta Correcta: Se requiere el acuerdo de al menos dos tercios de los votos totales de la sociedad. Además, se necesita resolución judicial firme si el socio tiene 25% o más del capital.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+
+Pregunta: ¿Cómo se valoran las acciones o participaciones del socio que se separa o es excluido?
+Respuesta Correcta: Por su valor real en el momento de la desvinculación (no el valor nominal). Es necesaria la intervención de un perito independiente nombrado por el Registro Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+
+Pregunta: ¿Cuáles son las principales causas legales de exclusión según el art. 350 LSC?
+Respuesta Correcta: Incumplimiento de prestaciones accesorias, infracción de la obligación de no competencia por socio administrador, y sentencia de condena firme contra un socio.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+
+Pregunta: ¿Qué quórum se requiere para excluir a un socio por causa estatutaria?
+Respuesta Correcta: Se requiere el acuerdo unánime de todos los socios (no basta con dos tercios).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 11 - Separación y Exclusión de Socios
+Pregunta: ¿Qué tres reglas establece el art. 90 LSC para la copropiedad de acciones?
+Respuesta Correcta: Las acciones son indivisibles, los copropietarios deben nombrar una sola persona para ejercer los derechos sociales, y todos responden solidariamente frente a la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+
+Pregunta: ¿A quién corresponden los dividendos cuando existe usufructo sobre acciones?
+Respuesta Correcta: Al usufructuario, que tiene derecho a percibir los dividendos que la sociedad acuerde distribuir.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+
+Pregunta: ¿A quién corresponde el derecho de voto en caso de usufructo de acciones?
+Respuesta Correcta: Por regla general, al nudo propietario, quien ostenta el ejercicio del derecho de voto y asistencia a la Junta General (salvo disposición estatutaria en contra).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+
+Pregunta: ¿Qué derecho tiene el usufructuario cuando la sociedad no reparte beneficios y la acción se revaloriza?
+Respuesta Correcta: Puede exigir al nudo propietario, al extinguirse el usufructo, el incremento del valor que hayan experimentado las acciones durante el período de usufructo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+
+Pregunta: ¿Qué obligación tiene el acreedor pignoraticio respecto a los derechos políticos del deudor?
+Respuesta Correcta: Tiene la obligación de facilitar al propietario (deudor) el ejercicio de sus derechos, incluyendo la asistencia a la Junta General.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+
+Pregunta: ¿A quién corresponde la cuota de liquidación en caso de usufructo?
+Respuesta Correcta: Al nudo propietario le corresponde el remanente de la disolución. La cuota de liquidación no corresponde al usufructuario.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 12 - Derechos Reales sobre Acciones
+Pregunta: ¿Cuál es la regla general de transmisibilidad en S.A. y en S.L.?
+Respuesta Correcta: En S.A. rige la libre transmisibilidad de las acciones. En S.L. rige la restricción a la transmisibilidad, reflejando su carácter personalista.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+
+Pregunta: ¿Qué prohibición fundamental establece la LSC sobre la transmisión de acciones y participaciones?
+Respuesta Correcta: Se prohíbe la transmisión de cualquier acción o participación antes de que se produzca la inscripción de la sociedad en el Registro Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+
+Pregunta: ¿Qué restricciones estatutarias están permitidas en una S.A.?
+Respuesta Correcta: Las cláusulas de tanteo (derecho de adquisición preferente para los socios) y las cláusulas de consentimiento (subordinan la transmisión a autorización de la sociedad).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+
+Pregunta: ¿Puede una S.L. prohibir totalmente la transmisión de participaciones?
+Respuesta Correcta: Sí, a diferencia de la S.A., pero si se prohíbe la transmisibilidad, la Ley reconoce al socio el derecho de separación sin necesidad de alegar causa alguna.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+
+Pregunta: ¿Qué ocurre si se violan restricciones estatutarias a la transmisión en una S.A.?
+Respuesta Correcta: La sociedad podrá negarse a inscribir al adquirente como accionista, lo que conlleva la inoponibilidad de la transmisión frente a la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+
+Pregunta: ¿Qué requisito especial se exige para transmitir acciones con prestaciones accesorias?
+Respuesta Correcta: Se requiere necesariamente la autorización de la sociedad, no rigiendo el principio de libre transmisibilidad aunque los Estatutos no indiquen nada.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 13 - Transmisibilidad de Acciones y Participaciones
+Pregunta: ¿Puede una sociedad de capital adquirir sus propias acciones o participaciones?
+Respuesta Correcta: Como regla general está prohibido, pero existen excepciones legales muy reguladas, como la adquisición a título gratuito o en ejecución de créditos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+
+Pregunta: ¿Cuál es el límite cuantitativo para la adquisición derivativa de acciones propias en S.A.?
+Respuesta Correcta: Las acciones adquiridas no pueden exceder del 20% del capital social, y debe constituirse una reserva indisponible por el importe de las acciones adquiridas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+
+Pregunta: ¿Qué efecto tiene la posesión de acciones propias sobre los derechos políticos?
+Respuesta Correcta: Los derechos de voto y los demás derechos políticos quedan en suspenso mientras las acciones propias permanezcan en poder de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+
+Pregunta: ¿Por qué está restringida la adquisición de acciones propias?
+Respuesta Correcta: Para proteger la integridad del capital social y evitar que la sociedad descapitalice su patrimonio, perjudicando a los acreedores y desnaturalizando la estructura societaria.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+
+Pregunta: ¿Qué requisito financiero debe cumplirse para adquirir acciones propias?
+Respuesta Correcta: Las acciones deben estar íntegramente desembolsadas y la adquisición debe permitir la constitución de una reserva indisponible equivalente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+
+Pregunta: ¿Qué ocurre si una sociedad adquiere acciones propias infringiendo los requisitos legales?
+Respuesta Correcta: Las acciones deben ser enajenadas en el plazo máximo de un año. Si no se enajenan, deben ser amortizadas con la correspondiente reducción del capital social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 14 - Adquisición de Acciones Propias
+Pregunta: ¿Cuáles son las dos notas fundamentales que caracterizan a las sociedades de capital?
+Respuesta Correcta: La limitación de la responsabilidad (los socios no responden personalmente de las deudas) y la vinculación de la condición de socio a la titularidad de una parte alícuota del capital.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+
+Pregunta: ¿Qué norma fundamental regula las sociedades de capital en España?
+Respuesta Correcta: El Real Decreto Legislativo 1/2010, por el que se aprueba el Texto Refundido de la Ley de Sociedades de Capital (LSC).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+
+Pregunta: ¿Qué tipo de sociedad está concebida como vehículo para un número reducido de personas?
+Respuesta Correcta: La Sociedad de Responsabilidad Limitada (S.L.), que presenta elementos que la aproximan a las sociedades personalistas por la relevancia de la identidad de los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+
+Pregunta: ¿En qué consiste la separación patrimonial en la S.L.?
+Respuesta Correcta: Si la sociedad incurre en insolvencia, los acreedores solo pueden dirigirse contra el patrimonio de la sociedad, pero no contra el patrimonio personal de los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+
+Pregunta: ¿Qué significa que la condición de socio va aparejada a la titularidad de una parte del capital?
+Respuesta Correcta: Que la cualidad de socio se adquiere y mide por la posesión de acciones o participaciones, y a mayor número de estas, mayor será el poder de decisión en la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+
+Pregunta: ¿Qué diferencia fundamental existe entre S.L. y sociedades personalistas en cuanto a responsabilidad?
+Respuesta Correcta: En la S.L. los socios blindan su patrimonio personal (responsabilidad limitada), mientras que en las personalistas responden ilimitadamente con su patrimonio personal.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 2 - Denominación Social y Objeto Social
+Pregunta: ¿Cuáles son los dos pilares fundamentales del proceso constitutivo de una sociedad de capital?
+Respuesta Correcta: El otorgamiento de Escritura Pública ante Notario y la inscripción de dicha escritura en el Registro Mercantil provincial correspondiente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+
+Pregunta: ¿Qué diferencia existe entre la fundación simultánea y la fundación sucesiva?
+Respuesta Correcta: En la simultánea, todos los socios suscriben y desembolsan el capital en un único acto. En la sucesiva (solo S.A.), hay captación pública de capital y se desembolsa solo el 25% inicial.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+
+Pregunta: ¿Cuál es el plazo máximo para solicitar la inscripción de la escritura en el Registro Mercantil?
+Respuesta Correcta: Dos meses desde el otorgamiento de la escritura pública.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+
+Pregunta: ¿Qué contenido mínimo exige el artículo 22 LSC para la escritura de constitución?
+Respuesta Correcta: Identidad de los otorgantes, voluntad de fundar, aportaciones, desembolso acreditado, estatutos sociales, modo de administración e identidad de administradores, y gastos de constitución.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+
+Pregunta: ¿Qué diferencia hay entre los pactos de la escritura y los estatutos en cuanto a su modificación?
+Respuesta Correcta: Los estatutos son modificables por Junta General con mayoría. Los pactos de la escritura solo son modificables por acuerdo unánime de todos los socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+
+Pregunta: ¿Pueden constituirse las S.L. y S.A. con un solo socio?
+Respuesta Correcta: Sí, tanto la S.L. como la S.A. pueden constituirse por un solo socio, dando lugar a una Sociedad Unipersonal.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 3 - Cómo se constituye una sociedad de capital
+Pregunta: ¿Qué es una sociedad mercantil irregular?
+Respuesta Correcta: Es aquella que, habiéndose otorgado escritura pública, omite el requisito final de la inscripción registral pero inicia su actividad empresarial en el tráfico.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+
+Pregunta: ¿Cómo responden los gestores de una sociedad irregular por las deudas contraídas?
+Respuesta Correcta: Responden personal, solidaria e ilimitadamente por las deudas contraídas, perdiendo el blindaje patrimonial propio de las sociedades inscritas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+
+Pregunta: ¿Son oponibles los pactos internos de una sociedad irregular frente a terceros?
+Respuesta Correcta: No, los pactos internos no son oponibles a terceros de buena fe. Los terceros sí pueden invocar los pactos que les beneficien, pero la sociedad no puede oponerles los que les perjudiquen.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+
+Pregunta: ¿Qué ocurre si la sociedad irregular finalmente se inscribe en el Registro Mercantil?
+Respuesta Correcta: La inscripción tardía no libera a los gestores de las deudas anteriores. La responsabilidad limitada solo opera hacia el futuro (pro futuro) para las deudas posteriores a la inscripción.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+
+Pregunta: ¿Son válidos los contratos celebrados por una sociedad irregular con terceros?
+Respuesta Correcta: Sí, los contratos son plenamente válidos y eficaces. Los gestores pueden exigir cumplimiento a terceros y viceversa, basándose en la "publicidad de hecho".
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+
+Pregunta: ¿Qué excepción existe al régimen de responsabilidad ilimitada en la sociedad irregular?
+Respuesta Correcta: Los gastos indispensables para la válida constitución (honorarios de notaría, tasas de inscripción) permiten limitar la responsabilidad. Una vez inscrita, la sociedad los asume automáticamente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 4 - Sociedad Irregular
+Pregunta: ¿Qué naturaleza tiene el catálogo de causas de nulidad del artículo 56 LSC?
+Respuesta Correcta: Es un listado tasado (numerus clausus). Solo los supuestos específicamente recogidos en la ley pueden dar lugar a la nulidad de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+
+Pregunta: ¿Cuáles son las principales causas de nulidad de una sociedad de capital inscrita?
+Respuesta Correcta: Vicio del consentimiento, incapacidad de todos los socios fundadores, no expresar aportaciones, denominación u objeto social en la escritura, objeto ilícito, y falta de desembolso del capital mínimo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+
+Pregunta: ¿Tiene efecto retroactivo la declaración de nulidad de una sociedad?
+Respuesta Correcta: No, la nulidad no produce efectos retroactivos (ex tunc). Opera hacia el futuro (ex nunc) como causa de disolución, protegiendo a los terceros que contrataron con la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+
+Pregunta: ¿Qué efecto produce la sentencia que declara la nulidad de una sociedad?
+Respuesta Correcta: Abre automáticamente el período de liquidación de la sociedad, que se rige por las normas de liquidación ordinaria para pagar deudas y repartir el haber social restante.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+
+Pregunta: ¿Por qué son de aplicación práctica casi inexistente las causas de nulidad 3, 4, 5 y 6 del art. 56 LSC?
+Respuesta Correcta: Por el filtro de legalidad que ejerce el Notario autorizante, quien supervisa que se cumplan los requisitos formales y se niega a otorgar la escritura si faltan elementos esenciales.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+
+Pregunta: ¿La mera configuración deficiente de los estatutos es causa de nulidad?
+Respuesta Correcta: No, la mera configuración deficiente de los estatutos o la omisión de cláusulas accesorias no es motivo suficiente para declarar la nulidad. El legislador limita esta consecuencia drástica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 5 - Nulidad de las Sociedades de Capital
+Pregunta: ¿Qué diferencia existe entre capital social y patrimonio social?
+Respuesta Correcta: El capital social es una cifra estática que representa las aportaciones de los socios. El patrimonio social es dinámico, representa el conjunto real de bienes y recursos que posee la empresa en cada momento.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+
+Pregunta: ¿Qué establece el artículo 273.2 LSC sobre el reparto de beneficios?
+Respuesta Correcta: Solo podrán repartirse beneficios si el valor del Patrimonio Neto no es inferior, o a consecuencia del reparto no resulta inferior, a la cifra del capital social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+
+Pregunta: ¿Qué porcentaje del beneficio anual debe destinarse a la reserva legal según el art. 274 LSC?
+Respuesta Correcta: Un 10% del beneficio del ejercicio debe destinarse a la reserva legal, hasta que esta alcance como mínimo el 20% del capital social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+
+Pregunta: ¿Cómo se modifica el capital social de una sociedad?
+Respuesta Correcta: Solo puede aumentarse o disminuirse mediante el complejo procedimiento legal de modificación de los estatutos sociales. No varía con el éxito o fracaso de la gestión diaria.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+
+Pregunta: ¿Cuál es la finalidad de la reserva legal?
+Respuesta Correcta: Compensar eventuales pérdidas futuras, en caso de que no existan otras reservas disponibles, protegiendo así la solvencia de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+
+Pregunta: ¿Qué régimen de reserva legal se aplica a S.L. con capital inferior a 3.000€?
+Respuesta Correcta: La dotación obligatoria se eleva al 20% del beneficio y persiste hasta que la suma de Reserva Legal más Capital Social alcance los 3.000 euros.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 6 - Financiación de la Sociedad
+Pregunta: ¿Qué diferencia existe entre el régimen de valoración de aportaciones no dinerarias en S.A. y S.L.?
+Respuesta Correcta: En S.A. se exige informe de experto independiente designado por el Registrador (control ex ante). En S.L. los propios socios valoran el bien, pero existe un régimen severo de responsabilidad ex post.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+
+Pregunta: ¿Quiénes responden solidariamente por la sobrevaloración de aportaciones no dinerarias en una S.L.?
+Respuesta Correcta: Todos los socios fundadores, los socios que votaron a favor del aumento de capital, los adquirentes de participaciones a cambio de aportación no dineraria, y los administradores que no actuaron con diligencia.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+
+Pregunta: ¿Cuál es el plazo máximo para desembolsar el capital pendiente en una S.A.?
+Respuesta Correcta: Cinco años desde la constitución de la sociedad (Art. 80 LSC).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+
+Pregunta: ¿Qué consecuencias tiene la mora del accionista en el pago de dividendos pasivos?
+Respuesta Correcta: Pierde el derecho de voto, pierde el derecho a dividendos, y la sociedad puede reclamarle judicialmente, vender sus acciones por su cuenta y riesgo, o amortizar sus acciones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+
+Pregunta: ¿Qué son las prestaciones accesorias y pueden formar parte del capital social?
+Respuesta Correcta: Son obligaciones adicionales de dar, hacer o no hacer que asume un socio. Nunca pueden formar parte de la cifra de capital social. Pueden ser gratuitas o retribuidas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+
+Pregunta: ¿Está permitido aportar trabajo a cambio de acciones o participaciones en sociedades de capital?
+Respuesta Correcta: No, está prohibido aportar trabajo o servicios a cambio de capital social. Sin embargo, los estatutos pueden establecer prestaciones accesorias consistentes en trabajo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 7 - Aportaciones de los Socios
+Pregunta: ¿Cuál es la principal diferencia entre acciones y participaciones sociales?
+Respuesta Correcta: Las acciones (S.A.) pueden representarse mediante títulos y su transmisión es más sencilla. Las participaciones (S.L.) no pueden representarse mediante títulos ni anotaciones en cuenta, reforzando el carácter cerrado de la S.L.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+
+Pregunta: ¿Qué diferencia existe entre valor nominal y valor real de las acciones?
+Respuesta Correcta: El valor nominal es el fijado en los estatutos y es estático. El valor real es el precio que terceros están dispuestos a pagar, fluctuando según la situación económica de la empresa.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+
+Pregunta: ¿Qué caracteriza a las acciones o participaciones con prima?
+Respuesta Correcta: Exigen al adquirente una inversión mayor que el valor nominal sin obtener más derechos. Se usan para igualar la participación de nuevos socios al esfuerzo previo de los fundadores.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+
+Pregunta: ¿Qué límite existe para las acciones privilegiadas?
+Respuesta Correcta: No pueden alterar la proporcionalidad entre el valor nominal y el derecho de voto. Queda prohibido que una acción otorgue más votos que otra.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+
+Pregunta: ¿Qué caracteriza a las acciones sin voto?
+Respuesta Correcta: No otorgan derecho al voto en las Juntas Generales, pero a cambio confieren un dividendo mínimo preferente. Se usan para inversores interesados solo en la ganancia económica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+
+Pregunta: ¿Puede una sociedad emitir acciones con valor nominal inferior al existente?
+Respuesta Correcta: No, es una regla inquebrantable que ninguna sociedad puede emitir acciones o participaciones con un valor nominal inferior al ya existente.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 8 - Acciones y participaciones sociales
+Pregunta: ¿Cuáles son las dos grandes categorías de derechos del socio?
+Respuesta Correcta: Derechos económico-patrimoniales (participar en beneficios y patrimonio) y derechos político-personales (participar en la vida social mediante asistencia y voto en Juntas).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+
+Pregunta: ¿Cuándo nace el derecho de separación por falta de reparto de dividendos según el art. 348 bis LSC?
+Respuesta Correcta: Cuando, cumplido el quinto ejercicio desde la constitución, la Junta vote no distribuir al menos el 25% del beneficio, y el socio hubiera votado a favor de la distribución.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+
+Pregunta: ¿Qué es el derecho de suscripción preferente (art. 93 LSC)?
+Respuesta Correcta: El derecho del socio a suscribir nuevas acciones o asumir nuevas participaciones en proporción a las que ya posee, para mantener su status quo y no ver diluida su participación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+
+Pregunta: ¿Qué diferencia existe entre S.A. y S.L. respecto a la proporcionalidad del voto?
+Respuesta Correcta: En S.A. rige estrictamente el principio de proporcionalidad (prohibida su alteración). En S.L. esta proporcionalidad puede ser modificada en los Estatutos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+
+Pregunta: ¿Cuál es el límite máximo para restringir el derecho de asistencia a la Junta en una S.A.?
+Respuesta Correcta: El mínimo de acciones exigido para asistir nunca podrá ser superior al 0,1% de las acciones totales.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+
+Pregunta: ¿Cuándo nace el derecho de crédito del socio al dividendo?
+Respuesta Correcta: El derecho de crédito nace únicamente cuando la Junta General acuerda repartir los beneficios. Hasta ese momento, el socio no puede exigir el pago.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 3
+Tema: 9 - Derechos de los Socios
+Pregunta: ¿Cuál es el número máximo de socios fundadores permitido en una Sociedad Limitada Nueva Empresa (S.L.N.)?
+Respuesta Correcta: El número máximo de socios fundadores en una S.L.N. es de cinco (5). Además, solo pueden ser socios fundadores personas físicas, quedando excluida la participación de personas jurídicas en este tipo social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+
+Pregunta: ¿Cuáles son los límites de capital social establecidos para la S.L.N.?
+Respuesta Correcta: La S.L.N. tiene un capital mínimo de 3.012 euros y un capital máximo de 120.000 euros. Solo se admiten aportaciones dinerarias, quedando excluidas las aportaciones no dinerarias (bienes o derechos).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+
+Pregunta: ¿Qué tipo impositivo se aplica a la S.L.N. en el Impuesto de Sociedades durante los primeros años?
+Respuesta Correcta: La S.L.N. tributa al 15% durante los dos primeros periodos impositivos en que la base imponible resulte positiva. A partir del tercer año, se aplica el tipo general del Impuesto de Sociedades, que es del 25%.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+
+Pregunta: ¿Qué obligación tienen los administradores de una Sociedad Laboral según el art. 13 de la Ley 44/2015?
+Respuesta Correcta: Los administradores de una Sociedad Laboral deben adoptar una conducta que fomente: la generación de empleo estable y de calidad, la integración como socios de los trabajadores con buen desempeño, la igualdad de oportunidades y conciliación de la vida personal, familiar y laboral, y la implementación de políticas de responsabilidad social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+
+Pregunta: ¿Qué porcentaje del beneficio líquido debe destinarse al Fondo de Reserva Especial de una Sociedad Laboral y cuál es su límite?
+Respuesta Correcta: El Fondo de Reserva Especial debe dotarse con el 10% del beneficio líquido de cada ejercicio (Art. 14 Ley 44/2015). La aportación es obligatoria hasta que el fondo alcance el doble del capital social; una vez superado ese límite, la aportación deja de ser obligatoria. El incumplimiento de esta dotación conlleva la pérdida de la calificación como sociedad laboral.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+
+Pregunta: ¿Qué bonificaciones fiscales gozan las Sociedades Laborales en el ITP?
+Respuesta Correcta: Las Sociedades Laborales gozan de una bonificación del 99% de las cuotas del ITP devengadas por la adquisición de bienes y derechos que provengan de la empresa de la que procede la mayoría de los socios trabajadores. Esto supone que la sociedad paga solo el 1% del impuesto. Además, gozan de libertad de amortización de elementos de inmovilizado material, intangible e inversiones inmobiliarias adquiridos durante los cinco primeros años desde su calificación como laboral.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 1 y 2 - Sociedad Limitada Nueva Empresa y Sociedad Laboral
+Pregunta: ¿Cómo se configura la responsabilidad ante una negligencia profesional en una Sociedad Limitada Profesional (S.L.P.)?
+Respuesta Correcta: Existe un sistema de responsabilidad dual: el socio negligente responde personalmente bajo el régimen disciplinario de su ordenamiento profesional (su patrimonio es embargable), y además existe responsabilidad solidaria entre el socio profesional negligente y la Sociedad Profesional, respondiendo ambos conjuntamente frente al cliente por el pago total de la deuda.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+
+Pregunta: ¿Qué ocurre con los socios inocentes de una S.L.P. cuando otro socio comete una negligencia profesional?
+Respuesta Correcta: Los socios inocentes (que no cometieron el error) no tienen responsabilidad personal sobre su patrimonio individual. Sin embargo, el error compromete a la sociedad y afecta a su cuota social. En caso de inhabilitación del socio negligente, los socios inocentes tienen el deber de excluir al socio inhabilitado para poder continuar operando.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+
+Pregunta: ¿Qué obligación impone la Ley de Sociedades Profesionales respecto al seguro de responsabilidad?
+Respuesta Correcta: La Ley obliga a todas las sociedades profesionales a contratar un seguro de responsabilidad profesional que pueda cubrir la responsabilidad derivada de negligencias o errores de praxis. Esta obligación es sine qua non debido a la naturaleza de las profesiones reguladas (médicos, arquitectos, abogados) y el riesgo de fallos graves.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+
+Pregunta: ¿Qué efecto tiene la inhabilitación de un socio profesional sobre la S.L.P.?
+Respuesta Correcta: Si un socio es inhabilitado profesionalmente, la inhabilitación es extensiva a la sociedad, quedando afectada su capacidad para operar. Para que los demás socios puedan seguir ejerciendo su actividad, tienen el deber de excluir al socio inhabilitado. La sociedad no puede utilizarse para excusar o evitar la sanción disciplinaria de un socio.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+
+Pregunta: ¿Cuál es la regla general sobre la transmisibilidad de la condición de socio en una S.L.P. y qué excepciones existen?
+Respuesta Correcta: La regla general es la intransmisibilidad de la condición de socio. La transmisión solo es posible si media consentimiento de todos los socios (unanimidad) o si se establece algo distinto en el contrato de sociedad. Se recomienda cambiar la unanimidad por una mayoría en los estatutos si se prevé un cambio constante de socios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+
+Pregunta: ¿Qué derechos tiene un socio profesional que decide separarse voluntariamente de una S.L.P. constituida por tiempo indefinido?
+Respuesta Correcta: El socio profesional puede separarse de la sociedad constituida por tiempo indefinido en cualquier momento, ejerciendo esta facultad bajo las reglas de la buena fe. Además, tiene derecho a una compensación económica, ya que como titular de participaciones ha contribuido al crecimiento y creación de marca o fondo de comercio. Sus participaciones deben valorarse y el socio saliente tiene derecho a que el resto de socios o un nuevo socio las compre.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 3 - Sociedad Limitada Profesional II
+Pregunta: ¿Cuál es el objeto social de una Sociedad Anónima Deportiva (S.A.D.) y qué normativa le es aplicable?
+Respuesta Correcta: El objeto social de la S.A.D. consiste en la participación en competiciones deportivas profesionales, junto con la promoción y desarrollo del deporte profesional. Su objetivo primordial es obtener rentabilidad económica, pudiendo este objetivo primar incluso por encima del objetivo deportivo. A la S.A.D. se le aplica con carácter principal la normativa deportiva especial (Ley 39/2022, R.D. 1251/1999), y supletoriamente la Ley de Sociedades de Capital (LSC).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+
+Pregunta: ¿Cuál debe ser la fecha de cierre del ejercicio social en una S.A.D. y por qué?
+Respuesta Correcta: La fecha de cierre del ejercicio social debe fijarse de conformidad con el calendario establecido por la Liga Profesional correspondiente. Salvo pacto en contrario, esta fecha será el 30 de junio de cada año. Esta particularidad responde a la necesidad de adaptar la contabilidad societaria al calendario deportivo profesional.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+
+Pregunta: ¿Qué requisitos especiales debe cumplir el Consejo de Administración de una S.A.D.?
+Respuesta Correcta: El Consejo de Administración de una S.A.D. debe componerse de, al menos, un consejero independiente. Este consejero vela por el interés de los abonados y aficionados, es escogido democráticamente por los socios que pagan la cuota del club como abonados, y pueden ser candidatos si tienen una antigüedad de al menos cuatro años.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+
+Pregunta: ¿Qué personas no pueden ser consejeros (administradores) de una S.A.D. según el art. 71 de la Ley del Deporte?
+Respuesta Correcta: No pueden ser consejeros de una S.A.D.: personas afectadas por las prohibiciones generales mercantiles; quienes en los últimos cinco años hayan sido sancionados por infracción muy grave en materia deportiva; quienes ostenten cargos directivos o tengan participaciones significativas en otra S.A.D. rival; quienes hayan tenido alto cargo en la Administración General del Estado en los últimos dos años; y personas al servicio de Administraciones Públicas cuya actividad esté relacionada con la de la S.A.D.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+
+Pregunta: ¿Cómo se calcula el capital mínimo obligatorio de una S.A.D. según el R.D. 1251/1999?
+Respuesta Correcta: El capital mínimo de una S.A.D. no puede ser inferior a 60.000 euros, pero debe integrarse al menos en la suma de dos conceptos: los saldos patrimoniales netos negativos que arroje el balance, y el 25% de la media de gastos realizados (incluyendo amortizaciones) de todos los clubes o S.A.D. que participaran en la penúltima temporada finalizada de la respectiva competición, excluyendo las dos entidades con mayor gasto y las dos con menor gasto.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+
+Pregunta: ¿Qué tipo de aportaciones se permiten para desembolsar el capital mínimo obligatorio de una S.A.D.?
+Respuesta Correcta: La cifra de capital mínima obligatoria debe estar desembolsada íntegramente mediante aportaciones dinerarias. Ningún accionista de una S.A.D. puede participar en el capital aportando bienes no dinerarios (por ejemplo, un solar), debiendo aportar exclusivamente dinero. Esta restricción busca garantizar la liquidez y solvencia del club deportivo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 4 - Sociedad Anónima Deportiva
+Pregunta: ¿Cuáles son los requisitos fundamentales para que una empresa pueda acceder a la cotización en bolsa?
+Respuesta Correcta: Para cotizar en bolsa se requieren tres requisitos fundamentales: un capital social mínimo de 10.000.000 de euros con más de 200.000 acciones; la existencia de un Consejo de Administración como órgano de gobierno; y controles sobre la transparencia, debiendo presentar rigurosa información financiera y someterse a auditorías muy periódicas. Estos requisitos hacen que el estatus esté reservado a grandes corporaciones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+
+Pregunta: ¿Qué ocurre con los títulos físicos (certificados en papel) cuando una S.A. se convierte en cotizada?
+Respuesta Correcta: Cuando una S.A. se convierte en cotizada, la LSC exige que las acciones estén representadas mediante anotaciones en cuenta. Los títulos físicos quedan amortizados de pleno derecho (ya no tienen validez legal y son reemplazados por el registro electrónico). Para garantizar la información, la S.C. debe dar publicidad a esta anulación mediante anuncios en el BORME, en la Bolsa de Valores y en tres diarios de máxima difusión nacional.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+
+Pregunta: ¿Qué límites establecen los arts. 498-501 LSC respecto a las acciones rescatables en sociedades cotizadas?
+Respuesta Correcta: Las acciones rescatables tienen tres límites principales: el importe total nominal no puede superar la cuarta parte (25%) del capital social; las acciones rescatables deben ser íntegramente desembolsadas al momento de su suscripción; y si el derecho de rescate se otorga exclusivamente a la sociedad cotizada, no puede ejercerse hasta que hayan pasado al menos 3 años desde la emisión de las acciones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+
+Pregunta: ¿Qué plazo mínimo tiene el derecho de adquisición preferente en un aumento de capital de una sociedad cotizada y cuándo puede reducirse?
+Respuesta Correcta: Según el art. 503 LSC, el plazo mínimo para que los accionistas ejerzan el derecho de adquisición preferente sobre nuevas acciones no puede ser inferior a 14 días desde la publicación en el BORME. El plazo de convocatoria de la Junta puede reducirse a 15 días si la sociedad permite la votación electrónica. La convocatoria debe anunciarse en el BORME, en la página web de la CNMV y en la propia web de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+
+Pregunta: ¿Qué requisitos deben cumplir los pactos parasociales en una sociedad cotizada para producir efectos legales?
+Respuesta Correcta: Para que un pacto parasocial produzca efectos legales según el art. 530 LSC, debe cumplir cuatro requisitos acumulativos: ser comunicado a la empresa, ser comunicado a la CNMV, ser depositado en el Registro Mercantil, y ser publicado como hecho relevante. Si no se cumplen estos requisitos de publicidad, el pacto no producirá ningún efecto legal, aunque siga siendo válido entre las partes firmantes.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+
+Pregunta: ¿Qué prohibiciones específicas existen respecto a las cuentas anuales de las sociedades cotizadas?
+Respuesta Correcta: Según el art. 536 LSC, la sociedad cotizada no puede presentar cuentas abreviadas (versiones simplificadas). Está obligada a presentar un conjunto completo de documentos que incluye: Balance, Cuenta de Pérdidas y Ganancias, Estado de Cambios en el Patrimonio Neto, Estado de Flujo de Efectivo y una Memoria explicativa. Esta exigencia responde al régimen reforzado de transparencia propio de las sociedades cotizadas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 5 y 6 - Sociedades Cotizadas
+Pregunta: ¿Qué normativa regula la constitución de sociedades íntegramente en línea en España y qué directiva europea transpone?
+Respuesta Correcta: La Ley 11/2023, de 8 de mayo, transpone la Directiva (UE) 2019/1151 de Digitalización. Esta directiva impone a los Estados miembros la obligación de permitir la constitución de sociedades íntegramente en línea, sin comparecencia física de los socios constituyentes ante el notario autorizante de la escritura. Antes de esta ley, aunque existía un procedimiento telemático a través del CIRCE, se exigía comparecencia física ante el notario.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+
+Pregunta: ¿Cómo se realiza la comparecencia en línea para constituir una sociedad y qué función mantiene el notario?
+Respuesta Correcta: La comparecencia en línea debe efectuarse a través de la sede electrónica notarial, mediante el Portal Notarial del Ciudadano, no a través de plataformas genéricas como Zoom o Teams. El legislador español ha decidido no prescindir de la escritura pública. El notario sigue interviniendo a distancia y mantiene sus funciones de: asesoramiento a los interesados, control de la legalidad, y colaboración en la prevención del blanqueo de capitales.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+
+Pregunta: ¿Qué modificaciones normativas introdujo la Ley 11/2023 en la LSC respecto a la constitución electrónica?
+Respuesta Correcta: La Ley 11/2023 añadió a la LSC: el artículo 20 bis (definiciones de la Directiva de Digitalización), el artículo 22 bis, y los artículos 40 bis a 40 quinquies, integrando un nuevo Capítulo III bis en el Título Segundo, relativo a la constitución electrónica de la sociedad de responsabilidad limitada. También modificó la Ley del Notariado (arts. 17, 17 bis, 17 ter, 23 y 31) y el Código de Comercio.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+
+Pregunta: ¿Qué restricción existe para la constitución de S.L. por videoconferencia según el tipo de aportaciones?
+Respuesta Correcta: No se puede realizar el otorgamiento por videoconferencia si los socios deciden aportar un bien inmueble (local) o un bien mueble (coche) en lugar de dinero. Solo las S.L. con aportaciones exclusivamente dinerarias pueden constituirse 100% en línea. Esta exclusión se deriva del artículo 22 bis de la LSC y del artículo 17 ter de la Ley del Notariado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+
+Pregunta: ¿Qué tipos societarios pueden constituirse por vía telemática y cuáles quedan excluidos según la normativa vigente?
+Respuesta Correcta: La S.L. con aportaciones dinerarias puede constituirse totalmente en línea. Quedan excluidas de la vía telemática de constitución (por estar reguladas en el art. 22 bis LSC que solo contempla la S.L.): las sociedades anónimas y las sociedades comanditarias por acciones. En cambio, las sociedades colectivas, comanditarias simples y cooperativas no estarían estrictamente excluidas por el art. 22 bis LSC, sino que su exclusión derivaría de su propia normativa específica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+
+Pregunta: ¿Qué operaciones societarias posteriores a la constitución pueden realizarse en línea en una S.L.?
+Respuesta Correcta: Según el art. 22 bis.1 LSC, todas las operaciones societarias inscribibles (modificación de estatutos, ampliación de capital social, presentación de cuentas anuales) pueden realizarse en línea sin problema. También pueden realizarse en línea las operaciones dirigidas al cumplimiento de obligaciones legales, como la Junta General Ordinaria. Esta posibilidad se extiende a toda la vida societaria de la S.L., no limitándose a la constitución.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 7 - Sociedades Cotizadas en Línea
+Pregunta: ¿Qué porcentaje del capital social debe ser propiedad de los trabajadores en una Sociedad Laboral y qué límite individual existe?
+Respuesta Correcta: Más del 50% del capital social debe ser propiedad de los trabajadores que presten servicios retribuidos mediante contrato de trabajo por tiempo indefinido. Ningún socio puede poseer participaciones que superen la tercera parte del capital social (más del 33,33%). Excepciones: el Estado, entes públicos y organizaciones sin ánimo de lucro pueden superar el 33,33%, pero nunca el 50% del capital social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+
+Pregunta: ¿Qué régimen especial se permite para la constitución inicial de una Sociedad Laboral con dos socios?
+Respuesta Correcta: Se permite la constitución inicial de una sociedad laboral con dos socios que ostenten cada uno el 50% del capital social. Estos socios asumen la obligación de ajustarse al límite del 33,33% en el plazo máximo de 36 meses (3 años). En ese plazo también se puede integrar un tercer socio no laboral, siempre que se siga respetando la regla del 50% del capital en manos de trabajadores.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+
+Pregunta: ¿Qué límite existe respecto a las horas trabajadas por trabajadores no socios en una Sociedad Laboral?
+Respuesta Correcta: El número de horas trabajadas de los no socios no puede exceder del 49% del total de horas trabajadas en la sociedad por el conjunto de socios trabajadores. Es decir, los socios trabajadores deben representar al menos el 51% del total de horas trabajadas. Por ejemplo, si los socios trabajadores trabajan 2.080 horas, los demás trabajadores no socios no podrán exceder las 1.019 horas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+
+Pregunta: ¿Cuál es el procedimiento de constitución e inscripción de una Sociedad Laboral?
+Respuesta Correcta: El procedimiento requiere: primero, un procedimiento administrativo donde el Ministerio de Empleo califica a la sociedad como laboral; segundo, si se cumplen los requisitos, el Ministerio emite un certificado de calificación e inscripción en el Registro Administrativo de Sociedades Laborales; tercero, se inscribe la sociedad en el Registro Mercantil aportando el certificado anterior. Este régimen es potestativo: las sociedades pueden decidir calificarse como laborales o mantener la forma ordinaria.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+
+Pregunta: ¿Qué control ejerce el Registro Mercantil en las modificaciones de capital social de una Sociedad Laboral?
+Respuesta Correcta: En los casos de modificación de la composición del capital social, el Registro Mercantil no practicará ninguna inscripción si no se aporta una resolución favorable del Registro Administrativo de Sociedades Laborales. La finalidad es certificar que la modificación del capital no afecta a la calificación de la sociedad como laboral, manteniendo así la vigilancia administrativa sobre el cumplimiento permanente de los requisitos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+
+Pregunta: ¿Por qué se excluye automáticamente la posibilidad de constituir sociedades laborales unipersonales?
+Respuesta Correcta: El requisito de que más del 50% del capital social debe ser propiedad de los trabajadores con contrato indefinido excluye automáticamente la posibilidad de constituir sociedades unipersonales. Esta configuración busca garantizar que la sociedad laboral cumpla su función de integrar a múltiples trabajadores en la propiedad de la empresa, fomentando la participación colectiva en el capital social.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 8 - Sociedad Laboral I
+Pregunta: ¿Qué deberes específicos impone el art. 13 de la Ley 44/2015 a los administradores de una Sociedad Laboral?
+Respuesta Correcta: Los administradores deben adoptar una conducta que favorezca: fomentar la generación de empleo estable y de calidad; promover la integración como socios de los trabajadores con buen desempeño; promover la igualdad de oportunidades entre hombres y mujeres y la conciliación de la vida personal, familiar y laboral; e implementar políticas de responsabilidad social, fomentando prácticas de buen gobierno, comportamiento ético y transparencia.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+
+Pregunta: ¿Qué particularidad procesal existe cuando un socio impugna un acuerdo de la Junta General de una Sociedad Laboral?
+Respuesta Correcta: Según el art. 4.7 de la Ley 44/2015, cuando un socio impugna un acuerdo de la Junta General, se sigue el procedimiento general de impugnación, pero con una particularidad: el juez que conozca de la demanda pondrá en conocimiento del Registro Administrativo de Sociedades Laborales el hecho de la impugnación. Esta comunicación permite el control administrativo sobre posibles conflictos societarios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+
+Pregunta: ¿Cómo debe dotarse el Fondo de Reserva Especial de una Sociedad Laboral y cuál es su límite máximo?
+Respuesta Correcta: El Fondo de Reserva Especial debe dotarse con el 10% del beneficio líquido de cada ejercicio (Art. 14 Ley 44/2015). La aportación es obligatoria hasta que el fondo alcance el doble del capital social; una vez superado ese límite, deja de ser obligatoria. Si la sociedad no dota el fondo, perderá su calificación como laboral. Este mecanismo orienta a las sociedades laborales hacia la solvencia financiera.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+
+Pregunta: ¿En qué consiste la bonificación del 99% en el ITP de la que gozan las Sociedades Laborales?
+Respuesta Correcta: Consiste en una bonificación del 99% de las cuotas del ITP devengadas por la adquisición (por cualquier medio) de bienes y derechos que provengan de la empresa de la que procede la mayoría de los socios trabajadores de la sociedad laboral. La sociedad paga solo el 1% del impuesto. Por ejemplo, si adquiere un local de 100.000€ sujeto a ITP al 10%, en lugar de pagar 10.000€ pagaría solo 100€.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+
+Pregunta: ¿Qué ventaja fiscal supone la libertad de amortización para las Sociedades Laborales?
+Respuesta Correcta: Las sociedades laborales gozan de libertad de amortización de elementos de inmovilizado material, intangible e inversiones inmobiliarias adquiridos durante los cinco primeros años desde su calificación como laboral. Mientras el régimen ordinario impone límites fiscales sobre cuánto amortizar por año, esta libertad permite deducir mayor cantidad de gastos en los primeros años, reduciendo la base imponible del Impuesto de Sociedades y, en consecuencia, la carga impositiva.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+
+Pregunta: ¿Qué particularidad registral existe en el procedimiento de disolución de una Sociedad Laboral?
+Respuesta Correcta: El procedimiento de disolución se rige por las normas comunes, pero con un requisito adicional de comunicación: todo lo relacionado con el Registro Mercantil (disolución y liquidación) se comunicará también al Registro Administrativo de Sociedades Laborales. Esta doble comunicación permite mantener actualizado el registro especial de estas sociedades y garantiza la vigilancia administrativa hasta su extinción.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 4
+Tema: 9 - Sociedad Laboral II
+Pregunta: ¿Quiénes están legitimados para convocar la Junta General y qué papel tienen los socios en este proceso?
+Respuesta Correcta: Los únicos legitimados para convocar la Junta General son los administradores de la sociedad. Los socios NO pueden convocar por sí mismos una Junta General; solo pueden solicitarla si representan al menos el 5% del capital social (Junta Extraordinaria solicitada por minoría). Si los administradores no cumplen con su obligación de convocar, puede hacerse subsidiariamente por el Secretario Judicial o el Registrador Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+
+Pregunta: ¿Cuál es la diferencia entre la primera y la segunda convocatoria de una Junta General respecto al quórum?
+Respuesta Correcta: En la primera convocatoria, los Estatutos pueden establecer un quórum mínimo para que la Junta se constituya válidamente (por ejemplo, 75% del capital social presente). En la segunda convocatoria, que se celebra si no se alcanza el quórum de la primera, no se requiere quórum mínimo de capital social presente, lo que facilita la constitución de la Junta cuando hay baja participación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+
+Pregunta: ¿Cuáles son las competencias exclusivas de la Junta General en las sociedades de capital?
+Respuesta Correcta: La Junta General tiene competencia exclusiva sobre: aprobar las cuentas anuales y resolver sobre la aplicación del resultado; nombrar y separar a los administradores; modificar los estatutos de la sociedad; aumentar y reducir el capital social; y tomar decisiones que afectan a la propia vida de la sociedad (como la disolución). La Junta NO puede intervenir en la administración de la empresa, solo censurar la gestión realizada por el órgano de administración.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+
+Pregunta: ¿Qué particularidad existe respecto a la separación de administradores y el orden del día de la Junta?
+Respuesta Correcta: Cualquier acuerdo que se tome sobre un asunto no recogido en el orden del día es impugnable. Sin embargo, existe una excepción legalmente prevista: los administradores pueden ser separados de su cargo en la Junta General en cualquier momento, sin necesidad de que esta petición esté expresamente fijada en el orden del día. Esta es una excepción crucial al régimen de impugnabilidad por ausencia en el orden del día.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+
+Pregunta: ¿Qué requisitos debe cumplir la Junta Universal para constituirse válidamente?
+Respuesta Correcta: La Junta Universal permite celebrarse sin convocatoria previa, pero requiere un doble requisito de constitución: debe estar presente (o representado) la totalidad del capital social (100%), y los asistentes deben aceptar por unanimidad la celebración de la Junta. La oposición de un solo socio invalida la Junta Universal. Una vez constituida válidamente, no es necesario que todos los socios permanezcan presentes para la deliberación y toma de decisiones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+
+Pregunta: ¿Cuál es el plazo mínimo de convocatoria para una Junta General según el tipo de sociedad?
+Respuesta Correcta: El plazo varía según el tipo social: en las Sociedades Anónimas (S.A.), el plazo mínimo de antelación es de un mes; en las Sociedades de Responsabilidad Limitada (S.L.), el plazo mínimo es de quince días. En cuanto a la Junta Ordinaria, debe celebrarse dentro de los seis primeros meses de cada ejercicio social, teniendo por objeto censurar la gestión social del ejercicio anterior y resolver sobre la aplicación del resultado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 1 - Junta General Parte I
+Pregunta: ¿Qué quórum reforzado se exige para decisiones de especial trascendencia en una Sociedad Anónima?
+Respuesta Correcta: Para decisiones de especial trascendencia (reducción de capital social, traslado del domicilio social al extranjero), se exige: en primera convocatoria, la presencia o representación de al menos el 50% del capital suscrito; en segunda convocatoria, al menos el 25% del capital suscrito. Si el quórum está entre 25% y 50%, se requerirán dos tercios de los votos a favor para aprobar el acuerdo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+
+Pregunta: ¿Qué restricciones existen sobre el derecho de asistencia a la Junta General en las Sociedades Anónimas?
+Respuesta Correcta: En las S.A., la facultad de asistencia puede supeditarse a la posesión de un número mínimo de acciones, pero este número nunca podrá ser superior al 0,1% del capital social total. Es importante destacar que sería nula cualquier cláusula estatutaria que obligase a un socio a acudir a la Junta General, ya que el derecho de asistencia es una facultad del socio, no una obligación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+
+Pregunta: ¿Qué mayoría se requiere para la adopción de acuerdos ordinarios en una Sociedad de Responsabilidad Limitada?
+Respuesta Correcta: En la S.R.L., la regla general (Art. 198 LSC) exige la mayoría de los votos válidamente emitidos, siempre que representen al menos un tercio del capital social. Para modificaciones estatutarias se requiere mayoría absoluta (al menos 50% de las participaciones voten a favor), y para modificaciones estructurales se requieren dos tercios de los votos totales a favor.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+
+Pregunta: ¿Qué límite establece el art. 223 LSC respecto a la mayoría exigible para remover a un administrador?
+Respuesta Correcta: El art. 223 LSC establece que la mayoría reforzada exigida para remover a un administrador nunca podrá ser superior a los dos tercios de los votos correspondientes al capital social. Es imposible e innecesario que los Estatutos exijan la unanimidad para remover a un administrador. Si los Estatutos no dicen nada, bastará con la mayoría simple de los votos presentes.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+
+Pregunta: ¿Cuáles son las tres causas taxativas de impugnación de acuerdos sociales?
+Respuesta Correcta: Las tres causas taxativas son: contrariedad a la Ley (acuerdos que infringen una norma de rango legal); contrariedad a los Estatutos (acuerdos que vulneran las disposiciones estatutarias); y lesión del interés social (acuerdos que lesionan el interés de la sociedad para beneficiar a uno o varios socios, incluyendo acuerdos abusivos sobre la minoría según jurisprudencia).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+
+Pregunta: ¿Qué diferencia existe en el régimen de impugnación entre acuerdos contrarios al orden público y los que no lo son?
+Respuesta Correcta: Para acuerdos contrarios al orden público: legitimación activa de cualquier socio o tercero, la acción no está sujeta a plazo de caducidad ni prescripción, y no se requiere mínimo de capital social (nulidad absoluta). Para acuerdos que NO contravienen el orden público: legitimación restringida a terceros con interés legítimo y socios que representen más del 1% del capital social, plazo de caducidad de 1 año (nulidad relativa).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 2 - Junta General Parte II
+Pregunta: ¿Cuáles son los cuatro modelos de organización del órgano de administración en las sociedades de capital?
+Respuesta Correcta: Los cuatro modelos son: Administrador Único (una sola persona gestiona y representa); Administradores Solidarios (cada miembro posee facultad plena de representar y tomar decisiones que obliguen a la sociedad); Administración Mancomunada (todos adoptan acuerdos por unanimidad); y Consejo de Administración (órgano colegiado donde los acuerdos se adoptan por mayoría). En la S.L. se puede cambiar de estructura sin modificar estatutos; en la S.A. siempre es preciso modificarlos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+
+Pregunta: ¿Puede un menor emancipado ser administrador de una sociedad y qué requisitos de capacidad se exigen?
+Respuesta Correcta: Sí, el menor emancipado puede ser administrador de su propia S.L. El art. 213 del Código de Comercio establece que solo pueden ejercer el cargo de administrador aquellas personas que posean capacidad para ejercer el comercio. Los incapaces para el comercio son: los menores de edad (no emancipados) y las personas mayores de edad que estén incapacitadas. Tanto personas físicas como jurídicas pueden ser administradores.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+
+Pregunta: ¿Qué prohibiciones e incompatibilidades existen para ser administrador de una sociedad de capital?
+Respuesta Correcta: No pueden ser administradores: condenados por delitos contra la libertad, patrimonio u orden socioeconómico (hasta que un juez lo autorice); jueces (incompatibilidad por cargo); personas con discapacidad si un juez lo ha establecido; personas inhabilitadas conforme a la Ley Concursal. Los funcionarios sí pueden ser administradores salvo incompatibilidad legal específica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+
+Pregunta: ¿Cuáles son los principales deberes del administrador según los arts. 225-227 LSC?
+Respuesta Correcta: Los principales deberes son: Deber de diligencia y buena fe (art. 225 LSC): actuar sin interés personal y con procedimiento de decisión adecuado (no es un deber de acierto, puede equivocarse); Deber de lealtad (art. 227 LSC): obrar siempre procurando el beneficio de la sociedad; Deber de abstención ante conflicto de interés; Prohibición de percibir ventajas de terceros; Prohibición de competencia efectiva con la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+
+Pregunta: ¿Cuál es el régimen de duración del cargo de administrador según el tipo de sociedad?
+Respuesta Correcta: En la Sociedad de Responsabilidad Limitada (S.R.L.), los administradores son nombrados por tiempo indefinido (aunque los estatutos pueden establecer un tiempo limitado). En la Sociedad Anónima (S.A.), los administradores son nombrados por tiempo limitado, estando prohibido el nombramiento por tiempo indefinido (se considera "instaurar una dictadura"), con una duración máxima de seis años, renovable.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+
+Pregunta: ¿Cuáles son las tres vías por las que puede producirse el cese de un administrador?
+Respuesta Correcta: Las tres vías son: Remoción por la Junta General (puede remover en cualquier momento, sin tiempo mínimo, bastando generalmente mayoría simple; el límite estatutario máximo es 2/3 según art. 223 LSC); Destitución obligatoria (cuando el administrador incurre en causa de prohibición o incompatibilidad como incapacidad, condena o inhabilitación); y Dimisión voluntaria (el administrador puede dimitir sin justificación y la sociedad no puede rechazarla).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 3 - Órgano de Administración Parte I
+Pregunta: ¿Cuál es el principio general sobre la remuneración de los administradores y qué excepción existe?
+Respuesta Correcta: Según el art. 217.1 LSC, el principio general es la gratuidad del cargo de administrador, salvo que los estatutos sociales establezcan lo contrario (requiere estipulación expresa). La excepción son las sociedades cotizadas, donde el cargo del administrador debe ser remunerado obligatoriamente por imperativo legal. La competencia para fijar y modificar la remuneración corresponde a la Junta General.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+
+Pregunta: ¿Qué límite establece la ley cuando la remuneración del administrador se articula mediante participación en beneficios?
+Respuesta Correcta: Cuando la remuneración se articula mediante un porcentaje de las ganancias (participación en los beneficios), su cuantía nunca podrá ser superior al 10% de los beneficios repartibles entre los socios. Además, la remuneración debe guardar una proporción razonable con la importancia de la sociedad y la situación económica actual de la compañía (principio de proporcionalidad).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+
+Pregunta: ¿Cuáles son los presupuestos que generan responsabilidad de los administradores?
+Respuesta Correcta: Los administradores responden por los daños que causen a la sociedad, socios o terceros cuando concurra: actos u omisiones contrarios a la Ley o a los Estatutos (ilicitud formal, como contratar sin autorización de la Junta cuando los estatutos lo exigen); o incumplimiento de los deberes inherentes al cargo, principalmente el deber de diligencia (art. 225 LSC) y el deber de lealtad. La responsabilidad es solidaria y se extiende al patrimonio personal del administrador.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+
+Pregunta: ¿Cómo puede un administrador quedar exonerado de la responsabilidad solidaria?
+Respuesta Correcta: Un administrador puede quedar exonerado de la responsabilidad solidaria si prueba que: desconocía la existencia del acuerdo o el acto que causó el daño, o hizo todo lo conveniente para evitar el daño (por ejemplo, votando en contra de la adopción del acuerdo lesivo). La carga de la prueba recae sobre el administrador que pretende exonerarse.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+
+Pregunta: ¿Cuál es la diferencia entre la acción social y la acción individual de responsabilidad contra los administradores?
+Respuesta Correcta: La Acción Social se ejercita cuando la actuación negligente ha producido daño directo a la propia sociedad (perjuicio al patrimonio social); legitimación: Junta General (mayoría simple), socios con al menos 5% del capital, o acreedores sociales (si la sociedad carece de patrimonio). La Acción Individual se ejercita cuando el administrador ha producido lesión directa contra los intereses individuales de un socio o tercero (perjuicio personal y directo); legitimación: el perjudicado directo.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+
+Pregunta: ¿Qué requisitos adicionales deben cumplirse en la representación de un socio en la Junta General de una Sociedad Anónima?
+Respuesta Correcta: En las S.A., además de la representación general, el documento de representación debe cumplir requisitos adicionales: es imprescindible que el representante lleve por escrito las instrucciones del voto, y debe constar por escrito el orden del día. Si la representación es para todas las Juntas, debe constar en escritura pública; si es para una única Junta, basta documento escrito.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 5
+Tema: 4 - Órgano de Administración Parte II
+Pregunta: ¿Cuáles son las fases del procedimiento ordinario para modificar los estatutos sociales?
+Respuesta Correcta: El procedimiento comprende cuatro fases: propuesta por escrito de la reforma por quienes la promueven (habitualmente administradores); convocatoria de la Junta General expresando en el orden del día el alcance de la reforma y el texto íntegro de la modificación; adopción del acuerdo por la mayoría requerida legal o estatutariamente; y formalización en escritura pública e inscripción en el Registro Mercantil para que tenga plenos efectos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+
+Pregunta: ¿Qué mayorías se requieren para aprobar una modificación estatutaria según el tipo de sociedad?
+Respuesta Correcta: En la Sociedad Anónima (SA): en primera convocatoria se requiere al menos 50% del capital suscrito presente (mayoría absoluta); en segunda convocatoria, al menos 25% presente, pero si la asistencia está entre 25% y 50%, se requieren dos tercios de los votos a favor. En la Sociedad Limitada (SL): se requiere el voto a favor de más de la mitad de los votos totales correspondientes a las participaciones (mayoría absoluta). Las mayorías solo pueden modificarse en estatutos al alza.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+
+Pregunta: ¿Qué requisito especial se exige cuando la modificación estatutaria impone nuevas obligaciones a los socios?
+Respuesta Correcta: Cuando se imponen nuevas obligaciones a los socios (como prestaciones accesorias) o se modifican los derechos individuales de un socio, se requiere el expreso consentimiento del socio afectado. En este supuesto, la mayoría alcanzada es absolutamente irrelevante; es indispensable el consentimiento individual del socio cuyos derechos o deberes se ven alterados.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+
+Pregunta: ¿Qué derecho nace a favor de los socios cuando se modifica el objeto social?
+Respuesta Correcta: Cuando la sociedad realiza un cambio de objeto social (incluyendo la adición de un nuevo objeto social), aunque puede aprobarse con las mayorías ordinarias, el socio que no hubiera votado a favor de dicha modificación (con o sin voto) verá nacer a su favor el derecho de separación, permitiéndole abandonar la sociedad con reembolso de sus participaciones.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+
+Pregunta: ¿Qué régimen diferente se aplica al traslado del domicilio social según sea dentro de España o al extranjero?
+Respuesta Correcta: Traslado dentro de España: no es necesario el acuerdo de la Junta General, salvo que los estatutos dispongan lo contrario. Traslado al extranjero: es indispensable el previo acuerdo de la Junta General; en la SA rige el régimen ordinario de mayorías, mientras que en la SL se requiere que dos tercios de los votos existentes se pronuncien a favor de la modificación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+
+Pregunta: ¿Por qué una modificación estatutaria puede comprometer gravemente los intereses de acreedores y socios?
+Respuesta Correcta: Una modificación estatutaria puede comprometer gravemente a los acreedores (por ejemplo, una reducción de capital para distribuir beneficios antes de una quiebra previsible disminuye sus garantías de cobro) y a los socios (por ejemplo, la imposición de prestaciones accesorias les obliga a nuevos desembolsos o servicios). Por ello, la ley establece restricciones, procedimientos formales rigurosos y mecanismos de protección como el derecho de separación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 1 - Modificaciones Estatutarias
+Pregunta: ¿Cuáles son las dos modalidades principales de aumento del capital social?
+Respuesta Correcta: Las dos modalidades son: elevación del valor nominal de las acciones o participaciones existentes (incrementar el valor nominal de los títulos ya existentes, pudiendo ser con cargo a reservas/beneficios o con nuevas aportaciones de los socios); y creación o emisión de nuevas acciones o participaciones sociales (la más común, especialmente para dar entrada a terceros inversores, quienes las adquieren a cambio de un contravalor).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+
+Pregunta: ¿Qué es el derecho de suscripción o asunción preferente y cuál es su finalidad?
+Respuesta Correcta: Es el derecho que nace a favor de los antiguos socios cuando se acuerda un aumento de capital mediante emisión de nuevas acciones o participaciones. Su finalidad es permitir al socio mantener su porcentaje de participación en el capital social, evitando que su cuota se vea diluida ante la entrada de nuevos títulos o socios (derecho antidilución). Es renunciable, transmisible (sujeto al régimen estatutario) y puede ser suprimido por la Junta General si el interés social lo justifica.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+
+Pregunta: ¿En qué casos queda excluido legalmente el derecho de suscripción preferente?
+Respuesta Correcta: El derecho de asunción preferente queda excluido por ministerio de la ley en supuestos tasados: cuando el aumento del capital se realice con cargo a aportaciones no dinerarias, y cuando se deba a la conversión de obligaciones en acciones. En estos casos, el derecho no existe ab initio por disposición legal.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+
+Pregunta: ¿Cuáles son los cuatro medios de contravalor para el aumento de capital social?
+Respuesta Correcta: Los cuatro medios son: aportaciones dinerarias (dinero, el más común; en SA requiere desembolso íntegro previo de acciones existentes); aportaciones no dinerarias (bienes o derechos, excluye derecho de suscripción preferente); compensación de créditos (extinción de deuda de la sociedad, créditos deben ser líquidos, vencidos y exigibles); y cargo a reservas (reinversión de beneficios o reservas, requiere certificación de balance aprobado por auditor).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+
+Pregunta: ¿Qué requisito especial se exige cuando el aumento de capital obliga a todos los socios a realizar nuevos desembolsos?
+Respuesta Correcta: Si el aumento de capital obliga a todos los socios a aportar dinero a la compañía (aumento del valor nominal con desembolso), es obligatorio su consentimiento unánime, dado que se impone una nueva obligación patrimonial. La mayoría ordinaria o reforzada no es suficiente en este caso, requiriéndose la conformidad individual de cada socio afectado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+
+Pregunta: ¿Qué particularidades presenta la Sociedad Anónima en materia de aumento de capital?
+Respuesta Correcta: La SA presenta dos particularidades: delegación en administradores (se puede delegar en los administradores la facultad de acordar operaciones de aumento de capital hasta una determinada cifra); y asunción incompleta (se permite desembolsar una parte del aumento inicialmente y el restante posteriormente, similar al desembolso inicial en la constitución). En la SL, si no se desembolsa el total acordado, el aumento será parcial pero válido.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 2 - Aumento de Capital Social
+Pregunta: ¿Cuáles son las tres finalidades que puede perseguir una reducción de capital social?
+Respuesta Correcta: Las tres finalidades son: liberación de aportaciones pendientes (condonación de los desembolsos que los socios se habían obligado a aportar); incremento de reservas (utilizar parte del capital para aumentar la reserva legal o voluntaria, sin pérdida real de recursos); y restablecimiento del equilibrio patrimonial (reducir para equilibrar capital y patrimonio cuando este ha sufrido fuertes pérdidas; puede ser obligatoria en SA).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+
+Pregunta: ¿Cuáles son las modalidades de ejecución de una reducción de capital social?
+Respuesta Correcta: La reducción puede ejecutarse mediante tres modalidades: disminución del valor nominal (reducir el valor nominal de cada título, por ejemplo de 6 a 3 euros); amortización de acciones (eliminación de un determinado número de títulos); y agrupación de acciones (reducir el número total de acciones o participaciones mediante su agrupación).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+
+Pregunta: ¿Cómo funciona el derecho de oposición de los acreedores en la reducción de capital de una Sociedad Anónima?
+Respuesta Correcta: En la SA, el derecho de oposición solo se puede ejercitar cuando la finalidad de la reducción sea la restitución de aportaciones a los socios o la condonación de dividendos pasivos. Su ejercicio por los acreedores permite paralizar la reducción, impidiendo su ejecución. El veto puede levantarse si los socios prestan una garantía o fianza solidaria en favor de los acreedores (art. 337 LSC).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+
+Pregunta: ¿Qué mecanismo de protección de acreedores existe en la Sociedad Limitada ante una reducción de capital?
+Respuesta Correcta: En la SL no existe el derecho de oposición. El sistema de tutela se articula mediante la responsabilidad solidaria de los socios: los socios que hubieran sido beneficiados por la reducción de capital responden solidariamente frente a los acreedores por el importe de la reducción ejecutada. Si la sociedad quiebra, los acreedores pueden dirigirse contra cada uno de los socios por el importe reclamado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+
+Pregunta: ¿A qué acreedores se aplican los mecanismos de protección en la reducción de capital?
+Respuesta Correcta: El derecho de oposición (SA) y la responsabilidad solidaria (SL) solo se aplican respecto a los acreedores anteriores a la reducción de capital. Los nuevos acreedores que contraten con la sociedad con posterioridad a la reducción no pueden exigir esta garantía, ya que conocían (o debían conocer) la situación patrimonial de la sociedad al momento de contratar.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+
+Pregunta: ¿Qué diferencia existe en el procedimiento de reducción de capital entre SA y SL respecto a los socios afectados?
+Respuesta Correcta: En la SA, si la reducción afecta específicamente a un grupo de acciones que poseen solo determinados socios, se requiere además del acuerdo de la Junta General, el acuerdo mayoritario de estos accionistas interesados (afectados). En la SL, no se requiere este acuerdo en sede de Junta, sino el acuerdo individual de los titulares afectados (su expreso consentimiento si les afecta de forma individualizada).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 3 - Reducción de Capital Social
+Pregunta: ¿Cuáles son los documentos que integran las Cuentas Anuales y quién tiene la obligación de formularlas?
+Respuesta Correcta: La obligación recae sobre los administradores (art. 253 LSC), debiendo redactarse en el plazo de tres meses tras la finalización del ejercicio social. Los documentos integrantes son: el Balance, la Cuenta de Pérdidas y Ganancias, la Memoria, el Estado de Cambios en el Patrimonio Neto (ECPN) y el Estado de Flujo de Efectivo (EFE). Las sociedades pequeñas pueden presentar solo las tres primeras partidas.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+
+Pregunta: ¿Cuándo está obligada una sociedad a presentar Balance Pleno según el art. 257 LSC?
+Respuesta Correcta: Una sociedad debe presentar Balance Pleno (que incluye EFE y ECPN) si cumple al menos dos de los siguientes tres requisitos: tener partidas de Activos superiores a 4 millones de euros; que su cifra anual de negocio supere los 8 millones de euros; o que el número de empleados sea superior a 50. De lo contrario, puede presentar Balance Abreviado.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+
+Pregunta: ¿Cuándo es obligatoria la auditoría de cuentas y qué efecto tiene un informe desfavorable del auditor?
+Respuesta Correcta: La auditoría es obligatoria cuando la sociedad supera ciertos umbrales (por ejemplo, activos superiores a 2,85 millones de euros), cuando la sociedad esté inmersa en un proceso judicial, o cuando un socio que posea al menos el 5% del capital lo solicite. Si el auditor estima que las cuentas no son correctas, emitirá un informe desfavorable, impidiendo su inscripción en el Registro Mercantil.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+
+Pregunta: ¿Qué limitaciones tienen los socios respecto a la aprobación de las Cuentas Anuales en la Junta General?
+Respuesta Correcta: Los socios pueden aprobar o rechazar las cuentas, pero NO pueden modificarlas (salvo para subsanar algún posible error). Existe un deber legal de no aprobar las cuentas si son contrarias a la ley. Si las cuentas se han falseado (por ejemplo, para engañar a los acreedores), la Junta, aun aprobándolas, serán nulas. La aprobación requiere solo mayoría ordinaria.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+
+Pregunta: ¿Qué orden debe seguirse para la distribución de dividendos y qué requisitos previos existen?
+Respuesta Correcta: Requisitos previos: compensar pérdidas con reservas disponibles y dotar la reserva legal con el 10% del beneficio hasta alcanzar el 20% del capital social. Orden de distribución: primero el dividendo privilegiado (acciones sin voto, ventajas de fundadores, participación de administradores); después al resto de socios si hay beneficios remanentes. Los beneficios deben superar la cuantía del capital social tras las dotaciones obligatorias para poder ser repartidos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+
+Pregunta: ¿Qué consecuencias tiene el incumplimiento del depósito de las Cuentas Anuales en el Registro Mercantil?
+Respuesta Correcta: Las cuentas deben depositarse en el Registro Mercantil donde permanecerán 6 años con carácter público. El incumplimiento conlleva: multa de entre 1.200 y 300.000 euros; y cierre parcial del Registro Mercantil, lo que implica que no se podrá inscribir documento alguno referente a la sociedad (por ejemplo, cualquier modificación de estatutos). Son consecuencias muy graves que paralizan la vida registral de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 4 y 5 - Cuentas Anuales
+Pregunta: ¿Cuáles son las dos fases del proceso de extinción de una sociedad y qué esfera afecta cada una?
+Respuesta Correcta: Las dos fases son: Disolución (afecta a la esfera interna/socios, es una declaración jurídica de la causa de extinción) y Liquidación (afecta a socios y terceros acreedores, es la fase material y contable para saldar deudas y repartir el remanente). La disolución no extingue la personalidad jurídica sino que abre el período de liquidación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+
+Pregunta: ¿Cuáles son los tres supuestos de disolución de pleno derecho (automática)?
+Respuesta Correcta: Los tres supuestos son: transcurso del término de duración fijado en estatutos (solo sociedades constituidas por tiempo determinado); reducción de capital por debajo del mínimo legal cuando transcurre un año desde la adopción del acuerdo (por ejemplo, por debajo de 3.000 euros en SL); y violación de marca cuando la denominación social viola derechos de marca y el error no se corrige en un año.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+
+Pregunta: ¿Qué responsabilidad asume el administrador si no solicita la disolución judicial cuando la Junta no la aprueba?
+Respuesta Correcta: Si los socios se rebelan y la Junta no aprueba la disolución existiendo causa legal, el administrador tiene el deber inexcusable de acudir al juez y solicitar la disolución judicial. Si no lo hace, los administradores responden solidariamente por las deudas sociales con su patrimonio personal. El administrador queda exento de este deber si ha solicitado la declaración de concurso.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+
+Pregunta: ¿Qué cambios produce la apertura del período de liquidación en la estructura de la sociedad?
+Respuesta Correcta: La sociedad conserva su personalidad jurídica pero a su denominación se añade "en liquidación". Los administradores cesan y son sustituidos por los liquidadores, que se ocupan de la gestión y representación durante la liquidación (cargo de duración indefinida). Los liquidadores son responsables ante socios y acreedores de cualquier perjuicio causado con dolo o culpa.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+
+Pregunta: ¿Cuál es el orden de las operaciones de liquidación que deben realizar los liquidadores?
+Respuesta Correcta: El orden preestablecido es: elaboración de inventario y balance referido al momento inicial de la liquidación; realización del activo (vender todos los bienes y cobrar todos los créditos); y realización del pasivo (pagar a los acreedores sociales con el activo obtenido). Si existen deudas no vencidas, el liquidador puede anticipar el pago o garantizar que se realizará en el futuro; si no lo hace, los acreedores pueden solicitar la nulidad de las operaciones y reapertura de la liquidación.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+
+Pregunta: ¿Cómo se reparte el remanente entre los socios tras la liquidación y cómo finaliza el proceso?
+Respuesta Correcta: La cuota de liquidación es proporcional a la participación del socio en el capital social (regla alterable por estatutos). En la SA, si hay acciones no totalmente desembolsadas, se restituye primero a quienes desembolsaron mayor porcentaje. El proceso finaliza con la firma de escritura pública de extinción y la cancelación de la inscripción en el Registro Mercantil, momento en que la sociedad deja definitivamente de existir.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 6 y 7 - Disolución y Liquidación
+Pregunta: ¿Qué son las obligaciones financieras y cuál es la posición del obligacionista respecto a la sociedad?
+Respuesta Correcta: Las obligaciones (o bonos) constituyen un medio de financiación donde terceros (obligacionistas) prestan dinero a la sociedad, convirtiéndose en acreedores. A cambio, perciben un interés y la devolución del principal al vencimiento. El obligacionista NO se convierte en socio, NO participa en la gestión empresarial, pero SÍ es acreedor, SÍ percibe intereses por su crédito y SÍ cobra independientemente de que la sociedad obtenga beneficios.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+
+Pregunta: ¿Cuáles son los principales tipos de obligaciones según su garantía y capacidad de canje?
+Respuesta Correcta: Según garantía: ordinarias (solo garantía del patrimonio social) y garantizadas (con aval como hipoteca, prenda o garantía de tercero). Según preferencia de cobro: ordinarias (cobran antes) y subordinadas (último lugar). Según canje: simples (solo dinero), convertibles en acciones (amortización sustituible por nuevas acciones, implica aumento de capital) y canjeables por acciones (se canjean por acciones existentes, sin aumento de capital).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+
+Pregunta: ¿Cuál es el procedimiento para emitir obligaciones financieras?
+Respuesta Correcta: El procedimiento incluye: acuerdo de emisión adoptado por el órgano de administración (salvo que los estatutos lo reserven a la Junta, art. 406 LSC); constancia en escritura pública (excepción: puede obviarse si están representadas mediante anotaciones en cuenta, art. 41 Ley de Mercados de Valores); emisión y suscripción por terceros; constitución del sindicato de obligacionistas; y otorgamiento de acta notarial de suscripción.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+
+Pregunta: ¿Qué funciones tienen el Comisario y el Sindicato de Obligacionistas?
+Respuesta Correcta: El Comisario representa individualmente a todos los obligacionistas: vela por su interés, asiste a las Juntas Generales, vigila el reembolso, convoca a la Asamblea de Obligacionistas y ejercita acciones judiciales. El Sindicato de Obligacionistas (Asamblea) se encarga de la deliberación y defensa colectiva, vigila al comisario y puede destituirle por incumplimiento. Decisiones ordinarias requieren mayoría absoluta; las de mayor trascendencia, dos tercios de los votos.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+
+Pregunta: ¿Puede la sociedad imponer el reembolso anticipado de las obligaciones a los obligacionistas?
+Respuesta Correcta: No. Existe una prohibición de que la sociedad imponga el reembolso anticipado de las obligaciones. La sociedad debe respetar los plazos contractuales establecidos. La única excepción es que la sociedad puede proceder al rescate anticipado si se hubiera acordado expresamente en la escritura de emisión. Los intereses se pagan periódicamente según el acuerdo de emisión, y el reembolso del principal tiene lugar al vencimiento.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+
+Pregunta: ¿Qué son las obligaciones con warrants y en qué se diferencian de las convertibles?
+Respuesta Correcta: Las obligaciones con warrants incorporan un derecho adicional a adquirir acciones sin que se produzca conversión de las obligaciones, permitiendo al obligacionista adquirir nuevos títulos sin perder los que ya tiene. A diferencia de las convertibles (donde el obligacionista cambia sus obligaciones por acciones nuevas perdiendo su condición de acreedor), en los warrants mantiene ambas posiciones: sigue siendo acreedor y además puede convertirse en accionista.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 8 - Obligaciones Financieras
+Pregunta: ¿Qué son las modificaciones estructurales y qué tipos existen según la Ley 3/2009?
+Respuesta Correcta: Son cambios que alteran radicalmente la configuración de una sociedad, yendo más allá de una simple modificación estatutaria al afectar a la estructura patrimonial o personal. Los tipos son: Transformación (cambio de tipo social, ej. SL a SA); Fusión (varias sociedades se unen en una sola); Escisión (una sociedad se divide en varias); y Cesión Global de Activo y Pasivo (transmisión en bloque del patrimonio a un tercero). Todas se regulan por la LME.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión
+
+Pregunta: ¿Qué procedimiento debe seguirse para una transformación societaria y qué mayoría se requiere?
+Respuesta Correcta: El procedimiento exige: informe de administradores (aspectos jurídicos y económicos); acuerdo de la Junta General con mayoría reforzada (para SL a SA: al menos dos tercios de los votos); escritura pública otorgada por administradores y socios (si la transformación les hace responder ilimitadamente); y publicación en el Registro Mercantil. La transformación NO altera la personalidad jurídica de la sociedad.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión
+
+Pregunta: ¿Cómo afecta la transformación societaria a la responsabilidad de los socios por deudas anteriores y posteriores?
+Respuesta Correcta: Transformación a menos responsabilidad (personalista a capitalista): los socios NO pueden limitar su responsabilidad por deudas anteriores a la transformación, solo por las posteriores. Transformación a más responsabilidad (capitalista a personalista): los socios responden ilimitadamente tanto por deudas anteriores como posteriores. En ambos casos, nace el derecho de separación para el socio disconforme.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión
+
+Pregunta: ¿Cuáles son los tres requisitos esenciales de toda fusión y qué modalidades existen?
+Respuesta Correcta: Los tres requisitos son: disolución y extinción de una, varias o todas las sociedades intervinientes; transmisión en bloque de todos los patrimonios (activo y pasivo) por sucesión universal; y agrupación de todos los socios en una única sociedad resultante. Modalidades: Absorción (una sociedad absorbente mantiene su personalidad e integra a las absorbidas que se extinguen) y Fusión Pura (todas se disuelven y se crea una nueva que las integra).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión
+
+Pregunta: ¿Cuáles son las fases del procedimiento legal de fusión según la LME?
+Respuesta Correcta: Las cuatro fases son: Proyecto de Fusión (documento central que debe inscribirse en el RM, conteniendo sociedades, tipo de canje, incidencia en acreedores, estatutos); Informe de experto y administradores (detalla aspectos jurídicos y económicos, el de experto independiente es necesario si participa SA); Acuerdo de Fusión (aprobación por Juntas Generales en 6 meses desde el proyecto, mayoría reforzada de 2/3 en SL); y Formalización (escritura pública e inscripción en RM).
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión
+
+Pregunta: ¿Qué tipos de escisión existen y qué diferencia hay entre ellos?
+Respuesta Correcta: Escisión Total: la sociedad original se extingue y desaparece, dividiéndose y traspasándose todo su patrimonio para crear dos o más sociedades nuevas. Escisión Parcial: la sociedad sigue existiendo, traspasándose en bloque por sucesión universal una o varias partes del patrimonio para crear nuevas sociedades. Escisión Segregada: la sociedad sigue existiendo y transmite en bloque por sucesión universal parte de su patrimonio a otra sociedad existente (beneficiaria), recibiendo a cambio acciones o participaciones de esta.
+Manual: Derecho Mercantil 2 - Sociedades
+Bloque: 6
+Tema: 9, 10 y 11 - Transformación, Fusión y Escisión

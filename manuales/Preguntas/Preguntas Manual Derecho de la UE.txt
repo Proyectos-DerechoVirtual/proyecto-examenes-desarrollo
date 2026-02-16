@@ -1,0 +1,1645 @@
+Pregunta: ¿Cuáles fueron las dos corrientes ideológicas del europeísmo manifestadas en el Congreso de La Haya de 1948?
+Respuesta Correcta: La corriente intergubernamental (defendida por anglosajones, cooperación entre Estados soberanos sin cesión de competencias) y la corriente federalista (organización supranacional con cesión de soberanía en áreas clave).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+
+Pregunta: ¿Qué fue la CECA y cuáles fueron sus tres pilares fundamentales?
+Respuesta Correcta: La Comunidad Europea del Carbón y del Acero, creada por el Tratado de París de 1951, compuesta por Francia, Alemania, Italia y Benelux. Sus tres pilares: mercado común sectorial, objetivos compartidos e instituciones supranacionales dotadas de poder efectivo.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+
+Pregunta: ¿Qué fue el Plan Marshall y qué organización europea originó?
+Respuesta Correcta: Programa de recuperación económica de EE.UU. para reconstruir Europa tras la IIGM, que imponía como condición que los países beneficiarios se organizaran conjuntamente. Originó en 1948 la Organización Europea de Cooperación Económica (OECE).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+
+Pregunta: ¿Qué se creó como resultado del Congreso de La Haya satisfaciendo las tesis intergubernamentales?
+Respuesta Correcta: El Consejo de Europa en 1949, una organización de cooperación intergubernamental que generó insatisfacción en los sectores federalistas.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+
+Pregunta: ¿Qué fue la Declaración Schuman de 1950 y quiénes la lideraron?
+Respuesta Correcta: Propuesta de Jean Monnet y Robert Schuman para poner en común la producción franco-alemana de carbón y acero bajo una Alta Autoridad común, usando la estrategia funcionalista de integración progresiva por sectores económicos.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+
+Pregunta: ¿Qué comunidades europeas se crearon por los Tratados de Roma de 1957?
+Respuesta Correcta: La Comunidad Económica Europea (CEE) y la Comunidad Europea de la Energía Atómica (EURATOM), que entraron en vigor en 1958, consolidando junto con la CECA las tres Comunidades Europeas.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: ¿Qué Es La UE?
+Pregunta: ¿Cuáles fueron las fases de ampliación de la UE y sus años correspondientes?
+Respuesta Correcta: Fundadores (1958), Primera ampliación (1973: RU, Irlanda, Dinamarca), Segunda (1981: Grecia), Tercera (1986: España, Portugal), Cuarta (1995: Austria, Finlandia, Suecia), Gran Ampliación (2004/2007: 12 países), Última (2013: Croacia).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+
+Pregunta: ¿Qué fue la crisis de la "silla vacía" y cómo se resolvió?
+Respuesta Correcta: Crisis donde Francia abandonó su participación en las instituciones comunitarias (sin retirarse formalmente) por exigir unanimidad en decisiones trascendentes. Tras un año de parálisis, Francia reconsideró su postura permitiendo reactivar la integración.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+
+Pregunta: ¿Qué aportó el Tratado de Maastricht de 1992?
+Respuesta Correcta: Creó la Unión Europea (abandonando la terminología "Comunidades Europeas"), introdujo el Banco Central Europeo, amplió competencias comunitarias y garantizó derechos políticos a los ciudadanos de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+
+Pregunta: ¿Qué fue el Acta Única Europea (AUE) de 1986 y cuáles fueron sus dos aportaciones principales?
+Respuesta Correcta: Tratado que institucionalizó el Consejo Europeo dentro de la estructura comunitaria y atribuyó nuevas competencias a las Comunidades para garantizar la creación de un mercado interior único.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+
+Pregunta: ¿Qué aportaron los Tratados de Ámsterdam (1997) y Niza (2001)?
+Respuesta Correcta: Ámsterdam ancló la UE en los principios democráticos y del Estado de Derecho, especialmente el respeto a los derechos humanos. Niza proclamó la Carta de los Derechos Fundamentales de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+
+Pregunta: ¿Qué aportó el Tratado de Lisboa de 2007?
+Respuesta Correcta: La UE sustituyó a la CE, transformó el Tratado de la CE en el TFUE, otorgó mayor relevancia al Parlamento Europeo, introdujo la Iniciativa Legislativa Ciudadana y confirió carácter jurídico vinculante a la Carta de los Derechos Fundamentales.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: El Proceso De Integración Y Ampliación De La UE
+Pregunta: ¿Cuáles son los dos tratados que conforman el derecho originario o constitutivo de la Unión Europea?
+Respuesta Correcta: El Tratado de la Unión Europea (TUE, asociado al Tratado de Maastricht) y el Tratado de Funcionamiento de la Unión Europea (TFUE, proveniente del Tratado de Lisboa). Actúan como el "marco constitucional" de la Unión según el TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+
+Pregunta: ¿Cuál es la diferenciación funcional entre el TUE y el TFUE?
+Respuesta Correcta: El TUE regula los principios, valores, objetivos generales y el marco de actuación global (incluyendo la PESC). El TFUE desarrolla pormenorizadamente las competencias, el funcionamiento específico de las instituciones y las políticas comunes.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+
+Pregunta: ¿Qué son las "cláusulas europeas" y cuál es su función?
+Respuesta Correcta: Son disposiciones constitucionales que autorizan a un Estado a ceder el ejercicio de competencias soberanas. En España, el artículo 93 de la Constitución es la cláusula europea que habilita la adhesión a los tratados de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+
+Pregunta: ¿Cómo se define técnicamente la Unión Europea?
+Respuesta Correcta: Una organización de carácter supranacional que posee personalidad jurídica internacional. Es una organización porque tiene instituciones permanentes, supranacional por la cesión de competencias soberanas, y con personalidad jurídica reconocida por los Tratados.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+
+Pregunta: ¿Cuáles son las tres características fundamentales que manifiestan la supranacionalidad de la UE?
+Respuesta Correcta: Un marco institucional único (sistema de instituciones propio), un proceso decisorio propio (mayoría cualificada en lugar de unanimidad), y un ordenamiento jurídico propio y autónomo (reglamentos, directivas, decisiones).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+
+Pregunta: ¿Por qué el proceso de ratificación de los tratados de la UE supuso una ruptura con la práctica tradicional del Derecho Internacional?
+Respuesta Correcta: Porque el TUE y las reformas posteriores fueron aprobados por mayoría, no por unanimidad como exige el Derecho Internacional tradicional, lo que significa que no todos los Estados prestaron su consentimiento inicial.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Tratados De La UE
+Pregunta: ¿Cuál es el fundamento normativo de la personalidad jurídica de la UE y cómo la adquirió?
+Respuesta Correcta: El artículo 47 del TUE consagra que "La Unión tiene personalidad jurídica". La UE la adquirió por sucesión de las Comunidades Europeas, asumiendo todos sus derechos, obligaciones y procedimientos en curso.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+
+Pregunta: ¿Es ilimitada la capacidad jurídica de la UE para obligarse?
+Respuesta Correcta: No. La personalidad jurídica de la UE se ejerce en función del principio de atribución de competencias: solo puede actuar y obligarse en aquellas materias en las que los Estados miembros le han cedido soberanía a través de los Tratados.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+
+Pregunta: ¿Cuáles son los tres límites materiales a la celebración de acuerdos internacionales por la UE?
+Respuesta Correcta: Límite institucional (no puede alterar la estructura de las instituciones), límite normativo (no puede modificar el sistema de fuentes del Derecho de la Unión), y límite jurisdiccional (no puede crear órganos que menoscaben el criterio del TJUE).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+
+Pregunta: ¿Qué ocurre cuando la UE celebra y ratifica un acuerdo internacional?
+Respuesta Correcta: El acuerdo pasa a formar parte integrante del ordenamiento jurídico de la Unión, vinculando a los 27 Estados miembros que quedan obligados a garantizar su cumplimiento.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+
+Pregunta: ¿Qué protege el límite institucional en los acuerdos internacionales de la UE?
+Respuesta Correcta: Preserva la autonomía institucional de la UE: el acuerdo no puede crear, suprimir ni alterar las competencias o composición de las instituciones de la Unión (Parlamento, Consejo, Comisión, etc.).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+
+Pregunta: ¿Qué salvaguarda el límite jurisdiccional en los acuerdos internacionales?
+Respuesta Correcta: El monopolio de interpretación del TJUE: los acuerdos no pueden establecer un tribunal u órgano ajeno al TJUE para interpretar el Derecho de la Unión, garantizando la coherencia del sistema jurisdiccional.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: La Personalidad Jurídica De La UE
+Pregunta: ¿Dónde se encuentran consagrados los objetivos de la UE y cuáles son los principales?
+Respuesta Correcta: En el artículo 3 del TUE. Incluyen: promover la paz y bienestar, ofrecer espacio de libertad/seguridad/justicia sin fronteras, establecer mercado interior con desarrollo sostenible, combatir exclusión social, fomentar justicia social, reforzar cohesión territorial, respetar diversidad cultural.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+
+Pregunta: ¿Cuáles son los valores de la UE según el artículo 2 del TUE?
+Respuesta Correcta: Respeto de la dignidad humana, libertad, democracia, Estado de Derecho, igualdad y respeto de los derechos humanos. Definen la identidad misma de la Unión como ordenamiento jurídico común.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+
+Pregunta: ¿Cuál es la diferencia entre valores y objetivos de la UE?
+Respuesta Correcta: Los valores poseen efectos jurídicos directos y vinculantes (definen la identidad de la UE), mientras que los objetivos tienen carácter teleológico y programático (orientan la acción de la UE sin efecto jurídico directo).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+
+Pregunta: ¿Qué establece el artículo 7 del TUE respecto a los valores de la Unión?
+Respuesta Correcta: Es el mecanismo que limita la capacidad de los Estados para incurrir en retrocesos que contravengan los valores fundacionales. Países como Hungría y Polonia tienen procedimientos abiertos por riesgo de violación grave de los valores de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+
+Pregunta: ¿Qué implica el principio de cooperación leal del artículo 4.3 TUE?
+Respuesta Correcta: Triple vertiente para los Estados: deber positivo de adoptar medidas para cumplir el Derecho de la UE, deber negativo de abstenerse de medidas que pongan en peligro los fines de los Tratados, y deber de facilitar a las instituciones el cumplimiento de sus misiones.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+
+Pregunta: ¿Qué establece el principio de respeto a la identidad nacional del artículo 4.2 TUE?
+Respuesta Correcta: La Unión respetará la igualdad de los Estados miembros ante los Tratados y su identidad nacional, inherente a sus estructuras fundamentales políticas y constitucionales. Consagra el derecho a la autoorganización de cada Estado.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Objetivos de la Unión Europea
+Pregunta: ¿Cuáles son las cuatro manifestaciones de la subjetividad jurídica internacional de la UE?
+Respuesta Correcta: Ius Tractandi (capacidad para celebrar acuerdos internacionales), Ius Legationis (derecho de legación activa y pasiva), Participación Internacional (en organizaciones internacionales), y Potestad Sancionadora (imponer sanciones internacionales).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+
+Pregunta: ¿Qué es el Ius Tractandi y cómo funciona respecto a las competencias internas de la UE?
+Respuesta Correcta: Es la capacidad para celebrar acuerdos internacionales. Aunque una competencia sea compartida a nivel interno, una vez que la UE decide actuar en la esfera internacional, su competencia para negociar y concluir el tratado se ejerce de forma exclusiva frente al exterior.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+
+Pregunta: ¿Qué es el Ius Legationis de la UE?
+Respuesta Correcta: El derecho de legación activa (enviar representantes diplomáticos) y pasiva (recibir los de terceros). La UE tiene más de 130 delegaciones en terceros países y organizaciones internacionales, con régimen de inmunidades similar al de representantes estatales.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+
+Pregunta: ¿En qué organizaciones internacionales participa la UE y con qué estatus?
+Respuesta Correcta: Ostenta estatus de observador en foros como el sistema de las Naciones Unidas (ONU) y la OTAN. Su capacidad de adhesión como miembro pleno depende de su Ius Tractandi (competencia para celebrar el acuerdo de adhesión).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+
+Pregunta: ¿Qué es la capacidad sancionadora de la UE y cuál es un ejemplo contemporáneo?
+Respuesta Correcta: Es la potestad de imponer sanciones internacionales a terceros Estados, entidades o individuos en el marco de la PESC. Ejemplo: los sucesivos paquetes de sanciones contra la Federación Rusa a raíz de la invasión de Ucrania.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+
+Pregunta: ¿Dónde se consagra formalmente la personalidad jurídica de la UE?
+Respuesta Correcta: En el artículo 47 del Tratado de la Unión Europea (TUE), que establece expresamente que "La Unión tiene personalidad jurídica", siendo la base de su subjetividad jurídica internacional.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Subjetividad Jurídica de la UE
+Pregunta: ¿Qué es la cooperación reforzada y cuál es su fundamento jurídico?
+Respuesta Correcta: Es un mecanismo de integración diferenciada del artículo 20 TUE que autoriza a un grupo de Estados miembros a establecer entre sí una integración más avanzada en un ámbito concreto, utilizando el marco institucional de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+
+Pregunta: ¿Cuáles son los dos requisitos fundamentales para iniciar una cooperación reforzada?
+Respuesta Correcta: Requisito de participación mínima (mínimo 9 Estados miembros) y requisito de subsidiariedad o "último recurso" (solo cuando los objetivos no pueden alcanzarse por la Unión en su conjunto en un plazo razonable).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+
+Pregunta: ¿Cuál es el procedimiento de autorización de la cooperación reforzada?
+Respuesta Correcta: 1) Bloqueo en negociaciones, 2) Solicitud de mínimo 9 Estados, 3) Propuesta de la Comisión Europea, 4) Aprobación del Parlamento Europeo, 5) Autorización del Consejo.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+
+Pregunta: ¿Cuál es el límite material más importante de la cooperación reforzada?
+Respuesta Correcta: No puede aumentar las competencias de la Unión más allá de las recogidas en los Tratados. En ningún caso puede utilizarse para invadir competencias exclusivas de los Estados miembros.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+
+Pregunta: ¿Qué efecto jurídico tienen los actos adoptados en el marco de una cooperación reforzada?
+Respuesta Correcta: Solo son vinculantes y exigibles para los Estados miembros que participan en ella (efecto inter partes). Los Estados no adheridos no quedan obligados por los acuerdos alcanzados.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+
+Pregunta: ¿Cuáles son algunas aplicaciones prácticas de la cooperación reforzada desde 2013?
+Respuesta Correcta: Regulación del divorcio y separación judicial de parejas, creación de la patente unitaria europea, establecimiento de impuesto sobre transacciones financieras, y creación de la Fiscalía Europea.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Cooperación Reforzada
+Pregunta: ¿Cuáles son los tres requisitos de admisibilidad para la adhesión a la UE según el artículo 49 TUE?
+Respuesta Correcta: Ser "Estado europeo" (concepto no solo geográfico sino histórico-cultural), respetar los valores del artículo 2 TUE (democracia, libertad, Estado de Derecho, derechos humanos), y cumplir los criterios de Copenhague.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+
+Pregunta: ¿Cuáles son los tres criterios de Copenhague para la adhesión?
+Respuesta Correcta: Requisito político (instituciones estables que garanticen democracia, Estado de Derecho, derechos humanos y protección de minorías), requisito económico (economía de mercado viable), y capacidad para asumir el acervo comunitario y objetivos de la unión política, económica y monetaria.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+
+Pregunta: ¿Cuál es la decisión final requerida para otorgar el estatus de candidato a un Estado?
+Respuesta Correcta: El Consejo debe conceder el estatus de candidato por unanimidad, tras verificar el cumplimiento de los criterios de Copenhague, y posteriormente se negocia y ratifica un Tratado de Adhesión entre todos los Estados miembros y el candidato.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+
+Pregunta: ¿Cuál es el fundamento jurídico del procedimiento de retirada y cuáles son sus cuatro fases?
+Respuesta Correcta: Artículo 50 TUE. Fases: 1) Notificación al Consejo Europeo, 2) Negociación del acuerdo de retirada, 3) Celebración del acuerdo (mayoría cualificada del Consejo + aprobación del Parlamento), 4) Cese de aplicación de los Tratados.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+
+Pregunta: ¿Cuáles son las dos diferencias fundamentales entre el procedimiento de adhesión y el de retirada?
+Respuesta Correcta: En retirada no se requiere unanimidad del Consejo (basta mayoría cualificada), y las partes del tratado son la UE y el Estado saliente (no cada Estado miembro individualmente), porque la retirada no necesita modificar los tratados constitutivos.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+
+Pregunta: ¿Cuándo se hace efectiva la retirada según el artículo 50 TUE?
+Respuesta Correcta: En la fecha de entrada en vigor del acuerdo de retirada. En su defecto, si no hay acuerdo, a los dos años de la notificación, salvo que el Consejo Europeo (por unanimidad y con acuerdo del Estado) decida prorrogar dicho plazo.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Adhesión Y Retirada A La UE
+Pregunta: ¿Qué es el principio de atribución y por qué rige las competencias de la UE?
+Respuesta Correcta: Significa que los Estados miembros, voluntariamente y a través de los Tratados, atribuyen a la Unión el ejercicio de competencias sobre determinadas materias. Se aplica porque la UE carece de soberanía propia (reside en los Estados), por lo que sus competencias son derivadas, no originarias.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+
+Pregunta: ¿Cuáles son las cinco características de las competencias atribuidas a la UE?
+Respuesta Correcta: Derecho y obligación de actuar, expresas y limitadas (actos ultra vires son nulos), específicas (para fines concretos), funcionales (necesarias para objetivos determinados), e irreversibles (los Estados no pueden recuperarlas unilateralmente).
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+
+Pregunta: ¿Qué establece la cláusula residual general de los artículos 4.1 y 5.2 TUE?
+Respuesta Correcta: Toda competencia que no haya sido atribuida a la Unión en los Tratados permanecerá en la esfera de soberanía de los Estados miembros. La UE solo actúa en lo que los Tratados consienten; los Estados actúan en todo lo que no les prohíben.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+
+Pregunta: ¿Qué son las competencias exclusivas de la UE y cuáles son las principales?
+Respuesta Correcta: Ámbitos donde solo la UE puede legislar y adoptar actos vinculantes. Incluyen: unión aduanera, normas de competencia del mercado interior, política monetaria del euro, conservación de recursos biológicos marinos, política comercial común, y celebración de ciertos acuerdos internacionales.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+
+Pregunta: ¿Qué son las competencias compartidas y qué principio las rige?
+Respuesta Correcta: Materias donde tanto UE como Estados pueden legislar, regidas por el principio de preeminencia (pre-emption): los Estados solo ejercen su competencia si la UE no ha ejercido la suya. Si la UE legisla, su Derecho prevalece. Incluyen mercado interior, transporte, medio ambiente, energía, etc.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+
+Pregunta: ¿Qué son las competencias de apoyo, coordinación y complemento?
+Respuesta Correcta: Ámbitos donde la UE no puede legislar de forma armonizadora (no puede sustituir legislaciones nacionales), solo fomenta cooperación y realiza acciones de apoyo. Materias: industria, cultura, turismo, educación, formación profesional, juventud y deporte.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE I
+Pregunta: ¿Qué es el principio de subsidiariedad y cuál es su fundamento jurídico?
+Respuesta Correcta: Norma del artículo 5 TUE que ordena el ejercicio de las competencias compartidas, determinando cuándo es legítima la intervención de la UE. Establece que la UE debe actuar como último recurso, cuando los Estados no pueden resolver eficazmente la cuestión.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+
+Pregunta: ¿Cuáles son los tres criterios del "test de subsidiariedad" para la intervención de la UE?
+Respuesta Correcta: 1) Dimensión común del problema (transnacional, afecta a varios Estados), 2) Necesidad de actuar (urgencia manifiesta), 3) Mayor eficacia de la respuesta (acción de la UE más eficaz que acciones nacionales aisladas). Deben cumplirse acumulativamente.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+
+Pregunta: ¿Qué mecanismos de control del principio de subsidiariedad tienen los Parlamentos nacionales?
+Respuesta Correcta: Control preventivo (ex ante): analizar proyectos legislativos y emitir dictámenes motivados ("tarjeta amarilla/naranja" si hay suficientes). Control a posteriori (ex post): instar a sus gobiernos a interponer recurso de anulación ante el TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+
+Pregunta: ¿Qué es el principio de proporcionalidad y a qué competencias se aplica?
+Respuesta Correcta: Principio del artículo 5 TUE que establece que la acción de la UE no excederá de lo necesario para alcanzar los objetivos. Se aplica a TODAS las competencias (exclusivas, compartidas y de apoyo). Las instituciones deben optar por medidas menos onerosas.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+
+Pregunta: ¿Qué establece el principio de suficiencia de medios del artículo 3.6 TUE?
+Respuesta Correcta: Que la Unión dispondrá de los medios necesarios para alcanzar sus objetivos y llevar a cabo sus políticas. Es un mandato para dotarse de recursos apropiados y un límite (los medios deben ser los "necesarios"). Se aplica a todas las competencias.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el principio de subsidiariedad y el de proporcionalidad?
+Respuesta Correcta: La subsidiariedad determina SI la UE debe actuar (solo competencias compartidas), mientras que la proporcionalidad regula la INTENSIDAD de la acción (todas las competencias). La subsidiariedad es un filtro previo; la proporcionalidad modula la medida adoptada.
+Manual: Derecho de la Unión Europea
+Bloque: 1
+Tema: Competencias de la UE II
+Pregunta: ¿Cuáles son las siete instituciones principales de la Unión Europea?
+Respuesta Correcta: Parlamento Europeo, Consejo, Comisión Europea, Consejo Europeo, Tribunal de Justicia de la UE (TJUE), Tribunal de Cuentas y Banco Central Europeo (BCE).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+
+Pregunta: ¿Cuál es la diferencia entre el Consejo de Europa, el Consejo Europeo y el Consejo?
+Respuesta Correcta: El Consejo de Europa es una organización internacional distinta de la UE (46 Estados, derechos humanos). El Consejo Europeo es la institución de la UE con los Jefes de Estado/Gobierno. El Consejo es la institución con los Ministros de los gobiernos (colegislador).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+
+Pregunta: ¿Cuáles son las dos funciones primordiales del Parlamento Europeo?
+Respuesta Correcta: Aprobar el presupuesto anual de la Unión y ejercer la función legislativa como colegislador junto con el Consejo.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+
+Pregunta: ¿Cuáles son las dos funciones principales de la Comisión Europea?
+Respuesta Correcta: Monopolio de la iniciativa legislativa (proponer nueva legislación al Parlamento y Consejo) y ser Guardiana de los Tratados (vigilar el cumplimiento del Derecho de la UE y poder iniciar procedimientos de infracción).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+
+Pregunta: ¿Cuál es la función principal del Consejo Europeo?
+Respuesta Correcta: Definir los objetivos estratégicos, las prioridades y la orientación política general de la Unión. No tiene función legislativa; el resto de instituciones desarrollan políticas para alcanzar las metas que establece.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+
+Pregunta: ¿Qué distingue al Tribunal de Cuentas del TJUE?
+Respuesta Correcta: El Tribunal de Cuentas no es una institución judicial, no puede enjuiciar ni sancionar. Su función es fiscalizadora: controlar las cuentas de la UE verificando que los fondos se perciban y utilicen correctamente. El TJUE es el poder judicial que garantiza la interpretación y aplicación uniforme del Derecho.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Introducción A Las Instituciones De La UE
+Pregunta: ¿Cuál es la composición del Consejo Europeo?
+Respuesta Correcta: Los Jefes de Estado o de Gobierno de los 27 Estados miembros (con derecho a voto), el Presidente del Consejo Europeo (sin voto), el Presidente de la Comisión Europea (sin voto), y participa el Alto Representante de la Unión (sin voto).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+
+Pregunta: ¿Cuáles son las principales funciones del Consejo Europeo?
+Respuesta Correcta: Definir la orientación política general y prioridades de la UE, adoptar decisiones en PESC y PCSD, y funciones institucionales como determinar la rotación de presidencias del Consejo y proponer al candidato a Presidente de la Comisión.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+
+Pregunta: ¿Cuál es el mandato del Presidente del Consejo Europeo y qué incompatibilidad tiene?
+Respuesta Correcta: Mandato de dos años y medio, renovable una sola vez. Es incompatible con cualquier cargo político a nivel nacional. Tras cada reunión debe presentar informe ante el Parlamento Europeo.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+
+Pregunta: ¿Cuáles son las tres modalidades de votación del Consejo Europeo?
+Respuesta Correcta: Unanimidad (revisión de Tratados, cuestiones de política exterior), Mayoría Cualificada (elección de su Presidente, propuesta del candidato a Presidente de la Comisión), y Mayoría Simple (cuestiones de procedimiento como el reglamento interno).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+
+Pregunta: ¿Quién nombra al Alto Representante de la Unión para Asuntos Exteriores?
+Respuesta Correcta: El Consejo Europeo, por mayoría cualificada y con la aprobación del Presidente de la Comisión, para un mandato de cinco años.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+
+Pregunta: ¿Por qué los Estados suelen estar representados en el Consejo Europeo por sus Jefes de Gobierno y no por sus Jefes de Estado?
+Respuesta Correcta: Especialmente en sistemas de monarquía parlamentaria o repúblicas parlamentarias, porque es el Jefe de Gobierno quien ostenta el poder ejecutivo. Por ejemplo, España está representada por el Presidente del Gobierno, no por el Rey.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Consejo Europeo
+Pregunta: ¿Qué es el Consejo (Consejo de Ministros) y cuál es su composición?
+Respuesta Correcta: Es la institución que representa a los gobiernos de los Estados miembros. Tiene estructura de geometría variable: se reúnen los ministros competentes según la materia (ej: ministros de pesca para normativa pesquera, ministros de medio ambiente para temas ambientales).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+
+Pregunta: ¿Cuáles son las funciones principales del Consejo?
+Respuesta Correcta: Función legislativa y presupuestaria compartidas con el Parlamento Europeo (colegisladores), y competencias en relaciones exteriores: autoriza negociación de tratados internacionales y celebra acuerdos de retirada.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+
+Pregunta: ¿Qué son el CAG y el CAE?
+Respuesta Correcta: CAG (Consejo de Asuntos Generales): asegura coherencia de los trabajos y prepara reuniones del Consejo Europeo. CAE (Consejo de Asuntos Exteriores): elabora la acción exterior de la UE, presidido permanentemente por el Alto Representante.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+
+Pregunta: ¿Qué es el COREPER y cuál es su función?
+Respuesta Correcta: Comité de Representantes Permanentes, formado por embajadores y altos funcionarios de los Estados ante la UE. Prepara el trabajo del Consejo: los "Puntos A" (acordados en COREPER, aprobados sin debate) y "Puntos B" (sin consenso, se elevan a ministros).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+
+Pregunta: ¿Qué requisitos exige la mayoría cualificada en el Consejo?
+Respuesta Correcta: Doble mayoría: voto favorable de mínimo 55% de Estados miembros (mínimo 15 de 27) que representen al menos 65% de la población de la UE. La minoría de bloqueo requiere mínimo 4 Estados.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+
+Pregunta: ¿Cómo funciona la Presidencia del Consejo?
+Respuesta Correcta: Es rotatoria, organizada en sistema de tríos: grupos de 3 Estados colaboran durante 18 meses, cada uno preside 6 meses. Preside todas las formaciones excepto el CAE (presidido por el Alto Representante).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Consejo
+Pregunta: ¿Cuál es la composición y mandato de la Comisión Europea?
+Respuesta Correcta: 27 comisarios (uno por Estado miembro), con mandato de 5 años renovable, coincidente con la legislatura del Parlamento Europeo. La actual presidenta es Ursula von der Leyen.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+
+Pregunta: ¿Cuál es el procedimiento de nombramiento de la Comisión?
+Respuesta Correcta: 1) Consejo Europeo propone candidato a Presidente (mayoría cualificada), 2) Parlamento elige al candidato, 3) Presidente electo y Consejo elaboran lista de comisarios, 4) Parlamento da voto de aprobación al Colegio, 5) Consejo Europeo nombra formalmente.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+
+Pregunta: ¿Qué significa que los comisarios deben actuar con independencia?
+Respuesta Correcta: Aunque provienen de un país, no representan intereses de sus Estados sino el interés general de la UE. Sería contrario a sus obligaciones intentar beneficiar a su país de origen en decisiones colegiadas. Tienen lealtad exclusiva a la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+
+Pregunta: ¿Cómo se estructura administrativamente la Comisión?
+Respuesta Correcta: Vertiente política (27 comisarios y sus gabinetes) y vertiente administrativa (Direcciones Generales por temas y Servicios con funciones transversales, como Eurostat o la OLAF para lucha contra el fraude).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+
+Pregunta: ¿En qué consiste la función de Guardiana de los Tratados de la Comisión?
+Respuesta Correcta: Investigar y sancionar incumplimientos del Derecho de la UE. Tiene poder casi absoluto para recabar información; Estados y particulares deben colaborar. Puede iniciar procedimientos de infracción ante el TJUE y sancionar directamente a empresas (ej: competencia).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+
+Pregunta: ¿Qué es el mecanismo de "tarjeta amarilla" y "tarjeta naranja"?
+Respuesta Correcta: Control de Parlamentos nacionales sobre la iniciativa legislativa. Tarjeta amarilla: si 1/3 de votos de Parlamentos consideran que vulnera subsidiariedad, la Comisión debe reexaminar. Tarjeta naranja: si mayoría simple de votos en procedimiento ordinario, debe reexaminar y justificar si mantiene la propuesta.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: La Comisión
+Pregunta: ¿Cuál es la composición del Parlamento Europeo y cómo se distribuyen los escaños?
+Respuesta Correcta: 705 eurodiputados que representan a los ciudadanos de la UE. Los escaños se distribuyen por proporcionalidad decreciente según población (países más poblados tienen más escaños, pero los menos poblados tienen mayor representación por habitante).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+
+Pregunta: ¿Cómo se organizan los eurodiputados en el Parlamento Europeo?
+Respuesta Correcta: No se agrupan por nacionalidades sino por afinidades ideológicas en grupos políticos transnacionales (ej: Partido Popular Europeo, Socialistas y Demócratas, Verdes/ALE). Abarca todo el espectro político.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+
+Pregunta: ¿Cuáles son los tres principales órganos de gobierno interno del Parlamento Europeo?
+Respuesta Correcta: La Presidencia (mandato 2,5 años, dirige debates), la Mesa (Presidente + 14 Vicepresidentes + 5 Cuestores, órgano administrativo), y la Conferencia de Presidentes (Presidente + presidentes de grupos políticos, dirección política).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+
+Pregunta: ¿Cuáles son los tres tipos de comisiones parlamentarias en el Parlamento Europeo?
+Respuesta Correcta: Permanentes (ámbitos recurrentes, duración indefinida), Temporales (asunto específico, duración determinada), y de Investigación (examinar infracciones o mala administración, solo si no hay procedimiento judicial abierto).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+
+Pregunta: ¿Qué prerrogativas tienen los eurodiputados?
+Respuesta Correcta: Inmunidad parlamentaria (protección durante el mandato), libertad de movimiento y facilidades aduaneras. Están sujetos a régimen de incompatibilidades (no pueden ejercer cargos políticos nacionales ni ser funcionarios de la UE).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+
+Pregunta: ¿Cuál es la regla general de votación y quórum en el Parlamento Europeo?
+Respuesta Correcta: Mayoría absoluta de votos emitidos, habitualmente a mano alzada. El quórum se alcanza con 1/3 de los miembros presentes. Las votaciones son válidas con independencia del número de votantes, pero 40 diputados pueden solicitar verificación del quórum.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Parlamento Europeo
+Pregunta: ¿Qué es el TJUE y cuáles son sus dos funciones esenciales?
+Respuesta Correcta: El órgano jurisdiccional de la UE (sede en Luxemburgo). Funciones: enjuiciar violaciones del Derecho de la UE por Estados miembros, y resolver cuestiones prejudiciales formuladas por tribunales nacionales sobre interpretación o validez del Derecho de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+
+Pregunta: ¿Cuáles son los dos órganos que componen el TJUE?
+Respuesta Correcta: El Tribunal de Justicia (órgano de casación, cuestiones prejudiciales, recursos por incumplimiento) y el Tribunal General (primera instancia en recursos directos de particulares, anulación, responsabilidad extracontractual).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+
+Pregunta: ¿Cuál es la composición del Tribunal de Justicia?
+Respuesta Correcta: Jueces (uno por Estado miembro, 27 total, deciden por mayoría sin votos particulares), Abogados Generales (emiten opinión jurídica independiente e imparcial, no obligatoria para el juez), y Secretario Judicial (funciones administrativas y notificaciones).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+
+Pregunta: ¿Qué es una cuestión prejudicial según el artículo 267 TFUE?
+Respuesta Correcta: Mecanismo por el cual un juez nacional que conoce de un litigio remite al Tribunal de Justicia una pregunta sobre interpretación o validez del Derecho de la UE para poder resolver el asunto. El juez nacional está obligado a plantearla si tiene dudas.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+
+Pregunta: ¿Qué competencias tiene el Tribunal General?
+Respuesta Correcta: Recursos de particulares contra actos de instituciones de la UE, recursos de anulación de Estados miembros contra la Comisión, y recursos de responsabilidad extracontractual contra la UE. Sus sentencias pueden recurrirse en casación ante el Tribunal de Justicia.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+
+Pregunta: ¿Cuáles son las características del procedimiento ante el Tribunal de Justicia?
+Respuesta Correcta: Gratuito (aunque cabe condena en costas), generalmente público (salvo causa justificada), con fase escrita y oral. Las decisiones se adoptan por mayoría y NO existen votos particulares (a diferencia del Derecho español).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Justicia De La UE
+Pregunta: ¿Cuál es la función del Tribunal de Cuentas de la UE?
+Respuesta Correcta: Controlar las cuentas de la Unión Europea, fiscalizando sus ingresos y gastos. A pesar de su denominación, carece de cualquier función jurisdiccional (no puede enjuiciar ni sancionar).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+
+Pregunta: ¿Cuál es la composición y nombramiento del Tribunal de Cuentas?
+Respuesta Correcta: Un miembro por Estado miembro (no son jueces, sino expertos en control financiero). Nombrados por el Consejo entre personas de reconocido prestigio, por mandato de 6 años.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+
+Pregunta: ¿Cuál es el mandato del Presidente del Tribunal de Cuentas y cómo se elige?
+Respuesta Correcta: Mandato de 3 años renovable. Es elegido por los propios miembros del Tribunal de Cuentas.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+
+Pregunta: ¿Cómo ejecuta su trabajo el Tribunal de Cuentas?
+Respuesta Correcta: Sus funcionarios visitan in situ obras o proyectos financiados con dinero de la UE para verificar la inversión. El resultado se plasma en un informe anual con observaciones sobre cuentas y gastos.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+
+Pregunta: ¿Qué ocurre con el informe anual del Tribunal de Cuentas?
+Respuesta Correcta: Se remite a las instituciones, que deben responder a los comentarios vertidos. El informe junto con las respuestas de las instituciones se publica en el Diario Oficial de la Unión Europea.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+
+Pregunta: ¿Qué principio de actuación rige a los miembros del Tribunal de Cuentas?
+Respuesta Correcta: Aunque pertenecen a países miembros de la UE, tienen el deber de actuar con total imparcialidad y siempre en favor de los intereses de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Tribunal De Cuentas
+Pregunta: ¿Cuáles son las dos funciones principales del Banco Central Europeo?
+Respuesta Correcta: Mantener la estabilidad de precios (controlar la inflación) y autorizar la emisión de moneda (poner dinero en circulación). Además, apoya las políticas económicas generales de las instituciones de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+
+Pregunta: ¿Qué es el Sistema Europeo de Bancos Centrales (SEBC)?
+Respuesta Correcta: Está formado por los bancos centrales de todos los 27 países miembros de la UE, independientemente de la moneda que utilicen. Incluye países que no usan el euro como Dinamarca, Hungría o Polonia.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+
+Pregunta: ¿Qué es el Eurosistema y en qué se diferencia del SEBC?
+Respuesta Correcta: El Eurosistema está formado solo por los bancos centrales de los Estados miembros que usan el euro. El SEBC incluye a todos los 27 bancos centrales nacionales, usen o no el euro.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+
+Pregunta: ¿Cuál es la relación jerárquica del BCE con los bancos centrales nacionales?
+Respuesta Correcta: El BCE es jerárquicamente superior a los bancos centrales nacionales (BCN), tanto si usan el euro como si no. Los BCN tienen que obedecer sus indicaciones.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+
+Pregunta: ¿Qué puede hacer el BCE si un banco central nacional incumple una obligación?
+Respuesta Correcta: El BCE puede llevar al banco central nacional ante el Tribunal de Justicia de la UE por incumplimiento del Derecho de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+
+Pregunta: ¿Está sujeto el BCE a control jurisdiccional?
+Respuesta Correcta: Sí, el BCE no es intocable. Es posible presentar recurso contra sus actos ante el Tribunal de Justicia de la Unión Europea. El BCE responde legalmente de su actividad ante el TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: El Banco Central Europeo
+Pregunta: ¿Cuáles son los dos órganos consultivos de la UE y cuál es su función?
+Respuesta Correcta: El Comité de las Regiones (CdR) y el Comité Económico y Social (CES). Su función es ser consultados por las instituciones (Parlamento, Consejo, Comisión) sobre materias específicas, emitiendo dictámenes.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+
+Pregunta: ¿Qué singularidad tiene el Comité de las Regiones en la estructura de la UE?
+Respuesta Correcta: Es el único órgano en el que las entidades subestatales (comunidades autónomas, municipios, Länder) pueden participar directamente en la UE. Constituye una excepción a la regla de que solo participan Estados miembros.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+
+Pregunta: ¿Cuál es la composición del Comité de las Regiones?
+Respuesta Correcta: 350 miembros, representantes políticos de entes subestatales o personas que responden ante una asamblea regional. El número por país se calcula según población (España: 21, Malta: 5). España: 17 representan comunidades autónomas y 4 municipios.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+
+Pregunta: ¿Qué diferencia hay entre dictamen preceptivo y facultativo del CdR?
+Respuesta Correcta: Preceptivo: se emite cuando lo pide el Parlamento, Consejo o Comisión. Facultativo: se emite voluntariamente sin solicitud previa. IMPORTANTE: las instituciones solo están obligadas a pedir el dictamen, NO a seguirlo.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+
+Pregunta: ¿Cuál es la composición del Comité Económico y Social?
+Respuesta Correcta: 350 miembros representando: organizaciones de empresarios, organizaciones de trabajadores, y otros sectores de la sociedad civil (ámbito profesional, socioeconómico, cultural). Representación nacional según población (España: 21, Luxemburgo: 5).
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+
+Pregunta: ¿En qué se diferencia la organización del CES respecto al CdR?
+Respuesta Correcta: El CdR se organiza en delegaciones nacionales y grupos políticos. El CES NO se organiza en grupos nacionales sino en grupos de interés según procedencia profesional/social: grupo de empresarios, grupo de trabajadores, y sociedad civil organizada.
+Manual: Derecho de la Unión Europea
+Bloque: 2
+Tema: Otros Órganos De La UE
+Pregunta: ¿Qué artículo de la Constitución Española habilita la integración de España en la UE?
+Respuesta Correcta: El artículo 93 CE, que permite mediante ley orgánica autorizar la celebración de tratados por los que se atribuya a una organización internacional el ejercicio de competencias derivadas de la Constitución.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+
+Pregunta: ¿Qué naturaleza tiene la cesión de competencias a la UE según el art. 93 CE?
+Respuesta Correcta: No es renuncia a la soberanía, sino cesión de su ejercicio. El pueblo español conserva la titularidad íntegra de su soberanía; las competencias se ejercen a título de cesión. La titularidad es irrenunciable y permanece en el Estado.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+
+Pregunta: ¿Cuál es el único mecanismo para recuperar las competencias cedidas a la UE?
+Respuesta Correcta: El procedimiento de retirada voluntaria regulado en el artículo 50 TFUE. No es posible una recuperación selectiva de competencias; la salida de la UE es la única vía para recuperar el ejercicio pleno de todas las competencias.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+
+Pregunta: ¿Cuáles son los límites implícitos a la cesión de competencias?
+Respuesta Correcta: La soberanía del Estado en sí misma, las estructuras constitucionales básicas (forma de gobierno, estructura territorial, Estado de Derecho), el sistema de valores y principios fundamentales (derechos fundamentales, libertad, justicia, igualdad), y la potestad de reformar la Constitución.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+
+Pregunta: ¿Qué papel tiene el Tribunal Constitucional como salvaguarda de los límites a la cesión?
+Respuesta Correcta: Se ha reservado una potestad de intervención de emergencia: ante una evolución del Derecho de la UE frontalmente contraria a los principios esenciales de la CE, podría declarar la inaplicabilidad de dicha norma europea en territorio nacional. Es una cláusula excepcional para conflictos constitucionales extremos.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+
+Pregunta: ¿Por qué se requiere ley orgánica para autorizar la cesión de competencias?
+Respuesta Correcta: Porque su aprobación requiere mayoría cualificada (mayoría absoluta del Congreso), reflejando así la trascendencia de la decisión de ceder el ejercicio de parcelas de soberanía.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Bases Constitucionales de la Pertenencia a la UE
+Pregunta: ¿Qué rango tiene el Derecho de la Unión en el ordenamiento español?
+Respuesta Correcta: Forma parte integrante del ordenamiento jurídico español pero NO tiene rango constitucional. Una infracción del Derecho europeo no constituye vulneración del art. 93 CE; es cuestión de aplicabilidad normativa, no de constitucionalidad.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+
+Pregunta: ¿Qué es el principio de primacía del Derecho de la UE?
+Respuesta Correcta: Principio jurisprudencial (sentencia Costa c. ENEL, 1964) que establece que el Derecho de la UE prevalece sobre el Derecho de los Estados miembros en caso de conflicto. La normativa europea se aplica preferentemente sobre cualquier norma nacional contradictoria.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+
+Pregunta: ¿Cuál es la diferencia entre primacía y supremacía?
+Respuesta Correcta: Supremacía: principio de validez basado en jerarquía (norma contraria a la Constitución es nula y se expulsa). Primacía: principio de aplicabilidad basado en distribución de competencias (norma nacional contradictoria se inaplica pero sigue válida en el ordenamiento).
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+
+Pregunta: ¿Cómo puede la incorrecta aplicación del principio de primacía tener relevancia constitucional?
+Respuesta Correcta: Si un juez español inaplica indebidamente el Derecho de la UE, podría infringir el derecho a la tutela judicial efectiva (art. 24 CE). El derecho a resolución fundada en Derecho implica correcta aplicación del ordenamiento vigente, del que forma parte el Derecho de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+
+Pregunta: ¿Qué son los Fondos FEDER y cuál es su base jurídica?
+Respuesta Correcta: Fondo Europeo de Desarrollo Regional, regulado en arts. 174-178 TFUE. Objetivo: corregir desequilibrios regionales y apoyar el desarrollo de regiones menos favorecidas. Financia infraestructuras, innovación, transición digital, pymes y medio ambiente.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+
+Pregunta: ¿Cómo participan las Comunidades Autónomas en las instituciones europeas?
+Respuesta Correcta: Principalmente a través del Comité de las Regiones, órgano consultivo que canaliza la voz de los entes regionales y locales. Además, España ha sido receptora principal de Fondos Estructurales (FEDER) que financian proyectos en todo el territorio.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Pertenencia A La UE Y Sus Consecuencias Sobre Las Fuentes Del Derecho
+Pregunta: ¿Qué tratado introdujo la ciudadanía de la Unión y cuáles son sus características esenciales?
+Respuesta Correcta: El Tratado de Maastricht (1992), a instancias de propuesta española. Características: es accesoria y derivada (ligada a la nacionalidad de un Estado miembro, sin acceso directo) y se añade sin sustituir a la nacionalidad estatal.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+
+Pregunta: ¿Cuáles son los principales derechos derivados de la ciudadanía europea?
+Respuesta Correcta: Libre circulación y residencia (art. 21.1 TFUE), no discriminación por nacionalidad, participación política (sufragio municipal y europeo en Estado de residencia), iniciativa legislativa ciudadana, petición al Parlamento, reclamación al Defensor del Pueblo, buena administración y acceso a documentos.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+
+Pregunta: ¿Qué limitaciones tiene el derecho de libre circulación y residencia?
+Respuesta Correcta: Los Estados pueden imponer limitaciones fundadas exclusivamente en razones de orden público, seguridad pública o salud pública.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+
+Pregunta: ¿Qué excepciones tiene el principio de no discriminación por nacionalidad?
+Respuesta Correcta: El acceso a la función pública ligada a ámbitos de soberanía. Los Estados pueden reservar para sus nacionales puestos que impliquen ejercicio del poder público y salvaguarda de intereses generales del Estado (altos cargos ejecutivos, judicatura, fuerzas armadas).
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+
+Pregunta: ¿Qué es la Iniciativa Legislativa Ciudadana (ILC)?
+Respuesta Correcta: Derecho por el cual un mínimo de un millón de ciudadanos, de un número significativo de Estados miembros, puede invitar a la Comisión a presentar una propuesta legislativa sobre materia de competencia de la UE. Fomenta la participación directa en la agenda política europea.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+
+Pregunta: ¿Qué establecen los casos Rottmann y Ruiz Zambrano sobre la pérdida de ciudadanía?
+Respuesta Correcta: Rottmann: un Estado puede retirar nacionalidad adquirida mediante fraude aunque cause apatridia y pérdida de ciudadanía UE, respetando proporcionalidad. Ruiz Zambrano: no se puede expulsar a progenitor de ciudadanos UE si obliga a los hijos a abandonar el territorio de la Unión, privándoles del disfrute efectivo de sus derechos.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Ciudadanía Europea
+Pregunta: ¿Cuál es el valor jurídico de la Carta de los Derechos Fundamentales de la UE?
+Respuesta Correcta: Según el artículo 6.1 TUE, tiene el mismo valor jurídico que los Tratados. Esto la eleva al máximo rango normativo, integrándola en el Derecho originario de la UE. Entró en vigor el 1 de diciembre de 2009 junto con el Tratado de Lisboa.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+
+Pregunta: ¿Cuáles son los siete títulos de la Carta y qué agrupa cada uno?
+Respuesta Correcta: I-Dignidad (derecho a la vida, prohibición tortura), II-Libertades (expresión, pensamiento, reunión, vida privada), III-Igualdad (no discriminación), IV-Solidaridad (derechos socioeconómicos, trabajadores), V-Ciudadanía (derechos políticos), VI-Justicia (tutela judicial, legalidad), VII-Disposiciones Generales (interpretación y aplicación).
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+
+Pregunta: ¿Cuál es la diferencia entre "derechos" y "principios" en la Carta según el art. 51.2 CDFUE?
+Respuesta Correcta: Los derechos serán "respetados" (tienen eficacia directa, pueden invocarse ante tribunales). Los principios serán "observados" (función interpretativa como criterio hermenéutico y parámetro de validez para controlar legalidad de actos de la UE, similar a principios rectores de política social de la CE).
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+
+Pregunta: ¿Quiénes son los titulares de los derechos de la Carta?
+Respuesta Correcta: Toda persona física (derechos universales), ciudadanos de la UE (derechos del Título V), colectivos específicos (mayores, discapacitados, niños, trabajadores), personas jurídicas (reconocimiento jurisprudencial: libertad de empresa, propiedad, tutela judicial), y Estados miembros en ciertos contextos procesales.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+
+Pregunta: ¿Quiénes son los destinatarios obligados por la Carta según el art. 51.1 CDFUE?
+Respuesta Correcta: Las instituciones, órganos y organismos de la UE (en toda su actuación) y los Estados miembros (únicamente cuando apliquen Derecho de la UE). La Carta no se aplica a todas las actuaciones de los Estados, solo a las del marco competencial de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+
+Pregunta: ¿Tiene la Carta efecto horizontal (aplicación entre particulares)?
+Respuesta Correcta: Sí, aunque no lo prevé expresamente, el TJUE lo ha admitido. Ciertos derechos (especialmente socioeconómicos) son invocables frente a particulares con posición de poder análoga a autoridad pública (ej: empleadores). El art. 21 (no discriminación) es directamente aplicable en relaciones contractuales privadas.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE I
+Pregunta: ¿Cuántos sistemas de protección de derechos fundamentales coexisten en el espacio europeo?
+Respuesta Correcta: 29 sistemas: los 27 sistemas constitucionales de los Estados miembros, el Convenio Europeo de Derechos Humanos (CEDH), y la Carta de los Derechos Fundamentales de la UE (CDFUE). Cuando hay vinculación con Derecho de la UE, los tres son concurrentemente aplicables.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+
+Pregunta: ¿Qué es la "cláusula de equivalencia" del art. 52.3 CDFUE?
+Respuesta Correcta: Establece que los derechos de la Carta que correspondan a derechos del CEDH tendrán sentido y alcance idénticos. Consagra al CEDH como estándar mínimo de protección: la Carta nunca puede ofrecer protección inferior al CEDH, aunque sí puede ser más extensa.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+
+Pregunta: En situaciones NO determinadas por el Derecho de la UE (ej: directivas), ¿qué estándar de protección aplica el juez?
+Respuesta Correcta: Puede elegir entre Constitución nacional o Carta, con dos excepciones: 1) Si la Carta ofrece protección superior, debe aplicar la Carta. 2) La aplicación del estándar nacional no puede comprometer la primacía, unidad y efectividad del Derecho de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+
+Pregunta: En situaciones determinadas por el Derecho de la UE (ej: reglamentos), ¿qué estándar aplica el juez?
+Respuesta Correcta: Está obligado a aplicar exclusivamente el estándar de la Carta de los Derechos Fundamentales. La única salvedad es que la Constitución nacional contenga nivel de protección idéntico, en cuyo caso la elección es indiferente.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+
+Pregunta: ¿Cuál es el principio rector del sistema de protección multinivel de derechos fundamentales?
+Respuesta Correcta: La búsqueda del nivel de protección más elevado, dentro del respeto a los principios estructurales que garantizan la coherencia y supremacía funcional del Derecho de la UE. El CEDH es el estándar mínimo irrenunciable; se aplica siempre el estándar que ofrezca mayor protección.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+
+Pregunta: ¿Qué obligación imponen los Tratados respecto a la adhesión de la UE al CEDH?
+Respuesta Correcta: La UE tiene obligación de adherirse al CEDH. Una vez materializada, la cláusula de equivalencia perderá parte de su relevancia, pues la UE quedará directamente sometida a la jurisdicción del TEDH, garantizando estructuralmente el estándar del Convenio.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: Carta de los Derechos Fundamentales de la UE II
+Pregunta: ¿Cómo solucionó el TJUE la ausencia inicial de un catálogo de derechos fundamentales en los Tratados?
+Respuesta Correcta: Estableció jurisprudencialmente que los derechos fundamentales existen en el ámbito comunitario como principios generales del Derecho, inspirándose en las tradiciones constitucionales comunes de los Estados miembros y en instrumentos internacionales como el CEDH.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+
+Pregunta: ¿Por qué sigue siendo relevante la doctrina de los principios generales tras la entrada en vigor de la Carta?
+Respuesta Correcta: Porque algunos derechos de la Carta tienen alcance limitado (ej: derecho a ser oído se dirige solo a instituciones de la UE, no a Estados). Los principios generales actúan como mecanismo complementario que asegura protección en situaciones no cubiertas explícitamente por la Carta.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+
+Pregunta: ¿Qué problema planteaba la ausencia de catálogo de derechos en los Tratados originarios?
+Respuesta Correcta: Los tribunales constitucionales nacionales consideraron la posibilidad de enjuiciar actos de la UE a la luz de sus constituciones. Si hubiera prosperado, el control sobre validez del Derecho de la UE se habría fragmentado, amenazando la autoridad y uniformidad del TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+
+Pregunta: ¿Qué implicaría la adhesión de la UE al CEDH?
+Respuesta Correcta: Dos cambios fundamentales: 1) El CEDH se volvería vinculante para las instituciones de la UE. 2) Las sentencias del TJUE podrían ser revisadas por el Tribunal Europeo de Derechos Humanos (TEDH). Actualmente la adhesión no se ha completado.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+
+Pregunta: ¿Qué valor tiene actualmente el CEDH para el TJUE aunque no sea vinculante?
+Respuesta Correcta: El TJUE se apoya constantemente en el CEDH y en la jurisprudencia del TEDH para interpretar los derechos fundamentales. Lo utiliza como fuente de inspiración, aunque no está obligado a seguirlo.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+
+Pregunta: ¿Qué es la Carta Social Europea y cómo la utiliza el TJUE?
+Respuesta Correcta: Es un instrumento internacional de protección de derechos sociales. El TJUE no lo considera vinculante, pero lo utiliza como importante fuente de inspiración y apoyo para sus interpretaciones, especialmente en materia de derechos sociales.
+Manual: Derecho de la Unión Europea
+Bloque: 3
+Tema: La Tutela De Los Derechos Fundamentales En El Espacio Europeo
+Pregunta: ¿Cuáles son las tres categorías jerárquicas de fuentes del Derecho de la UE?
+Respuesta Correcta: Derecho Originario o Primario (Tratados constitutivos y modificaciones), Derecho Derivado o Secundario (actos normativos adoptados por instituciones), y Otras Fuentes (Derecho internacional, costumbre, principios generales, jurisprudencia del TJUE).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+
+Pregunta: ¿Qué compone el Derecho Originario actualmente?
+Respuesta Correcta: Se consolida en dos textos: el Tratado de la Unión Europea (TUE) y el Tratado de Funcionamiento de la Unión Europea (TFUE). Son la norma constitucional fundamental que establece objetivos, competencias, marco institucional y procedimientos.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+
+Pregunta: ¿Qué diferencia hay entre actos típicos y atípicos del Derecho Derivado?
+Respuesta Correcta: Actos típicos: expresamente previstos en Tratados (obligatorios: reglamento, directiva, decisión; no obligatorios: recomendación, dictamen). Actos atípicos: no figuran en Tratados pero las instituciones los desarrollan en la práctica (internos o sui generis como comunicaciones y libros verdes/blancos).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+
+Pregunta: ¿Cuáles son los tres actos típicos obligatorios y existe jerarquía entre ellos?
+Respuesta Correcta: Reglamento, Directiva y Decisión. NO existe relación de jerarquía entre ellos; todos están subordinados al Derecho Originario.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+
+Pregunta: ¿Qué son los principios generales del Derecho como fuente de la UE?
+Respuesta Correcta: Normas no escritas que informan el ordenamiento. Emanan de las tradiciones constitucionales comunes a los Estados miembros o de la propia naturaleza del sistema jurídico de la UE (ej: seguridad jurídica, confianza legítima).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+
+Pregunta: ¿Qué son la Recomendación y el Dictamen?
+Respuesta Correcta: Son actos típicos NO obligatorios (sin fuerza vinculante). Recomendación: sugiere un comportamiento determinado sin imponer obligación jurídica. Dictamen: expresa opinión de una institución sobre un asunto específico (no confundir con dictámenes vinculantes del TJUE).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Fuentes Normativas De La UE
+Pregunta: ¿Qué posición jerárquica ocupa el Derecho Originario?
+Respuesta Correcta: Ocupa la cúspide del ordenamiento jurídico de la UE. Es jerárquicamente superior al Derecho Derivado; una norma de Derecho Derivado (reglamento) nunca puede contradecir el contenido de los Tratados.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+
+Pregunta: ¿Puede modificarse el Derecho Originario?
+Respuesta Correcta: Sí, pero el proceso es considerablemente más complejo y requiere más requisitos que la modificación de una norma de Derecho Derivado como directiva o reglamento. Solo pueden modificarse mediante procedimientos de revisión previstos en los propios Tratados.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+
+Pregunta: ¿Está sujeto el Derecho Originario al principio de primacía?
+Respuesta Correcta: Sí, ninguna ley de un Estado miembro puede contradecir su contenido. En caso de conflicto, la norma de Derecho Primario prevalece y desplaza la aplicación de la norma nacional.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+
+Pregunta: ¿Qué es el efecto directo del Derecho de la Unión?
+Respuesta Correcta: Principio que confiere a los ciudadanos derechos invocables directamente desde que son reconocidos por norma europea, sin necesidad de esperar a que el país transponga dicha norma. Un derecho de la UE es tan válido y directo como uno otorgado por el Estado español.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+
+Pregunta: ¿Cuáles son los tratados fundacionales del Derecho Originario?
+Respuesta Correcta: Tratado CECA (Comunidad Europea del Carbón y del Acero), Tratado CEE (Comunidad Económica Europea) y Tratado EURATOM (Comunidad Europea de la Energía Atómica), más todos los tratados modificativos (Maastricht, Lisboa, etc.).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+
+Pregunta: ¿Por qué se dice que el Derecho Originario es como los "cimientos" del sistema jurídico de la UE?
+Respuesta Correcta: Porque establece los objetivos de la UE, sus competencias, el marco institucional y los procedimientos para adopción de decisiones. De él emana el Derecho Derivado, que lo desarrolla y da cumplimiento.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: El Derecho Originario
+Pregunta: ¿Cuáles son las tres características definitorias del Reglamento?
+Respuesta Correcta: Alcance general (obligatorio y uniforme en todos los Estados miembros), obligatoriedad en todos sus elementos (vinculante en objetivos y medios), y aplicabilidad directa (no requiere transposición, se integra automáticamente).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+
+Pregunta: ¿Qué significa que el Reglamento tiene "alcance general"?
+Respuesta Correcta: Que se dirige a una categoría abstracta de sujetos sin especificar países destinatarios. Por su naturaleza, su ámbito de aplicación abarca la totalidad de la Unión de manera uniforme.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+
+Pregunta: ¿Qué diferencia fundamental existe entre Reglamento y Directiva respecto a la obligatoriedad?
+Respuesta Correcta: El Reglamento es obligatorio en todos sus elementos (objetivos Y medios), de obligado cumplimiento "de cabo a rabo". La Directiva solo impone obligación de resultado, dejando libertad para elegir forma y medios.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+
+Pregunta: ¿Qué significa la "aplicabilidad directa" del Reglamento?
+Respuesta Correcta: Se integra en los ordenamientos nacionales y adquiere plena eficacia jurídica desde su entrada en vigor, sin necesidad de acto de transposición. Desde su publicación en el DOUE, genera derechos y obligaciones inmediatos para ciudadanos, empresas y administraciones.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+
+Pregunta: ¿Qué ocurre si una norma interna de un Estado obstaculiza la aplicación de un Reglamento?
+Respuesta Correcta: En virtud del principio de primacía, será declarada nula por el TJUE. El Reglamento europeo tiene la misma fuerza vinculante que una ley o real decreto-ley nacional.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+
+Pregunta: ¿Pueden los particulares invocar un Reglamento directamente ante tribunales nacionales?
+Respuesta Correcta: Sí, debido a su aplicabilidad directa. Genera derechos y obligaciones de manera inmediata desde su publicación en el DOUE, siendo tan válido y vinculante como una norma del propio Estado.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Reglamentos
+Pregunta: ¿Cuáles son las tres características principales de la Directiva?
+Respuesta Correcta: Ausencia de alcance general (debe especificar Estados destinatarios), obligación de resultado (no de medios), y margen de apreciación limitado (requiere transposición mediante norma nacional dentro de plazo fijado).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+
+Pregunta: ¿Qué es la "autonomía institucional" en el contexto de las Directivas?
+Respuesta Correcta: El principio de libertad por el cual cada Estado puede elegir la forma y los medios para alcanzar el resultado que impone la Directiva (ej: sanciones administrativas, tipo penal, zonas protegidas).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+
+Pregunta: ¿Qué límites tiene la transposición de Directivas?
+Respuesta Correcta: Dos límites estrictos: 1) El plazo de transposición (fecha límite fijada; incumplirlo puede acarrear procedimiento de infracción y sanciones). 2) La eficacia de la directiva (no basta transposición formal; deben adoptarse medidas genuinamente adecuadas para garantizar efectividad real).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+
+Pregunta: ¿Qué es la Decisión y qué características tiene?
+Respuesta Correcta: Es un híbrido entre Reglamento y Directiva. Obligatoria en todos sus elementos (como el Reglamento, en resultado Y medios) pero con destinatarios específicos (como la Directiva: Estados, personas físicas o jurídicas concretas).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+
+Pregunta: Pon un ejemplo de Decisión.
+Respuesta Correcta: La Decisión del Consejo que autorizó a Croacia a adoptar el euro como moneda a partir del 1 de enero de 2023. Es obligatoria en todos sus términos pero su único destinatario es la República de Croacia.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+
+Pregunta: ¿Cuál es la diferencia de alcance entre Reglamento, Directiva y Decisión?
+Respuesta Correcta: Reglamento: alcance general (todos los Estados, categoría abstracta de sujetos). Directiva: particular (Estados miembros especificados). Decisión: particular (destinatarios designados: personas físicas/jurídicas o Estados concretos).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Las Directivas Y Las Decisiones
+Pregunta: ¿Cuáles son los tres procedimientos legislativos principales de la UE?
+Respuesta Correcta: Procedimiento Legislativo Ordinario (PLO, regla general, codecisión paritaria), Procedimientos Legislativos Especiales (PLE, excepcionales, desequilibrio institucional), y Procedimiento de Conclusión de Acuerdos Internacionales.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+
+Pregunta: ¿Cuál es la característica fundamental del Procedimiento Legislativo Ordinario?
+Respuesta Correcta: Consagra el principio de codecisión: sitúa al Parlamento Europeo y al Consejo en posición de igualdad como colegisladores. La Comisión presenta propuesta conjunta a ambos, que deben alcanzar acuerdo para adoptar el acto.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+
+Pregunta: ¿Quién tiene el monopolio de la iniciativa legislativa y qué excepciones existen?
+Respuesta Correcta: La Comisión Europea tiene el monopolio casi exclusivo. Excepciones: comparte con el BCE (política monetaria), grupo de Estados miembros (espacio libertad, seguridad, justicia), y Alto Representante (PESC).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+
+Pregunta: ¿Qué controlan los Parlamentos nacionales sobre las propuestas legislativas?
+Respuesta Correcta: El respeto a los principios de subsidiariedad (¿debe actuar la UE o los Estados?) y proporcionalidad (¿es la medida necesaria y equilibrada?). Disponen de 8 semanas para emitir dictamen motivado.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+
+Pregunta: ¿Qué son la "tarjeta amarilla" y "tarjeta naranja"?
+Respuesta Correcta: Tarjeta amarilla: si dictámenes de 1/3 de votos de Parlamentos consideran vulneración de subsidiariedad, la Comisión debe reexaminar. Tarjeta naranja: si mayoría simple en PLO y Comisión mantiene propuesta, debe justificarlo en dictamen motivado al Parlamento y Consejo.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+
+Pregunta: ¿Qué es la Iniciativa Ciudadana Europea?
+Respuesta Correcta: Mecanismo de democracia participativa: mínimo 1 millón de ciudadanos de al menos 7 Estados miembros pueden "invitar" a la Comisión a presentar propuesta legislativa. La Comisión conserva discrecionalidad para aceptar o rechazar, pero debe motivar su decisión.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso De Formación I
+Pregunta: ¿Cuáles son las fases del Procedimiento Legislativo Ordinario?
+Respuesta Correcta: Iniciativa de Comisión → Primera lectura Parlamento → Primera lectura Consejo → (si no hay acuerdo) Segunda lectura Parlamento → Segunda lectura Consejo → (si no hay acuerdo) Comité de Conciliación → Tercera lectura → Firma y publicación en DOUE.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+
+Pregunta: ¿Qué opciones tiene el Parlamento en segunda lectura ante la posición del Consejo?
+Respuesta Correcta: En 3 meses puede: 1) Aprobarla o no pronunciarse (acto adoptado), 2) Rechazarla por mayoría absoluta (acto decae), 3) Proponer enmiendas (texto remitido a Consejo y Comisión).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+
+Pregunta: ¿Qué es el Comité de Conciliación?
+Respuesta Correcta: Órgano compuesto por igual número de miembros del Consejo y del Parlamento que busca acuerdo sobre texto conjunto cuando no hay consenso en segunda lectura. Si no hay acuerdo, el acto decae; si lo hay, se somete a tercera lectura.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+
+Pregunta: ¿Cuál es el rol del Parlamento en el Procedimiento de Aprobación?
+Respuesta Correcta: Ostenta poder de veto absoluto: el Consejo solo puede adoptar el acto si obtiene previamente aprobación del Parlamento. Si vota en contra, el acto no puede adoptarse. NO puede proponer enmiendas, solo acepta o rechaza en bloque.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+
+Pregunta: ¿Cuál es el rol del Parlamento en el Procedimiento de Consulta?
+Respuesta Correcta: El Consejo debe solicitar dictamen del Parlamento (preceptivo), pero NO está vinculado por él. El Parlamento puede aprobar, rechazar o enmendar, pero el Consejo tiene la última palabra. Omitir la consulta constituye vicio de nulidad del acto.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+
+Pregunta: ¿Qué es el Procedimiento de Delegación?
+Respuesta Correcta: Permite que un acto legislativo de base delegue en la Comisión la potestad de adoptar "actos delegados" (no legislativos) para completar o modificar elementos no esenciales. La delegación debe delimitar objetivos, contenido, alcance y duración. Parlamento y Consejo pueden revocarla.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Proceso de Formación II
+Pregunta: ¿Qué es el efecto directo vertical y horizontal?
+Respuesta Correcta: Vertical: particular invoca norma UE frente al Estado/Administración para exigir respeto de un derecho. Horizontal: particular invoca norma UE frente a otro particular (ej: exigir a empresa que cese actividad contaminante prohibida por reglamento).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+
+Pregunta: ¿Qué sentencia reconoció por primera vez el efecto directo?
+Respuesta Correcta: La sentencia Van Gend en Loos de 5 de febrero de 1963 del TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+
+Pregunta: ¿Tienen las Directivas efecto directo?
+Respuesta Correcta: Sí, pero con limitación: solo efecto directo VERTICAL cuando el Estado no transpone en plazo o lo hace incorrectamente. Los particulares pueden reclamar frente al Estado incumplidor, pero NO frente a otros particulares (no hay efecto directo horizontal en directivas).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+
+Pregunta: ¿Cuáles son los tres requisitos para que surja responsabilidad del Estado por violar Derecho UE?
+Respuesta Correcta: 1) Que la norma violada tenga por objeto conferir derechos a particulares. 2) Que la violación esté suficientemente caracterizada (grave y manifiesta). 3) Que exista relación de causalidad directa entre incumplimiento y daño sufrido.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+
+Pregunta: ¿Qué establece el principio de cooperación leal?
+Respuesta Correcta: La UE y Estados se respetan y asisten mutuamente. Para Estados implica: obligación positiva (adoptar medidas para cumplir Derecho UE y facilitar trabajo de instituciones) y obligación negativa (abstenerse de medidas que pongan en peligro objetivos de la UE).
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+
+Pregunta: ¿Qué establece el principio de autonomía institucional?
+Respuesta Correcta: Cada Estado puede organizarse interna y administrativamente como considere oportuno. La UE no interfiere en su estructura política o administrativa, siempre que garantice cumplimiento efectivo del Derecho de la UE y no contravenga sus principios fundamentales.
+Manual: Derecho de la Unión Europea
+Bloque: 4
+Tema: Relaciones Entre El Derecho De La UE Y El Derecho Nacional
+Pregunta: ¿Qué modelo adoptó la UE para su sistema jurisdiccional y por qué?
+Respuesta Correcta: Un sistema mixto que combina el TJUE con los órganos jurisdiccionales nacionales. Se descartó crear tribunales exclusivos UE (difícil separar Derecho UE del nacional) y atribuir todo a jueces nacionales (el Derecho UE perdería uniformidad).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+
+Pregunta: ¿Qué principio fundamental rige el sistema jurisdiccional de la UE?
+Respuesta Correcta: El principio de uniformidad: el Derecho de la UE debe aplicarse de manera unánime y uniforme en todos los Estados. En España, el art. 4 LOPJ obliga a los jueces a aplicar el Derecho de la UE conforme a la jurisprudencia del TJUE.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+
+Pregunta: ¿Cuáles son las dos competencias propias del TJUE en el sistema mixto?
+Respuesta Correcta: Control de legalidad (controlar la legalidad de las normas de la Unión) e interacción con jueces nacionales a través de cuestiones prejudiciales (de validez o de interpretación) para asegurar aplicación coherente del Derecho.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+
+Pregunta: ¿Qué órganos componen la institución del TJUE?
+Respuesta Correcta: Dos órganos jurisdiccionales: el Tribunal de Justicia (un juez por Estado miembro, 27) y el Tribunal General (dos jueces por Estado miembro, 56). La UE conserva potestad de crear tribunales especializados, pero actualmente no existe ninguno.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+
+Pregunta: ¿Qué instituciones NO deben confundirse con el TJUE?
+Respuesta Correcta: El Tribunal de Cuentas (otra institución de la UE, función fiscalizadora) y el Tribunal Europeo de Derechos Humanos (TEDH, pertenece al Consejo de Europa, organización distinta de la UE).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+
+Pregunta: ¿Cuál es la estructura de gobierno del TJUE?
+Respuesta Correcta: Presidente (preside también el Tribunal de Justicia; el Tribunal General tiene presidente propio), Vicepresidente (común para TJ y TG, elección cada 3 años) y Secretario (registro de asuntos, comunicación con partes, gestión administrativa y contable).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Sistema Jurisdiccional De La UE
+Pregunta: ¿Cuáles son las cuatro formaciones de juicio del Tribunal de Justicia?
+Respuesta Correcta: Juez único (asuntos fáciles o repetitivos), Salas (3 o 5 jueces, forma habitual), Gran Sala (13-15 jueces, mayor complejidad, a petición de Estado/institución parte), y Pleno (27 jueces, ocasiones excepcionales como destitución de miembros de instituciones).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+
+Pregunta: ¿Cuál es la función del Abogado General?
+Respuesta Correcta: Emitir públicamente conclusiones imparciales sobre los asuntos, proponiendo al tribunal una solución jurídica. Interviene en aprox. 50% de asuntos. El juez es libre de seguir o no sus conclusiones (aunque en 67% de casos sí las adopta).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+
+Pregunta: ¿Cómo funciona el Abogado General en el Tribunal General?
+Respuesta Correcta: No existe de manera permanente. Si se solicita, un juez del propio TG es designado para actuar como Abogado General, pero no podrá intervenir después en la deliberación y resolución del caso. Lo decide el Pleno a petición de la Sala.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+
+Pregunta: ¿Cómo se nombran los jueces y Abogados Generales del TJUE?
+Respuesta Correcta: Los Estados miembros proponen a sus ciudadanos como candidatos. Se escogen entre juristas de reconocido prestigio o miembros de los más altos órganos jurisdiccionales nacionales (Tribunal Supremo, Audiencia Nacional). Deben ser aprobados por un comité específico de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+
+Pregunta: ¿Cuál es la doble función del TJUE?
+Respuesta Correcta: Función contenciosa (resolver litigios con partes enfrentadas mediante recursos: incumplimiento, anulación, omisión, indemnización) y función consultiva/prejudicial (intérprete supremo del Derecho UE, resuelve dudas de jueces nacionales sobre interpretación o validez).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+
+Pregunta: ¿Qué Tribunal Especializado existió y qué pasó con él?
+Respuesta Correcta: El Tribunal de la Función Pública de la UE, que fue derogado en 2016. Sus competencias y miembros se reintegraron en el Tribunal General. Actualmente no existe ningún tribunal especializado en funcionamiento.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal De Justicia De La Unión Europea
+Pregunta: ¿Qué es la cuestión prejudicial?
+Respuesta Correcta: Procedimiento mediante el cual un juez nacional que tiene duda sobre interpretación o validez de una norma de la UE puede suspender el litigio y solicitar al Tribunal de Justicia (no al TG) que se pronuncie. Es un "diálogo entre jueces", piedra angular del sistema judicial.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+
+Pregunta: ¿Cuáles son los dos tipos de cuestión prejudicial?
+Respuesta Correcta: De interpretación (aclarar sentido y alcance de norma UE; puede versar sobre Derecho originario y derivado) y de validez (determinar si un acto es conforme a Derecho; SOLO puede versar sobre Derecho derivado, nunca sobre Tratados).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+
+Pregunta: ¿Cuándo es facultativo y cuándo obligatorio plantear cuestión prejudicial?
+Respuesta Correcta: Facultativo: órganos cuyas decisiones son susceptibles de recurso (primera instancia). Obligatorio: órganos de última instancia (cuyas decisiones no admiten recurso), cuando tengan dudas sobre interpretación o validez del Derecho UE.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+
+Pregunta: ¿Qué son las doctrinas del "acto claro" y "acto aclarado"?
+Respuesta Correcta: Excepciones a la obligación de plantear cuestión prejudicial de interpretación. Acto claro: la interpretación es tan evidente que no deja duda razonable. Acto aclarado: el TJUE ya respondió previamente a cuestión idéntica. NO aplican a cuestiones de validez.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+
+Pregunta: ¿Qué ocurre si un juez nacional considera inválida una norma de Derecho derivado?
+Respuesta Correcta: NO puede inaplicarla por sí mismo. El monopolio para declarar invalidez de actos de la UE corresponde EXCLUSIVAMENTE al TJUE. El juez está obligado a plantear cuestión prejudicial de validez. Si el TJUE la declara inválida, se expulsa del ordenamiento con efectos erga omnes.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+
+Pregunta: ¿Qué diferencia hay entre cuestión prejudicial y cuestión de inconstitucionalidad?
+Respuesta Correcta: Cuestión prejudicial: juez nacional pregunta al TJUE sobre Derecho de la UE. Cuestión de inconstitucionalidad: juez español pregunta al TC sobre compatibilidad de norma española con la Constitución. Son análogas en estructura pero difieren en órgano receptor y parámetro de control.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: La Competencia Consultiva Y Prejudicial
+Pregunta: ¿Cuáles son los principales recursos de la vía contenciosa del TJUE?
+Respuesta Correcta: Recurso por incumplimiento (contra Estados), recurso de anulación (contra actos de instituciones), recurso por omisión (contra inactividad de instituciones), recurso de indemnización (daños causados por instituciones) y recurso de casación (contra sentencias del TG).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+
+Pregunta: ¿Qué es el recurso por incumplimiento y quién puede interponerlo?
+Respuesta Correcta: Mecanismo para constatar y sancionar violación del Derecho UE por un Estado miembro. Órgano competente: Tribunal de Justicia exclusivamente. Legitimación: Comisión (vía principal), otros Estados miembros (infrecuente). NUNCA particulares.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+
+Pregunta: ¿Contra quién se interpone el recurso por incumplimiento y qué concepto de "Estado" se usa?
+Respuesta Correcta: Contra Estados miembros o sus bancos centrales, NUNCA contra instituciones de la UE. El concepto "Estado" se interpreta en sentido amplio: cualquier manifestación de la Administración Pública (estatal, autonómica o local).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+
+Pregunta: ¿Qué es el recurso de anulación y quiénes pueden interponerlo?
+Respuesta Correcta: Instrumento para controlar legalidad de actos de instituciones/órganos/organismos de la UE. Legitimación: demandantes privilegiados (Estados, Consejo, Comisión, Parlamento), semi-privilegiados (TC, BCE, CdR: solo para defender prerrogativas), no privilegiados (particulares: deben acreditar afectación directa e individual).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+
+Pregunta: ¿Cuáles son los cuatro vicios de legalidad (motivos de anulación)?
+Respuesta Correcta: Incompetencia (órgano sin habilitación), vicios sustanciales de forma (trámites esenciales omitidos, ej: falta de motivación), desviación de poder (potestad usada para fin distinto del previsto), y violación del Tratado o normas relativas a su ejecución (cajón de sastre).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+
+Pregunta: ¿Qué efectos tiene la sentencia del TJUE en vía contenciosa?
+Respuesta Correcta: Cosa juzgada (firme y definitiva), obligatoriedad (partes obligadas a cumplir; si Estado no ejecuta, Comisión puede interponer nuevo recurso), efecto ex tunc (retroactivo: acto anulado se considera nulo desde su origen, como si nunca hubiera existido).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Competencia Contenciosa Del TJUE
+Pregunta: ¿Cuál es la composición del Tribunal General?
+Respuesta Correcta: Dos jueces por cada Estado miembro (56 total, aunque cifra aún no completada en la práctica). Régimen jurídico idéntico al del Tribunal de Justicia. NO existe figura permanente de Abogado General (excepcionalmente un juez puede asumir esa función).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+
+Pregunta: ¿Cómo se organiza internamente el Tribunal General?
+Respuesta Correcta: Resuelve en Salas (3 o 5 jueces según complejidad) o en Pleno. Cuenta con Secretaría (dirigida por Secretario elegido por los jueces) con funciones jurisdiccionales (tramitación, fe pública) y administrativas (personal, presupuesto).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+
+Pregunta: ¿Cómo se reparten competencias entre el Tribunal de Justicia y el Tribunal General?
+Respuesta Correcta: TJ: competencia exclusiva sobre recursos entre instituciones y recursos de Estado contra Parlamento/Consejo. TG: juez de primera instancia para el resto de recursos directos (particulares contra instituciones, Estados contra Comisión).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+
+Pregunta: ¿Cuáles son las principales competencias del Tribunal General?
+Respuesta Correcta: Recursos de anulación/omisión de particulares, recursos de Estados contra la Comisión, recursos de indemnización por daños, litigios contractuales (con cláusula compromisoria), recursos de propiedad intelectual contra EUIPO, y litigios de función pública europea.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+
+Pregunta: ¿Resuelve el Tribunal General cuestiones prejudiciales?
+Respuesta Correcta: Aunque su Estatuto lo permitiría, en la práctica NO resuelve cuestiones prejudiciales. Esta competencia está reservada de facto al Tribunal de Justicia, fundamental para garantizar aplicación uniforme del Derecho de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+
+Pregunta: ¿Son recurribles las sentencias del Tribunal General?
+Respuesta Correcta: Sí, son susceptibles de recurso de casación ante el Tribunal de Justicia, pero este recurso está estrictamente limitado a cuestiones de Derecho (no pueden reexaminarse los hechos del caso).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: El Tribunal General
+Pregunta: ¿Cuáles son las cuatro características esenciales de la cuestión prejudicial?
+Respuesta Correcta: Incidente suspensivo (suspende procedimiento nacional hasta respuesta TJUE), procedimiento no contencioso (jurisdicción voluntaria, no litigio entre partes), diálogo entre jueces (comunicación entre órganos jurisdiccionales), e iniciación de oficio (juez puede plantearla sin solicitud de partes).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+
+Pregunta: ¿Sobre qué puede versar la cuestión prejudicial de interpretación?
+Respuesta Correcta: Sobre todo el Derecho de la UE: Derecho originario (TUE, TFUE, tratados modificativos, protocolos, actas de adhesión), Derecho derivado (reglamentos, directivas, decisiones), y Derecho surgido de compromisos exteriores de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+
+Pregunta: ¿Sobre qué puede versar la cuestión prejudicial de validez?
+Respuesta Correcta: SOLO sobre Derecho derivado de la UE. A diferencia de la de interpretación, NO puede versar sobre Derecho originario (Tratados). Su finalidad es determinar si un acto de la UE es conforme a Derecho.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+
+Pregunta: ¿Qué es el "órgano de última instancia" a efectos de la obligación de plantear cuestión prejudicial?
+Respuesta Correcta: No es necesariamente el tribunal supremo de un país; puede ser cualquier tribunal cuya decisión ponga fin al procedimiento sin posibilidad de apelación (ej: en ciertos casos, la Audiencia Nacional en España).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+
+Pregunta: ¿Cuándo se aplica la excepción del acto claro (acte clair)?
+Respuesta Correcta: Cuando la correcta aplicación del Derecho de la UE "se impone con tal evidencia que no deja lugar a dudas razonables sobre la manera de resolver". La norma es tan sumamente clara que no existe duda interpretativa real. Debe aplicarse con suma cautela.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+
+Pregunta: ¿Cuándo se aplica la excepción del acto aclarado (acte éclairé)?
+Respuesta Correcta: Cuando el Tribunal de Justicia ya ha respondido previamente a una pregunta sobre cuestiones materiales idénticas en un caso anterior (planteada por juez del mismo Estado u otro). No es necesario volver a preguntar si se puede resolver consultando jurisprudencia existente.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial I
+Pregunta: ¿Cuáles son las dos fases del procedimiento ordinario de cuestión prejudicial?
+Respuesta Correcta: Fase ante el juez nacional (base legal: art. 4.bis LOPJ, se plantea mediante auto, audiencia a partes y al Ministerio Fiscal si procede) y fase ante el TJUE (fase escrita con observaciones + fase oral si necesaria + sentencia con eficacia erga omnes).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+
+Pregunta: ¿Quiénes están legitimados para presentar observaciones escritas ante el TJUE en cuestión prejudicial?
+Respuesta Correcta: Los Estados miembros, las instituciones de la Unión y las partes del litigio original.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+
+Pregunta: ¿Cuáles son los tres procedimientos especiales de cuestión prejudicial?
+Respuesta Correcta: Simplificado (para cuestiones ya resueltas o sin duda razonable, se resuelve por auto motivado), Acelerado (naturaleza del asunto exige celeridad, plazos reducidos, se fija directamente fecha de vista), y de Urgencia/PPU (materias de libertad, seguridad, justicia; puede suprimirse fase escrita).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+
+Pregunta: ¿En qué consiste el procedimiento prejudicial simplificado?
+Respuesta Correcta: Se aplica cuando la respuesta ya ha sido resuelta por el TJUE o no plantea duda razonable. El TJUE escucha al abogado general y resuelve directamente mediante auto motivado (no sentencia).
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+
+Pregunta: ¿Cuándo se aplica el Procedimiento Prejudicial de Urgencia (PPU)?
+Respuesta Correcta: Reservado para materias más sensibles: espacio de libertad, seguridad y justicia. Se puede suprimir la fase escrita, pasando directamente a la vista oral. El TJUE decide primero si es procedente aplicarlo.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+
+Pregunta: ¿Qué efectos tiene la sentencia del TJUE en cuestión prejudicial?
+Respuesta Correcta: Es absolutamente vinculante para el juez nacional: no puede ignorarla y aplicar su propio criterio. Tiene eficacia erga omnes (vincula a todos). Se comunica al juez nacional para que resuelva el fondo del asunto suspendido.
+Manual: Derecho de la Unión Europea
+Bloque: 5
+Tema: Cuestión Prejudicial II
+Pregunta: ¿Cuáles son las cuatro libertades fundamentales del mercado interior?
+Respuesta Correcta: Libre circulación de mercancías, libre circulación de servicios, libre circulación de trabajadores, y libre circulación de capitales. Son los pilares del mercado interior, un área económica sin fronteras interiores.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+
+Pregunta: ¿Qué se entiende por "mercancía" según la jurisprudencia del TJUE?
+Respuesta Correcta: Todo producto susceptible de valoración económica que puede ser objeto de transacciones comerciales. Definición muy amplia que incluye obras de arte, animales o gas. Se prohíbe discriminación y medidas proteccionistas.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+
+Pregunta: ¿Qué dos elementos exige el TJUE para definir un "servicio"?
+Respuesta Correcta: Carácter temporal (prestación transitoria, a diferencia del establecimiento que es permanente) y contraprestación económica (a cambio de remuneración). El sector servicios representa aprox. el 70% del PIB de la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+
+Pregunta: ¿Quién puede ser titular del derecho a la libre circulación de trabajadores?
+Respuesta Correcta: Quien ostente nacionalidad de un Estado miembro y, por ende, ciudadanía de la Unión. Se define "trabajador" como persona que realiza prestaciones por cuenta ajena, bajo dirección de otra, a cambio de remuneración.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+
+Pregunta: ¿Qué contenido tiene el derecho a la libre circulación de trabajadores?
+Respuesta Correcta: Responder a ofertas de trabajo en cualquier Estado miembro, desplazarse libremente para trabajar, residir en un Estado miembro para ejercer actividad laboral, y permanecer en el territorio tras finalizar la relación laboral.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+
+Pregunta: ¿Qué característica especial tiene la libre circulación de capitales?
+Respuesta Correcta: Es la ÚNICA libertad con efectos extraterritoriales: el capital de terceros Estados (no UE) tiene derecho a entrar y salir libremente del mercado interior. Se consolidó gracias al euro. Incluye inversiones y movimientos personales (préstamos, herencias).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertades Fundamentales Del Mercado Interior
+Pregunta: ¿Qué es el Espacio Schengen?
+Respuesta Correcta: Territorio de Estados europeos que han suprimido fronteras interiores, permitiendo libre circulación de personas sin controles fronterizos. Se establece control riguroso y armonizado en fronteras exteriores frente a terceros Estados.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+
+Pregunta: ¿Cuáles fueron los orígenes del Espacio Schengen?
+Respuesta Correcta: El Acuerdo de Schengen de 1985, suscrito por 5 de los 10 Estados de la CEE: Francia, Alemania, Bélgica, Luxemburgo y Países Bajos. Actualmente conformado por más de 26 países, siendo la mayor zona sin fronteras interiores del mundo.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+
+Pregunta: ¿Coincide la pertenencia a la UE con la pertenencia a Schengen?
+Respuesta Correcta: NO. Países Schengen sin ser UE: Islandia, Liechtenstein, Noruega, Suiza, Mónaco, San Marino, Ciudad del Vaticano. Países UE fuera de Schengen: Irlanda (y otros en proceso como Rumanía, Bulgaria, Chipre, Croacia).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+
+Pregunta: ¿Cuándo pueden restablecerse temporalmente las fronteras interiores de Schengen?
+Respuesta Correcta: Excepcionalmente por razones de orden público o seguridad nacional (ej: crisis sanitarias como COVID-19). Una vez superada la amenaza, deben levantarse. También se permiten controles de identidad y policiales por amenazas graves.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+
+Pregunta: ¿Qué percepción tienen los ciudadanos sobre el Espacio Schengen?
+Respuesta Correcta: Según el Eurobarómetro, el 68% de los ciudadanos de la UE considera que Schengen es uno de los mayores logros del proyecto europeo, reflejando alto valor de la libertad de circulación en la vida cotidiana.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+
+Pregunta: ¿Qué controles se mantienen en el Espacio Schengen pese a la supresión de fronteras?
+Respuesta Correcta: Controles de identidad en puntos estratégicos (aeropuertos, puertos) o interior del territorio, siempre que no equivalgan a inspección fronteriza. Controles policiales ante amenazas graves o lucha contra delincuencia transfronteriza (basados en información concreta, no sistemáticos).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Libertad de Circulación y Establecimiento: El Espacio Schengen
+Pregunta: ¿Qué es la unión aduanera?
+Respuesta Correcta: Espacio comercial único que abarca todo el territorio de los Estados miembros, con eliminación de fronteras comerciales internas y establecimiento de una única frontera comercial exterior común. Régimen aduanero común para toda la UE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+
+Pregunta: ¿Qué implica el régimen aduanero común de la unión aduanera?
+Respuesta Correcta: Un producto importado de terceros países (ej: equipamiento de EEUU) se enfrenta a la misma tasa o restricción aduanera sin importar por qué puerto de la UE entre (Galicia o Roma). Trato uniforme en toda la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+
+Pregunta: ¿Qué es la política comercial común?
+Respuesta Correcta: Conjunto de principios y reglas comunes que rigen las relaciones comerciales entre Estados miembros de la UE y terceros países. Es COMPETENCIA EXCLUSIVA de la UE; los Estados han cedido completamente su soberanía en comercio exterior.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+
+Pregunta: ¿Qué implica que la política comercial común sea competencia exclusiva?
+Respuesta Correcta: Los Estados miembros NO pueden actuar de forma independiente. Ej: España no puede establecer un régimen de sanciones comerciales contra Rusia diferente al decidido por la UE en el contexto de la guerra de Ucrania.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+
+Pregunta: ¿Dónde se regulan la unión aduanera y la política comercial común?
+Respuesta Correcta: Unión aduanera: artículo 30 TFUE. Política comercial común: artículos 206 y 207 TFUE. Junto con las cuatro libertades fundamentales, conforman la arquitectura completa del mercado interior europeo.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+
+Pregunta: ¿Por qué es necesaria la política comercial común para mantener el mercado interior?
+Respuesta Correcta: Sería imposible mantener un mercado interior coherente y unificado si cada Estado miembro pudiera establecer su propia política comercial con terceros países. Se requiere una única frontera comercial exterior.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Unión Aduanera
+Pregunta: ¿Qué diferencia hay entre política económica y política monetaria?
+Respuesta Correcta: Política económica: directrices para alcanzar objetivos macroeconómicos (crecimiento, empleo), incluye política fiscal (impuestos). Política monetaria: rama específica para estabilidad de precios, controla oferta de dinero y tipos de interés.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+
+Pregunta: ¿Cómo se reparten las competencias en la UEM (modelo asimétrico)?
+Respuesta Correcta: Política monetaria: competencia EXCLUSIVA de la UE para Estados cuya moneda es el euro (BCE legisla). Política económica: competencia de COORDINACIÓN, apoyo y complemento (Estados conservan soberanía fiscal, UE solo coordina).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+
+Pregunta: ¿Qué es el Pacto de Estabilidad y Crecimiento (PEC)?
+Respuesta Correcta: Principal instrumento de vigilancia presupuestaria. Establece límites: déficit público máximo 3% del PIB, deuda pública máximo 60% del PIB. Su incumplimiento puede abrir procedimiento de déficit excesivo y sanciones.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+
+Pregunta: ¿Qué es el Eurogrupo y qué es el MEDE?
+Respuesta Correcta: Eurogrupo: órgano INFORMAL de ministros de Economía y Finanzas de la zona euro; coordina políticas, NO tiene potestad legislativa. MEDE (Mecanismo Europeo de Estabilidad): organización internacional que proporciona rescates a Estados en dificultades bajo estrictas condiciones.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+
+Pregunta: ¿Qué aspectos abarca la competencia exclusiva de política monetaria?
+Respuesta Correcta: Gestión del euro como moneda única, definición y aplicación de una política monetaria única, y fijación de una política de tipos de cambio única. Competencia del BCE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+
+Pregunta: ¿Qué límites tiene el BCE en política monetaria?
+Respuesta Correcta: Prohibición de financiación monetaria (no comprar deuda pública directamente en mercados primarios). Rol restrictivo como prestamista de última instancia. El TJUE ha avalado compras en mercados secundarios si son proporcionales para objetivos de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Unión Económica Y Monetaria
+Pregunta: ¿Qué diferencias hay entre UE, Espacio Schengen y EEE?
+Respuesta Correcta: UE: organización supranacional de integración política y económica (27 Estados). Schengen: área sin fronteras interiores para libre circulación de personas (26 Estados). EEE: acuerdo que permite a países AELC (excepto Suiza) participar en mercado interior sin ser miembros UE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+
+Pregunta: ¿Qué países de la UE están fuera del Espacio Schengen?
+Respuesta Correcta: Irlanda, Rumanía, Bulgaria, Chipre y Croacia (son UE pero no Schengen).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+
+Pregunta: ¿Qué países del Espacio Schengen están fuera de la UE?
+Respuesta Correcta: Noruega, Islandia, Liechtenstein y Suiza (son Schengen pero no UE).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+
+Pregunta: ¿Cuál es el caso particular de Suiza?
+Respuesta Correcta: Suiza es miembro de la AELC (Asociación Europea de Libre Comercio) y del Espacio Schengen, pero NO es miembro del EEE ni del mercado interior de la UE. Se le aplican normas Schengen de libre circulación de personas, pero no las del mercado interior.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+
+Pregunta: ¿Qué países forman el Espacio Económico Europeo (EEE)?
+Respuesta Correcta: Los 27 Estados de la UE más tres de los cuatro miembros de la AELC: Islandia, Liechtenstein y Noruega. Suiza (AELC) NO forma parte del EEE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+
+Pregunta: ¿Qué implica que un ciudadano de país UE no Schengen viaje por el Espacio Schengen?
+Respuesta Correcta: Un ciudadano de Rumanía (UE pero no Schengen) puede circular por la UE pero estará sometido a controles al transitar por países Schengen. Un visado para la UE no autoriza automáticamente libre circulación por todo Schengen.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Diferencias Entre UE, Espacio Schengen Y EEE
+Pregunta: ¿Qué son las competencias de apoyo, coordinación o complemento de la UE?
+Respuesta Correcta: Áreas donde los Estados miembros conservan la autoridad principal. La UE solo puede intervenir para apoyar, coordinar o complementar, SIN poder legislar para armonizar sus leyes. Reguladas en art. 6 TFUE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+
+Pregunta: ¿Cuáles son las 10 áreas de competencia de apoyo y complemento?
+Respuesta Correcta: Protección y mejora de la salud humana, industria, cultura, turismo, educación/formación profesional/juventud/deporte, protección civil y cooperación administrativa (entre otras). La UE no puede legislar ni interferir en capacidad legislativa de Estados.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+
+Pregunta: ¿Cómo apoya la UE en materia de industria?
+Respuesta Correcta: Facilitando acceso a datos estratégicos. Ejemplo: Copernicus, programa europeo de observación de la Tierra que proporciona datos satelitales para que empresas europeas logren avances y beneficios en sus sectores.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+
+Pregunta: ¿Cómo apoya la UE en materia de cultura?
+Respuesta Correcta: Pone de relieve patrimonio cultural común respetando diversidad (incluye lenguas cooficiales como gallego/catalán). Programa Europa Creativa (principal financiación), Capitales Europeas de la Cultura, Premios UE, Jornadas Europeas de Patrimonio.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+
+Pregunta: ¿Cómo apoya la UE en materia de educación?
+Respuesta Correcta: Los Estados tienen competencia exclusiva sobre organización y contenido de programas educativos. La UE apoya mediante: Programa Erasmus (intercambio de personas, ideas y valores) y el Espacio Europeo de Educación (espacio común de aprendizaje con la Comisión).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+
+Pregunta: ¿Cuáles son los objetivos del Espacio Europeo de Educación?
+Respuesta Correcta: Promover aprendizaje permanente y movilidad, mejorar calidad de educación para todos, fomentar políticas para transición verde y digital, reforzar instituciones de enseñanza superior, y garantizar inclusión e igualdad de género.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Competencias De Cooperación, Apoyo, Complemento
+Pregunta: ¿Qué es la PESC?
+Respuesta Correcta: Política Exterior y de Seguridad Común: marco que engloba las relaciones internacionales de la UE con otros Estados, organizaciones internacionales y colectivos extranjeros. Gestiona activamente las relaciones exteriores para asegurar prosperidad y cumplir labor humanitaria.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+
+Pregunta: ¿Qué es el Servicio Europeo de Acción Exterior (SEAE)?
+Respuesta Correcta: Principal herramienta de la PESC, conocido como "diplomacia europea". Sistema de embajadas (delegaciones) por todo el planeta + órganos y funcionarios para gestionar relaciones internacionales. Máxima autoridad: Alto Representante para Asuntos Exteriores.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+
+Pregunta: ¿Qué instituciones participan en la PESC?
+Respuesta Correcta: Consejo y Consejo Europeo, Comisión Europea (el Alto Representante es siempre vicepresidente de la Comisión), y Parlamento Europeo. El Consejo participa en todas las fases: mandato de negociación, firma de acuerdos, decisión final.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+
+Pregunta: ¿Qué es la PCSD y tiene la UE ejército propio?
+Respuesta Correcta: Política Común de Seguridad y Defensa: engloba asuntos de seguridad dentro de Estados y conflictos externos que afecten a la UE. La UE NO tiene fuerzas armadas propias, lo que condiciona su papel en conflictos y genera debate sobre crear ejército europeo.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+
+Pregunta: ¿Pueden los Estados miembros tener política exterior propia?
+Respuesta Correcta: Sí, conservan derecho a desarrollar sus propias relaciones exteriores y políticas de defensa, con la condición de que NO entorpezcan las de la Unión.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+
+Pregunta: ¿Qué beneficio tiene el SEAE para Estados con menos recursos?
+Respuesta Correcta: Estados con menos recursos económicos o menor peso geopolítico (ej: Malta) se benefician especialmente del SEAE. Países con red diplomática consolidada (ej: Alemania) pueden tener política exterior propia más fuerte sin depender tanto del SEAE.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: La Política Exterior Y De Seguridad Común (PESC)
+Pregunta: ¿Qué son Eurojust y Europol?
+Respuesta Correcta: Eurojust (2002): agencia de cooperación JUDICIAL en materia penal, enmarcada en Fiscalía Europea, coordina investigación contra delincuencia grave transfronteriza. Europol: oficina de cooperación POLICIAL, suministra información y análisis a policías nacionales.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial
+
+Pregunta: ¿Tiene Europol capacidad ejecutiva?
+Respuesta Correcta: NO. Europol NO es un cuerpo de policía ejecutivo. Carece de potestades coercitivas directas (no puede detener personas ni registrar domicilios). Es una oficina de policía criminal de carácter intergubernamental basada en colaboración y asistencia.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial
+
+Pregunta: ¿Qué es la Orden de Detención Europea (euroorden)?
+Respuesta Correcta: Resolución judicial de un Estado miembro (emisor) para solicitar a otro Estado (ejecutor) la detención y entrega de una persona. Puede emitirse para ejercicio de acciones penales o para ejecución de pena/medida privativa de libertad.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial
+
+Pregunta: ¿Cuáles son los requisitos mínimos de pena para emitir una euroorden?
+Respuesta Correcta: Para ejercicio de acciones penales: pena máxima de al menos 12 meses de privación de libertad. Para ejecución de condena: pena impuesta de al menos 4 meses de privación de libertad.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial
+
+Pregunta: ¿Cuáles son los motivos de NO ejecución OBLIGATORIA de la euroorden?
+Respuesta Correcta: El Estado DEBE denegar la entrega en caso de: Amnistía (delito amparado por amnistía en Estado de ejecución), Minoría de edad penal (persona no responsable penalmente por edad), y Cosa juzgada/Ne bis in idem (ya juzgada definitivamente por mismos hechos en otro Estado UE).
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial
+
+Pregunta: ¿Cuáles son algunos motivos de NO ejecución FACULTATIVA de la euroorden?
+Respuesta Correcta: El Estado PUEDE denegar si: procedimiento penal abierto por mismos hechos en Estado de ejecución, prescripción del delito o pena según legislación del Estado de ejecución, o el Estado de ejecución se compromete a ejecutar la pena en su territorio.
+Manual: Derecho de la Unión Europea
+Bloque: 6
+Tema: Cooperación Judicial y Policial

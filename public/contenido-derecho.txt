@@ -1,0 +1,110 @@
+DERECHO PROCESAL CIVIL - PROCEDIMIENTO ORDINARIO Y VERBAL
+
+1. INTRODUCCIÓN AL PROCESO CIVIL
+
+El proceso civil es el conjunto de actos procesales que tienen por objeto la resolución de controversias entre particulares mediante la aplicación del derecho. En España, el proceso civil se rige principalmente por la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil (LEC).
+
+2. PRINCIPIOS DEL PROCESO CIVIL
+
+Los principios fundamentales del proceso civil español son:
+
+- Principio dispositivo: Las partes tienen la iniciativa del proceso y la disponibilidad del objeto del mismo.
+- Principio de aportación de parte: Corresponde a las partes aportar los hechos y las pruebas.
+- Principio de contradicción: Cada parte tiene derecho a conocer y rebatir las alegaciones de la contraria.
+- Principio de igualdad de armas: Las partes deben tener las mismas oportunidades procesales.
+- Principio de publicidad: Las actuaciones judiciales son públicas, salvo excepciones.
+
+3. TIPOS DE PROCEDIMIENTOS
+
+La LEC establece dos procedimientos declarativos principales:
+
+A) JUICIO ORDINARIO:
+- Se aplica a las demandas cuya cuantía supere los 6.000 euros.
+- También se utiliza cuando la ley no señale un procedimiento específico.
+- Es más formal y completo que el juicio verbal.
+
+Fases del juicio ordinario:
+1. Demanda
+2. Contestación a la demanda
+3. Audiencia previa
+4. Juicio
+5. Sentencia
+
+B) JUICIO VERBAL:
+- Se aplica a las demandas cuya cuantía no supere los 6.000 euros.
+- También para ciertos asuntos específicos independientemente de su cuantía (desahucio, reclamación de rentas, etc.)
+- Es más ágil y sencillo.
+
+Fases del juicio verbal:
+1. Demanda
+2. Vista
+3. Sentencia
+
+4. LA DEMANDA
+
+La demanda es el acto procesal que inicia el proceso. Debe contener:
+- Identificación del tribunal
+- Identificación del demandante y del demandado
+- Hechos en que se funde la petición
+- Fundamentos de derecho
+- Petición (suplico)
+- Documentos que se acompañen
+- Firma del abogado y del procurador
+
+5. RECURSOS
+
+Contra las resoluciones judiciales caben los siguientes recursos:
+
+- RECURSO DE REPOSICIÓN: Contra providencias y autos no apelables, ante el mismo órgano que los dictó.
+- RECURSO DE APELACIÓN: Contra sentencias de primera instancia, ante la Audiencia Provincial.
+- RECURSO DE CASACIÓN: Contra sentencias dictadas en segunda instancia, ante el Tribunal Supremo, solo en casos tasados.
+- RECURSO EXTRAORDINARIO POR INFRACCIÓN PROCESAL: Ante el Tribunal Superior de Justicia, contra resoluciones de tribunales civiles cuando se aleguen infracciones procesales.
+
+6. MEDIDAS CAUTELARES
+
+Son aquellas que el tribunal puede adoptar antes de la sentencia definitiva para asegurar la efectividad de la misma. Pueden ser:
+- Embargo preventivo de bienes
+- Intervención judicial de bienes productivos
+- Depósito de cosa mueble
+- Formación de inventarios de bienes
+- Anotación preventiva de demanda
+
+Para acordar medidas cautelares, el juez debe valorar:
+- La apariencia de buen derecho (fumus boni iuris)
+- El peligro en la mora procesal (periculum in mora)
+- La prestación de caución suficiente
+
+7. LA EJECUCIÓN
+
+Una vez firme la sentencia, si el condenado no cumple voluntariamente, se inicia la fase de ejecución forzosa. El proceso de ejecución incluye:
+- Requerimiento de pago al ejecutado
+- Embargo de bienes suficientes
+- Realización de los bienes embargados (subasta)
+- Pago al ejecutante con el producto obtenido
+
+8. COSTAS PROCESALES
+
+Las costas son los gastos del proceso. Como regla general:
+- El vencido en el pleito será condenado al pago de las costas.
+- Si el vencimiento es parcial, cada parte pagará sus propias costas.
+- El juez puede no imponer costas cuando aprecie que el caso presenta serias dudas de hecho o de derecho.
+
+9. PLAZOS PROCESALES
+
+Los plazos en el proceso civil son perentorios e improrrogables:
+- Para contestar a la demanda: 20 días hábiles (juicio ordinario)
+- Para recurrir en apelación: 20 días hábiles
+- Para interponer recurso de casación: 20 días hábiles
+- Para preparar el recurso de casación: 5 días hábiles
+
+Los plazos se cuentan por días hábiles, excluyendo los sábados, domingos y festivos.
+
+10. CUESTIONES IMPORTANTES
+
+- La rebeldía: Si el demandado no comparece ni contesta a la demanda, se le declarará en rebeldía. Esto no implica que pierda automáticamente el juicio, pero sí que el proceso continúa sin su intervención.
+
+- La litispendencia: Impide que se tramiten simultáneamente dos procesos iguales. Se produce cuando existe identidad de sujetos, objeto y causa de pedir.
+
+- La cosa juzgada: Impide que se vuelva a discutir en otro proceso lo ya resuelto por sentencia firme. Puede ser formal (cuando no caben recursos) o material (cuando impide un nuevo pronunciamiento sobre el fondo).
+
+Este contenido es fundamental para comprender el funcionamiento del proceso civil en España y es materia común en las oposiciones de justicia, especialmente para los cuerpos de tramitación procesal y gestión procesal.

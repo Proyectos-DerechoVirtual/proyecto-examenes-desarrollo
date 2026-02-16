@@ -1,0 +1,828 @@
+Pregunta: ¿Qué establece el artículo 16 de la Declaración de Derechos del Hombre y del Ciudadano de 1789 sobre la Constitución?
+Respuesta Correcta: "Toda sociedad en la que no esté asegurada la garantía de los derechos ni determinada la separación de poderes, carece de Constitución".
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Qué diferencia hay entre Constitución en sentido formal y en sentido material?
+Respuesta Correcta: Formal: documento solemne y escrito en la cima del ordenamiento, con procedimiento especial de reforma. Material: conjunto de normas que organizan el Estado, sus poderes y relaciones con los ciudadanos, sin importar su ubicación jerárquica.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Cuál es la diferencia entre Kelsen y Schmitt sobre el concepto de Constitución?
+Respuesta Correcta: Kelsen (normativismo): la Constitución es la cúspide de un ordenamiento lógico y jerárquico, su esencia es la validez lógica. Schmitt (decisionismo): es un acto de voluntad de un poder soberano, una "decisión política fundamental".
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Cuáles son las funciones de una Constitución democrática?
+Respuesta Correcta: Función legitimadora (crea régimen democrático), política (organiza el poder), integradora (unifica bajo valores), jurídico-organizativa (estructura de poderes), ideológica y transformadora (consolida el sistema).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Qué es el bloque de constitucionalidad?
+Respuesta Correcta: Es el conjunto de normas que el Tribunal Constitucional emplea como parámetro para juzgar si una ley es constitucional. Incluye la Constitución, los Estatutos de Autonomía y las leyes que delimitan competencias Estado-CCAA.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Cuáles son las dos partes tradicionales de una Constitución?
+Respuesta Correcta: Parte dogmática (contiene los principios y derechos) y Parte orgánica (contiene la organización de los poderes, que existe para garantizar lo establecido en la parte dogmática).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Concepto y Contenido de la Constitución
+
+Pregunta: ¿Qué caracterizaba la poliarquía medieval?
+Respuesta Correcta: La ausencia de un poder centralizado y la fragmentación de la autoridad en múltiples centros de poder (Papado, Emperador, Reyes, Señores Feudales), sin un Derecho Público único y universal.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: ¿Qué aportaron Marsilio de Padua y Ockham al pensamiento político?
+Respuesta Correcta: Iniciaron la desvinculación del Derecho respecto de la Moral, defendieron la supremacía del poder imperial frente al Papa, y sostuvieron que la legitimidad del Rey procedía de Dios y del pueblo, pero nunca del Papa.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: ¿Qué factores impulsaron el nacimiento del Estado Moderno?
+Respuesta Correcta: Factor económico (transición al capitalismo), social (alianza burguesía-Rey), cultural (individualismo del Humanismo y Renacimiento) y político (surgimiento de Monarquías nacionales que concentran y secularizan el poder).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: Según Heller, ¿cuáles fueron los factores internos determinantes para la consolidación del Estado?
+Respuesta Correcta: Ejércitos permanentes y mercenarios, administración burocrática centralizada y jerarquizada, y unificación del orden jurídico mediante la recepción del Derecho Romano.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: ¿Cómo definió Bodino el concepto de soberanía?
+Respuesta Correcta: Como el poder único, perpetuo y absoluto del Estado de dar leyes a los súbditos. El Rey recibe la soberanía de Dios, está por encima de la ley positiva, pero limitado por la ley divina, natural y las leyes de sucesión.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: ¿Cuáles son los elementos del Estado según la definición moderna?
+Respuesta Correcta: Elementos materiales (pueblo, poder y territorio) y elementos formales (Derecho). El Estado es la organización institucional del poder político sobre una comunidad social en un territorio determinado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Del Caos Medieval al Estado Absoluto
+
+Pregunta: ¿Qué era la polis para los griegos?
+Respuesta Correcta: Era una comunidad total (koinonia) donde la vida del individuo estaba inseparablemente ligada a la vida pública. Ser persona equivalía a ser ciudadano, sin distinción entre esfera pública y privada.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: ¿Cuál era la diferencia entre Platón y Aristóteles en su concepción de la Política?
+Respuesta Correcta: Platón representaba el idealismo, concibiendo la Política como ligada a la Filosofía y enfocada en modelos ideales. Aristóteles era más pragmático, sentando las bases del gobierno mediante el Derecho y siendo precursor del Derecho Constitucional Comparado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: ¿Cuál fue la aportación jurídica más relevante de Roma?
+Respuesta Correcta: El nacimiento de la distinción entre Derecho Público (Ius Publicum), referido a la res publica, y Derecho Privado (Ius Civile), regulando las relaciones entre particulares.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: ¿Qué aportó el cristianismo al concepto de derechos?
+Respuesta Correcta: La demanda embrionaria del Derecho de Conciencia, una esfera de intimidad personal, y la noción de persona con dignidad y valor propios, germen del derecho público subjetivo.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: ¿Cuál era la tríada conceptual de San Agustín sobre el ordenamiento jurídico?
+Respuesta Correcta: Ley Eterna (razón o voluntad de Dios), Ley Natural (transcripción de la Ley Eterna en la mente humana) y Ley Positiva (creada por los hombres, solo válida si deriva de la Ley Natural).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: Según San Agustín, ¿cuándo alcanza la Ley Positiva la categoría de verdadero Derecho?
+Respuesta Correcta: Solo si se deriva de la Ley Natural, es decir, si es justa. Su máxima era: "Sin Dios no hay Justicia; sin Justicia no hay Derecho; sin Derecho no hay Pueblo; y sin Pueblo no hay Estado".
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Formas Políticas Preestatales: El Pensamiento Antiguo
+
+Pregunta: ¿Cuáles son los derechos naturales previos al Estado según John Locke?
+Respuesta Correcta: La vida, la libertad y la propiedad. Estos derechos son anteriores al Estado y este se crea precisamente para defenderlos y protegerlos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿Cuál es la diferencia fundamental entre Locke y Hobbes respecto al estado de naturaleza?
+Respuesta Correcta: Para Locke, el estado de naturaleza se caracterizaba por libertad, igualdad y derechos naturales. Para Hobbes era una "guerra de todos contra todos" (caos). En Locke el Estado garantiza derechos; en Hobbes se renuncia a la libertad por seguridad.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿En qué consiste el derecho de resistencia de Locke?
+Respuesta Correcta: Si el Estado vulnera los derechos de los ciudadanos y se convierte en tirano, la comunidad puede recuperar su autoridad delegada. Los ciudadanos no solo pueden, sino que deben resistirse y derrocar al poder que traiciona su mandato.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿Cuál era el principio fundamental de Montesquieu para frenar el abuso de poder?
+Respuesta Correcta: "El poder frene al poder". Propuso la división de poderes (Legislativo, Ejecutivo y Judicial) como sistema de control recíproco o pesos y contrapesos para garantizar la libertad.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿Qué diferencia hay entre Voluntad General y Voluntad de Todos según Rousseau?
+Respuesta Correcta: La Voluntad de Todos es la simple suma de egoísmos particulares. La Voluntad General es cualitativa, siempre orientada al bien común y al interés de la comunidad. La Ley es expresión de la Voluntad General.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿Cuáles son las tres piedras angulares del Derecho Público moderno según Locke, Montesquieu y Rousseau?
+Respuesta Correcta: Limitación material (derechos individuales de Locke), limitación formal/institucional (separación de poderes de Montesquieu) y legitimación democrática (soberanía popular de Rousseau).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Inicio y Evolución del Régimen Constitucional
+
+Pregunta: ¿En qué consiste el modelo americano o difuso de justicia constitucional?
+Respuesta Correcta: El control de constitucionalidad se reparte entre todos los jueces y tribunales. Se realiza de forma incidental (dentro de un caso concreto). La ley inconstitucional no se anula, solo se inaplica al caso concreto.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿Qué estableció la doctrina Marshall en el caso Marbury vs. Madison (1803)?
+Respuesta Correcta: Si la Constitución es ley suprema y el deber de los jueces es aplicar la ley, cuando una ley normal choca con la Constitución, el juez debe aplicar la Constitución e ignorar la ley. Nace el judicial review.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿En qué consiste el modelo europeo o concentrado de justicia constitucional?
+Respuesta Correcta: El control se concentra en un único Tribunal Constitucional con monopolio de esta función. Actúa por vía abstracta y directa. El Tribunal puede anular la ley con efectos erga omnes (para todos), actuando como "legislador negativo".
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿Cuál es la diferencia entre Recurso de Inconstitucionalidad y Cuestión de Inconstitucionalidad?
+Respuesta Correcta: El Recurso es vía directa y abstracta, legitimados órganos políticos específicos. La Cuestión es vía indirecta y concreta, planteada por un juez que duda de la ley que debe aplicar en un caso real.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿Qué características tiene el Tribunal Constitucional español?
+Respuesta Correcta: Es un órgano independiente, supremo intérprete de la Constitución, NO forma parte del Poder Judicial. Tiene jurisdicción propia y exclusiva para la defensa de la Constitución. Posee doble naturaleza: jurisdiccional y política.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿Quiénes están legitimados para interponer un Recurso de Inconstitucionalidad?
+Respuesta Correcta: El Presidente del Gobierno, el Defensor del Pueblo, cincuenta diputados, cincuenta senadores, y los Gobiernos y Parlamentos autonómicos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Justicia Constitucional y sus Modelos Clásicos
+
+Pregunta: ¿Por qué la Carta Magna Inglesa (1215) NO es el primer texto de derechos humanos?
+Respuesta Correcta: Porque es un pacto o contrato privado entre el Rey y la nobleza para limitar el poder real, no una declaración universal. Hay diferencia entre pacto medieval (acuerdo entre poderosos) y declaración liberal (reconocimiento para todos).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Cuál fue el salto cualitativo de las declaraciones americanas respecto a los textos ingleses?
+Respuesta Correcta: La universalidad. La Declaración de Virginia (1776) fue la primera declaración de derechos moderna. La Declaración de Independencia proclamó como verdades evidentes que todos los hombres son creados iguales con derechos inalienables.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Cuáles son las cuatro generaciones de derechos?
+Respuesta Correcta: Primera (Estado Liberal): derechos escudo (vida, libertad, propiedad). Segunda: libertades públicas (asociación, sufragio). Tercera (Estado Social): derechos de prestación (huelga, sanidad). Cuarta (actual): nuevos retos (medio ambiente, datos personales).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Qué establece el artículo 10.1 de la Constitución Española sobre el fundamento de los derechos?
+Respuesta Correcta: Que la dignidad de la persona y los derechos inviolables que le son inherentes son el fundamento del orden político. Esto supera la discusión iusnaturalista/positivista.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Qué es el contenido esencial de un derecho fundamental?
+Respuesta Correcta: Es el núcleo que hace reconocible al derecho y evita su desnaturalización. Es la línea roja que el legislador nunca puede cruzar al regular un derecho (art. 53.1 CE).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Cuáles son los límites de los derechos fundamentales?
+Respuesta Correcta: La Ley (respetando siempre el contenido esencial), los derechos de los demás, y otros bienes protegidos por la Constitución. Ningún derecho es absoluto.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: Las Declaraciones de Derechos
+
+Pregunta: ¿Cuáles son los tres puntos fundamentales de la doctrina de Sieyès sobre el Poder Constituyente?
+Respuesta Correcta: Superioridad del creador sobre lo creado (la Constitución es obra de un poder superior a los constituidos), residencia en la Nación, y ejercicio a través de representantes extraordinarios (Asamblea Constituyente).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿Cuáles son las características del Poder Constituyente?
+Respuesta Correcta: Originario (no deriva de ningún otro), extraordinario (no actúa diariamente), permanente (sigue latente en el pueblo), unitario e indivisible, soberano y supremo (no sometido a ningún orden jurídico anterior).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿Qué diferencia hay entre Poder Constituyente Originario y Derivado?
+Respuesta Correcta: El Originario crea la Constitución desde cero, es absoluto y supremo. El Derivado reforma la Constitución existente, es limitado y jurídico, regulado por las reglas que la propia Constitución establece.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿Qué mayoría se requiere en el procedimiento ordinario de reforma constitucional (art. 167 CE)?
+Respuesta Correcta: Tres quintos (3/5) en cada Cámara. Si hay desacuerdo, Comisión mixta. Alternativamente: mayoría absoluta del Senado y dos tercios del Congreso. El referéndum es facultativo si lo solicita 1/10 de los miembros de cualquier Cámara.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿A qué materias se aplica el procedimiento agravado de reforma (art. 168 CE)?
+Respuesta Correcta: Revisión total, Título Preliminar, derechos fundamentales de la Sección primera del Capítulo segundo del Título I, y el Título II (La Corona).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿Cuál es la secuencia del procedimiento agravado (art. 168 CE)?
+Respuesta Correcta: 1) Aprobar el principio por 2/3 en cada Cámara (disolución inmediata de Cortes). 2) Las nuevas Cortes ratifican y aprueban el texto por 2/3. 3) Referéndum obligatorio para ratificación popular.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 1
+Tema: La Reforma Constitucional y el Poder Constituyente
+
+Pregunta: ¿Cuáles son las cuatro dimensiones de la autonomía parlamentaria?
+Respuesta Correcta: Autonomía normativa (reglamentos propios), autonomía presupuestaria (aprueban sus propios presupuestos), autonomía gubernativa (eligen Presidentes y Mesas) y autonomía administrativa (regulan el estatuto de su personal).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Cómo ha evolucionado el bicameralismo del liberalismo clásico al actual?
+Respuesta Correcta: Del bicameralismo clásico (Senado como freno de la Cámara Baja) al actual (bicameralismo procedimental o de cooperación funcional), con homogeneización electoral, representación territorial y subordinación funcional de la segunda cámara.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Qué son las Diputaciones Permanentes y cuál es su función?
+Respuesta Correcta: Son órganos de continuidad parlamentaria que garantizan las facultades de las Cámaras en períodos de receso o entre legislaturas. Composición mínima: 21 miembros representando a los grupos parlamentarios proporcionalmente.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Qué diferencia hay entre inviolabilidad e inmunidad parlamentaria?
+Respuesta Correcta: Inviolabilidad: irresponsabilidad por opiniones y votos en ejercicio de funciones (excluye sanción penal, civil, administrativa). Inmunidad: prohibición de detención (salvo flagrante delito) y de inculpación sin autorización de la Cámara (suplicatorio).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Qué diferencia hay entre inelegibilidad e incompatibilidad?
+Respuesta Correcta: Inelegibilidad: incapacidad para ser candidato. Incompatibilidad: prohibición de ejercer simultáneamente funciones que comprometan el mandato (cargos de libre designación, judiciales).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Qué son los Grupos Parlamentarios?
+Respuesta Correcta: Son la organización que los partidos adoptan en las Cámaras. No son órganos de los partidos, sino asociaciones privadas de parlamentarios investidas de funciones públicas. Requieren un mínimo de miembros; los que no cumplen van al Grupo Mixto.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Autonomía Parlamentaria
+
+Pregunta: ¿Qué es la mutación de la democracia representativa en el Estado de Partidos?
+Respuesta Correcta: El centro de decisión se desplazó del Parlamento al Gobierno. Las candidaturas cerradas hacen que la fase decisiva sea la confección de candidaturas, no la votación. Los diputados actúan con disciplina de voto impuesta por el partido.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Qué diferencia hay entre concepción metodológica y axiológica de la democracia?
+Respuesta Correcta: La metodológica se centra en procedimientos (principio de mayoría). La axiológica se define por valores (pluralismo, tolerancia, libertad, igualdad). La polémica surge porque un régimen totalitario podría alcanzar el poder por vía electoral.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Cuáles son los elementos esenciales de la democracia?
+Respuesta Correcta: Soberanía popular, igualdad (isonomía, isegoría, isocracia), libertad y pluralismo, consenso, principio de mayoría, respeto de minorías, reversibilidad, división y control del poder, publicidad y primacía del Derecho.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Qué es el referendo y qué tipos existen?
+Respuesta Correcta: Es la institución que somete a votación popular una propuesta normativa o decisión política. Tipos: por contenido (normativo/no normativo), por rango (constituyente/legislativo), por eficacia (vinculante/consultivo), por obligatoriedad (preceptivo/potestativo).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Por qué el referendo consultivo es problemático según la doctrina?
+Respuesta Correcta: Es incompatible con el principio democrático porque el pueblo cuando vota no aconseja: el pueblo decide. Un referendo meramente consultivo contradice la esencia de la soberanía popular.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Qué caracteriza al régimen autocrático?
+Respuesta Correcta: El poder tiene un solo titular (persona, comité o partido), está concentrado, no soporta límites ni control efectivo, no tolera ideologías diferentes a la oficial, y la persona es instrumentalizada como medio. El totalitarismo es su forma extrema.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Democracia y Partidos Políticos
+
+Pregunta: ¿Cuál es el axioma fundamental sobre el valor jurídico de las garantías de los derechos?
+Respuesta Correcta: "Los derechos valen jurídicamente lo que valen sus garantías". La efectividad de un Estado democrático se mide por la garantía efectiva de sus derechos, no por su mera enunciación formal.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Cuáles son los tres bloques de garantías internas de los derechos?
+Respuesta Correcta: Garantías normativas (vinculación de poderes públicos, reserva de ley, contenido esencial, rigidez constitucional), garantías jurisdiccionales (tutela judicial, amparo, habeas corpus) y garantías institucionales (Defensor del Pueblo, Ministerio Fiscal).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Qué diferencia hay entre el Amparo Ordinario y el Recurso de Amparo Constitucional?
+Respuesta Correcta: El Amparo Ordinario es ante tribunales ordinarios, rápido, dentro de la vía judicial. El Recurso de Amparo Constitucional es ante el TC, subsidiario (último recurso, vía agotada), solo con "especial trascendencia constitucional".
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Qué diferencia hay entre Estado de Alarma y Estados de Excepción/Sitio respecto a los derechos?
+Respuesta Correcta: El Estado de Alarma solo permite la limitación de derechos, no su suspensión. Los Estados de Excepción y Sitio permiten la suspensión de ciertos derechos concretos enumerados en el art. 55 CE.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Qué establece la cláusula de apertura del art. 10.2 CE?
+Respuesta Correcta: Que la jurisprudencia del TEDH es criterio clave para interpretar nuestros derechos. Los jueces no pueden interpretar los derechos de espaldas a lo que dice Estrasburgo.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Cuándo adquirió la Carta de los Derechos Fundamentales de la UE valor jurídico vinculante?
+Respuesta Correcta: Con el Tratado de Lisboa (2009), que le dio a la Carta el mismo valor jurídico que los Tratados, convirtiéndola en pieza fundamental del sistema multinivel.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Los Derechos Constitucionales Multinivel
+
+Pregunta: ¿Qué establece el art. 96.1 CE sobre la recepción de los Tratados Internacionales?
+Respuesta Correcta: Sistema de recepción automática: "Los Tratados Internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno" sin necesidad de ley de incorporación.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Cuáles son los tres niveles de intervención de las Cortes en la celebración de Tratados?
+Respuesta Correcta: Art. 93 CE (Ley Orgánica para atribuir competencias a organizaciones internacionales), Art. 94.1 CE (autorización previa por mayoría simple para tratados importantes) y Art. 94.2 CE (solo información inmediata para los demás).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Cuál es la jerarquía de los Tratados en el sistema de fuentes español?
+Respuesta Correcta: Por debajo de la Constitución (norma suprema) y por encima de las leyes internas. Los tratados tienen primacía supralegal: una ley posterior no puede contradecir un tratado anterior.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Qué es el control previo de tratados del art. 95 CE?
+Respuesta Correcta: Es un control preventivo donde el Gobierno o las Cámaras pueden solicitar al TC que declare si existe contradicción con la Constitución antes de ratificar el tratado. Se usó con Maastricht (obligó a reformar art. 13.2 CE).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Cuál es la diferencia fundamental entre Estado Federal y Estado Autonómico?
+Respuesta Correcta: En el Estado Federal los estados tienen autonomía constituyente (Constitución propia). En el Autonómico la norma es el Estatuto de Autonomía (Ley Orgánica estatal). Además, en España el Poder Judicial es único para todo el Estado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Qué diferencia hay entre autonomía y soberanía?
+Respuesta Correcta: Autonomía no es soberanía. La soberanía reside en el pueblo del Estado en su conjunto. Los entes territoriales autónomos tienen competencias, instituciones y capacidad legislativa propias, pero no soberanía.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Estado Unitario y Estados Compuestos
+
+Pregunta: ¿Cuáles son los dos sistemas de formación del Gobierno?
+Respuesta Correcta: Nombramiento Directo (el Jefe de Estado encarga al líder mayoritario, sin investidura explícita; ej. Francia, Reino Unido) y Doble Fase (consultas del Jefe de Estado y después investidura expresa en el Parlamento; ej. España, Italia).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿Qué peculiaridades tiene el procedimiento de investidura en España?
+Respuesta Correcta: El Rey propone candidato al Congreso, solo se inviste al Presidente del Gobierno (no al Gobierno en pleno), hay un plazo máximo de 2 meses, y si fracasa hay disolución automática de las Cortes.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿De dónde deriva históricamente la responsabilidad política del Gobierno?
+Respuesta Correcta: Deriva de la responsabilidad penal. En Inglaterra existía el procedimiento de impeachment (acusación de Comunes, juicio de Lores) contra ministros, que evolucionó hacia la responsabilidad política.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿Cuál es la nueva división de poderes en el parlamentarismo moderno?
+Respuesta Correcta: La dialéctica Mayoría-Oposición. La clásica división de poderes se transforma en unión entre Gobierno y partido/coalición de la Mayoría. El Gobierno dirige y vigila al Parlamento, que ha dejado de ser decisor para ser legitimador.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿Cuál es el objetivo real del control parlamentario de la Oposición?
+Respuesta Correcta: El desgaste político del Gobierno, cuya eficacia se revelará en las siguientes elecciones. El funcionamiento es intrínsecamente electoralista, orientado hacia la opinión pública a través de la publicidad de las sesiones.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿Qué diferencia hay entre control ordinario y extraordinario del Gobierno?
+Respuesta Correcta: El control ordinario es simple examen de la actuación gubernamental. El control extraordinario cuestiona la relación fiduciaria para remover al Gobierno (moción de censura, cuestión de confianza).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Formación del Gobierno
+
+Pregunta: ¿Cuáles son las cuatro etapas de evolución de la Monarquía?
+Respuesta Correcta: Monarquía Absoluta (el Rey era el Estado, todos los poderes), Monarquía Limitada (soberanía compartida), Monarquía Constitucional (doble confianza) y Monarquía Parlamentaria (el Rey reina pero no gobierna).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué caracteriza a la Monarquía Parlamentaria?
+Respuesta Correcta: La soberanía reside solo en el pueblo, el Rey no forma parte de ningún poder del Estado, todos sus actos son debidos (determinados por otros órganos). El Rey carece de poderes efectivos, su función es simbólica.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué diferencia hay entre potestas y auctoritas del Rey en la Monarquía Parlamentaria?
+Respuesta Correcta: El Rey ya no tiene potestas (poder real efectivo). Su influencia radica en su auctoritas (prestigio personal). Su voluntad personal es jurídicamente irrelevante; solo confiere forma solemne a actos de Estado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué diferencia a la República de la Monarquía?
+Respuesta Correcta: La República es electiva (el Jefe de Estado es elegido) y temporal (mandato limitado). La Monarquía es hereditaria y vitalicia. El principio de acceso al cargo es la diferencia fundamental.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué establece el art. 56.3 CE sobre la responsabilidad del Rey?
+Respuesta Correcta: Que "la persona del Rey es inviolable y no está sujeta a responsabilidad". Esta inviolabilidad es absoluta, abarcando tanto el ámbito político como el penal, a diferencia del Presidente republicano.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué es el refrendo y para qué sirve?
+Respuesta Correcta: Es la firma de un miembro del gobierno en los actos del Jefe de Estado. Quien refrenda asume la responsabilidad política del acto, ya que el Jefe de Estado es políticamente irresponsable en sistemas parlamentarios.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Formas de la Jefatura del Estado
+
+Pregunta: ¿Qué diferencia hay entre Formas de Estado, Formas de Gobierno y Régimen Político?
+Respuesta Correcta: Formas de Estado: distribución territorial del poder (unitario/compuesto). Formas de Gobierno: relación entre órganos del Estado (parlamentario/presidencialista). Régimen Político: relación gobernantes-gobernados (democracia/autocracia).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Qué diferencia hay entre democracia inerme y democracia militante?
+Respuesta Correcta: La democracia inerme es neutral, permitiendo incluso ideas destructivas del sistema (ej. Weimar). La democracia militante tiene valores propios y se defiende de quienes buscan su destrucción, pudiendo ilegalizar partidos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Cuáles son los elementos estructurales esenciales de la democracia?
+Respuesta Correcta: Soberanía popular, igualdad, libertad y pluralismo político, participación representativa, principio de mayoría con respeto a minorías, reversibilidad, división de poderes, oposición, comunicación pública libre y primacía del Derecho.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Por qué el principio de mayoría no es un "cheque en blanco"?
+Respuesta Correcta: Porque su ejercicio está condicionado por el respeto escrupuloso a los derechos de las minorías y por la exigencia de mayorías reforzadas para ciertas decisiones. Democracia no es la tiranía de la mayoría.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Por qué la Oposición es un elemento estructural indispensable de la democracia?
+Respuesta Correcta: Su función es controlar al Gobierno y presentarse como alternativa creíble, haciendo posible la alternancia en el poder (principio de reversibilidad). Sin oposición efectiva no hay democracia real.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Qué ejemplos de déficit democrático se producen en el Estado Multinivel?
+Respuesta Correcta: Marginación del Poder Legislativo (decisiones del BCE sin legitimidad directa), desapoderamiento (gobiernos técnicos impuestos, reforma exprés del art. 135 CE) y uso expansivo del Decreto-Ley marginando al Parlamento.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Las Formas Políticas
+
+Pregunta: ¿Cuáles son las causas fundamentales de limitación de la soberanía estatal?
+Respuesta Correcta: Los Derechos Humanos (límite a la soberanía interna tras la Carta de la ONU), la Responsabilidad de Proteger (derecho de injerencia ante crímenes contra la humanidad), y las Organizaciones Supranacionales (UE, OTAN).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Qué diferencia hay entre cesión de soberanía y cesión del ejercicio de competencias?
+Respuesta Correcta: En la UE no hay cesión de soberanía, sino cesión voluntaria del ejercicio de competencias. La soberanía nacional reside en la facultad del Estado miembro de abandonar el club (Brexit es el ejemplo).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Qué establece el principio pacta sunt servanda?
+Respuesta Correcta: Es un principio fundamental del Derecho internacional: los tratados, una vez perfeccionados, obligan a las partes y han de ser cumplidos de buena fe desde su entrada en vigor.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Qué establece el art. 93 CE sobre la integración europea?
+Respuesta Correcta: Que mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización internacional el ejercicio de competencias derivadas de la Constitución. Es el marco legal para la integración en la UE.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Cuáles son los principales hitos de la construcción europea?
+Respuesta Correcta: Declaración Schuman (1950), Tratados de Roma (1957, CEE y EURATOM), Acta Única Europea (1986), Tratado de Maastricht (1992, creación UE y euro), Tratado de Lisboa (2007-2009, personalidad jurídica UE y Carta vinculante).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Cuándo se integró España en las principales organizaciones internacionales?
+Respuesta Correcta: Consejo de Europa (1977), OTAN (1981) y Comunidad Europea/UE (1986). La Constitución de 1978 facilitó de forma decisiva la política de integración europea de España.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Limitaciones de la Soberanía
+
+Pregunta: ¿Qué es el hiato constitucional en la democracia representativa?
+Respuesta Correcta: La distancia entre el Derecho formal (prohibición del mandato imperativo, libertad del parlamentario, escaño individual) y la realidad política (disciplina férrea de partido, Parlamento grupal, control partidista).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Puede un partido expulsar a un diputado de su escaño por indisciplina?
+Respuesta Correcta: No. Aunque el partido expulse a un diputado por indisciplina, no puede cesarlo de su escaño. El parlamentario mantiene su derecho durante toda la duración de su mandato.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Qué mutación ha sufrido la función legislativa del Parlamento?
+Respuesta Correcta: El Parlamento actúa más como órgano de legitimación de decisiones ya tomadas por el partido del Gobierno que como órgano de producción autónoma de la norma. Auge del Gobierno en decisiones con rango de ley (Decreto-Ley).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Cuáles son los principios del Presupuesto?
+Respuesta Correcta: Anualidad (aprobación y ejecución anual), Unidad y Universalidad (documento único con totalidad de gastos), y Materia Tasada (no se permite regular materia ajena, el "caballero presupuestario").
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Qué tipos de control parlamentario existen?
+Respuesta Correcta: Control de legalidad o juridicidad (cumplimiento de requisitos formales y procedimientos) y Control de oportunidad (valoración política de la actuación, control parlamentario por excelencia).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Por qué la publicidad es la piedra de toque del control parlamentario?
+Respuesta Correcta: Porque se dirige al electorado para que valore la actuación del Gobierno y extraiga consecuencias. Genera responsabilidad política difusa y desgaste político. El objetivo es lograr la alternativa en las siguientes elecciones.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: La Mutación de la Democracia Representativa
+
+Pregunta: ¿Cuáles son los tres sistemas de gobierno principales?
+Respuesta Correcta: Sistema Parlamentario (relación dinámica entre poderes, confianza), Sistema Presidencialista (separación rígida de poderes) y Sistema Convencional o de Asamblea (concentración del poder en el Parlamento).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Cuál es el elemento esencial y definitorio del sistema parlamentario?
+Respuesta Correcta: La relación fiduciaria o de confianza entre el Gobierno y el Parlamento. El Gobierno responde políticamente ante el Parlamento y este puede retirarle la confianza.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Cuáles son las características del sistema presidencialista?
+Respuesta Correcta: Separación rígida de poderes, Ejecutivo monista (todo el poder en el Presidente), ningún órgano puede remover al otro, el Presidente tiene derecho de veto, responsabilidad solo penal mediante impeachment.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Qué caracteriza al modelo español de sistema parlamentario?
+Respuesta Correcta: Se acerca al modelo alemán de Canciller: investidura personal solo del Presidente del Gobierno (no del Gobierno), selección libre de ministros por el Presidente, y moción de censura constructiva (exige candidato alternativo y mayoría absoluta).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Qué es la moción de censura constructiva?
+Respuesta Correcta: Es la exigencia de un candidato alternativo en las mociones de censura y la necesidad de mayoría absoluta para su aprobación. Refuerza la estabilidad del Gobierno.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Qué caracteriza al sistema convencional o de asamblea?
+Respuesta Correcta: Concentración del poder en el Parlamento, que es el único centro de impulsión política. El Gobierno es solo un órgano ejecutor dependiente, sin titularidad de competencias propias, removible en cualquier momento. Ejemplo: Suiza.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Sistemas de Gobierno
+
+Pregunta: ¿Cuáles son las cuatro fases históricas de la relación Partido-Estado según Triepel?
+Respuesta Correcta: Rechazo (partidos prohibidos), Ignorancia (tolerados como asociaciones privadas), Reconocimiento Legal (en leyes electorales y reglamentos) y Constitucionalización (incorporados a las Constituciones tras la Segunda Guerra Mundial).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Qué funciones constitucionales tienen los partidos según el art. 6 CE?
+Respuesta Correcta: Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular, y son instrumento fundamental para la participación política. Son "asociaciones cualificadas", no órganos del Estado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Puede ilegalizarse un partido por su ideología en España?
+Respuesta Correcta: No. El TC (STC 2003) estableció que un partido no puede ser ilegalizado por sus fines o ideología. La Ley de Partidos de 2002 permite ilegalizar solo por la actividad (apoyo reiterado y grave a violencia o terrorismo).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Es España una democracia militante?
+Respuesta Correcta: No es militante en el sentido clásico alemán (la CE permite reforma total y carece de cláusulas de intangibilidad), pero tampoco es indefensa. Articula un mecanismo de control basado en la actividad y la prohibición de la violencia.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Cuáles son las tres etapas de evolución de los partidos políticos?
+Respuesta Correcta: Partidos de Notables (S. XIX, pequeños comités de élites), Partidos de Masas (S. XX, base ideológica fuerte, movimiento obrero) y Partidos Electorales "Catch-All" (actualidad, máquinas para ganar elecciones, ideología flexible).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Qué exigencias establece el art. 6 CE sobre los partidos políticos?
+Respuesta Correcta: Su creación y actividad son libres pero deben respetar la Constitución y la ley. Su estructura interna y funcionamiento deberán ser democráticos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 2
+Tema: Soberanía Popular
+
+Pregunta: ¿Qué caracterizó el constitucionalismo español del siglo XIX?
+Respuesta Correcta: Una paradoja de inestabilidad y discontinuidad, una "fábrica de Constituciones" con divorcio entre ley y realidad. Superficialidad (política dominada por pronunciamientos y caciquismo), "Ley del Péndulo" (falso equilibrio, dominio conservador) y Juntismo.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Por qué el Estatuto de Bayona de 1808 no se considera una verdadera Constitución?
+Respuesta Correcta: Porque era una Carta Otorgada, no emanaba de la soberanía nacional sino que fue concedida por Napoleón para José I. Solo se aplicó en zonas bajo control francés. Paradójicamente, sirvió de estímulo para crear la Constitución de Cádiz.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Qué establecía el artículo 3 de la Constitución de Cádiz de 1812?
+Respuesta Correcta: Que "La soberanía reside esencialmente en la Nación", definida como "la reunión de todos los españoles de ambos hemisferios". Fue el punto de no retorno: el poder supremo pasó del Rey a la Nación.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Cuáles fueron los principios fundamentales de la Constitución de Cádiz de 1812?
+Respuesta Correcta: Soberanía nacional, división de poderes ("Monarquía moderada"), derechos y libertades (imprenta, seguridad personal, inviolabilidad del domicilio). Contradicción: confesionalidad católica exclusiva (art. 12).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Cuál fue el legado de "La Pepa" pese a su corta vigencia?
+Respuesta Correcta: Se convirtió en un mito y en la bandera del liberalismo no solo en España sino en toda Europa y América Latina, inspirando numerosos movimientos revolucionarios. Fue el gran referente del progresismo español durante todo el siglo.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Qué características técnicas tenía la Constitución de Cádiz de 1812?
+Respuesta Correcta: Texto muy extenso y detallado (384 artículos), muy rígida (irreformable durante sus primeros ocho años), reconocía derechos sin un título específico, y se presentó como restauración de las antiguas leyes.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Caracteres Generales y Periodos. El Texto de Bayona
+
+Pregunta: ¿Qué naturaleza jurídica tenía el Estatuto Real de 1834?
+Respuesta Correcta: Era una Carta Otorgada por la Reina Gobernadora, no una Constitución. Texto muy incompleto que solo regulaba las Cortes, sin mencionar derechos y libertades. Principios: soberanía regia y simple colaboración entre órganos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Qué caracterizó a la Constitución de 1837?
+Respuesta Correcta: Fue una transacción progresista forzada por la presión (motín de La Granja). Proclamaba soberanía nacional en el preámbulo pero establecía soberanía compartida Rey-Cortes. Reforzó poderes del Rey, mantuvo sufragio censitario. Fue continuamente violada.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Qué caracterizó a la Constitución de 1845?
+Respuesta Correcta: Exponente del liberalismo doctrinario (moderados de Narváez). Elimina cualquier mención a la soberanía nacional, refuerza el poder del Rey, suprime la Milicia Nacional, establece confesionalidad católica. Constitución hecha sin el otro partido.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Qué supuso la Constitución de 1869 en la historia constitucional española?
+Respuesta Correcta: Un salto cualitativo: primera constitución democrática. Proclama soberanía nacional y sufragio universal masculino. Declaración de derechos avanzadísima, reconociéndolos como naturales, anteriores e "ilegislables". Primera vez libertad de cultos.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Qué modelo de gobierno estableció la Constitución de 1869?
+Respuesta Correcta: Monarquía Parlamentaria democrática. El Rey era un poder constituido, no constituyente, sometido a la soberanía nacional. La Nación decide tener Rey. División de poderes y sistema parlamentario donde el Gobierno necesitaba la confianza de las Cortes.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Por qué fracasó el Proyecto de Constitución Federal de 1873?
+Respuesta Correcta: Nunca se aprobó debido a divisiones internas (intransigentes vs. benévolos), continuación de las guerras e insurrección cantonal. El golpe de Pavía (1874) disolvió el Parlamento y abrió camino a la Restauración.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Estatuto Real de 1834
+
+Pregunta: ¿Cuáles eran las características del régimen franquista en su fase inicial (1939-1945)?
+Respuesta Correcta: Inspiración en Italia fascista y Alemania nazi, vocación totalitaria. Concentración de poder absoluto en Franco (Jefatura de Estado, Gobierno, Ejército y partido único). Represión brutal mediante leyes de Responsabilidades Políticas y Represión de Masonería y Comunismo.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Cuáles fueron las principales Leyes Fundamentales del franquismo?
+Respuesta Correcta: Fuero del Trabajo (1938), Ley Constitutiva de las Cortes (1942, parlamento orgánico sin poder real), Fuero de los Españoles (1945, derechos supeditados al régimen), Ley del Referéndum (1945), Ley de Sucesión (1947, España como Reino).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Qué diferencia hay entre régimen totalitario y autoritario?
+Respuesta Correcta: El totalitario exige adhesión total, busca controlar cada rincón de la vida mediante ideología y partido de masas, suprime todo pluralismo. El autoritario le basta con la apatía, suprime pluralismo político pero permite uno social y económico limitado.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Cómo evolucionó el franquismo tras 1945?
+Respuesta Correcta: De totalitario a autoritario. Tras la derrota del Eje, se presentó como "democracia orgánica" católica. Franco actuaba como árbitro entre "familias" (ejército, Iglesia, monárquicos, tecnócratas Opus Dei). Era dictadura personalista, no poder de un partido.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Qué estableció la Ley Orgánica del Estado de 1967?
+Respuesta Correcta: Separó por primera vez las figuras de Jefe del Estado y Jefe del Gobierno (aunque Franco siguió ocupando ambas). Fue parte de la tímida institucionalización del régimen junto con la Ley de Prensa de 1966 que eliminó la censura previa.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Cuáles fueron los factores que precipitaron el fin del franquismo?
+Respuesta Correcta: Conflictividad creciente (movimiento obrero, protesta universitaria, terrorismo ETA), asesinato de Carrero Blanco (1973, dejó al régimen sin sucesor claro), y la muerte de Franco (20 noviembre 1975) que abrió la puerta a la Transición.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Régimen de Franco Bahamonde
+
+Pregunta: ¿Cuál era el objetivo del sistema de la Restauración de Cánovas?
+Respuesta Correcta: Instaurar un régimen estable que pusiera fin a la inestabilidad y pronunciamientos militares, aunque sacrificando la democracia real. Creía que la Constitución escrita debía reflejar la "Constitución interna" (Rey y Cortes).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Qué características tenía la Constitución de 1876?
+Respuesta Correcta: Texto más longevo hasta la actual. Híbrido elástico y flexible para que ambos partidos gobernaran sin cambiarla. Soberanía compartida (Cortes con el Rey), poderes reforzados del Rey, derechos remitidos a leyes ordinarias, confesionalidad católica.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Cómo funcionaba el turno pacífico de la Restauración?
+Respuesta Correcta: Lógica inversa a la democracia: 1) El Rey nombraba nuevo Presidente del partido de oposición, 2) Este recibía decreto de disolución, 3) El Ministro de Gobernación "fabricaba" Cortes a medida (encasillado), 4) Caciques aseguraban resultados mediante fraude (pucherazo).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Por qué se agotó el sistema de la Restauración?
+Respuesta Correcta: Por la incapacidad para integrar nuevas fuerzas sociales (movimiento obrero, nacionalismos periféricos). El Desastre de 1898 (pérdida de Cuba y Filipinas) evidenció la debilidad. El golpe de Primo de Rivera (1923) suspendió la Constitución.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Qué principios estableció la Constitución de la Segunda República de 1931?
+Respuesta Correcta: "República de trabajadores de toda clase" (art. 1), soberanía popular, sufragio universal (primera vez mujeres), laicismo radical (separación Iglesia-Estado, disolución de jesuitas), Estado integral (antecedente del Estado de Autonomías).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Cuál fue el fallo de diseño de la Constitución de 1931?
+Respuesta Correcta: El Presidente de la República tenía poderes muy significativos (nombrar/cesar Presidente del Gobierno, disolver Cortes hasta dos veces). Debía ser árbitro pero se convirtió en jugador político, rompiendo el equilibrio e inestabilizando el régimen.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: Restauración de la Monarquía
+
+Pregunta: ¿Qué fue el Pacto de Ostende (1866) y cuál era su objetivo?
+Respuesta Correcta: Pacto firmado por progresistas y demócratas para derrocar a Isabel II y convocar Cortes Constituyentes elegidas por sufragio universal. El salto conceptual: la exigencia de sufragio universal masculino separó esta revolución del liberalismo elitista anterior.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+
+Pregunta: ¿Por qué la Constitución de 1869 es considerada la primera democrática de España?
+Respuesta Correcta: Proclamaba soberanía nacional ("esencialmente en la Nación"), sufragio universal masculino por primera vez, derechos como naturales anteriores y superiores a la ley, y libertad de cultos. Ruptura con todo lo anterior.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+
+Pregunta: ¿Por qué fracasó el reinado de Amadeo I?
+Respuesta Correcta: Por el asesinato de su principal valedor (Prim), la doble guerra (carlista y cubana), y la desintegración de la coalición de partidos. Abdicó el 11 de febrero de 1873 y las Cortes proclamaron la Primera República casi por descarte.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+
+Pregunta: ¿Qué establecía el Proyecto de Constitución Federal de 1873?
+Respuesta Correcta: Inspirado en EE.UU., establecía una España federal con Estados regionales, rígida separación de poderes y Estado laico. No debe confundirse con el Estado de Autonomías de 1978 (modelo diferente: soberanías compartidas vs. unidad y autonomía).
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+
+Pregunta: ¿Cuáles fueron las causas del colapso de la Primera República?
+Respuesta Correcta: Divisiones internas (intransigentes vs. benévolos), continuación de las guerras, e insurrección cantonal (construir federación "desde abajo"). El golpe de Pavía (enero 1874) disolvió el Parlamento y abrió camino a la Restauración.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+
+Pregunta: ¿Cuál fue el significado histórico del Sexenio Revolucionario?
+Respuesta Correcta: Fue un fracaso en consolidar un régimen democrático estable por la heterogeneidad de las fuerzas revolucionarias, pero su legado es innegable: primer gran intento de modernizar España, romper el orden oligárquico y construir una nación de ciudadanos libres e iguales.
+Manual: Manual de Teoría del Estado Constitucional
+Bloque: 3
+Tema: El Sexenio Revolucionario
+

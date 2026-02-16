@@ -1,0 +1,864 @@
+Pregunta: ¿Qué significa el aforismo latino "ubi societas ibi ius"?
+Respuesta Correcta: Significa "donde hay sociedad, hay Derecho", expresando el carácter social ineludible del Derecho y la interdependencia entre sociedad y ordenamiento jurídico.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿De qué obra se copió el término "Teoría del Derecho" y quién fue su autor?
+Respuesta Correcta: Se copió del título de la obra "La teoría pura del derecho" del jurista austríaco Hans Kelsen, suprimiendo el adjetivo "pura".
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿Cuáles son las dos caras del Derecho según su naturaleza bifronte?
+Respuesta Correcta: La cara del dominio (castigo, coerción, sometimiento) y la cruz de la garantía (seguridad, libertad, protección).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿Qué objetivo epistemológico perseguía la adopción del término "Teoría del Derecho"?
+Respuesta Correcta: Hacer científico el estudio del Derecho, inspirándose en el principio de cientificidad.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿Cuáles son las dos corrientes doctrinales sobre el origen del sentimiento jurídico popular?
+Respuesta Correcta: La corriente innata (el sentimiento de justicia es inherente a la naturaleza humana) y la corriente educativa (es producto de la educación y socialización).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿Qué quiso expresar Cicerón con la sentencia "todo deviene incierto cuando se aleja del Derecho"?
+Respuesta Correcta: Que el Derecho opera como garantía de seguridad y libertad, proporcionando certeza y protección frente al peligro.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué es la Teoría del Derecho?
+
+Pregunta: ¿Cuál es la definición canónica de Derecho propuesta en el manual?
+Respuesta Correcta: Conjunto de acciones sociales creadoras de o reguladas por normas que deben establecer un orden justo en un determinado contexto histórico.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: Según Thomas Hobbes, ¿cuál es la función primordial del Derecho?
+Respuesta Correcta: Función punitiva: castigar y coartar los instintos naturales nocivos del hombre (violencia, agresividad) para posibilitar la vida en sociedad.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: Según Jean-Jacques Rousseau, ¿de dónde provienen los males sociales?
+Respuesta Correcta: De las instituciones sociales que corrompen la bondad innata del ser humano, no de la propia naturaleza humana.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: ¿Qué significa la expresión latina "Homo homini lupus" y a qué autor se asocia?
+Respuesta Correcta: Significa "el hombre es un lobo para el hombre", asociada a Hobbes, quien defiende que la naturaleza humana es esencialmente mala.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: ¿Cuáles son las tres perspectivas principales en la definición del Derecho según la ideología?
+Respuesta Correcta: Como instrumento de integración social, como garantía de seguridad y desarrollo personal, y como mandato coactivo y poder.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: ¿Qué filósofo señaló que los juristas todavía buscaban una definición para el Derecho?
+Respuesta Correcta: Immanuel Kant, el filósofo de Königsberg, destacando la complejidad de la cuestión "quid ius" (qué es el Derecho).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 2: ¿Qué es el Derecho? (Parte 1)
+
+Pregunta: ¿Cuáles son las tres dimensiones clásicas de la Teoría Tridimensional del Derecho?
+Respuesta Correcta: Dimensión del Hecho Social (facticidad), Dimensión Normativa (norma) y Dimensión Valorativa (valor).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Qué cuarta dimensión debe añadirse a las tres dimensiones clásicas del Derecho?
+Respuesta Correcta: La Dimensión Histórica, que cumple la función de temporalizar y contextualizar las otras tres dimensiones.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Qué postula la Escuela Histórica de Savigny sobre el origen del Derecho?
+Respuesta Correcta: Que el Derecho es creado por el espíritu popular (Volksgeist) o el sentimiento del pueblo; lo que interesa a la colectividad se transforma en ley.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Cuál es el rasgo caracterizador del Positivismo Jurídico según la Teoría del Derecho?
+Respuesta Correcta: La validez: el Derecho será tal cuando haya sido creado siguiendo los procedimientos establecidos en una norma superior.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Qué sostiene el Realismo Americano sobre la creación del Derecho?
+Respuesta Correcta: Que el Derecho es creado por las sentencias judiciales; el juez se apoya en la jurisprudencia previa, rara vez creando Derecho ex novo.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Qué prescribe el artículo 3.1 del Código Civil sobre la interpretación de las normas?
+Respuesta Correcta: Que la interpretación debe tener presente los antecedentes históricos y la realidad social del tiempo en que han de ser aplicadas.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 3: ¿Qué es el Derecho? (Parte 2)
+
+Pregunta: ¿Cómo se define el Derecho Objetivo?
+Respuesta Correcta: Como la norma imperativa o el conjunto de reglas que componen el ordenamiento jurídico en su totalidad; es el precepto que permite o prohíbe una conducta.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Cómo se define el Derecho Subjetivo?
+Respuesta Correcta: Como la facultad o poder atribuido a un sujeto para realizar o abstenerse de realizar algo, o para exigir de otro un comportamiento determinado.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Cuáles son los cinco criterios diferenciadores entre Derechos de la Personalidad y Derechos Patrimoniales?
+Respuesta Correcta: Titularidad, origen, transmisibilidad, prescripción o caducidad, y validez o exigencia (eficacia).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Qué diferencia existe entre Derechos Reales y Derechos de Obligaciones?
+Respuesta Correcta: Los Derechos Reales permiten la disposición sobre una cosa; los Derechos de Obligaciones facultan para exigir a otros un determinado comportamiento.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Qué significa que los Derechos de la Personalidad sean "erga omnes"?
+Respuesta Correcta: Que son absolutos y pueden hacerse valer frente a todos, a diferencia de los Derechos Patrimoniales que generalmente son relativos.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Cuál es la diferencia fundamental entre Derecho Público y Derecho Privado?
+Respuesta Correcta: El Derecho Público regula la organización del Estado y sus relaciones con particulares (con imperium); el Derecho Privado regula relaciones entre particulares en plano de igualdad.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 4: Derecho Objetivo y Subjetivo
+
+Pregunta: ¿Cómo se define el Derecho Natural (Iusnaturalismo)?
+Respuesta Correcta: Como el conjunto de principios derivados de la naturaleza humana que sirven de criterio inspirador y límite crítico a todo Derecho Positivo.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Cuál es la doble función del Derecho Natural respecto al Derecho Positivo?
+Respuesta Correcta: Inspirar (como guía para la creación normativa) y limitar (servir de crítica al Derecho puesto).
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Qué sostenía Santo Tomás de Aquino sobre la relación entre ley humana y ley natural?
+Respuesta Correcta: Que la ley humana solo es ley en la medida en que derive de la ley natural; si se aparta de ella, es corrupción de la ley.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Qué es el Derecho Positivo y cuándo apareció doctrinalmente el término?
+Respuesta Correcta: Es el derecho puesto o impuesto por quien ejerce el poder, válido en su ámbito espacial y temporal. El término apareció en el siglo XII con Abelardo.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Qué es el monismo jurídico y qué corriente lo defiende?
+Respuesta Correcta: Es la postura que considera al Derecho Positivo como el único derecho existente, rechazando cualquier derecho natural o supralegal. Lo defienden los positivistas.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Cuál es la diferencia entre el Iusnaturalismo Antiguo (Escolástico Medieval) y el Moderno?
+Respuesta Correcta: El Antiguo equiparaba Derecho y Derecho Natural de forma estricta; el Moderno es menos estricto, sometido a evolución, y es fuente de los actuales Derechos Humanos.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 5: Iusnaturalismo y Positivismo
+
+Pregunta: ¿Qué postula la Jurisprudencia de Intereses de Hecht?
+Respuesta Correcta: Que las normas jurídicas son pronunciamientos sobre cuál de los intereses contrapuestos debe prevalecer; el jurista debe interpretar el interés que el legislador intenta proteger.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Qué defiende el Movimiento del Derecho Libre y cuál es su riesgo?
+Respuesta Correcta: Defiende la libertad del juez para dictar sentencias basándose en el sentido de justicia de la comunidad. El riesgo es que el juez imponga sus propios sentimientos o los del partido dominante.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Cómo concibe la doctrina marxista al Derecho?
+Respuesta Correcta: Como un instrumento al servicio de la clase económica gobernante para perpetuar su poder y mantener sometida a la clase oprimida; una superestructura que legitima la base económica.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Cómo definió Holmes el Derecho según el Realismo Jurídico?
+Respuesta Correcta: Como "unas profecías acerca de lo que van a hacer en realidad los tribunales"; el Derecho auténtico son las normas que probablemente van a ser aplicadas por los jueces.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Qué defiende el movimiento del Uso Alternativo del Derecho?
+Respuesta Correcta: Una interpretación y aplicación del Derecho que se ponga al servicio de los intereses de las clases populares, denunciando la politización del "Derecho burgués".
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Qué elemento común une a todas las corrientes sociologistas del Derecho?
+Respuesta Correcta: El interés por la efectividad social del Derecho, reduciendo la validez jurídica a la eficacia; el Derecho auténtico es el que los hombres efectivamente aplican.
+Manual: Teoría del Derecho
+Bloque: Bloque 1
+Tema: Tema 6: Concepciones Sociologistas del Derecho
+
+Pregunta: ¿Cuáles son los tres criterios tradicionales para distinguir el Derecho de la Moral?
+Respuesta Correcta: Foro interno (Moral) vs. foro externo (Derecho); unilateralidad (Moral) vs. bilateralidad (Derecho); autonomía (Moral) vs. heteronomía (Derecho).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿A qué autores se debe la distinción entre foro interno y foro externo?
+Respuesta Correcta: A Kant y Tomasio, quienes distinguieron entre el Derecho (que regula la conducta externa) y la Moral (ubicada en el foro interno de la conciencia).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿Por qué se dice que el Derecho es bilateral y la Moral es unilateral?
+Respuesta Correcta: El Derecho es bilateral porque regula relaciones sociales (con otros); la Moral es unilateral porque es un fenómeno esencialmente personal e individual que queda en la conciencia.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿Qué significa que el Derecho sea heterónomo y la Moral autónoma?
+Respuesta Correcta: El Derecho es heterónomo porque es un imperativo procedente de una voluntad ajena (el legislador); la Moral es autónoma porque es una norma que el hombre se da a sí mismo en ejercicio de su libertad.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿Cuál es la crítica marxista al criterio de unilateralidad de la Moral?
+Respuesta Correcta: Que niega el carácter social del hombre; la Moral aparece en el seno de la sociedad y tiene por objeto comportamientos que se refieren a otras personas, por lo que tiene una innegable dimensión social.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿Por qué la distinción foro interno/externo fue relevante para la descriminalización de ciertas conductas?
+Respuesta Correcta: Porque permitió reconocer una dimensión privada de la conducta y valores internos de la persona (dignidad, intimidad), fundamentando la descriminalización de conductas como la homosexualidad.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 1: Relaciones entre Derecho y Moral (Parte 1)
+
+Pregunta: ¿Qué defiende el modelo de Separación Radical de Kelsen sobre Derecho y Moral?
+Respuesta Correcta: Que son órdenes normativos autónomos sin interferencia; la validez del Derecho es independiente de su contenido moral. El Derecho se fundamenta en la Norma Fundamental (Grundnorm).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Cuáles son las dos críticas principales a la teoría kelseniana?
+Respuesta Correcta: Que la Norma Fundamental no es real sino una ficción o hipótesis, y que al separar tajantemente Derecho y Moral, Kelsen identifica el Derecho con el Estado como mero orden normativo.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Qué sostiene el modelo de Integración Absoluta (Iusnaturalismo Neotomista)?
+Respuesta Correcta: Que la Moral abarca y subsume las demás normatividades; no se admite la existencia de una ley que no sea justa. La ley injusta es "corrupción de la ley" (Santo Tomás de Aquino).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Qué ejemplo del Derecho español ilustra el modelo de Integración Relativa de Dworkin?
+Respuesta Correcta: El deber de socorro: es una exigencia ética o moral que está plasmada como obligación jurídica en el art. 195 del Código Penal (delito de omisión del deber de socorro).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Cuál es el peligro de un "derecho sin alma" según la reflexión sobre el Derecho nazi?
+Respuesta Correcta: Que se prime la validez formal sobre la justicia material, permitiendo leyes injustas pero formalmente válidas, como ocurrió en la Alemania nazi.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Qué reconoce el modelo de Separación Relativa (Positivismo Moderado) de Herberger?
+Respuesta Correcta: Reconoce la autonomía del Derecho pero acepta puntos de conexión con la Moral; el Derecho Positivo posee una mínima fundamentación ética (ej. Principios Generales del Derecho, art. 1.4 CC).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 2: Relaciones entre Derecho y Moral (Parte 2)
+
+Pregunta: ¿Qué son los Usos Sociales y qué función cumplen?
+Respuesta Correcta: Son una categoría normativa residual; normas que estructuran la acción humana en aspectos no reglados por el Derecho ni la Moral (ej. reglas de trato como el saludo o de decencia como la indumentaria).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Cuál es la diferencia entre Usos Fuertes (Custom) y Usos Débiles (Habits)?
+Respuesta Correcta: Los Usos Fuertes conllevan consecuencias graves si se omiten (ej. omitir el saludo); los Usos Débiles conllevan consecuencias menores (ej. almorzar a una hora determinada).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Por qué se dice que los Usos Sociales son "Derecho en potencia"?
+Respuesta Correcta: Porque lo que antes era un uso social puede ser hoy objeto de regulación jurídica (ej. la indumentaria, hoy reglamentada para el Ejército o la Policía).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Cuál es la diferencia entre la sanción del Derecho y la sanción de los Usos Sociales?
+Respuesta Correcta: La sanción del Derecho es formal, coercitiva e institucionalizada; la del Uso es amorfa, una desaprobación social con efectos difícilmente determinables, pero que puede ser más grave que la jurídica.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Qué función tiene la costumbre en el Derecho español según el art. 1.3 del Código Civil?
+Respuesta Correcta: Función supletoria: solo es aplicable en defecto de ley. Sigue siendo fuente significativa en el Derecho Internacional, Derecho Privado y Derecho Laboral.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Por qué la Escuela Histórica de Savigny reivindica la costumbre sobre la ley?
+Respuesta Correcta: Porque considera la costumbre el producto más auténtico de las tradiciones jurídicas de cada pueblo, un instrumento de resistencia a la ley y el "Derecho vivo" con mayor eficacia social.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 3: Los Usos Sociales
+
+Pregunta: ¿Cuáles son las tres subteorías sobre la relación entre Derecho y Fuerza?
+Respuesta Correcta: Fuerza como instrumento (medio para realizar el Derecho), Fuerza como objeto (normas que regulan el uso de la fuerza), y Fuerza como identidad (el Derecho es la Fuerza misma, según Kelsen).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Cuál es la diferencia entre coacción y coercibilidad?
+Respuesta Correcta: Coacción es la fuerza en acto (acción material que se ejerce); coercibilidad es la fuerza en potencia (posibilidad de recurrir a la fuerza si fuera necesario).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Qué corriente defiende la coacción como elemento esencial del Derecho y cuál la coercibilidad?
+Respuesta Correcta: Los positivistas defienden la coacción como elemento esencial de todas las normas; los iusnaturalistas y visiones más realistas se decantan por la coercibilidad (fuerza en potencia).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Cuáles son las tres formas de ejecución forzosa de la sanción jurídica?
+Respuesta Correcta: Compulsión sobre las personas (obligar al deudor a pagar), ejecución subsidiaria (la Administración realiza la acción a costa del infractor), y penas o sanciones administrativas.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Cuáles son los cinco requisitos del sistema sancionatorio en un Estado de Derecho?
+Respuesta Correcta: QUÉ se castiga (tipificación), CÓMO se castiga (tipo de sanciones), QUIÉN castiga (órganos competentes), DE QUÉ FORMA (procedimientos y recursos), y DÓNDE (sedes físicas).
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Qué significa la "impositividad inexorable" del Derecho?
+Respuesta Correcta: Que el Derecho impone forzosamente una conducta sin que le afecte la opinión o voluntad del sujeto, a diferencia de otros sistemas normativos como la Moral o los Usos Sociales.
+Manual: Teoría del Derecho
+Bloque: Bloque 2
+Tema: Tema 4: El Derecho y la Fuerza
+
+Pregunta: ¿Cuáles son los dos tipos de Justicia que distinguió Aristóteles?
+Respuesta Correcta: Justicia Distributiva (regula el reparto de cargas y honores de la comunidad) y Justicia Conmutativa (regula las relaciones contractuales entre ciudadanos).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Qué tensión existe entre los valores de Libertad e Igualdad?
+Respuesta Correcta: Una excesiva libertad económica genera desigualdad, mientras que la búsqueda de igualdad sacrifica libertad. El individualismo (libertad) choca con el colectivismo (igualdad).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Qué significa Seguridad Jurídica y a qué se opone?
+Respuesta Correcta: Significa ausencia de dudas y se opone a la arbitrariedad. El Derecho delimita el campo donde los ciudadanos saben con certeza a qué atenerse respecto a sus derechos y deberes.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Cuál es la diferencia entre Justicia Formal y Justicia Material?
+Respuesta Correcta: La Justicia Formal es "dar a cada uno lo suyo" (idea abstracta); la Justicia Material es el criterio práctico de aplicación, el "cómo" aplicar ese principio formal.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Qué conclusión extrajo Perelman de su investigación sobre los criterios de Justicia Material?
+Respuesta Correcta: Que ninguno de los criterios materiales es totalmente satisfactorio; no existe una forma única de conciliar la justicia formal con una regla de aplicación que elimine todas las injusticias.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Cuál es el problema del criterio "a cada uno según sus méritos"?
+Respuesta Correcta: Que los méritos están condicionados a las oportunidades culturales, sociales y económicas previas del individuo, no siendo un criterio equitativo.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 1: La Teoría de la Justicia (Parte I)
+
+Pregunta: ¿Qué postula el Imperativo Categórico de Kant sobre lo justo?
+Respuesta Correcta: "Obra de tal modo que una máxima de tu voluntad pueda ser elevada a ley universal"; es un principio de coherencia y generalización de la conducta.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Cuál es el principio fundamental de la tradición Utilitarista (Bentham, Mill)?
+Respuesta Correcta: "La máxima felicidad para el mayor número posible"; la bondad o maldad de las acciones se mide por el grado de placer o dolor que produce.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Qué es el "Velo de la Ignorancia" en la teoría de Rawls?
+Respuesta Correcta: Una posición original donde los individuos eligen principios de justicia sin saber su lugar en la sociedad (género, clase, talento), garantizando imparcialidad en la elección.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Cuáles son los dos principios de justicia de Rawls?
+Respuesta Correcta: Principio de Igual Libertad (derecho igual al más amplio sistema de libertades) y Principio de la Diferencia (las desigualdades solo son justas si benefician a los menos aventajados).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Qué defiende Robert Nozick en su Teoría de la Titularidad?
+Respuesta Correcta: Un Estado mínimo (vigilante/policía) que solo garantice derechos previos, proteja la propiedad y la libre transferencia de bienes; cualquier redistribución viola derechos individuales.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Cuál es la crítica central a la tradición Utilitarista?
+Respuesta Correcta: Que puede justificar el sacrificio de los derechos de una minoría si ello proporciona mayor placer a la mayoría (ej. condenar a un inocente si la mayoría se siente más segura).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 2: Las Concepciones de la Justicia (Parte II)
+
+Pregunta: ¿Cómo se definen los Derechos Humanos?
+Respuesta Correcta: Como el conjunto de facultades e instituciones que concretan las exigencias de dignidad, libertad e igualdad humanas, y que deben ser reconocidas positivamente por los Estados.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿Cuál es la diferencia entre Derechos Humanos y Derechos Fundamentales?
+Respuesta Correcta: Los Derechos Humanos son exigencias éticas universales; los Derechos Fundamentales son Derechos Humanos positivizados (recogidos en una ley o Constitución).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿Cuáles son las tres acepciones de Libertad en la Constitución Española?
+Respuesta Correcta: Libertad Negativa (ausencia de vínculos/coacciones), Libertad Positiva (posibilidad de realizar actividades) y Libertad Social (participación en la formación de la voluntad estatal).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿Cuál es el doble enfoque de la Dignidad Humana?
+Respuesta Correcta: Sentido Negativo (garantía de no ser objeto de ofensas o humillaciones) y Sentido Positivo (afirmación del pleno desarrollo de la personalidad/autodisponibilidad).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿En qué tres tipos de derechos se concretan los valores de Dignidad, Libertad e Igualdad?
+Respuesta Correcta: Derechos de la Personalidad (dignidad), Derechos de las Libertades personales/civiles/políticas (libertad), y Derechos Económicos, Sociales y Culturales - DESC (igualdad).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿Qué artículos de la CE recogen ejemplos de Libertad Negativa?
+Respuesta Correcta: Art. 16 (libertad ideológica), Art. 19 (circulación), Art. 20 (expresión); garantizan la no injerencia de poderes extraños al sujeto.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 3: Derechos Humanos
+
+Pregunta: ¿Cuál es la diferencia entre Igualdad Material e Igualdad Formal?
+Respuesta Correcta: La Igualdad Material busca equiparación real de bienes y situaciones (Art. 9.2 CE); la Igualdad Formal es el principio de igualdad ante la ley (Art. 14 CE).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Cuáles son las tres exigencias de la Igualdad Formal?
+Respuesta Correcta: Exigencia de Generalidad (todos sometidos a las mismas normas), Exigencia de Equiparación (trato igual para situaciones irrelevantes) y Exigencia de Diferenciación (trato distinto cuando es necesario).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Qué es la discriminación inversa (o positiva)?
+Respuesta Correcta: Medidas que derogan garantías de igualdad formal en nombre de la igualdad material, discriminando favorablemente a grupos históricamente oprimidos para compensar injusticias.
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Cuáles son las tres objeciones doctrinales a la discriminación inversa?
+Respuesta Correcta: Jurídica (atentado a la igualdad de trato), Política (debe primar el mérito sobre las cuotas) y Moral (el mal medio no justifica el buen fin).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Qué artículos de la CE integran los valores de Dignidad, Libertad e Igualdad?
+Respuesta Correcta: Art. 1.1 (valores superiores del Estado), Art. 9.2 (promover libertad e igualdad reales) y Art. 10.1 (dignidad como fundamento del orden político).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Qué sucede cuando se sacrifica un valor (Dignidad, Libertad o Igualdad) en nombre de los otros?
+Respuesta Correcta: Se producen situaciones de conflicto y muerte de los derechos humanos (ej. Chile de Pinochet sacrificó libertad e igualdad; Apartheid sacrificó dignidad e igualdad).
+Manual: Teoría del Derecho
+Bloque: Bloque 3
+Tema: Tema 4: Derechos Humanos (Parte 2)
+
+Pregunta: ¿Cómo se define el Bien Común?
+Respuesta Correcta: Como el conjunto de beneficios orientados a la satisfacción de necesidades básicas que permiten el pleno desarrollo humano y la consecución de la felicidad dentro de una comunidad política.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: ¿Cuál es la crítica marxista al concepto de bien común?
+Respuesta Correcta: Que es ilusorio en una sociedad burguesa por la división de clases; el Estado es instrumento de la clase dominante y el "bien común" solo legitima sus intereses.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: ¿Qué crítica hace Hayek al bien común desde el liberalismo?
+Respuesta Correcta: Que se utiliza para justificar que el gobierno redistribuya por la fuerza las ganancias, y que aceptar todas las exigencias de los ciudadanos haría la sociedad ingobernable.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: ¿Qué diferencia existe entre Personalismo y Transpersonalismo?
+Respuesta Correcta: El Personalismo concibe el bien común como la suma de bienes de las personas (el hombre es fin en sí mismo); el Transpersonalismo lo ve como realidad superior a los intereses individuales.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: ¿Qué autores representan el Personalismo y el Transpersonalismo?
+Respuesta Correcta: Kant representa el Personalismo (el ser humano no puede ser usado como medio); Hegel representa el Transpersonalismo (el Estado como encarnación de Dios en el mundo).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: ¿Cuál es el riesgo del Transpersonalismo?
+Respuesta Correcta: Que entidades colectivas (Nación, Pueblo, Estado) absorban los derechos de los individuos en nombre del interés estatal, instrumentalizando a la persona.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 1: El Bien Común
+
+Pregunta: Según Hart, ¿cuáles son los dos tipos esenciales de reglas en todo ordenamiento jurídico?
+Respuesta Correcta: Normas Primarias (reglas de conducta que imponen deberes) y Normas Secundarias (meta-reglas que se refieren a las normas primarias).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Qué función cumplen las Reglas de Reconocimiento?
+Respuesta Correcta: Especifican las condiciones que debe cumplir una norma para ser considerada válida y jurídica, proporcionando un criterio de validez (resuelven la falta de certeza normativa).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Qué función cumplen las Reglas de Cambio?
+Respuesta Correcta: Especifican los procedimientos y condiciones para promulgar o derogar normas, permitiendo adaptar el ordenamiento a la realidad social (resuelven la estaticidad normativa).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Qué función cumplen las Reglas de Adjudicación?
+Respuesta Correcta: Adjudican la potestad de aplicar el Derecho a jueces y tribunales y definen el procedimiento para decidir cuándo se ha transgredido una norma (resuelven la inseguridad en la aplicación).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Cuáles son las tres carencias de las sociedades primitivas que resuelven las normas secundarias?
+Respuesta Correcta: Falta de certeza normativa, estaticidad normativa (las reglas cambian lentamente) e inseguridad en la aplicación (no hay órganos que juzguen incumplimientos).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Qué convierte un conjunto de reglas en un sistema jurídico moderno según Hart?
+Respuesta Correcta: La creación de normas secundarias (de reconocimiento, cambio y adjudicación) que convierten un conjunto desordenado de reglas en un sistema cohesionado, dinámico y eficaz.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 2: Tipos de Normas en Nuestro Ordenamiento
+
+Pregunta: ¿Cómo se define la desobediencia civil?
+Respuesta Correcta: Como un acto público, no violento, consciente y político, contrario a la ley, cometido con el propósito de ocasionar un cambio en la ley o en los programas de gobierno.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Cuáles son las cuatro características diferenciadoras de la desobediencia civil?
+Respuesta Correcta: Pública (a la vista de todos), no violenta, consciente y política (se acepta cometer un ilícito), y aceptación de la sanción (demuestra sinceridad y respeto al ordenamiento).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Qué diferencia existe entre desobediencia civil y objeción de conciencia?
+Respuesta Correcta: La desobediencia civil busca activamente cambiar la ley (fin político y público); la objeción de conciencia es una negativa individual a cumplir un deber por razones morales personales.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Cuándo se vuelve eficaz la desobediencia civil?
+Respuesta Correcta: Cuando existe un desfase entre el nivel legal (ley positiva injusta) y el nivel popular (valores dominantes que repudian esa injusticia).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Quién fue Henry David Thoreau y qué hizo?
+Respuesta Correcta: Autor del libro "Desobediencia Civil" (s. XIX), fue encarcelado por negarse a pagar impuestos como protesta moral contra la esclavitud y la guerra.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Por qué es importante que el desobediente civil acepte la sanción?
+Respuesta Correcta: Porque demuestra la sinceridad del comportamiento, el respeto hacia el ordenamiento jurídico, y despierta la indignación social sobre la injusticia de la ley.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 3: La Desobediencia Civil
+
+Pregunta: ¿Cuál es la diferencia entre la función del Derecho en el Estado Liberal y en el Estado Social?
+Respuesta Correcta: En el Estado Liberal: supervisión y mantenimiento (interviene cuando algo falla). En el Estado Social: dirección y guía (dirige activamente hacia objetivos como equidad).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Qué es la "conducta desviada" y cuándo interviene el Derecho?
+Respuesta Correcta: Es toda conducta que se aparta de las normas sociales más importantes. El Derecho interviene cuando fallan los mecanismos informales de socialización (familia, educación).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Qué significa que el Derecho sea "última ratio"?
+Respuesta Correcta: Que es el último recurso que tiene la sociedad para integrar, mediante medios coercitivos, a quienes realizan conductas que ponen en peligro el sistema social.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Cuál es la doble cara del Derecho como medio y fin?
+Respuesta Correcta: Como medio: es una técnica de represión, vigilancia y promoción. Como fin: es el objetivo que se busca lograr (orden, seguridad, libertad).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Cuáles son las cuatro maneras fundamentales en que el Derecho opera sobre la vida social?
+Respuesta Correcta: Previniendo, Reprimiendo, Promocionando y Premiando la conducta.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Qué diferencia existe entre la operación "a priori" y "a posteriori" del Derecho?
+Respuesta Correcta: A priori: se anticipa a la conducta mediante prevención y promoción. A posteriori: espera a que se produzcan conductas para luego reprimir o sancionar.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 4: El Derecho Como Medio De Control
+
+Pregunta: ¿Qué es interpretar en el ámbito jurídico?
+Respuesta Correcta: Desentrañar el sentido de una expresión normativa ambigua u oscura, transformando los términos abstractos y generales en términos concretos para aplicarlos a un caso particular.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Cuál es la diferencia entre la Teoría Subjetiva y la Teoría Objetiva de interpretación?
+Respuesta Correcta: La Subjetiva indaga la voluntad del legislador que creó la norma; la Objetiva busca el sentido de la norma en el momento de aplicación, adaptándola a las circunstancias actuales.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Cuáles son los cinco criterios de interpretación de Savigny?
+Respuesta Correcta: Gramatical (sentido literal), Sistemático (relación con otras normas), Histórico (antecedentes normativos), Sociológico (marco social actual) y Teleológico (finalidad de la norma).
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Qué busca el criterio Teleológico de interpretación?
+Respuesta Correcta: La finalidad o espíritu de la norma (el bien jurídico protegido) para resolver problemas que la literalidad no permite.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Qué diferencia existe entre interpretación auténtica e interpretación jurisprudencial?
+Respuesta Correcta: La auténtica la realiza el propio órgano que expidió la norma (el legislador); la jurisprudencial la realizan jueces y tribunales, estableciendo la fijación final del sentido.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Cómo deben operar los criterios de interpretación de Savigny?
+Respuesta Correcta: Deben operar todos a la vez y no de forma aislada; el intérprete debe acudir a todos los criterios conjuntamente para interpretar la norma correctamente.
+Manual: Teoría del Derecho
+Bloque: Bloque 4
+Tema: Tema 5: La Interpretación Del Derecho Y Sus Criterios
+
+Pregunta: ¿Cuáles son las tres características esenciales de las normas jurídicas?
+Respuesta Correcta: Generalidad (dirigidas a un conjunto de personas), Abstracción (regulan problemas de forma genérica) y Coercitividad (su incumplimiento acarrea sanciones).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Cuál es la diferencia entre Disposición Normativa y Norma Jurídica?
+Respuesta Correcta: La Disposición Normativa es el texto escrito publicado (vehículo); la Norma Jurídica es el sentido o precepto que se extrae de ese texto.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Cuáles son las tres fuentes del Derecho según el Código Civil y en qué orden jerárquico?
+Respuesta Correcta: La Ley (fuente principal), la Costumbre (fuente subsidiaria) y los Principios Generales del Derecho (fuente subsidiaria final, en defecto de ley y costumbre).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Qué diferencia existe entre Normas Imperativas y Normas Dispositivas?
+Respuesta Correcta: Las Imperativas deben ser acatadas sin posibilidad de modificación por los particulares; las Dispositivas pueden ser modificadas o excluidas por la voluntad de las partes.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Qué requisitos debe cumplir la Costumbre para ser válida como fuente del Derecho?
+Respuesta Correcta: Debe ser reiterada y la comunidad debe creer que es una norma obligatoria. Además, solo se aplica en defecto de Ley.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Qué diferencia existe entre Leyes Orgánicas y Leyes Ordinarias?
+Respuesta Correcta: Las Leyes Orgánicas regulan materias de máxima importancia (Derechos Fundamentales, Estatutos de Autonomía) y requieren mayoría absoluta; las Ordinarias regulan el resto de aspectos.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 1: Ordenamiento Jurídico
+
+Pregunta: ¿Es la jurisprudencia una fuente primaria del Derecho?
+Respuesta Correcta: No, es una fuente de segundo orden. Las fuentes primarias son solo la Ley, la Costumbre y los Principios Generales del Derecho, pero la jurisprudencia sirve para fijar el sentido de la ley.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿De qué tribunal emana la jurisprudencia que sienta criterio en España?
+Respuesta Correcta: Del Tribunal Supremo. La que proviene de otros tribunales se denomina "jurisprudencia menor".
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿Cuáles son los dos tipos fundamentales de normas del Derecho de la Unión Europea?
+Respuesta Correcta: Derecho Comunitario Originario (Tratados Europeos: Roma, Maastricht, Ámsterdam, Niza) y Actos Legislativos o Derecho Derivado (Reglamentos, Directivas, Decisiones).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿Cuál es la diferencia entre un Reglamento y una Directiva de la UE?
+Respuesta Correcta: El Reglamento es obligatorio y se aplica directamente (desplaza la ley interna); la Directiva obliga en el resultado pero deja libertad a cada país para elegir los medios legislativos.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿Qué característica distingue a la Decisión de la UE del Reglamento?
+Respuesta Correcta: La Decisión se dirige solo a uno o varios Estados miembros concretos (o personas), no a todos de forma general, mientras que el Reglamento se aplica a todos los Estados.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿Qué es la jurisprudencia?
+Respuesta Correcta: Es la manera en que los jueces y tribunales aplican el Derecho; consiste en el trabajo de interpretación de las normas abstractas para aplicarlas a un caso concreto.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 2: Ordenamiento Jurídico (Segunda Parte)
+
+Pregunta: ¿Qué es una laguna en el Derecho y cómo se soluciona?
+Respuesta Correcta: Es un supuesto de hecho no regulado por ninguna norma aplicable. Se soluciona mediante la analogía (aplicar una norma que regula un supuesto semejante con identidad de razón).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿Cuál es la diferencia entre Analogía Legis y Analogía Iuris?
+Respuesta Correcta: La Analogía Legis acude a una norma concreta que regula un caso parecido; la Analogía Iuris acude a normas más generales o Principios Generales del Derecho.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿En qué cuatro supuestos no se puede aplicar la analogía?
+Respuesta Correcta: Normas temporales, leyes penales desfavorables al reo, normas excepcionales y normas restrictivas de derechos fundamentales.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿Cuáles son los cinco criterios de interpretación según el Art. 3.1 del Código Civil?
+Respuesta Correcta: Literal (sentido de las palabras), Sistemático (contexto normativo), Histórico (antecedentes), Sociológico (realidad social actual) y Teleológico (espíritu y finalidad de la norma).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿Por qué se prohíbe la analogía en las leyes penales desfavorables?
+Respuesta Correcta: Para proteger las garantías del reo. Solo se admite la analogía penal cuando es favorable (si puede rebajar la pena), nunca si aumenta la pena.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿Qué exige el criterio de "identidad de razón" en la analogía?
+Respuesta Correcta: Que exista una razón similar entre el caso no regulado y el caso regulado que justifique aplicar el mismo criterio normativo.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 3: Aplicación De Las Normas
+
+Pregunta: ¿Qué es una Relación Jurídica?
+Respuesta Correcta: Es una situación social contemplada y regulada por el Derecho, a diferencia de otras situaciones sociales no reguladas (ej. matrimonio vs. noviazgo).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Cuáles son los cuatro elementos que definen la estructura de toda relación jurídica?
+Respuesta Correcta: Sujeto Activo (quien puede exigir), Sujeto Pasivo (quien debe cumplir), Objeto (núcleo de la relación) y Contenido (derechos y obligaciones de cada parte).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Cuál es la diferencia entre Derecho Subjetivo y Potestad?
+Respuesta Correcta: El Derecho Subjetivo es el poder para defender los propios intereses; la Potestad es la facultad de ejercitar derechos en nombre y beneficio de otra persona (ej. potestad parental).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Cuál es la diferencia entre derechos Patrimoniales y Extrapatrimoniales?
+Respuesta Correcta: Los Patrimoniales son valorables en dinero (ej. derecho de cobro); los Extrapatrimoniales son imposibles de valorar en dinero (ej. derecho a la nacionalidad o propia imagen).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Cuál es el ciclo de vida de los derechos subjetivos?
+Respuesta Correcta: Nacen (se originan), se modifican (evolucionan) y se extinguen (terminan).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Qué es el Sujeto Activo en una relación jurídica?
+Respuesta Correcta: Es la parte que se encuentra en posición de poder exigir algo a la otra parte (el titular del derecho).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 4: Relaciones Jurídicas
+
+Pregunta: ¿Qué son los límites extrínsecos al ejercicio de los derechos?
+Respuesta Correcta: Son los que ocurren cuando el ejercicio de un derecho choca con los derechos de terceros sobre el mismo objeto, haciendo imposible que ambos se ejerzan a la vez (colisión de derechos).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+
+Pregunta: ¿Qué principio rige cuando colisionan intereses generales con intereses privados?
+Respuesta Correcta: Priman siempre los Intereses Generales (ej. expropiación de vivienda para construir AVE: el interés general prevalece sobre el derecho de propiedad privado).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+
+Pregunta: ¿Qué es la Buena Fe como límite intrínseco del ejercicio de derechos?
+Respuesta Correcta: Es un Principio General del Derecho que obliga a ejercer los derechos con buenas intenciones y conforme a las normas éticas; obrar con mala fe puede acarrear sanciones.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+
+Pregunta: ¿En qué consiste la Doctrina de los Propios Actos?
+Respuesta Correcta: Cuando el titular realiza una conducta que genera expectativa legítima en un tercero, y luego realiza una conducta contraria que perjudica a ese tercero (incongruencia).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+
+Pregunta: ¿Qué es el Abuso del Derecho y qué requisitos exige el Código Civil?
+Respuesta Correcta: Es un acto aparentemente legal que sobrepasa los límites de la buena fe y finalidad de la norma. Requisitos: acción u omisión de carácter abusivo y consecuencia dañosa a un tercero.
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+
+Pregunta: ¿Qué es la Doctrina del Levantamiento del Velo?
+Respuesta Correcta: Es un ejemplo de abuso del derecho donde se utiliza la limitación de responsabilidad de una sociedad mercantil para perjudicar a terceros (ej. tomar préstamos sabiendo que no se pagarán).
+Manual: Teoría del Derecho
+Bloque: Bloque 5
+Tema: Tema 5: El Ejercicio De Los Derechos
+

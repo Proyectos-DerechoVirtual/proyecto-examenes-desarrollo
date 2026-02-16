@@ -1,0 +1,68 @@
+<!-- CÓDIGO PARA INSERTAR EN TEACHABLE -->
+<!-- Copia y pega este código completo en una lección de Teachable -->
+
+<div id="exam-container"></div>
+
+<script>
+(function() {
+  // Obtener datos del usuario actual de Teachable
+  var userId = '';
+  var userEmail = '';
+  var userName = '';
+
+  try {
+    // Teachable expone currentUser() en JavaScript
+    if (typeof currentUser === 'function') {
+      var user = currentUser();
+      userId = user.id || '';
+      userEmail = user.email || '';
+      userName = user.name || user.username || '';
+    }
+  } catch (e) {
+    console.log('No se pudo obtener datos del usuario:', e);
+  }
+
+  // Si no hay usuario, usar valores por defecto
+  if (!userId && !userEmail) {
+    userId = 'guest';
+    userEmail = 'guest@teachable.com';
+    userName = 'Invitado';
+  }
+
+  // Crear la URL con los parámetros del usuario
+  var baseUrl = 'https://examenes-desarrollo.vercel.app';
+  var params = '?user_id=' + encodeURIComponent(userId) +
+               '&user_email=' + encodeURIComponent(userEmail) +
+               '&user_name=' + encodeURIComponent(userName);
+
+  var iframeSrc = baseUrl + params;
+
+  // Crear el iframe
+  var iframe = document.createElement('iframe');
+  iframe.src = iframeSrc;
+  iframe.style.maxWidth = '100%';
+  iframe.style.width = '100vw';
+  iframe.height = '900px';
+  iframe.frameBorder = '0';
+  iframe.style.border = 'none';
+  iframe.style.borderRadius = '8px';
+  iframe.style.boxShadow = '0 2px 8px rgba(0,0,0,0.1)';
+  iframe.setAttribute('allow', 'fullscreen');
+
+  // Insertar el iframe en el contenedor
+  var container = document.getElementById('exam-container');
+  if (container) {
+    container.appendChild(iframe);
+  }
+
+  // Debug: mostrar en consola
+  console.log('Usuario Teachable:', {
+    id: userId,
+    email: userEmail,
+    name: userName,
+    url: iframeSrc
+  });
+})();
+</script>
+
+<!-- NOTA: Cambia el baseUrl por tu URL de Vercel cuando despliegues a producción -->

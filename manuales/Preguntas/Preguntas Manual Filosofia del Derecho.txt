@@ -1,0 +1,1120 @@
+Pregunta: ¿Qué significa el aforismo "ubi societas, ibi ius"?
+Respuesta Correcta: "Donde hay sociedad, hay Derecho". Postula la imposibilidad de concebir un ordenamiento jurídico al margen de una estructura social, pues el Derecho es un producto consustancial a la vida humana en comunidad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+
+Pregunta: ¿Cuál es el fundamento último del Derecho según la filosofía jurídica?
+Respuesta Correcta: El sentimiento jurídico innato del ser humano: la capacidad para discernir espontáneamente entre lo correcto e incorrecto, lo justo e injusto. Esta experiencia humana inmediata constituye el sustrato sobre el que se edifican los ordenamientos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+
+Pregunta: ¿Es la noción de justicia un concepto inmutable?
+Respuesta Correcta: No. La justicia no es un concepto inmutable ni ahistórico. Cada sociedad, según su contexto social e histórico, desarrolla su propia concepción sobre lo que considera justo o injusto, y el Derecho evoluciona en paralelo a estas transformaciones.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+
+Pregunta: ¿Qué es el Derecho objetivo (norma agendi)?
+Respuesta Correcta: El conjunto de normas externas y vinculantes que rigen el comportamiento de los individuos con independencia de su voluntad. Se aplica la máxima "la ignorancia de la ley no exime de su cumplimiento".
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+
+Pregunta: ¿Qué es el Derecho subjetivo (facultas agendi)?
+Respuesta Correcta: Un poder o facultad que el ordenamiento jurídico otorga a un sujeto para la satisfacción de un interés legítimo. Expresiones como "tengo derecho a la vida" o "tengo derecho al voto" reflejan esta dimensión.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+
+Pregunta: ¿Qué diferencias existen entre normas jurídicas y normas sociales?
+Respuesta Correcta: Las normas jurídicas emanan del Estado con procedimientos formalizados y su cumplimiento es exigible coactivamente con sanciones tasadas. Las normas sociales surgen espontáneamente de la sociedad, no están escritas y su incumplimiento solo conlleva sanciones sociales informales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: ¿Qué es la filosofía del derecho?
+Pregunta: ¿Qué es la Teoría Tridimensional del Derecho de Miguel Reale?
+Respuesta Correcta: Teoría que postula que el Derecho debe abordarse desde una triple perspectiva interrelacionada: la dimensión fáctica (el hecho social), la dimensión normativa (la norma jurídica) y la dimensión axiológica (el valor).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+
+Pregunta: ¿Cuál es la definición canónica del Derecho según el tridimensionalismo?
+Respuesta Correcta: "El Derecho es una integración normativa de los hechos según sus valores". Los tres componentes no son compartimentos estancos, sino un todo dinámico y dialéctico.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+
+Pregunta: ¿Qué establece la dimensión fáctica del Derecho?
+Respuesta Correcta: Que el Derecho debe estudiarse como un hecho social que se materializa cuando los individuos interactúan entre sí. No es una abstracción, sino un acontecimiento que se manifiesta en las relaciones intersubjetivas para ordenar la convivencia.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+
+Pregunta: ¿Qué caracteriza la dimensión normativa del Derecho?
+Respuesta Correcta: Que el Derecho es un conjunto de normas cuyo rasgo distintivo es la coactividad. Materializa las necesidades de la sociedad en preceptos que ordenan la conducta social obligatoria, permitida o prohibida, con amenaza de sanción.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+
+Pregunta: ¿Qué estudia la dimensión axiológica del Derecho?
+Respuesta Correcta: Los valores jurídicos que fundamentan las normas. Afirma que la validez de una norma no es meramente formal, sino que integra los valores que la fundamentan, permitiendo distinguir entre lo justo e injusto.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+
+Pregunta: ¿Cuál es el objetivo final del tridimensionalismo jurídico?
+Respuesta Correcta: Lograr la integración del hecho en el valor, dando origen a las normas. La realidad social (hecho) es valorada por la comunidad (valor), y de esa tensión dialéctica surge la regla de conducta obligatoria (norma).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Tridimensionalismo jurídico
+Pregunta: ¿Qué es el Derecho objetivo o "norma agendi"?
+Respuesta Correcta: El conjunto de normas, reglas y disposiciones vigentes que ordenan la vida de una comunidad social. Se identifica con el Derecho positivo, dictado por la potestad soberana del Estado y aceptado por la ciudadanía. Es el "Derecho en mayúsculas".
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+
+Pregunta: ¿Qué es el Ordenamiento Jurídico?
+Respuesta Correcta: El sistema que integra la totalidad de los preceptos vigentes en un país, dotándolos de coherencia y autonomía. Su función es regular conductas y establecer mecanismos para crear nuevas normas (fuentes del Derecho).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+
+Pregunta: ¿Cuál es la jerarquía normativa del ordenamiento jurídico español?
+Respuesta Correcta: 1º Constitución y Tratados UE, 2º Tratados internacionales, 3º Leyes orgánicas, ordinarias, decretos-leyes y legislativos, 4º Reales decretos y órdenes ministeriales, 5º Costumbre y principios generales del derecho.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+
+Pregunta: ¿Qué es el Derecho subjetivo o "facultas agendi"?
+Respuesta Correcta: La posibilidad, poder o facultad anclada en la moralidad que permite querer, pretender, hacer o abstenerse de algo. Es la perspectiva del sujeto titular de poderes para intervenir en la vida jurídica. Es el "derecho en minúsculas".
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+
+Pregunta: ¿Qué sostiene la tesis de la anterioridad del derecho subjetivo?
+Respuesta Correcta: Que el derecho subjetivo es un concepto pre-jurídico, una exigencia moral o de justicia inmanente de la cual emana el Derecho objetivo. El subjetivo goza de anterioridad conceptual frente al objetivo.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+
+Pregunta: ¿Qué sostiene la tesis positivista sobre la relación derecho objetivo-subjetivo?
+Respuesta Correcta: Que el derecho subjetivo no tiene existencia autónoma, sino que está subsumido dentro del Derecho objetivo. No es una fuente sino una consecuencia, una derivación de la norma jurídica objetiva.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho objetivo y subjetivo
+Pregunta: ¿Cuál es el criterio del origen para distinguir normas jurídicas de usos sociales?
+Respuesta Correcta: Las normas jurídicas emanan de órganos estatales específicos con potestad normativa y procedimiento preestablecido. Los usos sociales nacen espontáneamente de la sociedad como resultado de práctica reiterada y generalizada.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+
+Pregunta: ¿Qué es el fenómeno del trasvase normativo?
+Respuesta Correcta: El constante intercambio entre normas jurídicas y usos sociales. Materias reguladas inicialmente por usos sociales pueden convertirse en regulación jurídica (ej: ley antitabaco) y viceversa, evidenciando la permeabilidad entre ambos sistemas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+
+Pregunta: ¿Es la imperatividad un criterio absoluto de distinción entre normas jurídicas y usos sociales?
+Respuesta Correcta: No. Aunque las normas jurídicas tienen obligatoriedad incondicionada y coactiva, en determinados supuestos la presión social de un uso puede ser superior a la conminación de la norma jurídica, llevando incluso a contravenir el ordenamiento.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+
+Pregunta: ¿Cuál es el criterio más decisivo para distinguir normas jurídicas de usos sociales?
+Respuesta Correcta: La naturaleza de la sanción y su modo de imposición. Las normas jurídicas tienen sanciones tasadas, predeterminadas, con procedimiento reglado y respaldadas por la fuerza coactiva del Estado de manera organizada y sistemática.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+
+Pregunta: ¿Cómo son las sanciones de los usos sociales?
+Respuesta Correcta: Son de naturaleza difusa y espontánea, con aplicación imprecisa por el grupo social. Consisten en reprobación social, pérdida de prestigio y, en casos graves, exclusión del círculo social.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+
+Pregunta: ¿De qué depende la eficacia real de las normas jurídicas según la doctrina?
+Respuesta Correcta: De su sintonía con los usos sociales vigentes. Las normas jurídicas que no conectan con los valores y usos de una sociedad en un momento determinado corren el riesgo de devenir ineficaces.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Criterios de distinción de los usos sociales y las normas jurídicas
+Pregunta: ¿Qué postula el iusnaturalismo?
+Respuesta Correcta: La existencia de un derecho previo y superior al derecho positivo (creado por humanos). Este "derecho natural" es inherente a la naturaleza o la razón humana, existiendo antes que las sociedades, y sirve de fundamento, guía y límite para el derecho positivo.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+
+Pregunta: ¿Cuáles son las tres grandes familias del iusnaturalismo?
+Respuesta Correcta: Teológica (el derecho emana de la voluntad de Dios), Cosmológica (el ser humano se somete a las leyes del universo a través de instintos y necesidades) y Racionalista (la razón determina las normas justas, siendo la más influyente en el pensamiento moderno).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+
+Pregunta: ¿Qué define el positivismo jurídico?
+Respuesta Correcta: El derecho como conjunto de normas promulgadas por el legislador, un producto de la voluntad humana que depende del poder en un lugar y tiempo determinados. Es el derecho del "aquí y ahora".
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+
+Pregunta: ¿Qué diferencia existe entre positivismo extremo y moderado?
+Respuesta Correcta: El positivismo extremo niega por completo la validez del derecho natural. El moderado acepta su influencia como guía para evitar desviaciones peligrosas en la ley.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+
+Pregunta: ¿Qué sostiene el positivismo ontológico de Kelsen?
+Respuesta Correcta: Que el derecho se entiende principalmente a través de la coacción estatal. Una norma es válida si forma parte de una cadena jerárquica que desciende de una "norma fundamental". El derecho se justifica a sí mismo sin necesidad de moral o divinidad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+
+Pregunta: ¿Qué riesgo presenta el positivismo ideológico?
+Respuesta Correcta: Al sostener que el deber de obedecer la ley es incondicionado sin importar su contenido, y separar completamente ley de moral, puede abrir la puerta a concepciones totalitarias de la sociedad (como el Leviatán de Hobbes).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: Derecho natural y derecho positivo
+Pregunta: ¿Qué sostiene el realismo jurídico?
+Respuesta Correcta: Que el derecho válido es el derecho eficaz, es decir, aquel que realmente se aplica y se cumple en la sociedad. El derecho no puede separarse de la vida social, pues nace de las necesidades de la sociedad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+
+Pregunta: ¿Qué diferencia al realismo jurídico del positivismo científico?
+Respuesta Correcta: El realismo jurídico no es formalista. Mientras el positivismo científico se centra en el estudio objetivo de la ley escrita sin valorarla, el realismo argumenta que el derecho no puede separarse de la vida social de donde nace.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+
+Pregunta: ¿Qué caracteriza al realismo jurídico estadounidense?
+Respuesta Correcta: Se desarrolla en el contexto del common law donde los precedentes judiciales tienen más peso que el derecho legislado. El juez debe investigar el contexto social y sus decisiones pueden estar influenciadas por factores extrajurídicos (estado de ánimo, prejuicios).
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+
+Pregunta: ¿Qué debate ético plantea el realismo jurídico estadounidense?
+Respuesta Correcta: La tensión entre la ética del legalismo (confundir lo ético con lo jurídico) y la ética del activismo (el juez toma decisiones basándose únicamente en sus concepciones éticas o políticas), ambas problemáticas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+
+Pregunta: ¿Qué sostiene el realismo jurídico escandinavo sobre conceptos como "justicia" y "voluntad del Estado"?
+Respuesta Correcta: Que son residuos del iusnaturalismo y la metafísica, no realidades tangibles. No existe la "voluntad del Estado", solo voluntades individuales de las personas que lo componen.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+
+Pregunta: ¿Cómo explica el realismo escandinavo la obediencia a las normas?
+Respuesta Correcta: Mediante un pacto social implícito: los ciudadanos obedecen las reglas para evitar consecuencias negativas, y los jueces las aplican porque la sociedad las considera obligatorias. Hay reciprocidad entre ciudadanía y poder judicial.
+Manual: Manual de Filosofía del Derecho
+Bloque: 1
+Tema: El realismo jurídico
+Pregunta: ¿Qué es el pluralismo jurídico?
+Respuesta Correcta: La coexistencia de múltiples sistemas o fuentes de derecho dentro de un mismo espacio social. Desafía la concepción tradicional de que la ley emana exclusivamente del Estado.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+
+Pregunta: ¿Qué defiende la versión fuerte del pluralismo jurídico?
+Respuesta Correcta: La existencia de una diversidad de derechos (no solo de fuentes) que coexisten de forma jerárquica o interdependiente. Diversos sistemas legales pueden operar en paralelo (ej: Derecho Civil y Mercantil, derecho autonómico y estatal).
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+
+Pregunta: ¿Qué caracteriza la versión débil del pluralismo jurídico?
+Respuesta Correcta: Se centra en la diversidad de fuentes del derecho, no en la pluralidad de sistemas. En España se ejemplifica con la coexistencia de la ley, la costumbre y los principios generales del derecho como fuentes.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+
+Pregunta: ¿Qué relaciones pueden existir entre los distintos derechos en el pluralismo fuerte?
+Respuesta Correcta: Relaciones de jerarquía (subordinación entre sistemas), dependencia (sistemas interdependientes que se complementan) o igualdad (sistemas que coexisten en el mismo nivel). La cultura jurídica de cada país influye en cómo se estructuran.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+
+Pregunta: ¿Por qué el pluralismo jurídico tiene implicaciones para grupos específicos?
+Respuesta Correcta: Permite el desarrollo de leyes para grupos específicos (minorías, grupos vulnerables como mujeres maltratadas) que coexisten con el ordenamiento general sin contradicción, demostrando la adaptabilidad del derecho a las realidades sociales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+
+Pregunta: ¿Cuál es la diferencia fundamental entre pluralismo fuerte y débil?
+Respuesta Correcta: El fuerte aborda la diversidad de sistemas legales aplicables a distintas situaciones o personas (pluralismo de derechos). El débil reconoce múltiples orígenes para la creación de normas jurídicas dentro de un único ordenamiento (pluralismo de fuentes).
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Pluralismo jurídico
+Pregunta: ¿Qué es el Derecho Alternativo?
+Respuesta Correcta: Un concepto doctrinal que emerge como crítica al dominio del derecho estatal, cuyo propósito es subvertir esta hegemonía y lograr su propio reconocimiento jurídico. Según Correas, es "el derecho cuyas normas efectivas constituyen delitos para el derecho hegemónico del Estado".
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+
+Pregunta: ¿Qué busca la versión fuerte del Derecho Alternativo?
+Respuesta Correcta: La sustitución total del derecho del Estado. No postula un cambio a pluralismo, sino la transición de un monismo estatal a un monismo alternativo: reemplazar el ordenamiento hegemónico por uno de carácter alternativo.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+
+Pregunta: ¿Qué busca la versión débil del Derecho Alternativo?
+Respuesta Correcta: No la sustitución sino la coexistencia de ambos derechos (estatal y alternativo). Esta postura propicia un genuino pluralismo jurídico donde múltiples sistemas normativos coexisten en un mismo espacio social.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+
+Pregunta: ¿Cuáles son los tres fundamentos del Derecho Alternativo?
+Respuesta Correcta: 1) Origen social del derecho: la sociedad (grupos y movimientos) es la fuente material, no el Estado. 2) Acto declarativo vs constitutivo: el Estado solo reconoce un derecho ya constituido por la sociedad. 3) Distinción entre normas justas e injustas dentro del ordenamiento estatal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+
+Pregunta: ¿Dónde tiene su origen social el Derecho Alternativo?
+Respuesta Correcta: En América Latina, especialmente en Brasil, donde el derecho estatal ha sido percibido como herramienta opresora y de clase. Se concibe como instrumento de transformación social para empoderar a las clases oprimidas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+
+Pregunta: ¿Quién es el verdadero autor del derecho según el Derecho Alternativo?
+Respuesta Correcta: El sujeto colectivo: minorías étnicas y sociales, campesinos sin tierra, obreros explotados, inmigrantes indocumentados, entre otros. El Derecho Alternativo pretende dar respuesta a las necesidades jurídicas de quienes no se sienten representados por el derecho hegemónico.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Derecho alternativo
+Pregunta: ¿Qué es el uso alternativo del Derecho?
+Respuesta Correcta: Una estrategia interpretativa que busca reorientar la aplicación del ordenamiento jurídico vigente hacia una perspectiva más favorable a las clases desfavorecidas, sin pretender sustituir el sistema legal existente sino reorientando su aplicación.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+
+Pregunta: ¿Cuáles son las dos causas fundamentales del uso alternativo del Derecho?
+Respuesta Correcta: Causa fáctica: la ambigüedad, insuficiencia y contradicciones del Derecho estatal posibilitan diversas interpretaciones. Causa valorativa: las distintas ideologías de los intérpretes (jueces, abogados) influyen en su labor, permitiendo interpretación conservadora o progresista.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+
+Pregunta: ¿Cuál es la premisa epistemológica del uso alternativo del Derecho?
+Respuesta Correcta: La imposibilidad de una interpretación del derecho totalmente neutral. Toda aplicación de la norma implica necesariamente una carga valorativa, por lo que se justifica que esta se incline en sentido progresista y transformador.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+
+Pregunta: ¿Dónde tiene sus raíces el uso alternativo del Derecho?
+Respuesta Correcta: En Europa, concretamente en la Italia de los años 70, donde surgió el término y fue aplicado por juristas para favorecer a las clases populares. En España, autores como López Calera e Isavedra han contribuido a esta corriente.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+
+Pregunta: ¿Qué es la jurisprudencia alternativa?
+Respuesta Correcta: Un corpus de decisiones y aplicaciones jurídicas que se distancia de la jurisprudencia tradicional al priorizar la protección de los grupos más vulnerables, resultado de la práctica del uso alternativo del Derecho.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+
+Pregunta: ¿Cuál es la diferencia entre Derecho Alternativo y uso alternativo del Derecho?
+Respuesta Correcta: El Derecho Alternativo busca coexistencia o sustitución del derecho estatal mediante sistemas paralelos (opera desde fuera). El uso alternativo busca modificar el derecho existente a través de su aplicación e interpretación (opera desde dentro del sistema).
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Uso alternativo del derecho
+Pregunta: ¿Qué es la interlegalidad según Boaventura de Sousa Santos?
+Respuesta Correcta: La interconexión y mezcla de diversos sistemas jurídicos. El pluralismo jurídico no es un conjunto de sistemas independientes, sino una amalgama de sistemas conectados y a veces superpuestos. Ej: relación entre derecho autonómico y estatal español.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+
+Pregunta: ¿Cuáles son las cuatro situaciones históricas donde surge el pluralismo jurídico según de Sousa Santos?
+Respuesta Correcta: 1) Modernización jurídica: adopción de derecho europeo. 2) Convivencia colonial: coexistencia de derecho colonizador y propio. 3) Transición revolucionaria: oposición entre antiguo y nuevo derecho. 4) Conquista territorial: coexistencia de derecho extranjero en países conquistados.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+
+Pregunta: ¿Cómo opera el pluralismo jurídico en múltiples niveles según de Sousa Santos?
+Respuesta Correcta: El derecho local de un municipio puede coexistir con el derecho autonómico, el derecho estatal y el derecho de la Unión Europea. Esta estratificación de espacios legales superpuestos e interconectados demuestra la complejidad del fenómeno jurídico en la postmodernidad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+
+Pregunta: ¿Cuál es la contribución de Antonio Carlos Wolkmer al pluralismo jurídico?
+Respuesta Correcta: La defensa de una multiplicidad de prácticas jurídicas en un mismo espacio sociopolítico, ya sean oficiales o no. Para Wolkmer, el pluralismo incluye también los derechos no oficiales que emergen de los movimientos sociales como respuesta a un derecho estatal percibido como opresor.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+
+Pregunta: ¿Qué diferencia establece Wolkmer entre derecho oficial y no oficial?
+Respuesta Correcta: Derecho oficial: leyes y normativas formalmente reconocidas por el Estado. Derecho no oficial: derechos que emergen de los movimientos sociales como respuesta a un derecho estatal percibido como opresor, incluyendo el Derecho Alternativo aunque no esté formalmente reconocido.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+
+Pregunta: ¿Qué caracteriza la visión posmoderna del derecho según la doctrina actual?
+Respuesta Correcta: La coexistencia de espacios legales superpuestos (derecho local, autonómico, estatal, internacional coexisten jerárquicamente), interconectados (la validez de un derecho local está condicionada por normas superiores) e interrelacionados (se influyen mutuamente).
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la doctrina
+Pregunta: ¿Cómo han justificado históricamente los grupos dominantes la oposición al pluralismo jurídico?
+Respuesta Correcta: Promoviendo la idea de que la perfección jurídica reside en la unidad legal, mientras que la diversidad de ordenamientos es un peligro para la estabilidad social. Esto sirvió para imponer un derecho único sobre territorios colonizados, suprimiendo los derechos de culturas nativas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+
+Pregunta: ¿Cuáles son las estrategias estatales para oponerse al reconocimiento del derecho alternativo?
+Respuesta Correcta: 1) Criminalización: calificar sus preceptos como delictivos, estigmatizando a minorías y líderes. 2) Supresión de órganos de aplicación: eliminar instituciones que aplican el derecho alternativo. 3) Derogación por cualquier medio: desprestigio mediático y rechazo político.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+
+Pregunta: ¿Qué estrategias usa el Estado para limitar la eficacia de derechos ya reconocidos?
+Respuesta Correcta: 1) Subordinación a legislación dilatada: prometer leyes pero retrasar su aprobación. 2) Actitud de "brazos caídos": asignar presupuesto nulo a leyes promulgadas (ej: Ley de Memoria Histórica). 3) Limitaciones por incompatibilidad: subordinar el derecho de minorías al ordenamiento estatal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+
+Pregunta: ¿Qué ejemplo ilustra la estrategia de "brazos caídos" en España?
+Respuesta Correcta: La Ley de Memoria Histórica durante el gobierno de Mariano Rajoy, a la que se asignó un presupuesto nulo, convirtiéndola en "letra muerta" y despojándola de toda operatividad a pesar de estar formalmente promulgada.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+
+Pregunta: ¿Por qué el reconocimiento formal de un derecho alternativo no garantiza su aplicación práctica?
+Respuesta Correcta: Porque el poder político puede recurrir a estrategias para limitar su eficacia: dilatar la promulgación de leyes de desarrollo, no asignar presupuesto, o subordinarlo a principios del derecho estatal alegando incompatibilidad fundamental.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+
+Pregunta: ¿Qué representa la brecha entre reconocimiento teórico e implementación efectiva de derechos?
+Respuesta Correcta: Uno de los principales desafíos del pluralismo jurídico contemporáneo. Esta subordinación limita la eficacia y alcance del derecho alternativo, manteniendo la supremacía del sistema jurídico dominante sobre cualquier ordenamiento minoritario.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: Oposición estatal al pluralismo jurídico
+Pregunta: ¿Cómo se manifiesta el pluralismo jurídico fuerte en España actualmente?
+Respuesta Correcta: En la convivencia del Derecho Civil y el Derecho Mercantil según las circunstancias, o el derecho de una comunidad autónoma (como Galicia) coexistiendo con el derecho estatal. Los sistemas pueden tener jerarquías o relaciones de dependencia entre ellos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+
+Pregunta: ¿Cómo se manifiesta el pluralismo jurídico débil en España actualmente?
+Respuesta Correcta: En la existencia de diversas fuentes del derecho más allá de la ley: la coexistencia de la ley, la costumbre y los principios generales del derecho como fuentes del ordenamiento jurídico español.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+
+Pregunta: ¿Qué demuestra el pluralismo jurídico sobre la naturaleza del derecho?
+Respuesta Correcta: Que el derecho no es una entidad monolítica impuesta por el Estado, sino un reflejo de las costumbres de una sociedad. Es un reflejo vivo de las necesidades y costumbres de la sociedad, no una imposición unilateral estatal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+
+Pregunta: ¿Qué ejemplos de pluralismo fuerte existen en la práctica española actual?
+Respuesta Correcta: Leyes específicas de protección contra la violencia de género que coexisten con el ordenamiento general, normativas autonómicas en materia de educación y sanidad, y la convivencia del derecho autonómico con el derecho estatal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+
+Pregunta: ¿Qué ejemplos de pluralismo débil existen en la práctica española actual?
+Respuesta Correcta: El reconocimiento de costumbres locales en determinados ámbitos, la aplicación de principios generales del derecho en casos no regulados, y la coexistencia de múltiples fuentes normativas dentro del mismo ordenamiento jurídico.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+
+Pregunta: ¿Cómo coexisten los diferentes sistemas jurídicos en el pluralismo actual?
+Respuesta Correcta: De manera coordinada, estableciendo jerarquías y relaciones de complementariedad cuando es necesario. El pluralismo no implica caos normativo, sino una organización compleja que responde a la diversidad inherente de las sociedades modernas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 2
+Tema: El pluralismo jurídico en la actualidad
+Pregunta: ¿Cuáles son las características fundamentales del Estado moderno?
+Respuesta Correcta: 1) Dominio interno del soberano con derecho único para todo el territorio. 2) Posesión y control del territorio. 3) Defensa exterior mediante ejército propio. 4) Ejercicio de los poderes normativo (legislativo), administrativo (ejecutivo) y judicial.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+
+Pregunta: ¿Qué postulan las teorías organicistas del Estado?
+Respuesta Correcta: Conciben al Estado como un organismo vivo, con órganos y competencias análogas a las de un ser biológico. Aunque hoy se considera una teoría rechazada, tuvo sus seguidores en el pasado.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+
+Pregunta: ¿Qué sostienen las teorías historicistas o románticas del Estado?
+Respuesta Correcta: Entienden el Estado como la concreción del carácter y estilo de un pueblo, traducido en sus normas e instituciones. Enfatizan la identidad histórica, la lengua y la cultura como elementos constitutivos del Estado. Están ligadas a teorías conservadoras e independentistas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+
+Pregunta: ¿Qué define la teoría hegeliana del Estado (teorías espiritualistas)?
+Respuesta Correcta: Define el Estado como la manifestación del "espíritu del pueblo", el "espíritu objetivo" o la síntesis de la voluntad popular en su máxima expresión.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+
+Pregunta: ¿Cuál es la visión preponderante del Estado en la actualidad?
+Respuesta Correcta: La concepción del Estado como un fenómeno social y jurídico: no puede ser ajeno a la realidad social que lo conforma, pero tampoco funcionar solo por la fuerza sin una base normativa. La cohesión entre ambas dimensiones garantiza la estabilidad del Estado moderno.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+
+Pregunta: ¿Qué diferencia existe entre la concepción estricta y laxa del Estado?
+Respuesta Correcta: La estricta sitúa su nacimiento en el siglo XVI con nobles titulares de señoríos, soberanía como poder supremo y centralización del poder en el soberano. La laxa lo entiende como organización política del siglo XVII con características que perduran actualmente.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: La noción de Estado
+Pregunta: ¿Qué sostiene la concepción de que el Derecho es prioritario respecto al Estado?
+Respuesta Correcta: Fundamentada en el iusnaturalismo, sostiene que el derecho preexiste al Estado. El derecho natural surge de la conciencia de los sujetos, quienes ya poseen derechos por el hecho de ser humanos. Estos derechos son la base del pacto social que origina el Estado.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+
+Pregunta: ¿Cómo se forma el Estado según la teoría iusnaturalista?
+Respuesta Correcta: Mediante tres fases: 1) Conciencia individual: los sujetos poseen derechos naturales inherentes. 2) Pacto social: los individuos acuerdan formar una sociedad política para proteger sus derechos. 3) Formación del Estado: surge para organizar y proteger los derechos preexistentes.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+
+Pregunta: ¿Qué sostiene la concepción de que el Estado es prioritario respecto al Derecho?
+Respuesta Correcta: Propia del positivismo jurídico, postula que el derecho no puede existir si no emana del Estado, que es el hecho social que lo crea. El derecho necesita la coacción del Estado para ser eficaz; sin esa fuerza se reduce a mera norma social sin autoridad jurídica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+
+Pregunta: ¿Por qué el Estado otorga oficialidad al Derecho según el positivismo?
+Respuesta Correcta: Porque el Estado monopoliza la capacidad de coacción necesaria para imponer el derecho. Solo las normas emanadas del Estado adquieren carácter oficial y fuerza vinculante. La capacidad del Estado de imponer sanciones garantiza la efectividad del ordenamiento jurídico.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+
+Pregunta: ¿Cuál es la diferencia fundamental entre iusnaturalismo y positivismo respecto al origen del Derecho?
+Respuesta Correcta: Para el iusnaturalismo, el Derecho preexiste al Estado (derecho natural) y el Estado surge del pacto social para organizarlo. Para el positivismo, el Derecho es creado por el Estado, que monopoliza la coacción para darle oficialidad y eficacia.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+
+Pregunta: ¿Qué papel juega el pacto social en la formación del Estado según el iusnaturalismo?
+Respuesta Correcta: Es el acuerdo voluntario de los individuos para formar una sociedad política que proteja y garantice sus derechos naturales preexistentes. El Estado surge como resultado de este pacto, con la función de organizar y proteger esos derechos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Las relaciones entre Derecho y Estado
+Pregunta: ¿Qué es el Estado absoluto?
+Respuesta Correcta: Una forma de organización política caracterizada por la ausencia de los principios del Estado de Derecho actual. No es un Estado sin Derecho, sino un modelo donde el Derecho no se rige por los preceptos de la democracia constitucional. Es la forma de Estado más antigua y duradera.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+
+Pregunta: ¿Cuáles son las características del Estado absoluto?
+Respuesta Correcta: 1) Soberanía exclusiva del monarca (por tradición, herencia, divinidad o conquista). 2) Concentración de todos los poderes en el soberano (legisla, aplica y juzga). 3) Desvinculación del soberano respecto al derecho (ex legibus solutus). 4) Irresponsabilidad del soberano.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+
+Pregunta: ¿Qué significa la fórmula "ex legibus solutus"?
+Respuesta Correcta: "Libre de las leyes". El monarca está por encima de las leyes, puede dictarlas y derogarlas a su voluntad, y está exento de su cumplimiento. Esta prerrogativa es lo que ha llevado a concebir al Estado absoluto como un "Estado sin Derecho".
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+
+Pregunta: ¿Por qué los actos del monarca se consideran "irresponsables" en el Estado absoluto?
+Respuesta Correcta: Porque el monarca no debe rendir cuentas por ellos en sentido jurídico. Su poder emana directamente de la divinidad o de la tradición, lo que le confiere una posición de invulnerabilidad legal. Aunque delega funciones, puede revocar dicha delegación en cualquier momento.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+
+Pregunta: ¿Dónde predominan actualmente los Estados absolutistas?
+Respuesta Correcta: Principalmente en África, Asia, Oceanía y el mundo árabe. La concepción del Estado de Derecho con separación de poderes y asambleas legislativas es un fenómeno singular de la cultura occidental, una "isla" en un océano de Estados con principios absolutistas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+
+Pregunta: ¿Cuál es la principal característica de la transición del Estado absoluto al Estado de Derecho?
+Respuesta Correcta: La progresiva limitación del poder del soberano mediante la división de poderes estatales y su ejercicio por órganos distintos e independientes. Los ciudadanos dejan de ser meros súbditos para adquirir un rol activo en la vida política.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado absoluto
+Pregunta: ¿Cuál es el origen histórico del Estado Liberal de Derecho?
+Respuesta Correcta: Emerge del triunfo de las grandes revoluciones del siglo XVIII: la Independencia de las colonias inglesas en América y la Revolución Francesa de 1789. Supusieron la abolición del Antiguo Régimen, la monarquía absoluta y los privilegios de la nobleza.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+
+Pregunta: ¿Qué filosofía fundamenta el Estado Liberal de Derecho?
+Respuesta Correcta: La filosofía racionalista de la Ilustración, que impulsó un racionalismo jurídico de base naturalista. Se opuso a la tradición basada en la Revelación Divina y situó la razón como elemento central, introduciendo un sentido pactista del poder para asegurar las libertades individuales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+
+Pregunta: ¿Qué significa la soberanía popular en el Estado Liberal?
+Respuesta Correcta: La soberanía deja de residir en el monarca y se traslada al pueblo. Es el pueblo quien delega su ejercicio en el gobernante que elija. La ley se concibe como la expresión directa de la voluntad popular.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+
+Pregunta: ¿Cómo se organiza la división de poderes en el Estado Liberal?
+Respuesta Correcta: El poder se divide en tres ramas ejercidas por órganos distintos: Poder legislativo (asambleas o cortes, inicialmente elegidas por voto censitario), Poder ejecutivo (frecuentemente en manos del monarca), Poder judicial (ejercido por jueces independientes del poder político).
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+
+Pregunta: ¿Qué libertades individuales introduce el Estado Liberal de Derecho?
+Respuesta Correcta: Además de las existentes (seguridad y libertad personal), introduce: libertad de creencias, de pensamiento, religiosa, política, económica, de reunión, de asociación y de petición. Muchas de ellas son pilares del Estado de Derecho actual.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+
+Pregunta: ¿Qué es el racionalismo jurídico propio del Estado Liberal?
+Respuesta Correcta: Un nuevo enfoque que sitúa la razón como fundamento del derecho, oponiéndose a la tradición basada en la Revelación Divina del Antiguo Régimen. De esta razón emanan principios jurídicos de "plena evidencia racional" con carácter universal e inmutable.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho I
+Pregunta: ¿Cómo se concibe la libertad en el Estado Liberal de Derecho?
+Respuesta Correcta: Como libertad negativa: la no injerencia de los poderes públicos o de terceros en la esfera individual del ciudadano. Es el valor primordial del modelo liberal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+
+Pregunta: ¿Qué alcance tiene la igualdad en el Estado Liberal?
+Respuesta Correcta: Se circunscribe al ámbito legal (igualdad ante la ley): abolición de privilegios estamentales y aplicación de la ley como norma general para todos los ciudadanos. La igualdad material o social aún no formaba parte del ideario liberal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+
+Pregunta: ¿Qué caracteriza al abstencionismo del Estado Liberal?
+Respuesta Correcta: El Estado es vigilante y protector de las libertades individuales, pero no activo en la provisión de bienestar social. Es no intervencionista: se abstiene de desarrollar políticas sociales redistributivas, priorizando afianzar las libertades personales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+
+Pregunta: ¿Cuál es el fundamento racionalista y pactista del Estado Liberal?
+Respuesta Correcta: Abandona los fundamentos de tradición medieval y legitimidad divina por la razón iusnaturalista ilustrada. El Estado convierte los derechos naturales (emanados de la razón) en derechos civiles respaldados por normas coercitivas mediante el pacto social.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+
+Pregunta: ¿Quiénes son los titulares de los derechos en el Estado Liberal?
+Respuesta Correcta: Los individuos, no el monarca ni el Estado. Son derechos de carácter personal e individual que no requieren otra cualificación que la de ser hombre para ser ostentados (aunque a veces se restringen a la condición de "ciudadano").
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+
+Pregunta: ¿Cuál es la triple funcionalidad del principio de legalidad en el Estado Liberal?
+Respuesta Correcta: 1) Función reguladora: define derechos y deberes de los ciudadanos. 2) Función de protección: sistema que protege los derechos regulados. 3) Función de limitación: actúa como límite al ejercicio abusivo del poder. Es característica distintiva del sistema jurídico occidental.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Liberal de Derecho II
+Pregunta: ¿Cuáles son los antecedentes históricos del Estado Social de Derecho?
+Respuesta Correcta: Las grandes crisis y conflictos del siglo XX. Tras la Primera Guerra Mundial aparecieron elementos sociales en constituciones como: México 1917 (primera en incorporar derechos sociales), Weimar 1919, España 1931 (Segunda República). Tras la Segunda Guerra Mundial: Alemania 1948 y España 1978.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+
+Pregunta: ¿Cuáles son los tres principios éticos fundamentales del Estado Social de Derecho?
+Respuesta Correcta: 1) Respeto a la dignidad del individuo como fundamento de todos los derechos y garantías constitucionales. 2) Armonía con la naturaleza para las generaciones futuras. 3) Avance material de la sociedad de manera equitativa para el conjunto de la comunidad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+
+Pregunta: ¿Cómo se relacionan libertades individuales y derechos sociales en el Estado Social?
+Respuesta Correcta: Las libertades individuales se consolidan con protección reforzada y alcance más universal (universalización del voto). A ellas se suman los derechos sociales (trabajo, educación, subsistencia, salud) entendidos como normas programáticas dirigidas a los poderes públicos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+
+Pregunta: ¿Qué diferencia la igualdad material de la igualdad ante la ley?
+Respuesta Correcta: La igualdad material va más allá de la mera igualdad legal: implica que los ciudadanos deben gozar de condiciones económicas y sociales que les permitan satisfacer sus necesidades básicas y vivir con dignidad. La solidaridad se convierte en una obligación del Estado.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+
+Pregunta: ¿Qué nuevos sujetos de derecho reconoce el Estado Social?
+Respuesta Correcta: Reconoce a los colectivos sociales como sujetos de derecho (mujeres, jóvenes, trabajadores), no solo a los individuos. Esto da lugar al derecho a la negociación colectiva y a los convenios laborales, estableciendo un pacto entre trabajo y capital.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+
+Pregunta: ¿Qué caracteriza el intervencionismo del Estado Social frente al abstencionismo liberal?
+Respuesta Correcta: El Estado Social abandona el abstencionismo y se convierte en un Estado intervencionista y proactivo. Asume deberes específicos en educación, salud, vivienda y cultura, contribuyendo activamente a la eficacia de los derechos sociales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 3
+Tema: Estado Social de Derecho
+Pregunta: ¿Cuál es la diferencia entre moral y ética?
+Respuesta Correcta: La moral (del latín moralis, "relativo a las costumbres") es el sistema normativo adoptado por un grupo social, un conjunto de reglas no escritas que orientan las acciones. La ética (del griego ethos, "forma de ser o carácter") es la ciencia que teoriza sobre esos valores morales; es el estudio de la moral.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+
+Pregunta: ¿Por qué la moral es un concepto dinámico?
+Respuesta Correcta: Porque evoluciona con las costumbres y valores de la sociedad, adaptándose a los cambios culturales y temporales. Ejemplo: en el siglo XIX el divorcio era inmoral; actualmente es socialmente aceptado aunque la infidelidad siga considerándose inmoral.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+
+Pregunta: ¿Qué características tiene la ética?
+Respuesta Correcta: Tiene carácter teórico (busca fundamentos racionales para la conducta humana), carácter racional (utiliza la razón como herramienta principal de análisis) y carácter universal (busca principios aplicables a toda la conducta humana, sin discriminación).
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+
+Pregunta: ¿Puede la ética contradecir las prácticas morales?
+Respuesta Correcta: Sí. Aunque a menudo la ética respalda las prácticas morales, en ocasiones puede entrar en contradicción con ellas. Un principio ético fundamental es el respeto al otro, que no está subordinado a ningún contexto cultural y se aplica universalmente.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+
+Pregunta: ¿Qué aspectos contribuyen a construir moral y ética?
+Respuesta Correcta: Ambos contribuyen a construir la base que guía el comportamiento humano y definen aspectos como el carácter (formación individual mediante principios), el altruismo (capacidad de actuar en beneficio de otros) y las virtudes (cualidades morales de excelencia).
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+
+Pregunta: ¿Cómo se relacionan moral y ética?
+Respuesta Correcta: La relación es intrínseca: ambos establecen los cimientos de nuestra comprensión del bien y del mal, de lo correcto e incorrecto, proporcionando un marco de referencia para nuestras decisiones cotidianas. La ética teoriza sobre lo que la moral practica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: Moral y ética
+Pregunta: ¿Qué es la moralización del derecho?
+Respuesta Correcta: El proceso por el cual la moral influye en la creación y aplicación de las normas jurídicas. Existe interdependencia: el contenido del derecho depende de la moral social vigente, y la moral social busca el refuerzo de la fuerza coactiva del derecho para lograr su eficacia.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+
+Pregunta: ¿Qué es la moralización inconsciente del derecho?
+Respuesta Correcta: Ocurre cuando el legislador incorpora inconscientemente criterios morales socialmente aceptados en las normas jurídicas. Los aplicadores del derecho (jueces, abogados, funcionarios) también integran estos criterios en su labor interpretativa de normas ambiguas.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+
+Pregunta: ¿Qué es la "moral interna del derecho" según Lon Fuller?
+Respuesta Correcta: El derecho posee una moral interna compuesta por requisitos esenciales para que un sistema jurídico sea coherente y ordenado: existencia de reglas claras, no retroactivas y coherentes. Se manifiesta cuando los operadores jurídicos interpretan normas guiándose por sus valores sociales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+
+Pregunta: ¿Qué es la moralización consciente y prescriptiva del derecho?
+Respuesta Correcta: Cuando el legislador incorpora deliberadamente criterios de moralidad aceptados en las normas. Se evidencia en grandes acuerdos fundacionales: declaraciones de derechos nacionales e internacionales y constituciones (ej: Constitución española de 1978).
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+
+Pregunta: ¿Qué es la "ética pública" según Gregorio Peces Barba?
+Respuesta Correcta: La moralidad política que se convierte en moralidad jurídica positivada. Se encarga de configurar la vida social y establecer los objetivos del poder a través del derecho, asegurando la cohesión social y evitando fracturas en la sociedad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+
+Pregunta: ¿Cuáles son los dos procedimientos de moralización del derecho?
+Respuesta Correcta: 1) Moralización inconsciente: el legislador y operadores jurídicos incorporan valores sociales sin ser plenamente conscientes, guiándose por su educación y experiencia. 2) Moralización consciente y prescriptiva: incorporación deliberada de criterios morales en constituciones y declaraciones de derechos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La 'moralización' del derecho
+Pregunta: ¿Por qué es necesario un debate ético en la construcción del derecho?
+Respuesta Correcta: Porque la elaboración de normas con alto contenido moral requiere discusión teórica sobre sus fundamentos. Aunque la capacidad de decisión recae en el legislador, este debe hacerlo tras un debate crítico y racional, con participación democrática.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+
+Pregunta: ¿En qué debe centrarse la discusión ética al crear normas?
+Respuesta Correcta: En averiguar qué valores jurídicos se verán afianzados o debilitados con la adopción o modificación de las normas. La adopción de valores jurídicos debe basarse en la crítica y la razón, para que las preferencias sociales sean el fundamento de la norma.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+
+Pregunta: ¿Qué son los valores jurídicos?
+Respuesta Correcta: Apreciaciones racionales sobre la bondad o perfección del derecho positivo. Ejercen presión teleológica sobre las normas e instituciones jurídicas, proclamando un "deber ser" y "deber hacer" derivados de la experiencia histórica y jurídica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+
+Pregunta: ¿Cuáles son los principales valores jurídicos?
+Respuesta Correcta: Seguridad (certeza y previsibilidad del derecho), Libertad (garantiza la autonomía individual), Igualdad (aplicación uniforme de la ley sin privilegios) y Solidaridad (impulsa la acción estatal para el bienestar colectivo).
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+
+Pregunta: ¿Cómo se concibe actualmente la justicia como valor jurídico?
+Respuesta Correcta: Aunque es el valor jurídico más tradicional, actualmente se considera como el resultado del equilibrio entre los demás valores: se alcanza mediante una relación armoniosa entre seguridad, libertad, igualdad y solidaridad.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+
+Pregunta: ¿Por qué el derecho debe tener un "corazón social"?
+Respuesta Correcta: La ética debe influir en la construcción del derecho para que refleje las inquietudes y valores de la sociedad. Esta influencia debe contemplar incluso las particularidades de las diferentes regiones, adaptando la norma a los valores de la comunidad a la que se dirige.
+Manual: Manual de Filosofía del Derecho
+Bloque: 4
+Tema: La construcción ética del Derecho
+Pregunta: ¿Qué diferencia existe entre norma jurídica y ordenamiento jurídico?
+Respuesta Correcta: La norma jurídica es una regla u ordenación del comportamiento humano dictada por autoridad competente, cuyo incumplimiento acarrea sanción impuesta por la fuerza coactiva del Estado. El ordenamiento jurídico es el sistema o conjunto normativo e institucional que regula la conducta externa de las personas inspirándose en postulados de justicia y certeza jurídica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+
+Pregunta: ¿Por qué es importante el análisis lingüístico de las normas jurídicas?
+Respuesta Correcta: Porque la redacción de las normas no es trivial; cada palabra se selecciona cuidadosamente ya que su significado tiene consecuencias jurídicas de gran calado. Ejemplo: la diferencia entre "grave" y "muy grave", o entre "matar" y "asesinar" tienen implicaciones distintas en el ámbito penal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+
+Pregunta: ¿Cuáles son los tres enfoques del carácter lingüístico de las normas jurídicas?
+Respuesta Correcta: 1) Rasgos sintácticos: énfasis en el orden y estructura de las palabras. 2) Rasgos semánticos: centrados en los campos de significado que emplean los términos jurídicos. 3) Rasgos pragmáticos: buscan que la redacción sea concisa y no excesivamente extensa, maximizando la eficiencia comunicativa.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+
+Pregunta: ¿Qué analiza el enfoque sintáctico de las normas?
+Respuesta Correcta: El orden de las palabras y la estructura gramatical en la norma, entendiendo que la disposición de los términos tiene relevancia jurídica innegable.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+
+Pregunta: ¿Qué examina el enfoque semántico de las normas?
+Respuesta Correcta: Los campos semánticos de los términos que se emplean en cada precepto normativo, analizando el sentido de las palabras y su alcance conceptual.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+
+Pregunta: ¿Cuál es la función del ordenamiento jurídico?
+Respuesta Correcta: Ordenar la convivencia social y proporcionar los medios para resolver conflictos de relevancia jurídica, permitiendo su imposición coactiva. Regula la conducta externa de las personas inspirándose en postulados de justicia y certeza jurídica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Enfoque en el análisis del Derecho
+Pregunta: ¿Qué sostiene la interpretación objetiva del derecho?
+Respuesta Correcta: Que la norma jurídica es independiente de su autor, tiene su propia "vida" y sentido más allá de la intención del legislador. El intérprete debe indagar en el significado intrínseco de la norma misma, sin basarse en la voluntad del legislador ni politizar su aplicación.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+
+Pregunta: ¿Qué sostiene la interpretación subjetiva del derecho?
+Respuesta Correcta: Que el significado de una norma debe buscarse en la intención del legislador que la dictó. La norma es vista como un instrumento creado para cumplir una finalidad específica definida por el legislador. Riesgo: puede politizar la aplicación de la ley según la ideología del creador.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+
+Pregunta: ¿Qué es la interpretación ecléctica?
+Respuesta Correcta: Una síntesis de las interpretaciones objetiva y subjetiva. Reconoce que tanto la intención del legislador como el sentido intrínseco de la norma son válidos y deben conjugarse. Busca un equilibrio mediante una "sabia y equilibrada ponderación" de ambas tesis.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+
+Pregunta: ¿Por qué la interpretación subjetiva puede ser arriesgada?
+Respuesta Correcta: Porque tiende a politizar la aplicación de la ley, haciendo que su interpretación dependa de la ideología del partido político o del individuo que la propuso. Esto podría llevar a que cada cambio de gobierno altere radicalmente el sentido de las leyes.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+
+Pregunta: ¿Por qué se dice que "la virtud está en el medio" en la interpretación del derecho?
+Respuesta Correcta: Porque la interpretación ecléctica reconoce que ni la ley debe ser un producto puramente de la voluntad del legislador (subjetiva), ni debe interpretarse de forma completamente desvinculada de su origen (objetiva). El equilibrio produce los resultados más justos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+
+Pregunta: ¿Cuáles son los tres tipos principales de interpretación del derecho?
+Respuesta Correcta: 1) Interpretación objetiva: se centra en el sentido intrínseco de la norma, independiente del autor. 2) Interpretación subjetiva: busca la intención del legislador. 3) Interpretación ecléctica: síntesis equilibrada de ambas perspectivas para lograr resultados más justos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipología de la interpretación
+Pregunta: ¿Qué es el metalenguaje en el ámbito jurídico?
+Respuesta Correcta: Si el derecho es en sí mismo un lenguaje, el metalenguaje es el lenguaje utilizado para hablar o escribir sobre él. Es un lenguaje que tiene como objeto de estudio otro lenguaje. Ejemplo: "De acuerdo con el artículo 673 del Código Civil, será nulo el testamento otorgado".
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+
+Pregunta: ¿Cuál es la diferencia entre lenguaje legal y lenguaje de los juristas?
+Respuesta Correcta: El lenguaje legal es el utilizado en el texto jurídico propiamente dicho, con el que el legislador redacta y promulga las normas (ej: "el que matare recibirá tal cosa"). El lenguaje de los juristas es el que usan profesionales del derecho para comentar, analizar o interpretar las normas legales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+
+Pregunta: ¿Qué caracteriza al lenguaje legal?
+Respuesta Correcta: Su naturaleza formal y el uso frecuente de una sintaxis y tiempos verbales específicos, como se ve en frases "sentenciatorias" del tipo "será nulo el testamento..." o "el que matare recibirá tal cosa".
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+
+Pregunta: ¿Cómo utilizan los juristas el lenguaje respecto a las normas?
+Respuesta Correcta: Los profesionales del derecho (abogados, jueces, académicos) no basan sus argumentos en frases "sentenciatorias" directas, sino que se refieren a las normas legales para construir su interpretación y defensa, usando el metalenguaje jurídico.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+
+Pregunta: ¿Por qué es importante distinguir entre lenguaje legal y metalenguaje?
+Respuesta Correcta: Porque comprender esta distinción es fundamental para analizar cómo se interpretan y aplican las normas dentro del sistema jurídico. Permite a los profesionales del derecho navegar eficazmente entre la letra de la ley y su aplicación práctica en casos concretos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+
+Pregunta: ¿Qué diferencia un enunciado lingüístico legal de uno metalingüístico?
+Respuesta Correcta: El enunciado legal directo es la norma misma (ej: "Será nulo el testamento otorgado"). El metalingüístico contiene y se refiere a otro enunciado lingüístico (ej: "De acuerdo con el artículo 673 del CC, será nulo el testamento otorgado"), estableciendo una relación de análisis sobre el texto legal.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: El derecho como lenguaje
+Pregunta: ¿Cuáles son los criterios materiales de interpretación del derecho español?
+Respuesta Correcta: Se recogen en la Constitución: Art. 9.1 CE (somete a ciudadanos y poderes públicos a la Constitución y al ordenamiento jurídico) y Art. 10.2 CE (los derechos fundamentales deben interpretarse según la Declaración Universal de Derechos Humanos y los Tratados Internacionales ratificados por España).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+
+Pregunta: ¿Qué establece el artículo 3.1 del Código Civil sobre la interpretación de las normas?
+Respuesta Correcta: "Las normas se interpretarán según el sentido propio de sus palabras, en relación con el contexto, los antecedentes históricos y legislativos, y la realidad social del tiempo en que han de ser aplicadas, atendiendo fundamentalmente al espíritu y finalidad de aquellas".
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+
+Pregunta: ¿Qué es el criterio gramatical de interpretación?
+Respuesta Correcta: La interpretación parte del significado literal de las palabras en el diccionario y su contenido cultural. Si el significado es claro y unívoco, no se necesitan criterios adicionales para la comprensión normativa.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+
+Pregunta: ¿Qué es el criterio sistemático de interpretación?
+Respuesta Correcta: Se interpreta la norma en relación con otras normas del ordenamiento jurídico, especialmente las que regulan el mismo asunto. Busca la coherencia y armonía entre las disposiciones legales del sistema.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+
+Pregunta: ¿Qué son los criterios sociológico y teleológico de interpretación?
+Respuesta Correcta: Criterio sociológico: interpreta la norma a la luz de la realidad social del momento de aplicación, evitando que el derecho sea una "realidad vieja". Criterio teleológico: el más esencial, indaga en el espíritu y finalidad de la norma para entender el propósito con que fue dictada.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+
+Pregunta: ¿Qué exige el criterio lógico de interpretación según la LEC?
+Respuesta Correcta: Se rechazan las interpretaciones irracionales, arbitrarias o contrarias al sentido común. Según el artículo 218.2 de la Ley de Enjuiciamiento Civil, las sentencias deben ajustarse a "las reglas de la lógica y la razón".
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Criterios de interpretación actuales en España
+Pregunta: ¿Qué son las modalidades deónticas del carácter de una norma?
+Respuesta Correcta: Las tres posibilidades que definen la finalidad de una norma: 1) Obligación: algo debe ser hecho de manera imperativa. 2) Prohibición: algo no debe ser hecho bajo ninguna circunstancia. 3) Permiso: algo puede ser hecho de forma facultativa, otorgando libertad de elección.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+
+Pregunta: ¿Qué es el contenido de una norma jurídica?
+Respuesta Correcta: Aquello que se declara obligatorio, prohibido o permitido por el ordenamiento. Puede consistir en una acción o actividad humana que produzca un resultado determinado o un estado de cosas concreto. Puede manifestarse como acción positiva u omisión.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+
+Pregunta: ¿Cuál es la diferencia entre resultado y consecuencia en el ámbito jurídico?
+Respuesta Correcta: Resultado: cambios producidos como producto directo de un comportamiento voluntario (intencional o imprudente), genera responsabilidad jurídica. Consecuencia: cambios no intencionales ni imprudentes, efectos colaterales que escapan al control directo del sujeto, no generan responsabilidad directa.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+
+Pregunta: ¿Qué significa "omitir" en el ámbito jurídico?
+Respuesta Correcta: No es simplemente dejar de hacer algo, sino específicamente dejar de hacer algo que se podía realizar y que además se debía hacer según las circunstancias. La relación entre resultado y omisión no es causal directa, sino de imputación jurídica.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+
+Pregunta: ¿Qué son las reglas de fin y las directrices?
+Respuesta Correcta: Reglas de fin: establecen un estado de cosas que debe alcanzarse pero no especifican cómo (ej: art. 158 CC obliga al juez a "tomar medidas convenientes" sin precisar cuáles). Directrices: marcan un objetivo general para orientar la conducta, también llamadas "mandatos de optimización".
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+
+Pregunta: ¿Cuáles son los componentes estructurales de la norma jurídica?
+Respuesta Correcta: Carácter (obligación/prohibición/permiso), Contenido (lo declarado obligatorio/prohibido/permitido), Condición de aplicación (circunstancias para aplicar la norma), Autoridad (órgano emisor), Sujeto (destinatario), Ocasión (lugar y tiempo), Promulgación (forma de publicación) y Sanción (consecuencia por incumplimiento).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica I
+Pregunta: ¿Qué es la condición de aplicación de una norma?
+Respuesta Correcta: La circunstancia o conjunto de circunstancias que deben darse para que el contenido de una norma pueda ser ejecutado. Puede ser de dos tipos: normas categóricas (su condición se agota en su mismo contenido) y normas hipotéticas (establecen condiciones adicionales).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+
+Pregunta: ¿Qué diferencia existe entre normas categóricas e hipotéticas?
+Respuesta Correcta: Las normas categóricas tienen su condición de aplicación en su mismo contenido, sin condiciones externas (ej: "No matarás"). Las normas hipotéticas establecen condiciones adicionales que no se infieren de su contenido (ej: "Si llueve, cierra la puerta"). Las hipotéticas abundan más en los ordenamientos jurídicos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+
+Pregunta: ¿Qué es la autoridad de una prescripción?
+Respuesta Correcta: El órgano que dicta o emite la norma. Según su origen pueden ser: teónomas (emanan de un agente supraempírico, como un dios) o positivas (dictadas por seres humanos, como un parlamento, presidente o padre).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+
+Pregunta: ¿Qué diferencia existe entre normas heterónomas y autónomas?
+Respuesta Correcta: Normas heterónomas: dictadas por un agente para otro (el destinatario es diferente del autor). Normas autónomas: el agente se da la norma a sí mismo (el autor y destinatario coinciden).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+
+Pregunta: ¿Qué diferencia existe entre normas personales e impersonales?
+Respuesta Correcta: Normas personales: la relación entre el autor y el destinatario es más relevante que la propia norma (ej: tribunal de violencia de género, atiende a grupo específico). Normas impersonales: operan de forma independiente tanto del autor como del destinatario (ej: tribunal civil, acoge a todos por igual).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+
+Pregunta: ¿Cuáles son las clasificaciones de las normas según su origen y destinatario?
+Respuesta Correcta: Según origen: teónomas (de un dios) o positivas (de seres humanos). Según relación autor-destinatario: heterónomas (para otro) o autónomas (para sí mismo). Según relevancia de la relación: personales (relación relevante) o impersonales (independientes de autor y destinatario).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Estructura de la norma jurídica II
+Pregunta: ¿Qué son las normas primarias y secundarias en sentido cronológico?
+Respuesta Correcta: Las normas primarias establecen las obligaciones y prohibiciones de los ciudadanos (el "debe o no debe"). Las normas secundarias, posteriores, establecen las sanciones aplicables a quienes incumplen las normas primarias. Ej: en un artículo penal, la prohibición es primaria y la sanción es secundaria.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+
+Pregunta: ¿Qué son las normas primarias y secundarias en sentido valorativo (axiológico)?
+Respuesta Correcta: Las normas primarias son las principales porque prescriben un comportamiento; lo relevante es que los ciudadanos las cumplan. La sanción (norma secundaria) es accesoria y de menor relevancia, su propósito es garantizar el cumplimiento de la norma primaria.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+
+Pregunta: ¿Cómo definió Hart el ordenamiento jurídico?
+Respuesta Correcta: Como un sistema normativo que resulta de la unión de normas primarias y secundarias, no solo de normas de comportamiento. Las normas primarias son anteriores y tienen mayor relevancia funcional, pero las secundarias son vitales pues le confieren dinamismo al sistema y resuelven sus deficiencias.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+
+Pregunta: ¿Por qué la sanción es la "piedra angular" del derecho según Hart?
+Respuesta Correcta: Porque sin normas secundarias no existe propiamente el derecho. Aunque una norma primaria puede existir sin la secundaria, una secundaria carece de significado sin la primaria. Un artículo que solo dijera "será condenado a cinco años de cárcel" no tendría sentido sin especificar la conducta prohibida.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+
+Pregunta: ¿Cuáles son las tres carencias de las sociedades con solo normas primarias según Hart?
+Respuesta Correcta: 1) Falta de certeza: no hay método claro para determinar cuáles son las normas y su alcance. 2) Carácter estático: no hay mecanismo para cambiar las normas deliberadamente. 3) Ineficacia de la presión social: la sanción se basa en presión social sin sistema centralizado de aplicación.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+
+Pregunta: ¿Qué relación existe entre norma primaria y secundaria?
+Respuesta Correcta: La norma primaria especifica la conducta prohibida o permitida y puede existir de forma independiente. La norma secundaria establece la sanción correspondiente y carece de significado sin la norma primaria que la fundamenta. Son complementarias e interdependientes.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Las normas primarias y las secundarias
+Pregunta: ¿Qué son las reglas de reconocimiento?
+Respuesta Correcta: Normas secundarias que definen los criterios que una norma debe cumplir para ser considerada parte válida del ordenamiento jurídico. Resuelven el problema de la falta de certeza normativa, proporcionando un método claro para identificar qué normas son obligatorias.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+
+Pregunta: ¿Qué son las reglas de cambio?
+Respuesta Correcta: Normas secundarias que indican las condiciones necesarias para promulgar, modificar o derogar normas. Su función es dotar al sistema jurídico de dinamismo, superando el problema de la estaticidad normativa de las sociedades primitivas donde el cambio era lento y no deliberado.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+
+Pregunta: ¿Qué son las reglas de adjudicación?
+Respuesta Correcta: Normas secundarias que confieren a ciertos individuos (como los jueces) la autoridad para determinar si una norma primaria ha sido violada y para imponer una sanción. Resuelven la inseguridad en la aplicación de las normas, garantizando la eficacia del sistema.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+
+Pregunta: ¿Qué carencias de las sociedades primitivas resuelve cada tipo de norma secundaria?
+Respuesta Correcta: Reglas de reconocimiento: resuelven la falta de certeza (dudas sobre validez de normas). Reglas de cambio: resuelven la estaticidad (normas rígidas sin cambio deliberado). Reglas de adjudicación: resuelven la inseguridad en la aplicación (ausencia de órganos para determinar violaciones).
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+
+Pregunta: ¿Cuáles son los tres tipos de normas secundarias según Hart?
+Respuesta Correcta: 1) Reglas de reconocimiento: establecen criterios para identificar las normas primarias válidas, proporcionando certeza. 2) Reglas de cambio: permiten crear, modificar o derogar normas primarias, dotando de dinamismo. 3) Reglas de adjudicación: confieren poder para determinar violaciones e imponer sanciones.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+
+Pregunta: ¿Por qué las normas secundarias fueron esenciales para la evolución del derecho?
+Respuesta Correcta: Porque surgieron como remedio para las carencias de las sociedades primitivas (falta de certeza, estaticidad, inseguridad en aplicación). Aunque no las resolvieron absolutamente en las primeras etapas, sentaron las bases para un sistema jurídico más complejo, dinámico y seguro.
+Manual: Manual de Filosofía del Derecho
+Bloque: 5
+Tema: Tipos de normas secundarias
+Pregunta: ¿Cuáles son los tres tipos principales de aplicación de las normas jurídicas?
+Respuesta Correcta: 1) Aplicación automática: ciudadanos y Estado respetan las normas espontáneamente sin coacción. 2) Aplicación burocrática: intervención mecánica y repetitiva del Estado para casos sencillos. 3) Aplicación particularizada: para casos excepcionales y únicos que requieren interpretación profunda.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+
+Pregunta: ¿Qué es la aplicación automática del derecho?
+Respuesta Correcta: Ocurre cuando los ciudadanos y el Estado respetan las normas de forma espontánea, sin necesidad de recurrir a la coacción. Ejemplos: respetar los términos de un contrato, cumplir las reglas de tráfico, evitar delitos. Es posible en estados con sistema coactivo fuerte.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+
+Pregunta: ¿Qué es la aplicación burocrática del derecho?
+Respuesta Correcta: Requiere la intervención del Estado de forma mecánica y repetitiva para casos sencillos que no implican interpretaciones complejas. Ejemplo: la matrícula de un estudiante en una universidad. La diferencia con la automática es la intervención activa del Estado en el proceso.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+
+Pregunta: ¿Qué es la aplicación particularizada del derecho?
+Respuesta Correcta: Se usa para casos excepcionales y únicos que presentan perfiles especiales, requiriendo interpretación profunda de la norma o ponderación de distintos valores. Es propia de los tribunales y casos judiciales, donde los matices del caso concreto son fundamentales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+
+Pregunta: ¿Qué pasos implica la aplicación particularizada del derecho?
+Respuesta Correcta: 1) Análisis del caso concreto: examinar los matices específicos de cada situación. 2) Interpretación profunda: comprensión detallada de la norma aplicable. 3) Ponderación de valores: evaluar principios jurídicos que pueden entrar en conflicto. 4) Decisión particularizada adaptada a las circunstancias.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+
+Pregunta: ¿Por qué el derecho tiene vocación práctica?
+Respuesta Correcta: Porque su correcta aplicación es clave para su efectividad. El Estado, como creador de la mayoría de las normas, también debe establecer cómo se aplican. Sin una aplicación adecuada, el derecho no cumpliría su función de regular la convivencia social.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: Aplicación del Derecho
+Pregunta: ¿Qué es la equidad en el ámbito jurídico?
+Respuesta Correcta: Una cualidad que se predica de la solución particularmente justa que se da a un caso concreto. Mientras la justicia es un concepto abstracto, la equidad es su aplicación en la realidad ateniéndose a las particularidades de cada situación.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+
+Pregunta: ¿Cuál es la función de la equidad?
+Respuesta Correcta: Suavizar la rigidez de la ley para ajustarla a las especialidades de un caso único, evitando resultados desproporcionados o absurdos. Busca que una norma, justa en abstracto, se aplique de forma concretamente justa.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+
+Pregunta: ¿Qué establece el artículo 3.2 del Código Civil español sobre la equidad?
+Respuesta Correcta: "La equidad habrá de ponderarse en la aplicación de las normas, si bien las resoluciones de los Tribunales solo podrán descansar de manera exclusiva en ella cuando la ley expresamente lo permita". Ponderar significa sopesar o aplicar con prudencia.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+
+Pregunta: ¿Cuáles son los dos usos de la equidad?
+Respuesta Correcta: 1) Como instrumento auxiliar del juez: para individualizar la justicia en cada caso concreto en la interpretación de las normas, más allá de interpretaciones automáticas. 2) Como criterio excepcional: los tribunales solo pueden basar resoluciones exclusivamente en ella cuando la ley lo permite expresamente.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+
+Pregunta: ¿Cuál es la relación entre la equidad y la norma jurídica?
+Respuesta Correcta: La equidad está subordinada a la norma jurídica. No puede cambiar radicalmente el sentido de una norma, sino solo matizar y ayudar en su interpretación para asegurar una aplicación justa y prudente en cada caso.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+
+Pregunta: ¿Cuál es la relación entre justicia y equidad?
+Respuesta Correcta: La justicia es un principio abstracto que establece lo bueno y lo malo (el "deber ser" general). La equidad es la materialización de la justicia en lo concreto, aplicando singularmente la norma a un caso específico. La equidad actúa como puente entre lo abstracto y lo concreto.
+Manual: Manual de Filosofía del Derecho
+Bloque: 6
+Tema: La equidad
+Pregunta: ¿Qué es la libertad como concepto jurídico fundamental?
+Respuesta Correcta: La facultad inherente al ser humano de comportarse de una manera o de abstenerse de hacerlo, siempre dentro de los límites que establece la ley. Es un derecho que debe ser reconocido y protegido por los ordenamientos jurídicos.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad
+
+Pregunta: ¿Cuáles son las dos perspectivas principales de la libertad?
+Respuesta Correcta: 1) Libertad como estado (perspectiva liberal): condición inherente al ser humano, independiente y autónomo, el individuo nace con capacidad natural de autodeterminación. 2) Libertad como proceso (concepción materialista): se desarrolla en contexto social y material, condicionada por las circunstancias en que vive el individuo.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad
+
+Pregunta: ¿Cuáles son las tres interpretaciones de "yo soy libre"?
+Respuesta Correcta: 1) Libertad como permiso: consentimiento o autorización para realizar acciones, otorgada por una autoridad. 2) Libertad como capacidad: ser capaz de tener las habilidades y competencias necesarias para ejercer la libertad de manera efectiva y consciente. 3) Libertad como poder: tener las condiciones materiales, sociales y políticas para ejercerla realmente.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad
+
+Pregunta: ¿Cuáles son las tres etapas históricas del liberalismo?
+Respuesta Correcta: 1) Liberalismo antiguo: defendió las libertades básicas frente al poder absoluto del Estado, inicio de la lucha contra el autoritarismo. 2) Liberalismo mediano: defensa de libertades individuales frente a derechos sociales por temor a que estos limitaran las libertades personales. 3) Liberalismo contemporáneo: busca equilibrio entre derechos individuales y sociales, reconociendo su coexistencia.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad
+
+Pregunta: ¿Cuáles son los principios clave de la libertad liberal?
+Respuesta Correcta: 1) Autonomía individual: derecho a disponer del cuerpo y propiedad privada sin interferencias injustificadas. 2) Limitación del poder: acción del Estado limitada para salvaguardar libertades. 3) No coacción: derecho a no ser coaccionado en la autonomía individual. 4) Protección de derechos: vida, libertad y propiedad como derechos fundamentales.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad
+
+Pregunta: ¿Cómo surgió el liberalismo y cuál fue su herramienta principal?
+Respuesta Correcta: Surgió como reacción a la sociedad de estamentos y al poder político absoluto. Las constituciones se convirtieron en la herramienta principal para garantizar las libertades de los individuos. Kant consideraba que una constitución justa era aquella que unía la libertad con el poder.
+Manual: Manual de Filosofía del Derecho
+Bloque: 7
+Tema: La libertad

@@ -1,0 +1,770 @@
+Pregunta: ¿Qué es un contrato mercantil y cuál es su régimen jurídico?
+Respuesta Correcta: Acuerdo de voluntades jurídicamente vinculante, celebrado entre personas (físicas o jurídicas) con intereses distintos, dirigido a crear, transferir, modificar o extinguir derechos de contenido patrimonial (ejemplo prototipo: compraventa). Régimen jurídico: fuente principal = Código de Comercio y leyes mercantiles especiales (Ley de Sociedades de Capital, Ley Cambiaria y del Cheque, etc.). Supletoriedad: cuando no aparezca recogido en legislación mercantil, se aplica el Código Civil.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+
+Pregunta: ¿Qué especialidades tienen las obligaciones mercantiles respecto al cumplimiento de plazos?
+Respuesta Correcta: Prohibición de términos de gracia o cortesía: en Derecho Mercantil rige estricta disciplina en cumplimiento; no se reconocen términos de gracia, cortesía u otros mecanismos para retrasar el cumplimiento. Los plazos pactados son inamovibles para proteger la celeridad y el interés superior del tráfico económico. Especialidades justificadas por necesidad de agilidad y seguridad en el tráfico económico.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+
+Pregunta: ¿Cómo se regulan las obligaciones puras en el Derecho Mercantil?
+Respuesta Correcta: Obligaciones puras: válidas y exigibles desde su nacimiento (no sujetas a condición suspensiva ni término). En Derecho Civil (art. 1113 CC): exigibilidad inmediata (matizada por art. 1128 CC si plazo a voluntad del deudor). En Derecho Mercantil (art. 62 C.Com.): acción ordinaria exigible a los 10 días; acción ejecutiva exigible inmediatamente.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+
+Pregunta: ¿Cómo funciona la mora mercantil?
+Respuesta Correcta: Mora: retrasarse culpablemente en el cumplimiento de una obligación. Régimen mercantil (art. 63 C.Com.) más automático y riguroso. Contratos con plazo fijado: mora automática desde el día siguiente al vencimiento (no requiere interpelación del acreedor). Contratos sin plazo fijado: mora desde que el acreedor interpela judicialmente o reclama mediante protesta de daños y perjuicios ante juez, notario u otro oficial público autorizado.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+
+Pregunta: ¿Cuáles son los plazos de prescripción en Derecho Mercantil y la forma del contrato?
+Respuesta Correcta: Prescripción: plazos más cortos y ágiles que en Código Civil. Acciones sin plazo específico en C.Com.: se aplica plazo general del CC = 5 años. Excepción: responsabilidad de administradores (art. 241 bis LSC) = 4 años. Forma del contrato: rige principio de libertad de forma; contratos válidos y producen obligaciones independientemente de la forma (oral, escrita, documento público o privado) e idioma, siempre que conste su existencia por medios del Derecho Civil.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+
+Pregunta: ¿Cómo se perfecciona el contrato entre ausentes y qué valor tiene el silencio?
+Respuesta Correcta: Perfección entre ausentes (LSSI): ¿Cuándo? Desde que oferente conoce la aceptación o desde que, habiéndosela remitido el aceptante, no puede ignorarla sin faltar a la buena fe. ¿Dónde? En el lugar donde se hizo la oferta. Contratación electrónica: consentimiento desde que se manifiesta aceptación; lugar: con consumidores = residencia habitual del consumidor; entre empresarios = lugar pactado o donde esté el prestador de servicios. Valor del silencio: norma general = silencio no genera obligaciones. Excepciones: silencio del cónyuge del comerciante (consiente que bienes comunes respondan); transformación societaria (socio que votó en contra y no se adhiere en 1 mes = ejerce derecho de separación).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Definición de Contratos Mercantiles
+Pregunta: ¿Cómo se interpretan los contratos mercantiles?
+Respuesta Correcta: Se rige por arts. 50, 57 y 59 del Código de Comercio. Supletoriamente: arts. 1.281 a 1.289 del Código Civil. Contratos deben ejecutarse y cumplirse de buena fe. Regla de cierre interpretativa del Derecho Mercantil: si las normas aplicadas no permiten resolver las dudas, deben decidirse a favor del deudor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+
+Pregunta: ¿Cuáles son las particularidades interpretativas de los contratos mercantiles?
+Respuesta Correcta: Contratos con CGC: prevalecen cláusulas especiales sobre las generales. Remisión al Código Civil: para interpretación de CGC sin regulación específica en LCGC, se aplican normas del CC (no del C.Com.). Cláusula oscura: interpretación que no favorezca a quien la redactó (principio contra proferentem). Contratos con consumidores: siempre interpretación favorable al consumidor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+
+Pregunta: ¿Cómo funcionan las cláusulas penales y la representación en contratos mercantiles?
+Respuesta Correcta: Cláusulas penales: obligaciones accesorias (normalmente entrega de dinero) para asegurar cumplimiento de obligación principal. La parte perjudicada puede exigir solo el cumplimiento del contrato O la pena prescrita (salvo pacto expreso, no ambas). Representación: el mandato concluye cuando fallece el mandante; inscripción obligatoria de poderes en Registro Mercantil; las limitaciones a facultades de representantes, aunque estén inscritas, son ineficaces e inoponibles a terceros de buena fe.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+
+Pregunta: ¿Qué son las Condiciones Generales de Contratación (CGC)?
+Respuesta Correcta: Contratos de adhesión: contenido idéntico predeterminado por una parte, no negociables individualmente. CGC: cláusulas predispuestas por el predisponente destinadas a incorporarse en masa a pluralidad de contratos. Marco legal: LCGC (contratos entre profesionales y cualquier adherente) y TRLGDCU (contratos con consumidores). Sometidas a rigurosos controles legales de incorporación, interpretación y contenido.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+
+Pregunta: ¿Qué controles deben superar las CGC para ser válidas?
+Respuesta Correcta: Control de incorporación: adherente debe tener conocimiento fehaciente de que el contrato incluye CGC, aceptarlas mediante firma y disponer de copia. Cláusulas deben ser claras, legibles y comprensibles (si no, se tienen por no puestas). Control de contenido: nulas de pleno derecho las CGC contrarias a normas imperativas de la LCGC y las cláusulas abusivas con consumidores. Cláusulas abusivas (TRLGDCU, Directiva 93/13/CE): estipulaciones no negociadas individualmente que, siendo contrarias a la buena fe, provocan desequilibrio importante entre derechos y obligaciones en perjuicio del consumidor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+
+Pregunta: ¿Qué son las acciones colectivas y los mecanismos ADR en contratos mercantiles?
+Respuesta Correcta: Acciones colectivas (imprescriptibles): Acción de cesación (condena a eliminar cláusula y no usarla en futuro), Acción declarativa (calificar judicialmente una cláusula como CGC), Acción de retractación (condenar a quien recomendó públicamente cláusulas nulas a retractarse). Mecanismos ADR (alternativos de resolución de controversias): procedimientos voluntarios para evitar procesos judiciales. Arbitraje (Ley 60/2003): árbitros dictan laudo con efecto de cosa juzgada y título ejecutivo. Mediación (Ley 5/2012): mediador neutral guía a las partes para que lleguen a acuerdo por sí mismas.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 1
+Tema: Interpretación de Contratos Mercantiles
+Pregunta: ¿Qué es un contrato de compraventa y cuándo es mercantil?
+Respuesta Correcta: Concepto (art. 1445 CC): contrato por el que uno se obliga a entregar cosa determinada y otro a pagar precio cierto en dinero o signo que lo represente. Regulación: civil (arts. 1445 y ss. CC) y mercantil (arts. 325-345 C.Com.). Será mercantil (art. 325 C.Com.): "la compraventa de cosas muebles para revenderlas, ya sea en la misma forma o en otra diferente, siempre con ánimo de lucrarse en la reventa".
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+
+Pregunta: ¿Cuáles son los requisitos de mercantilidad de la compraventa?
+Respuesta Correcta: Requisito objetivo: naturaleza mueble de la cosa (art. 325 habla de "cosas muebles"); doctrina y jurisprudencia admiten inmuebles por analogía (art. 2 C.Com.) en compras especulativas. Requisito subjetivo: doble intención en el comprador: ánimo de revender (volver a poner la cosa en el mercado) Y ánimo de lucrarse (obtener beneficio económico). Si falta uno de estos requisitos intencionales, será compraventa civil de consumo.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+
+Pregunta: ¿Qué compraventas están excluidas de la mercantilidad?
+Respuesta Correcta: Art. 326 C.Com. excluye expresamente: 1) Compras para uso propio (consumo del comprador o de persona por cuyo encargo se adquieren) - si falta ánimo de reventa y finalidad lucrativa, es acto de consumo civil. 2) Compraventa-inversión (combustible, maquinaria para industria): parte de doctrina y jurisprudencia la reputan mercantil por existir ánimo de lucro y excluir consumo familiar. 3) Ventas de agricultores, ganaderos de sus cosechas o ganados. 4) Ventas de artesanos en sus talleres (a sensu contrario: fuera del taller sí es mercantil).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+
+Pregunta: ¿Cómo se determina la mercantilidad de la reventa?
+Respuesta Correcta: Reventa: venta hecha por comprador de lo que adquirió con objetivo de revender. Problema: reventa del comerciante al consumidor final. Se consideran civiles las compras hechas por consumidores en tiendas o establecimientos abiertos al público (aunque el consumidor sea empresario en otra actividad). Razones: en el comprador (consumidor) no concurre el doble requisito del art. 325; el art. 326.1 excluye compras destinadas al consumo; no tendría sentido aplicar régimen mercantil a consumidores, pues menoscabaría el TRLGDCU.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+
+Pregunta: ¿La transformación de la cosa afecta a la mercantilidad?
+Respuesta Correcta: Requisito indiferente: el art. 325 aclara que la compraventa será mercantil tanto si las cosas se revenden "en la misma forma en que se compraron, como en otra distinta". Esto equipara la simple compra comercial (revender tal cual) con la compra de materias primas que serán industrialmente transformadas para crear nuevo producto que se revenderá.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+
+Pregunta: ¿Desde qué perspectiva se califica la compraventa como mercantil?
+Respuesta Correcta: El legislador español adopta como criterio básico la perspectiva del comprador, no la del vendedor. Será desde el ángulo del adquirente desde donde debe determinarse si la compraventa es mercantil. Idea clave: el empresario que compra debe hacerlo con intención de revender y lucrarse. Si esa doble intención no existe en el momento de la compra, no es mercantil (será civil de consumo o de inversión empresarial, aunque esta última se asimila a mercantil por doctrina y jurisprudencia).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Compraventa Mercantil
+Pregunta: ¿Cuáles son las obligaciones del vendedor y cómo se regula la entrega?
+Respuesta Correcta: Obligaciones: entregar la cosa (art. 329 C.Com. y arts. 1461 y ss. CC) y saneamiento. Momento de entrega: en el plazo pactado; si no hay pacto, dentro de las 24 horas siguientes a la estipulación del contrato. Modo de cumplimiento: principio espiritualista de entrega mercantil (traditio ficta); se cumple realizando cuantas actividades sean necesarias para poner la cosa a disposición del comprador, independientemente de que este tome posesión efectiva. Verificación en sitio pactado o, en defecto, en establecimiento del vendedor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+
+Pregunta: ¿Qué diferencia existe entre la entrega civil y la mercantil?
+Respuesta Correcta: Compraventa civil (art. 1462 CC): traditio real o física; se cumple cuando la cosa se pone "en poder y posesión del comprador". Compraventa mercantil (arts. 329 y 338 C.Com.): traditio ficta (puesta a disposición); se cumple cuando el vendedor realiza lo necesario para que el comprador pueda retirar la mercancía (generalmente en almacén del vendedor). El C.Com. sigue principio espiritualista, apartándose del sistema civil. La entrega debe ser total; no se pueden imponer entregas parciales.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+
+Pregunta: ¿Cuáles son las consecuencias del retraso del vendedor en la entrega?
+Respuesta Correcta: Rigor del tráfico mercantil: el mero retraso se equipara al incumplimiento total (es indiferente si fue culposo o no). Opciones del comprador: 1) Pedir cumplimiento forzoso del contrato (vía judicial), o 2) Pedir resolución del contrato. En ambos casos: derecho a indemnización de perjuicios por tardanza o incumplimiento. La resolución puede ser parcial y ejercitarse extrajudicialmente mediante declaración del comprador (si se impugna, resuelven tribunales).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+
+Pregunta: ¿Qué es la compraventa de reemplazo?
+Respuesta Correcta: Especialidad ante incumplimiento del vendedor. Permite al comprador adquirir de fuente alternativa mercancías similares (igual calidad y cantidad) y reclamar al vendedor incumplidor la diferencia que hayan tenido que satisfacer al tercero por esa compraventa de reemplazo (el sobrecoste). No prevista con carácter general, pero doctrina la admite siempre que el comprador actúe de buena fe (no buscando deliberadamente precio más caro para perjudicar al vendedor).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+
+Pregunta: ¿Cómo funciona el saneamiento por evicción y por vicios en la compraventa mercantil?
+Respuesta Correcta: Saneamiento por evicción: menor importancia práctica en ámbito mercantil por protección del art. 85 C.Com. (quien compra en establecimientos abiertos al público no puede ser privado de la cosa aunque no perteneciera al vendedor = adquisición instantánea a favor del comprador de buena fe). Excepción: si compra fuera del establecimiento, sí cabe evicción. Saneamiento por vicios: régimen dispositivo (partes pueden excluirlo o modificarlo). Distinguir entre vicios ocultos (hacen impropia la cosa para su uso o disminuyen su uso) y defectos de calidad o cantidad (no posee cualidades pactadas o entrega menor cantidad).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+
+Pregunta: ¿Cuáles son los plazos de denuncia de vicios y defectos en la compraventa mercantil?
+Respuesta Correcta: Plazos de caducidad muy breves para seguridad jurídica: Defectos de calidad/cantidad aparentes (art. 336): en el acto de recepción si se examina y manifiesta contento, pierde derecho. Defectos en mercancía embalada (art. 336): 4 días desde recepción para comprobar y reclamar. Vicios ocultos o internos (art. 342): 30 días desde entrega para examinar y reclamar. Doctrina del aliud pro alio: en vicios especialmente graves, no se aplican plazos de 4 o 30 días sino plazo de prescripción de 5 años (art. 1964 CC). Tras denuncia en plazo, el comprador tiene 6 meses (art. 1490 CC) para interponer demanda judicial.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Vendedor
+Pregunta: ¿Cuáles son las obligaciones del comprador en la compraventa mercantil?
+Respuesta Correcta: Dos obligaciones fundamentales: 1) Pagar el precio acordado: en fecha y lugar pactados; si no hay pacto, en el momento y lugar de entrega de la cosa; precio determinado o determinable, en dinero o signo que lo represente; puede incluir solo valor de mercancías o también transporte y seguro (cláusula CIF = Coste, Seguro y Flete). 2) Recibir la cosa comprada: no solo derecho sino obligación contractual; si se niega injustificadamente, se frustran intereses del vendedor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+
+Pregunta: ¿Cuáles son los plazos de prescripción y exigibilidad del precio?
+Respuesta Correcta: Prescripción (art. 943 C.Com.): remite al derecho común; plazo general de 5 años (art. 1964.2 CC). Excepción: compras de empresarios como consumidores (uso personal) = 3 años (art. 1967.4 CC). Exigibilidad: precio al contado (presunción si no hay pacto - art. 87 C.Com.) = vendedor puede exigir desde que pone cosa a disposición y comprador se muestra satisfecho. Precio aplazado = cuando se ha concedido crédito al comprador. Si comprador se niega a recibir sin justa causa, vendedor puede depositar judicialmente (art. 339 C.Com.) y exigir pago.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+
+Pregunta: ¿Qué establece la Ley 3/2004 sobre morosidad en operaciones comerciales?
+Respuesta Correcta: Plazos de pago imperativos entre empresarios: Plazo general (sin pacto): 30 días naturales desde recepción de mercancía. Plazo pactado: no puede superar 60 días naturales. Obligación del vendedor: hacer llegar factura antes de 30 días desde recepción. Si hay procedimiento de verificación de conformidad: máximo 30 días desde recepción; el plazo de pago empieza desde la conformidad, pero cómputo total (verificación + pago) no puede superar 60 días desde entrega.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+
+Pregunta: ¿Qué especialidades establece la LOCM para el comercio minorista?
+Respuesta Correcta: Ley de Ordenación del Comercio Minorista: Regla general (sin pacto): pago antes de 30 días desde entrega. Productos de alimentación frescos y perecederos: aplazamientos máximo 30 días desde entrega. Demás productos de alimentación: aplazamientos máximo 60 días. El precio puede pagarse al contado o, si la parte compradora acepta, mediante cheques, libramiento de letras de cambio o transferencia bancaria.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+
+Pregunta: ¿Cuándo puede el comprador negarse justificadamente a recibir la mercancía?
+Respuesta Correcta: Negativa justificada (no incumple su obligación): 1) Vicios de cantidad: mercancía adolece de vicios o defectos de cantidad (art. 330 C.Com.). 2) Vicios de calidad: mercancía adolece de vicios o defectos de calidad (art. 336 C.Com.). 3) Entrega fuera de plazo: vendedor pretende realizar entrega transcurrido el plazo acordado (art. 332 C.Com.). En estos casos, el comprador puede negar la recepción conforme a derecho.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+
+Pregunta: ¿Cómo funciona la transmisión del riesgo en la compraventa mercantil?
+Respuesta Correcta: Problema: determinar quién soporta pérdida o deterioro por caso fortuito/fuerza mayor tras perfección del contrato pero antes de posesión material del comprador. Regla mercantil (distinta de la civil): los riesgos pasan al comprador desde que el vendedor le ha entregado la cosa o la ha puesto a su disposición. Si la cosa estaba a disposición del comprador y ocurre el siniestro, el comprador debe pagar precio íntegro aunque no reciba nada. Excepción: si pérdida se produce por dolo, culpa o negligencia del vendedor, es este quien soporta el daño e indemniza.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Obligaciones del Comprador
+Pregunta: ¿Qué es la venta con expedición o "de plaza a plaza"?
+Respuesta Correcta: Modalidad donde las partes no concurren en mismo lugar en el momento de celebración (contratación entre ausentes). El vendedor no entrega directamente al comprador sino a través de transportista. Crucial determinar lugar y momento de cumplimiento de entrega y recepción para delimitar transmisión del riesgo. Sin pacto expreso (art. 338 C.Com.): vendedor cumple haciendo lo necesario para poner efectos a disposición del comprador. Cláusulas habituales: venta "en fábrica" (comprador recoge en instalaciones del vendedor), "en almacén" (entrega en depósito del vendedor), "a bordo" (mercancía se entrega cargada en medio de transporte).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+
+Pregunta: ¿Qué es la compraventa a plazos de bienes muebles?
+Respuesta Correcta: Facilita adquisición a sujetos sin liquidez inmediata. Regulación: Ley 28/1998 de Venta a Plazos de Bienes Muebles. Exige aplazamiento mínimo de 3 meses. Exclusiones: ventas de consumibles para reventa (no uso propio), ventas ocasionales sin finalidad lucrativa, ventas garantizadas por hipoteca mobiliaria o prenda sin desplazamiento, contratos de importe inferior al reglamentario. Será mercantil cuando el comprador sea empresario que adquiere para incorporar a establecimiento o proceso productivo (compraventa-inversión).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+
+Pregunta: ¿Cuáles son los requisitos formales de la venta a plazos?
+Respuesta Correcta: Contrato de naturaleza formal: debe constar por escrito para su validez. Son nulos los pactos que obliguen al comprador a pagar al contado si no obtiene crédito de financiación previsto. Contenido mínimo obligatorio: descripción del objeto, precio de venta al contado, importe del desembolso inicial, parte que se aplaza y parte financiada, tipo de interés nominal, TAE, prohibición de enajenar hasta pago total, tasación del bien (para subasta), cláusula de reserva de dominio (si se pacta), facultad de desistimiento. Perfección: cuando comprador realiza desembolso inicial; propiedad se adquiere al pagar totalidad (reserva de dominio).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+
+Pregunta: ¿Cuáles son las compraventas especiales sujetas a consentimiento?
+Respuesta Correcta: 1) Venta sobre muestras: se acuerda transacción de cosas genéricas a raíz de muestra; vendedor debe entregar producto de misma calidad; comprador no puede rechazar por arrepentimiento, solo si no corresponde con muestra (decide perito en disputa). 2) Venta a ensayo o prueba: bajo condición de que la cosa sirva para uso específico; si no es idónea, puede rehusar pago y rescindir; si funciona, venta se consolida. 3) Venta a salvo aprobación: comprador NO está obligado a aceptar; puede rehusar libremente si "no le conviene" (criterio subjetivo); contrato solo se perfecciona cuando recibe y aprueba. 4) Venta a salvo confirmación: frecuente en agencia; acuerdo queda pendiente de confirmación del principal.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+
+Pregunta: ¿Qué regula la Convención de Viena (CISG) sobre compraventa internacional?
+Respuesta Correcta: Convención de las Naciones Unidas sobre Contratos de Compraventa Internacional de Mercaderías (11 abril 1980). Regula: formación del contrato (oferta y aceptación), derechos y obligaciones de vendedor y comprador, remedios en caso de incumplimiento, transmisión del riesgo. NO regula: validez del contrato (vicios del consentimiento), efectos sobre la propiedad de mercancías vendidas. Exclusiones: compras para uso personal/doméstico (consumidores), subastas y ventas judiciales, valores mobiliarios, buques, aeronaves, electricidad. Naturaleza: derecho dispositivo (partes pueden excluir expresamente su aplicación).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+
+Pregunta: ¿Cuáles son las diferencias entre venta sobre muestras, a ensayo y a salvo aprobación?
+Respuesta Correcta: Venta sobre muestras: base de consentimiento objetiva (coincidencia con muestra); comprador obligado a aceptar si es idéntica; perfeccionado pero sujeto a resolución si no coincide. Venta a ensayo o prueba: base objetiva (idoneidad para fin específico); obligado a aceptar si prueba exitosa; perfeccionado pero sujeto a condición resolutoria si no es idóneo. Venta a salvo aprobación: base subjetiva (gusto o conveniencia del comprador); comprador NO obligado, puede rehusar libremente; NO perfeccionado hasta que comprador da su aprobación.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: La Compraventa Especial
+Pregunta: ¿Qué es el contrato de permuta mercantil?
+Respuesta Correcta: Trueque: intercambio de una cosa por otra. Definición civil (art. 1538 CC): contrato por el cual cada permutante se obliga a dar una cosa para recibir otra. Regulación mercantil (art. 346 C.Com.): remisión directa a normas de compraventa mercantil. Supletoriamente: arts. 1538-1540 CC. Características: consensual (perfección por consentimiento), oneroso (obligaciones y ventajas recíprocas), bilateral y sinalagmático (obligaciones y derechos interdependientes para ambas partes), traslativo de dominio (título hábil para transmitir propiedad, requiere traditio).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+
+Pregunta: ¿Qué problemática presenta la permuta de cosa ajena?
+Respuesta Correcta: Si un permutante entrega cosa que no le pertenece: 1) Adquisición previa a entrega: si adquiere propiedad antes de entregar, contrato se cumple normalmente. 2) Entrega sin titularidad: adquirente se arriesga a que verdadero dueño reclame (evicción). 3) Resolución (art. 1539 CC): si adquirente acredita que cosa recibida no es del transmitente, no está obligado a entregar lo que ofreció a cambio; contrato se resuelve si consiente devolver lo recibido. 4) Incumplimiento: si no entrega, se aplican normas generales del incumplimiento.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+
+Pregunta: ¿Qué ocurre con la evicción consumada en la permuta?
+Respuesta Correcta: Art. 1540 CC: si la permuta ya se consumó (ambas partes entregaron) y el adquirente pierde posteriormente por evicción la cosa recibida, tiene opción: 1) Recuperar la cosa entregada (siempre que siga en poder del otro permutante y sin perjuicio de derechos adquiridos por terceros de buena fe), o 2) Reclamar indemnización por daños y perjuicios sufridos.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+
+Pregunta: ¿Qué variedades contractuales de permuta existen?
+Respuesta Correcta: 1) Permuta con sobreprecio: bienes de diferente valor; se entrega cantidad de dinero adicional para compensar diferencia; art. 1446 CC: se califica como permuta si valor de la cosa excede al del dinero, si no, es compraventa. 2) Permuta de solar por inmueble a construir: propietario de solar cede para que promotora construya, a cambio de parte de edificación resultante (pisos, locales) o precio de su venta. 3) Countertrade (comercio internacional): compensación de operaciones; exportador se compromete a importar bienes del adquirente por valor total o parcial de la primera prestación.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+
+Pregunta: ¿Qué es un contrato de swap o permuta financiera?
+Respuesta Correcta: Contrato atípico (no regulado) por el cual las partes acuerdan intercambiar durante un período futuro una sucesión de flujos (de monedas o de tipos de interés sobre activos o pasivos). Pueden realizarse en mercado organizado o "Over The Counter" (OTC). Muy utilizados para cobertura de riesgos (hedging). Naturaleza jurídica: atípico pero lícito (art. 1255 CC y art. 50 C.Com.), importado del sistema anglosajón, consensual, bilateral y sinalagmático, de duración continuada o tracto sucesivo. Ejemplo: empresa con deuda a tasa variable intercambia flujos con otra endeudada a tasa fija para obtener estabilidad.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+
+Pregunta: ¿Cómo funciona la cesión de derechos de autor?
+Respuesta Correcta: Transmisión de bienes inmateriales (propiedad intelectual). Forma: debe realizarse por escrito (si no, puede ser nula o resoluble). Objeto: detallar sobre qué recae la cesión y el uso concreto para el que se cede. Distinción fundamental: Derechos morales (irrenunciables e intransferibles): reconocimiento de autoría, decidir sobre divulgación, integridad de la obra. Derechos patrimoniales o de explotación (únicos que se transmiten): reproducción, distribución, comunicación pública, transformación. Límite legal (Ley de Propiedad Intelectual): es nula toda cesión respecto del conjunto de obras futuras que pueda crear el autor.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 2
+Tema: Contrato de Permuta
+Pregunta: ¿Qué es el contrato de comisión y cuáles son sus características?
+Respuesta Correcta: Mandato mercantil (art. 244 C.Com.). Concepto: contrato por el que se obliga a una persona a prestar algún servicio o hacer alguna cosa, por cuenta o encargo de otra (art. 1709 CC). Características: objeto mercantil (acto u operación de comercio, generalmente compraventa), partes específicas (comitente = quien encarga; comisionista = quien ejecuta), carácter mercantil (debe ser comerciante el comitente o el comisionista + objeto = acto de comercio), interés (comisionista actúa siempre en interés y por cuenta del comitente). Presunción de retribución (a diferencia del mandato civil que se presume gratuito).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+
+Pregunta: ¿Cuál es la diferencia entre comisión y agencia?
+Respuesta Correcta: Criterio de la duración: Comisión = contrato esporádico e instantáneo; relación puntual limitada a operación concreta; se extingue cuando se ejecuta y consuma el negocio; actividad puntual sin presunción de repetición. Agencia = relación duradera y de tracto sucesivo; el agente se obliga a promover negocios de forma continuada; relación estable en el tiempo; promoción continuada; vínculo permanente con el principal.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+
+Pregunta: ¿Cómo puede actuar el comisionista y cuáles son sus obligaciones principales?
+Respuesta Correcta: Formas de actuación: Representación directa (en nombre del comitente, revela que gestiona su interés; efectos jurídicos directamente entre comitente y tercero) o Representación indirecta (en nombre propio, sin revelar identidad del comitente; queda obligado directamente con el tercero). Obligaciones: aceptación del encargo (comunicar rehúse por medio más rápido), ejecución del encargo, provisión de fondos (solo exigible si comitente entrega fondos), carácter personal (no puede delegar sin permiso), respeto a instrucciones (o consultar, o actuar con prudencia), comunicación e información, rendición de cuentas justificadas.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+
+Pregunta: ¿Qué tipo de obligación tiene el comisionista y qué es la prohibición de autoentrada?
+Respuesta Correcta: Obligación de medios, no de resultado (salvo pacto en contrario): no está obligado a lograr resultado exitoso, solo a hacer lo que normalmente debería bastar para conseguirlo. Silencio: no le obliga a ejecutar el encargo, pero sí le hace responsable de indemnizar daños y perjuicios. Prohibición de autoentrada (art. 267 C.Com.): el comisionista no puede autocontratar, salvo autorización expresa del comitente. Si le encargan comprar, no puede vender de lo suyo; si le encargan vender, no puede comprarlo para sí. Conflicto de intereses evidente.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+
+Pregunta: ¿Qué obligaciones tiene el comitente y qué es el privilegio del comisionista?
+Respuesta Correcta: Obligaciones del comitente: remunerar al comisionista (en forma y cuantía pactadas o según usos de la plaza; momento del pago: en R. Directa al concluir negocio con tercero, en R. Indirecta al trasladar resultado al comitente) y sufragar gastos y reparar perjuicios causados por gestión conforme a instrucciones o prudencia. Privilegio del comisionista (art. 276 C.Com.): derecho de retención (retener mercancías hasta cobrar íntegramente su crédito) + derecho de preferencia (percibir su crédito preferentemente a otros acreedores del comitente, sobre el valor de los efectos). Límite: pierde eficacia si comitente entra en concurso.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+
+Pregunta: ¿Cuáles son las causas de extinción del contrato de comisión?
+Respuesta Correcta: Causas específicas: 1) Revocación del comitente: puede revocar en cualquier momento, comunicándolo al comisionista. 2) Renuncia del comisionista: NO puede libremente renunciar a la comisión ya aceptada (incurriría en responsabilidad), salvo causa legal. 3) Muerte del comisionista: contrato intuitu personae, se extingue por muerte o inhabilitación del comisionista. 4) Muerte del comitente: irónicamente, NO se extingue automáticamente por muerte del comitente (aunque sus herederos pueden revocarlo). Comisión de garantía: solo responde del buen resultado económico si se compromete expresamente mediante cobro de sobreprima "de garantía".
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Comisión
+Pregunta: ¿Qué es el contrato de agencia y cuáles son sus ventajas?
+Respuesta Correcta: Concepto legal (Ley 12/1992): contrato por el que el agente se obliga frente al empresario principal, de manera continuada o estable, a cambio de remuneración, a promover actos u operaciones de comercio por cuenta ajena, o a promoverlos y concluirlos por cuenta y en nombre ajenos, como intermediario independiente, sin asumir (salvo pacto) el riesgo y ventura de las operaciones. Ventajas: ahorro de costes fijos de implantación en otra zona (filial, alquiler, salarios, impuestos); traslación del esfuerzo al agente que cobra comisión por contrato. Inconveniente: recorta beneficios cuando empresa ya esté introducida. Especialmente apta para implantarse en mercados nuevos.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+
+Pregunta: ¿Cuáles son las notas características del contrato de agencia?
+Respuesta Correcta: 1) Contrato de duración estable: diferencia clave con comisión; agente asume promoción continuada del mayor número posible de negocios en la zona. 2) Contrato entre empresarios (independencia del agente): agente es empresario autónomo, no empleado; puede representar a varios principales (no competidores); no debe fidelidad laboral, sino mercantil. 3) Objeto (promover o concluir contratos): busca clientes para contratar con el principal; puede concluir (firmar) contratos en nombre del principal si tiene facultad expresa. 4) Remuneración (elemento esencial): contrato esencialmente retribuido, nunca gratuito; suele ser variable (a comisión).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+
+Pregunta: ¿Cuáles son las obligaciones del agente y del empresario principal?
+Respuesta Correcta: Obligaciones del agente: lealtad y buena fe (diligencia profesional), comunicación (información relevante, especialmente solvencia de terceros), recepción de reclamaciones (vicios o defectos en bienes vendidos), contabilidad separada (si actúa para varios empresarios). Obligaciones del empresario principal: lealtad y buena fe, puesta a disposición de medios (documentación, muestras, catálogos, tarifas), aviso de variaciones (advertir de previsión de descenso importante en volumen de operaciones), pago de la remuneración (cuando se ejecute el acto promovido/concluido por el agente).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+
+Pregunta: ¿Cómo funciona el régimen de remuneración (comisión) del agente?
+Respuesta Correcta: Modalidades: cantidad fija, comisión variable según volumen/valor de operaciones, o combinación (fijo + comisiones). Hechos que dan derecho a comisión: negocio de continuación (cliente captado por el agente que en futuro contrata directamente con principal), comisión por exclusiva (art. 12.2 LCA: si tiene exclusiva para una zona, cobra por todos los actos con personas de dicha zona aunque no los haya promovido), comisión post-extinción (actos concluidos dentro de 3 meses siguientes a extinción si se deben principalmente a actividad del agente). Comisión de garantía: agente NO asume riesgo de operaciones; solo asume riesgo si se pacta expresamente percibiendo "comisión de garantía".
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+
+Pregunta: ¿Cómo se extingue el contrato de agencia?
+Respuesta Correcta: Tiempo determinado: se extingue al transcurrir el periodo pactado. Tiempo indefinido (si hay silencio, se presume indefinido): extinción por denuncia unilateral de cualquier parte, sin necesidad de justa causa, con preaviso por escrito. Plazo de preaviso: 1 mes por cada año de duración del contrato, máximo 6 meses. Incumplimiento: no requiere preaviso si causa es incumplimiento de la otra parte. Muerte: se extingue por fallecimiento del agente (NO automáticamente por muerte del principal).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+
+Pregunta: ¿Qué indemnizaciones corresponden al agente tras la extinción del contrato?
+Respuesta Correcta: Dos indemnizaciones independientes y acumulables: 1) Indemnización por clientela: requisitos = agente haya incrementado clientes o volumen de operaciones + principal pueda seguir beneficiándose + resulte equitativo. Límite: no puede exceder del importe medio anual de remuneraciones de los últimos 5 años. Corresponde en vencimiento, denuncia unilateral y muerte del agente (herederos tienen derecho). NO corresponde si extinción es por incumplimiento del agente. 2) Indemnización de daños y perjuicios (amortización): solo reclamable en denuncia unilateral por parte del empresario en contrato indefinido; compensa al agente cuando extinción le impide amortizar gastos realizados instruido por el empresario.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Agencia
+Pregunta: ¿Qué es el contrato de corretaje (mediación) y cuál es su justificación económica?
+Respuesta Correcta: Concepto: contrato por el que el corredor se obliga frente al cliente (mandante), sin relación de dependencia ni de representación, a satisfacerle una remuneración únicamente en caso de que llegue a concluirse un determinado contrato (contrato principal), siempre que se celebre con persona aportada gracias a la intermediación del corredor. Justificación económica: cuando alguien necesita contratar pero no puede dedicarse personalmente a buscar la contraparte ideal (por falta de tiempo, conocimientos técnicos del mercado u otra razón). El corredor se limita a buscar y aproximar a las partes para que contraten directamente.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+
+Pregunta: ¿Cuáles son las notas características del contrato de corretaje?
+Respuesta Correcta: Obligación de medios, no de resultado: compromete a desplegar actividad necesaria para promover conclusión del contrato, no a obtener el resultado deseado. Independencia: corredor actúa con total independencia, sin subordinación al cliente; es el experto en conseguir contactos. Mera intermediación: se limita a buscar y aproximar a las partes, NUNCA contrata por cuenta del cliente ni tiene poder de representación ("va por libre"). Deber de secreto (táctico): obligación de ocultar nombre de su cliente durante gestiones preliminares (evitar que tercero contacte directamente al cliente). Remuneración sujeta a éxito: se retribuye única y exclusivamente cuando se obtiene el resultado (conclusión del contrato principal); si no se cierra, no devenga derecho a cobro.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+
+Pregunta: ¿Es el contrato de corretaje típico o atípico? ¿Cuándo es mercantil?
+Respuesta Correcta: Contrato atípico: carece de regulación legal específica; las obligaciones derivan de lo pactado y de los usos del comercio. Mercantilidad: se entiende mercantil (y no civil) siempre que el corredor sea un profesional que habitualmente se dedica a promover contratos por cuenta ajena. No confundir con el mediador de la Ley 5/2012 (ADR): el mediador de dicha ley es tercero neutral que facilita acuerdo autocompositivo entre partes en conflicto; el corredor es intermediario comercial.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+
+Pregunta: ¿Cuáles son las obligaciones del corredor y del cliente?
+Respuesta Correcta: Obligaciones del corredor: obligación de diligencia (desplegar actividad necesaria para que gestión llegue a buen fin; el éxito o fracaso es riesgo empresarial inherente), obligación de información y secreto (mantener en secreto nombre del cliente durante negociación e informarle de la marcha de las gestiones). Obligaciones del cliente: retribuir el corretaje (comisión), pero SOLO cuando se haya materializado la conclusión efectiva del contrato principal. La cuantía depende de lo convenido, de los usos mercantiles del sector o de disposiciones administrativas que regulen su profesión.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+
+Pregunta: ¿Cómo se protege al corredor contra la mala fe del cliente?
+Respuesta Correcta: Doctrina del Tribunal Supremo: el corretaje debe ser satisfecho (pagar la comisión) aún después de extinguido el encargo, siempre que la conclusión del contrato objeto del encargo haya sido posible gracias a la actividad que prestó el corredor durante la vigencia del contrato. Esto protege al corredor contra revocaciones malintencionadas del cliente realizadas después de que el corredor ya le hubiera presentado a los posibles futuros contratantes (evita que cliente revoque justo antes de cerrar acuerdo para no pagar comisión y contratar directamente).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+
+Pregunta: ¿Cuáles son las diferencias entre corretaje, comisión y agencia?
+Respuesta Correcta: Actividad: corretaje = buscar y aproximar partes; comisión = concluir negocio jurídico; agencia = promover (y a veces concluir) negocios. Naturaleza del encargo: corretaje y comisión = aislado y singular; agencia = estable y duradero. Representación: corretaje = NUNCA contrata ni tiene poder de representación ("va por libre"); comisión = SÍ contrata por cuenta del comitente (nombre propio o ajeno); agencia = promueve (y a veces contrata) por cuenta y en nombre del principal. Revocabilidad: corretaje = si hay mala fe tras encontrar tercero, debe pagar; comisión = libremente revocable por comitente; agencia = no siempre libremente revocable (exige preaviso, puede generar indemnización). Remuneración: corretaje = solo si contrato principal se concluye; comisión = al concluir negocio; agencia = por actos promovidos (incluso futuros y de zona exclusiva). Indemnización fin contrato: solo agencia (clientela y amortización de gastos).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 4
+Tema: Contrato de Mediación/Corretaje
+Pregunta: ¿Qué es el contrato de transporte terrestre de mercancías y cuál es su regulación?
+Respuesta Correcta: Definición (art. 2.1 LCTM): contrato por el que el porteador se obliga frente al cargador, a cambio de un precio, a trasladar mercancías de un lugar a otro y ponerlas a disposición de la persona designada. Regulación: Ley 15/2009 del Contrato de Transporte Terrestre de Mercancías (LCTM), supletoriamente Código Civil. Obligación del porteador: contrato de resultado (traslado efectivo de mercancías), no meramente de actividad. Incluye deberes accesorios como custodiar y tratar adecuadamente las mercancías.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+
+Pregunta: ¿Cuáles son los sujetos del contrato de transporte terrestre?
+Respuesta Correcta: Porteador: persona que asume la obligación de transportar; puede ser porteador contractual (asume obligación en nombre propio frente al cargador) o porteador efectivo (tercero que realmente transporta, subcontratado). Cargador (remitente): contrata en nombre propio la realización del transporte; puede ser o no el dueño de las mercancías. Destinatario (consignatario): persona a quien el porteador ha de entregar las mercancías en destino; se convierte en acreedor con derecho a la entrega cuando la carga llega y hace saber su voluntad de recibirla. Expedidor: tercero que, por orden del cargador, hace la entrega material de las mercancías al transportista en el lugar de recepción.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+
+Pregunta: ¿Cómo funciona la obligación de pago del porte?
+Respuesta Correcta: Regla general: el pago recae sobre el cargador (quien contrata el servicio). Pacto de "portes debidos": frecuente pactar que sea el destinatario el obligado al pago al recibir la mercancía. Responsabilidad subsidiaria del cargador: incluso cuando se pacte que paga el destinatario, el cargador sigue teniendo responsabilidad subsidiaria; si el destinatario no paga, el porteador podrá reclamárselos subsidiariamente al cargador.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+
+Pregunta: ¿Qué es la carta de porte y cuál es su contenido?
+Respuesta Correcta: Contrato consensual: no necesita forma especial para validez. Carta de porte: documento privado habitual que recoge las cláusulas; no es constitutivo (contrato existe sin él) pero es fundamental para acreditar perfección del contrato y su contenido, y como medio de prueba. Contenido mínimo: identificación de elementos personales (cargador, porteador, destinatario), descripción de mercancías (naturaleza, peso, estado aparente), indicaciones sobre pormenores del transporte (lugar de carga, lugar de entrega, precio). Ejemplares: tres originales firmados por cargador y porteador (1º para cargador, 2º acompaña mercancías, 3º queda en poder del porteador).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+
+Pregunta: ¿Cuáles son las obligaciones del cargador?
+Respuesta Correcta: 1) Pagar el precio (salvo pacto de portes debidos, donde responde subsidiariamente). 2) Entregar la cosa en lugar y momento acordados. 3) Acondicionamiento y documentación (embalaje): entregar las cosas en debida forma para adecuado transporte; declarar naturaleza específica del riesgo (mercancía peligrosa, frágil, requiere frío); acompañar con documentos necesarios (aduaneros, sanitarios). 4) Carga y estiba: regla general = carga y estiba por cuenta del cargador, descarga y desestiba por cuenta del destinatario; responsabilidad por daños de mala carga/estiba es del remitente; excepción por pacto o en paquetería (porteador).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+
+Pregunta: ¿Qué derechos tiene el cargador?
+Respuesta Correcta: Derecho a la ejecución del transporte: exigir que el transporte se realice en la forma, tiempo e itinerario pactados; si no se pactó itinerario, el porteador debe usar la ruta más adecuada atendiendo a circunstancias y características de las mercancías. Derecho de disposición (art. 29 LCTM): mientras las mercancías no lleguen a destino (y el destinatario no haya solicitado entrega), el cargador puede: suspender el transporte, cambiar el lugar de entrega, cambiar la persona del destinatario, ordenar que las mercancías vuelvan al punto de origen. Los gastos del ejercicio del derecho de disposición corren por cuenta del cargador.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera I
+Pregunta: ¿Cuáles son las obligaciones y derechos del porteador?
+Respuesta Correcta: Obligaciones: custodia debida de mercancías desde recepción; carga y estiba (si se pacta o en paquetería); realizar transporte por itinerario pactado o ruta más adecuada, en plazo pactado o razonable para porteador diligente; entregar al destinatario en mismo estado en que las recibió. Derechos: recibir precio del transporte y gastos pactados; privilegio y derecho de retención (retener mercancías si obligado al pago no paga en el momento de entrega, depositándolas ante órgano judicial o Juntas Arbitrales); ante impedimentos a la entrega (art. 36): solicitar instrucciones al cargador; si destinatario no hallado, rehúsa aceptación, no descarga o no firma, puede descargar inmediatamente y depositar para liberarse de custodia.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+
+Pregunta: ¿Cuál es el régimen de responsabilidad del porteador terrestre?
+Respuesta Correcta: Porteador responde por daños desde recepción hasta entrega de mercancías. Supuestos de responsabilidad: retraso en la entrega, pérdida (total o parcial), daño o avería (deterioro). Causas de exoneración (art. 48): culpa del cargador o destinatario, instrucción de estos (no debida a negligencia del porteador), vicio propio de las mercancías, circunstancias que el transportista no pudo evitar y cuyas consecuencias no pudo impedir (fuerza mayor). Cada vez más complicado exonerarse por la última causa debido al creciente rigor de tribunales en exigencia de diligencia profesional.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+
+Pregunta: ¿Cuáles son los límites de indemnización del porteador terrestre?
+Respuesta Correcta: Pérdida y avería (daño directo): se limita exclusivamente al daño directo a las mercancías, conforme al valor que tuvieran en el momento y lugar de recepción; si es avería, se paga la diferencia entre valor original y valor tras el menoscabo; no se paga lucro cesante salvo dolo. Retraso (art. 57.1): se indemnizan solo los daños ocasionados por el retraso; indemnización no podrá exceder del precio cobrado por el transporte. Excepción a los límites: no se aplican cuando el daño haya sido causado dolosamente o con infracción consciente y voluntaria del deber jurídico asumido (dolo eventual).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+
+Pregunta: ¿Cuáles son los plazos de reserva y prescripción en transporte terrestre?
+Respuesta Correcta: Reservas (reclamación): avería o pérdida manifiesta (visible) = en el acto de recepción de las mercancías; avería o pérdida no manifiesta (oculta) = 7 días naturales desde la entrega. Importancia: si no se formula reserva en plazo, se presume (salvo prueba en contrario) que mercancías se entregaron en el estado descrito en la carta de porte. Prescripción de acciones: 1 año (art. 79 LCTM), tanto del cargador contra porteador como del porteador contra cargador.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+
+Pregunta: ¿Qué son las Juntas Arbitrales del Transporte?
+Respuesta Correcta: Instrumento para solucionar rápidamente conflictos de transporte sin saturar tribunales. Funciones: depositarias de mercancías no retiradas o no pagadas; proceder a subasta de mercancías depositadas; realizar peritaciones sobre estado de mercancías; función principal = arbitraje (decidir mediante laudo, de equidad salvo pacto, las controversias sobre cumplimiento del contrato). Sometimiento (art. 38.1 LOTT): presunción de sumisión a arbitraje cuando controversia no exceda de 15.000 euros (incluso sin pacto expreso). Excepción: no opera presunción si alguna parte manifestó expresamente voluntad de renunciar a este arbitraje antes de iniciarse el transporte.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+
+Pregunta: ¿Cuáles son las especialidades del transporte por ferrocarril?
+Respuesta Correcta: Concepto: contratos mediante vehículos que circulan por camino de rodadura fijo. Regulación: modelo de la Carta de Porte Internacional (Convenio CIM-COTIF). Documentación: carta de porte (documento probatorio). Carga y descarga: regla general para bultos = incumbe al transportista; para vagones completos = carga del expedidor, descarga del destinatario. Límites de responsabilidad: pérdida o avería = 17 unidades de cuenta (DEG) por kilogramo de peso bruto afectado; retraso = máximo cuádruplo del precio del transporte. Excepción a límites: no se aplican si daño fue causado con intención (dolo) o de modo temerario y con conciencia de que podría resultar dicho daño (dolo eventual).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte por Carretera II
+Pregunta: ¿Cuáles son las obligaciones del cargador en el transporte marítimo?
+Respuesta Correcta: 1) Entregar la mercancía: en lugar y tiempo acordados; lo habitual es colocar mercancías al costado del buque. 2) Cumplir plazos de carga: si mercancía no es entregada en plazo que permita embarque durante estancia usual del buque en puerto, la porteadora podrá resolver el contrato. 3) Pagar el flete: "flete" = precio del transporte; por defecto lo paga el cargador, salvo pacto de "portes debidos" donde la obligación recae sobre el destinatario.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+
+Pregunta: ¿Cuáles son las obligaciones de la porteadora marítima?
+Respuesta Correcta: Obligaciones principales: transportar mercancías intactas en forma, itinerario y plazo pactados hasta entregarlas en destino. Obligaciones accesorias: 1) Navegabilidad (antes del viaje): asegurar que buque esté en buenas condiciones, siendo responsable en caso contrario. 2) Carga y estiba: recibir mercancías al costado, subirlas a bordo y acomodarlas correctamente. 3) Expedir conocimiento de embarque (Bill of Lading) si lo solicita el cargador. 4) Ruta (durante viaje): seguir ruta pactada o, sin pacto, la más conveniente y adecuada. 5) Custodia (durante viaje): custodiar y cuidar mercancías. 6) Descarga y entrega (después del viaje): descargar mercancías y entregarlas al destinatario en lugar acordado.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+
+Pregunta: ¿Cuál es el régimen de responsabilidad de la porteadora marítima?
+Respuesta Correcta: Responsabilidad: solo surge si incumplimiento le es jurídicamente imputable (culpa propia o de dependientes/colaboradores). Prohibición de cláusulas de exoneración: en LNM se declaran inadmisibles las cláusulas de exoneración de responsabilidad del porteador; la responsabilidad puede agravarse por pacto, pero no puede eliminarse ni reducirse en perjuicio del cargador. Responsabilidad por retraso: LNM (Reglas Haya-Visby) no menciona explícitamente, por lo que es discutible si es partida indemnizable. Límites de indemnización: valor declarado en conocimiento de embarque; si no se declaró, valor en puerto de descarga; si hubo reserva, cargador debe probar valor real. El límite no juega en casos de dolo (intención o temeridad a sabiendas).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+
+Pregunta: ¿Cuáles son los plazos de reclamación en transporte marítimo de mercancías?
+Respuesta Correcta: Pérdidas o averías aparentes (externas): denunciar por escrito EN EL MOMENTO de recibirlas. Pérdidas o averías no aparentes (internas): plazo de 3 DÍAS hábiles desde recepción (en transporte terrestre son 7 días). Importancia de reservas: si no se formula en plazo, se presume (iuris tantum) que mercancías se entregaron en estado descrito en conocimiento de embarque. Prescripción de acción: 1 AÑO desde recepción o desde momento en que debió producirse la entrega. El Tribunal Supremo tiende a considerar este plazo como de caducidad (no admite interrupción).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+
+Pregunta: ¿Cuáles son las especialidades del transporte marítimo de pasajeros?
+Respuesta Correcta: Concepto: contrato consensual y bilateral por el que porteador se obliga, mediante precio, a trasladar a otra persona (pasajero) por vía marítima. Billete de pasaje: puede ser electrónico, al portador o nominativo. Prestaciones accesorias: alojar y mantener al pasajero (comida, camarote), especialmente en cruceros. Obligaciones del porteador: transporte con buque pactado (puede incluir cláusula de sustitución); puesta a disposición en lugar y momento pactados. Gestión de retrasos (Reglamento UE 1177/2010): si cancelación o retraso >90 minutos = informar lo antes posible, prestar asistencia (aperitivos, comida, alojamiento), pasajero tiene derecho a optar entre transporte alternativo o reembolso del billete. Interrupción del viaje iniciado: derechos idénticos más servicio de vuelta gratuita al primer punto de partida.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+
+Pregunta: ¿Cuál es el régimen de responsabilidad del porteador marítimo de pasajeros?
+Respuesta Correcta: Retraso en llegada (art. 19): devolución de % del precio según duración programada y retraso efectivo; exoneración si se debe a condiciones meteorológicas peligrosas o circunstancias extraordinarias inevitables. Muerte o lesiones: responsabilidad cuasi-objetiva cuando daños sean consecuencia de suceso de navegación (naufragio, abordaje, varada, explosión, incendio, deficiencia del buque); límite aprox. 300.000€; porteador responde de daños que excedan del límite salvo que pruebe que suceso no le es imputable. Equipaje de camarote: porteador solo responde si le es imputable culpa o negligencia. Equipaje de bodega y vehículos: responsabilidad similar al transporte de mercancías (cuasi-objetiva con límites). Obligaciones del pasajero: pagar precio (si no, pueden retener equipaje de bodega), acudir a tiempo, obedecer al capitán.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo I
+Pregunta: ¿Cuál es la diferencia entre fletamento y transporte en régimen de conocimiento de embarque?
+Respuesta Correcta: Contrato de fletamento: obligación principal del fletante es puesta a disposición de un buque armado y equipado al fletador; lo que se contrata es un "alquiler del barco" para que el fletador lo utilice como desee; aunque finalidad habitual sea efectuar transporte, su naturaleza jurídica es distinta. Transporte en régimen de conocimiento de embarque: configura verdadero contrato de transporte de mercancías por mar; el porteador se obliga, mediante precio (flete), a transportar mercancías determinadas, documentándose el envío en un conocimiento de embarque.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+
+Pregunta: ¿Cuál es el marco normativo del transporte marítimo bajo conocimiento de embarque?
+Respuesta Correcta: Normativa internacional (prevalente): Convenio de Bruselas de 1924 y Protocolos de modificación = Reglas de La Haya-Visby. Normativa nacional (supletoria): Ley 14/2014 de Navegación Marítima (LNM), solo en aspectos no regulados por el Convenio. Ámbito de aplicación del Convenio: transporte de mercancías por mar, mediante conocimiento de embarque (no póliza de fletamento), bienes/objetos/artículos (excepto animales vivos y cargamento sobre cubierta con consentimiento), transporte internacional con conexión (conocimiento librado en Estado firmante, o transporte desde puerto de Estado firmante, o conocimiento prevea regulación por Convenio). Carácter imperativo: especialmente en responsabilidad del porteador, no pueden derogarse en perjuicio del cargador. Estados firmantes pueden someter transportes nacionales (cabotaje) al mismo régimen.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+
+Pregunta: ¿Cuáles son las características del contrato de transporte marítimo en régimen de conocimiento?
+Respuesta Correcta: Arrendamiento de obra: función del porteador es obtención de resultado (traslación de mercancías intactas), no mera actividad. Consensual: se perfecciona por el mero consentimiento. Contrato de adhesión: habitual que cargador no discuta condiciones redactadas por porteador/naviera (transporte general cargo o liner). Protección del cargador (imperatividad): nulas las cláusulas de exoneración de responsabilidad del porteador; sí se admiten estipulaciones que agraven la responsabilidad. Sujetos: porteador (asume obligación de transporte), cargador (estipula contrato, se obliga a entregar mercancías), destinatario/consignatario (persona a quien van dirigidas las mercancías en puerto de destino).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+
+Pregunta: ¿Qué es el conocimiento de embarque (Bill of Lading) y cuáles son sus funciones?
+Respuesta Correcta: Documento emitido por el porteador (incluso electrónico) como consecuencia del contrato. Funciones cruciales: 1) Función probatoria: prueba el pacto, contenido del contrato y recepción de mercancía por el porteador. 2) Función de título valor: característica principal que lo diferencia de la carta de porte terrestre; atribuye a su legítimo poseedor el derecho de crédito para exigir entrega de la carga en destino y el derecho de disposición sobre la carga durante el viaje. Tipos de emisión (art. 250 LNM): al portador (transmisible por simple entrega), a la orden (transmisible por endoso), nominativo (transmisible por cesión de créditos no endosables).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+
+Pregunta: ¿Qué otros documentos existen en el tráfico marítimo?
+Respuesta Correcta: Conocimiento "Recibido para Embarque" (Received for Shipment): se emite cuando cargador no entrega mercancías directamente al buque sino en almacenes del naviero en el puerto; es un "recibo" que acredita que las ha dejado para posterior embarque. Órdenes de Entrega (Delivery Orders): sirven para que poseedor pueda disponer durante el viaje de una fracción de las mercancías cargadas (normalmente porque las ha vendido); orden dirigida al porteador para que entregue esa fracción a nuevo titular. Conocimiento Directo (Through Bill of Lading): aparece cuando, mediante único contrato, las mercancías deben ser transportadas desde origen al destino mediante intervención de varios porteadores (transporte multimodal o sucesivo).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+
+Pregunta: ¿Qué es el transporte multimodal de mercancías?
+Respuesta Correcta: Concepto: cuando se cumplen dos requisitos: 1) Contrato único = una parte (Operador de Transporte Multimodal - OTM) se compromete mediante un único contrato a efectuar transporte completo, y 2) Diversos modos = OTM utiliza diversos modos de transporte (marítimo, terrestre, aéreo). OTM asume en nombre propio la obligación de lograr el traslado como porteador universal/contractual; elige porteadores efectivos para cada fase. Riesgo: si uno de los transportes efectivos falla, OTM pagará el daño frente al cargador. Régimen jurídico: "derecho de formularios" por ausencia de convenio internacional global; ejemplos: FIATA FBL (1992), COMBIDOC (1995), MULTIDOC (1995). Responsabilidad: sistema de red = daño localizado (se aplica convenio unimodal de esa fase), daño no localizado (sistema subsidiario uniforme según formularios). Documentación: Documento de Transporte Multimodal (eficacia probatoria similar a carta de porte).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Marítimo II
+Pregunta: ¿Cuál es el marco legal del transporte aéreo y qué caracteriza al transporte de pasajeros?
+Respuesta Correcta: Régimen jurídico: Convenio de Montreal (28 mayo 1999) que unifica reglas en transporte aéreo internacional. Modalidades: líneas regulares (vuelos comerciales habituales) o vuelos chárter (fletamento aéreo, distinto del transporte). Transporte de pasajeros: contrato consensual, oneroso, de adhesión. Billete de pasaje: nominativo (va a nombre del pasajero, de ahí costes de cambiar nombre), contenido predeterminado por Ley de Navegación Aérea (LNA art. 92), intransferible, debe acusar recepción de equipaje facturado. Función probatoria: da fe de la celebración del contrato, pero su ausencia/pérdida no afecta existencia o validez del contrato.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+
+Pregunta: ¿Cuáles son las obligaciones y derechos en el transporte aéreo de pasajeros?
+Respuesta Correcta: Obligaciones del porteador: poner plaza adecuada a disposición del viajero para el vuelo contratado. Derecho de rechazo (art. 96 LNA): rechazar pasajeros que por enfermedad, ebriedad u otras circunstancias (comportamiento agresivo) fueran peligro para seguridad de la aeronave. Overbooking: si pasajero no admitido a embarque por venta excesiva de asientos = responsabilidad contractual con derecho a indemnización. Transporte de mercancías: contrato consensual; período de responsabilidad amplio (incluye fases terrestres en aeropuertos). Documentos: talón de recepción (lo expide el porteador, prueba existencia y contenido del contrato, puede ser nominativo, a la orden o al portador) y carta de porte aéreo (Air Waybill) = la emite el cargador en 3 copias; es mero documento probatorio, NO es título valor (diferencia con conocimiento de embarque marítimo).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+
+Pregunta: ¿Qué derechos tiene el cargador en el transporte aéreo de mercancías?
+Respuesta Correcta: Obligaciones del porteador: recibir, custodiar, trasladar en forma/plazo/condiciones pactadas, y entregar al destinatario. Derecho de disposición del cargador (amplísimo mientras mercancía en tránsito): retirar mercancía del aeropuerto de salida o destino, detenerla en ruta en caso de aterrizaje, ordenar entrega a persona distinta al destinatario, ordenar vuelta al aeropuerto de origen. Límite: derecho de disposición cesa cuando comienza el del destinatario (cuando, avisado de la llegada, solicita la entrega). Coste: todos los gastos de estos cambios de instrucción deben ser pagados por el cargador al porteador.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+
+Pregunta: ¿Cuál es el régimen de responsabilidad del porteador aéreo?
+Respuesta Correcta: Ámbitos de responsabilidad: pasajeros (muerte, heridas, lesiones), cosas (equipaje y mercancías: destrucción, pérdidas, averías), retraso (pasajeros y mercancías), overbooking (denegación de embarque). Base: Reglamento (CE) 261/2004. Naturaleza: responsabilidad OBJETIVA. Internacional (Convenio de Montreal): responsabilidad objetiva (transportista responde por el solo hecho de que el accidente/daño se produjo durante el transporte o embarque/desembarque). Excepción única: daño fue culpa de la propia víctima.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+
+Pregunta: ¿Cuáles son los límites de indemnización en transporte aéreo?
+Respuesta Correcta: Daños a pasajeros (muerte/lesión): puede no tener que indemnizar todo el daño (límites tasados del Convenio), a menos que se pruebe dolo o culpa grave del porteador. Daños a mercancías: responsabilidad SÍ limitada siempre: equipaje ≈ 1.350€ (aprox. 1.288 DEG); carga (mercancías) ≈ 23€/kg (aprox. 22 DEG). Exoneraciones: muerte/lesión pasajero = culpa exclusiva de víctima; daño equipaje/carga = culpa víctima, vicio propio, dolo cargador; retraso = si prueba que tomó todas las medidas razonables (responsabilidad basada en culpa presunta).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+
+Pregunta: ¿Cuáles son los plazos de reclamación y prescripción en transporte aéreo?
+Respuesta Correcta: Plazos internacionales (Convenio de Montreal): daños en equipaje facturado = 7 días; daños en carga (mercancías) = 14 días; retraso (equipaje o carga) = 21 días. Efecto: falta de protesta en plazo = inadmisibilidad de acciones contra el porteador. Plazos nacionales (LNA): retraso = 10 días a partir de la entrega; daños = 9 días. Prescripción de acción judicial: transporte internacional = 2 años (desde llegada, fecha en que debió llegar, o detención del transporte); transporte nacional = 6 meses (desde que se produjo el daño).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Transporte Aéreo
+Pregunta: ¿Qué son los contratos turísticos interempresariales y qué es el contrato de gestión hotelera?
+Respuesta Correcta: Contratos interempresariales: se conciertan entre dos empresarios turísticos y cumplen función preparatoria de la futura prestación de servicios turísticos al turista final; son contratos "entre bambalinas" que dejan todo listo. Contrato de gestión hotelera (management agreement): una cadena hotelera (gestor) se obliga a administrar el hotel en nombre y por cuenta de su propietario, a cambio de remuneración. El gestor lleva la gestión utilizando su marca, técnicas de gestión (know-how) y signos distintivos, pero siguiendo instrucciones del titular y SIN asumir los riesgos y venturas del negocio. Si fracasa, quien asume pérdidas es el propietario. Finalidad del propietario: suplir falta de conocimientos profesionales, incorporando el Goodwill (prestigio, clientela, saber hacer) de la cadena hotelera.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+
+Pregunta: ¿Cuál es la naturaleza jurídica y características del contrato de gestión hotelera?
+Respuesta Correcta: Consensual: se perfecciona por mero acuerdo. Intuitu personae: se concierta en consideración a la persona (prestigio de la cadena, potencial del hotel). Bilateral y oneroso: obligaciones recíprocas y beneficios para ambas partes. Atípico pero socialmente típico: carece de normativa específica, pero uso generalizado le ha dotado de configuración estándar; rige libertad de pacto. Mercantil y preparatorio: entre empresarios para preparar futura actividad económica. Contrato mixto (remisión): para lo no pactado, se aplican disposiciones de comisión y agencia, y subsidiariamente mandato civil. Diferencias con comisión y agencia: actividad prolongada (10-25 años), multiplicidad de actos y contratos (gestión diaria), el propietario puede impartir instrucciones (aunque no contra estándares de la cadena).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+
+Pregunta: ¿Cuáles son las obligaciones de la cadena hotelera gestora?
+Respuesta Correcta: 1) Obligación principal (gestión): gestionar y administrar el establecimiento (dirección y explotación económica) en interés del propietario, con exigencias de fidelidad y lealtad; puede ser obligación de medios o resultado según lo pactado; contrato puede resolverse por caída injustificada en rendimiento. 2) Uso de know-how y servicios centralizados: usar poder de representación para contratar, utilizar know-how de la marca, realizar servicios centralizados (marketing conjunto, formación profesional). 3) Seguir instrucciones (con límites): actuar como comisionista, pero sin desvirtuar esencia del contrato ni contradecir normas y prestigio de la cadena. 4) Información y rendición de cuentas (art. 260 C.Com.): informar frecuentemente de actividades importantes. 5) Asunción de responsabilidad: por empleo de elementos personales/materiales propios o de terceros que contrate.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+
+Pregunta: ¿Cuáles son las obligaciones del propietario del hotel?
+Respuesta Correcta: 1) Adecuación del establecimiento: adecuar a estándares de la marca de la cadena (reformas según imagen). 2) Puesta en funcionamiento: cumplir exigencias administrativas (licencias, permisos); entregar hotel en condiciones de operar legalmente. 3) Seguros: pactar seguros de responsabilidad civil o de daños necesarios. 4) Entrega de posesión: entregar a la cadena la posesión del hotel con todos los elementos necesarios. 5) Provisión de fondos (art. 250 C.Com.): proporcionar medios económicos para llevar a cabo la gestión (presupuesto anual). 6) Pago de remuneración (art. 277 C.Com.): pagar precio o comisión acordado (cantidad fija o comisiones sobre objetivos). 7) Reembolso de gastos (art. 278 C.Com.): pagar gastos en que haya incurrido la gestora (obligación imperativa). 8) No obstrucción: obligación de no obstruir o interferir en la gestión.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+
+Pregunta: ¿Quién asume el riesgo del negocio en el contrato de gestión hotelera?
+Respuesta Correcta: El propietario asume el riesgo del negocio (asume las pérdidas si el negocio fracasa). El gestor (cadena hotelera) NO asume el riesgo económico de la explotación. Esta es una característica fundamental que distingue este contrato de otras figuras como la franquicia.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+
+Pregunta: ¿Cómo se extingue el contrato de gestión hotelera?
+Respuesta Correcta: Duración: suelen ser contratos de larga duración (15, 20, 25 o 30 años), prorrogables por periodos inferiores. Causas de extinción: 1) Mutuo acuerdo de ambas partes. 2) Transcurso del tiempo establecido sin renovación. 3) Desistimiento unilateral de una de las partes (si se pactó o si es indefinido), con suficiente antelación (normalmente 9 meses a 1 año). 4) Incumplimiento grave de la otra parte (art. 1124 CC). 5) Causas generales de extinción del contrato de comisión (revocación, muerte o inhabilitación del gestor). Consecuencias de extinción: procede indemnización de daños y perjuicios si extinción fue culposa o de mala fe; pueden haberse pactado indemnizaciones específicas (por clientela, análoga a agencia, o por inversiones no amortizadas por el gestor).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Gestión Hotelera
+Pregunta: ¿Qué es el contrato de reserva de plazas en régimen de cupo o contingente?
+Respuesta Correcta: Contrato entre titular de agencia de viajes (tour operador) y titular de empresa de alojamiento turístico (hotelero). Contenido: la empresa de alojamiento pone a disposición de la agencia, durante periodo determinado (normalmente temporadas de mayor afluencia), un número concreto de plazas de alojamiento (un "cupo" o "contingente"). Objetivo: que la agencia comercialice dichas plazas para ocupación por su propia clientela, conforme a sus necesidades o ventas que consiga realizar.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+
+Pregunta: ¿Cuál es la utilidad y ventajas económicas del contrato de cupo?
+Respuesta Correcta: Para la agencia de viajes: garantizar disponibilidad de plazas para ofrecer a clientes, anticipándose a temporada alta; al asegurar cupo con antelación, puede negociar condiciones más favorables (precio menor, ej. 80€/noche para vender a 85€). La ganancia radica en el margen entre lo pagado y lo vendido. Para la empresa de alojamiento: 1) Ocupación mínima: un mínimo de plazas asegurado todos los años, reduciendo riesgo de hotel vacío. 2) Diversificación de canales: utiliza canales de distribución de la agencia sin perder posibilidad de usar los suyos propios (web, central de reservas).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+
+Pregunta: ¿Cuál es la naturaleza jurídica del contrato de cupo?
+Respuesta Correcta: Contrato atípico: no está expresamente regulado en el ordenamiento jurídico español. Contrato mixto: contiene elementos de distintos tipos contractuales (arrendamiento de servicios, compraventa de futuro, opción de compra). Consensual: se perfecciona por el mero consentimiento de las partes. Bilateral y oneroso: genera obligaciones recíprocas y ambas partes obtienen beneficio económico. Mercantil: celebrado entre empresarios turísticos con finalidad de lucro. Contrato preparatorio: prepara la futura comercialización de servicios turísticos.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+
+Pregunta: ¿Cuáles son las principales modalidades del contrato de cupo?
+Respuesta Correcta: Según el riesgo asumido por la agencia: 1) Cupo en firme (allotment garantizado): la agencia se compromete a ocupar (y pagar) todas las plazas reservadas, las venda o no; mayor riesgo para agencia, mejor precio. 2) Cupo en opción (allotment libre o con release): la agencia tiene derecho preferente a ocupar las plazas pero puede liberarlas (release) si no las vende dentro de un plazo (fecha de release); menor riesgo para agencia, precio algo superior. 3) Modalidades mixtas: combinación de un número de plazas en firme y otro en opción.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+
+Pregunta: ¿Cuáles son las obligaciones del hotelero en el contrato de cupo?
+Respuesta Correcta: 1) Reservar y mantener disponibles las plazas pactadas durante el periodo acordado. 2) Prestar servicios de alojamiento a los clientes enviados por la agencia en las condiciones de calidad pactadas. 3) No disponer de las plazas del cupo para otros clientes (excepto si hay release). 4) Informar a la agencia sobre disponibilidad y cualquier circunstancia relevante. 5) Facturar los servicios según lo pactado (normalmente a precio neto, inferior al de mostrador).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+
+Pregunta: ¿Cuáles son las obligaciones de la agencia de viajes en el contrato de cupo?
+Respuesta Correcta: 1) Comercializar activamente las plazas reservadas para lograr su ocupación. 2) Comunicar al hotelero las reservas realizadas con antelación suficiente (rooming list). 3) En cupo en firme: pagar las plazas reservadas aunque no se ocupen. 4) En cupo en opción: comunicar la liberación de plazas no vendidas antes de la fecha de release. 5) Pagar el precio pactado por los servicios efectivamente utilizados. 6) Respetar las condiciones comerciales acordadas (no vender por debajo de ciertos precios, etc.).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 5
+Tema: Contrato de Reserva de Plaza
+Pregunta: ¿Cuáles son las características generales de los contratos bancarios?
+Respuesta Correcta: Atípicos: generalmente no regulados específicamente por ley, reconocidos por realidad social, económica y jurídica. Mercantiles: se enmarcan dentro de actos de comercio. Onerosos: ambas partes buscan lucro o beneficio. De adhesión: habitualmente mediante condiciones generales de contratación sin negociación individualizada. De duración e intuitu personae: vigencia según lo pactado, a menudo en atención a circunstancias de la persona concreta. Fuentes de regulación: Código de Comercio, autonomía de la voluntad, usos y costumbres del sector bancario, normas administrativas de protección a la clientela (transparencia), Código Civil como derecho supletorio.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+
+Pregunta: ¿Cómo se clasifican los contratos bancarios?
+Respuesta Correcta: Operaciones pasivas (de pasivo): la entidad RECIBE dinero del cliente; ejemplos: depósito bancario de dinero, redescuento. Operaciones activas (de activo): la entidad ENTREGA dinero al cliente, quien se obliga a devolverlo; ejemplos: préstamo, apertura de crédito, descuento bancario, aval bancario. Operaciones neutras (de gestión): la entidad NO recibe ni concede capital, sino que presta un servicio; ejemplos: contrato de cuenta corriente bancaria, transferencia bancaria, custodia de efectos, domiciliación bancaria, giro.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+
+Pregunta: ¿Qué es el contrato de cuenta corriente bancaria y cuáles son sus funciones?
+Respuesta Correcta: Contrato de gestión (operación neutra): la entidad se encarga de realizar pagos por cuenta del cliente utilizando el servicio de caja (esencial). Regulación: atípico, mencionado en C.Com. (arts. 175.9, 177, 180); se rige por autonomía de la voluntad, normativa de transparencia, supletoriamente reglas de comisión y mandato. Características: bilateral, consensual, autónomo. Funciones (servicio de caja): transferencia bancaria (ordenar envío de cantidad a cuenta de tercero), domiciliación de recibos (mandato para pago de recibos con cargo a cuenta), descubierto en cuenta corriente (pago sin fondos suficientes, genera comisiones). Obligaciones del cliente: pagar gastos y comisiones, proporcionar provisión de fondos. Obligaciones de la entidad: prestar servicio de caja, realizar anotaciones contables, entregar talonarios, realizar pagos y cobros según órdenes, remitir extractos de movimientos.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+
+Pregunta: ¿Cuáles son los tipos de titularidad y disponibilidad en cuenta corriente?
+Respuesta Correcta: Cuenta individual: un solo titular. Cuenta colectiva: varios titulares, con disposición solidaria/indistinta (cualquier titular puede disponer de la totalidad) o mancomunada/conjunta (se requiere actuación de varios o todos los titulares). Disponibilidad con firma autorizada: la titularidad corresponde a una o varias personas, pero se autoriza a otra para disponer de los fondos. Importante: la forma de disponibilidad NO predetermina la propiedad sobre los fondos; en caso de fallecimiento, la propiedad se transmite conforme al derecho sucesorio.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+
+Pregunta: ¿Qué es el contrato de depósito bancario?
+Respuesta Correcta: Operación pasiva: la entidad RECIBE dinero del cliente, adquiriendo su propiedad y comprometiéndose a devolver la misma cantidad (tantundem). La entidad destina fondos a otras actividades (préstamos, inversiones) y de los beneficios genera rendimiento para pagar intereses al depositante. Regulación: arts. 210, 309 y 303 ss. C.Com.; se rige por autonomía de voluntad y normativa de transparencia. Características: real (se constituye mediante entrega del dinero), unilateral tradicionalmente (solo genera obligaciones para el banco), oneroso (puede retribuir con intereses, funciona como "préstamo a la inversa"), de adhesión, no intuitu personae. Ventajas para cliente: custodia del dinero (relativa), servicio de caja, posibilidad de intereses.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+
+Pregunta: ¿Cuáles son las clases de depósito bancario?
+Respuesta Correcta: Depósito regular vs. irregular: regular = banco devuelve la misma cosa depositada; irregular (típico de dinero) = banco devuelve la misma cantidad en la misma moneda, no los mismos billetes. Depósito cerrado: cliente entrega bien en cajas o sobres precintados para custodia sin poder disponer de él; es depósito regular, el banco cobra comisión; derivación = alquiler de cajas de seguridad. Depósito abierto (de dinero): cantidad de dinero sin individualizar; se divide en: depósitos a la vista (cliente puede disponer en cualquier momento, cuentas corrientes y de ahorro son productos "líquidos") y depósitos a plazo fijo (no puede utilizar fondos durante plazo pactado; si retira antes, comisión de penalización por cancelación anticipada).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Los Contratos Bancarios
+Pregunta: ¿Qué es el préstamo bancario de dinero?
+Respuesta Correcta: Concepto: contrato por el cual el banco entrega una cantidad de dinero al cliente, quien se obliga a devolver dicha cantidad (capital) según condiciones pactadas y a pagar los intereses acordados. Mercantilidad: siempre mercantil (art. 311 C.Com.). Regulación: atípico en regulación bancaria específica; base legal en arts. 1740 y 1753 CC (préstamo civil o mutuo), arts. 311 ss. C.Com. (préstamo mercantil), autonomía de la voluntad, normas administrativas de protección a la clientela.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+
+Pregunta: ¿Cuáles son las características del préstamo bancario?
+Respuesta Correcta: Real (tradicionalmente): exige entrega del dinero para perfección; evoluciona hacia consensual (puede perfeccionarse con mero consentimiento). Unilateral o bilateral: si se considera real, es unilateral (solo genera obligaciones para prestatario); si consensual, es bilateral (banco obligado a entregar, cliente a devolver). Traslativo de dominio: cliente adquiere propiedad del dinero, banco adquiere derecho de crédito. No formal: no requiere forma específica, salvo préstamos con interés que deben constar por escrito. Obligaciones del prestatario: devolver lo prestado en lugar y tiempo acordados, pagar intereses establecidos, pagar comisiones y otros gastos pactados.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+
+Pregunta: ¿Qué es el contrato de apertura de crédito y en qué se diferencia del préstamo?
+Respuesta Correcta: Concepto: contrato por el que el banco se obliga a poner a disposición del cliente fondos hasta cantidad límite máximo y por plazo determinado (periodo de disponibilidad). Funcionamiento: cliente dispone del dinero según lo necesite; paga comisión de apertura e intereses solo sobre cantidades efectivamente dispuestas (más comisión de no disponibilidad sobre saldo no dispuesto). Diferencia clave con préstamo: Préstamo = banco entrega cantidad fija, cliente devuelve el total del capital, intereses sobre total entregado. Apertura de crédito = banco pone a disposición cantidad límite, cliente devuelve solo capital efectivamente dispuesto, intereses solo sobre cantidades dispuestas. Clases: simple (derecho a disponer por una sola vez) y en cuenta corriente/revolvente (dispone, reintegra, vuelve a disponer).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+
+Pregunta: ¿Qué es el contrato de descuento bancario?
+Respuesta Correcta: Concepto: contrato por el cual el cliente (que tiene crédito contra tercero, ej. pagaré) acude al banco para que le adelante el importe de dicho crédito antes de su vencimiento porque necesita financiación ya. Precio: banco cobra "el descuento" = intereses y comisiones por adelantado, restándolos del importe entregado al cliente. Transmisión: banco se convierte en dueño del crédito (transmisión pro solvendo o pro soluto según pacto) y puede ir contra el deudor al vencimiento. Regulación: no regulado, se rige por autonomía de voluntad, usos bancarios y normas de consumidores. Características: consensual, bilateral, mercantil, atípico, oneroso. El cliente obtiene liquidez inmediata, el banco percibe interés (descuento) cobrado por anticipado.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+
+Pregunta: ¿Qué es la cláusula "Salvo Buen Fin" (S.B.F.) en el descuento bancario?
+Respuesta Correcta: Problema: ¿qué ocurre si el deudor del título (ej. pagaré) no paga al banco al vencimiento? Cláusula S.B.F.: el banco aceptó adelantar dinero pensando que el título tendría "buen fin" y recuperaría el importe al vencimiento. Si el deudor no paga, el banco (siempre que haya actuado con diligencia para intentar el cobro) puede ir contra el cliente que descontó el título, porque no tuvo "buen fin". El cliente deberá devolver el importe nominal completo establecido en el título que le fue anticipado. Modalidades de descuento: comercial (deriva de operación comercial real, ej. venta de mercancía) y financiero (simple préstamo, el título se crea solo como garantía sin operación comercial detrás).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+
+Pregunta: ¿Cuáles son las obligaciones de las partes en el descuento bancario?
+Respuesta Correcta: Obligaciones del banco: anticipar los fondos (restando el descuento), no reclamar el crédito antes del vencimiento del título, actuar con diligencia para cobrar el crédito del deudor a su vencimiento (gestionar el cobro por su cuenta); si no lo cobra tras gestionarlo, podrá acudir a la cláusula S.B.F. Obligaciones del cliente: declarar tipo de descuento (comercial o financiero), transmitir en propiedad el título (pagaré, letra de cambio), pagar anticipadamente los intereses (el descuento), obligación más importante = salvaguardar al banco del posible impago por el tercero (cláusula S.B.F.). Extinción: con vencimiento del crédito descontado, por pago del deudor o, en caso de impago, por reintegro del cliente al banco (ejecutando S.B.F.); el pago debe ser total, entidad no obligada a admitir pagos parciales.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: El Préstamo Bancario
+Pregunta: ¿Qué es el contrato de leasing (arrendamiento financiero)?
+Respuesta Correcta: Concepto: el usuario firma contrato con sociedad de leasing (arrendador financiero); esta adquiere el bien del fabricante según especificaciones del usuario, con el objetivo de cederle su uso por tiempo determinado, a cambio de un canon periódico (cuotas). Opción de compra (esencia del contrato, diferencia con alquiler): finalizado el plazo, la sociedad concede al usuario la opción de quedarse con el bien pagando el valor residual (precio original menos cuotas pagadas, o cantidad simbólica predeterminada). Alternativa: no adquirir y devolver el bien (habitualmente se firma nueva operación sobre equipo más moderno). Puede recaer sobre bienes muebles o inmuebles.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+
+Pregunta: ¿Cuál es la estructura y naturaleza del contrato de leasing?
+Respuesta Correcta: Sujetos: usuario (necesita ser profesional, empresario, agricultor o artesano), sociedad de leasing (firma contrato bilateral con usuario, adquiere el bien del fabricante), fabricante o vendedor (vende el bien a la sociedad de leasing). Relación triangular: el usuario da instrucciones indicando el bien exacto, la sociedad lo compra al fabricante y se lo cede en uso. Importante: la propiedad nunca pasa al usuario durante la vida del contrato; solo tiene el uso. Ventaja fiscal (clave): el usuario puede deducirse como gasto las cuotas mensuales, amortizando el bien de forma acelerada (IRPF o Sociedades).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+
+Pregunta: ¿Cuál es la regulación y duración mínima del leasing?
+Respuesta Correcta: Regulación: carece de regulación jurídico-sustantiva (atípico), pero muy citado en leyes fiscales y financieras. Ley 10/2014 (DA 3ª): exige que el objeto sea cesión del uso de bienes muebles o inmuebles, adquiridos según especificaciones del usuario, afectos a sus explotaciones (industriales, comerciales, profesionales), y que incluya necesariamente opción de compra a su término. Ley 27/2014 (IS, art. 106.2): duración mínima para ventajas fiscales = 2 años para bienes muebles, 10 años para bienes inmuebles. Consecuencia: usuario debe ser obligatoriamente empresario o profesional (no particular/consumidor) para acceso al concepto legal y ventajas fiscales.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+
+Pregunta: ¿Cuál es la diferencia entre leasing y renting?
+Respuesta Correcta: Leasing: contrato de financiación; finalidad = adquirir uso y eventualmente propiedad; mantenimiento generalmente a cargo del usuario; SÍ incluye opción de compra (esencial), al finalizar se paga valor residual; duración mínima fiscal = 2 años (muebles) / 10 años (inmuebles). Renting: contrato de servicio/alquiler; finalidad = usar el bien sin preocupaciones de gestión; mantenimiento incluido en la cuota (a cargo de empresa de renting); NO incluye opción de compra (es alquiler puro de larga duración); sin mínimos legales de duración.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+
+Pregunta: ¿Qué es el contrato de factoring?
+Respuesta Correcta: Concepto: herramienta de financiación a corto plazo; el cliente (con dificultades de liquidez por créditos pendientes de cobro) contrata con sociedad de factoring (factor); el factor gestiona y cobra los créditos (facturas) del cliente contra sus deudores; a cambio, le ingresa ya (anticipa) el dinero que los deudores le deben. Coste: comisión variable (según servicios) e intereses por el anticipo. Regulación: atípico; si hay lagunas, se acude analógicamente al contrato de comisión (encargo de gestión de cobro). Sujetos: pueden ser entidades de crédito o establecimientos financieros de crédito (EFC) dedicados a esta actividad (art. 6.5 Ley 5/2015). Obligaciones del cliente: pagar comisión e intereses, cumplir obligaciones del factor (clientes con quienes puede contratar, condiciones de pago, formalización de facturas).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+
+Pregunta: ¿Cuál es la diferencia entre factoring propio e impropio?
+Respuesta Correcta: Problema: ¿qué pasa si los deudores del cliente resultan insolventes y no pagan al factor? Depende del tipo de factoring y quién asume el riesgo de insolvencia. Factoring impropio (Sin Recurso): el más habitual; la sociedad de factoring ASUME el riesgo de insolvencia de los deudores; si el deudor del cliente no paga, el factor pierde el dinero (el cliente no responde). Factoring propio (Con Recurso): la sociedad de factoring NO asume el riesgo; si el deudor no paga, el factor reclamará al cliente el dinero que le anticipó (similar al "salvo buen fin" del descuento). A mayor riesgo asumido por el factor (factoring impropio), mayor será la comisión o retribución que cobre.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Leasing y Factoring
+Pregunta: ¿Qué es el contrato de seguro y cuál es su función económica?
+Respuesta Correcta: Concepto: contrato con entidades aseguradoras que, a cambio de una remuneración llamada prima, se comprometen a indemnizar los daños que ocurran dentro de los límites pactados. Si el tomador sufre un siniestro, la aseguradora le pagará una prestación (indemnización) para resarcir ese siniestro. Elementos básicos: riesgo (posibilidad de daño patrimonial o personal), prima (remuneración pagada a la aseguradora), indemnización (prestación que cubre los daños). Intervención administrativa: fuertemente intervenido dada la importancia social; DGSFP supervisa actividad, solvencia, publicidad, condiciones generales, tarifas de primas.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+
+Pregunta: ¿Qué es el Consorcio de Compensación de Seguros (CCS)?
+Respuesta Correcta: Entidad pública que asume cobertura en situaciones extraordinarias. Funciones: si aseguradora en liquidación o concurso, el Consorcio se hace cargo de indemnizar; asume cobertura obligatoria de automóviles no aceptados por compañías privadas ("riesgos agravados") o daños por vehículos desconocidos, sin seguro o robados; indemniza daños por riesgos extraordinarios (fenómenos naturales como inundaciones/terremotos, o hechos de incidencia política/social como terrorismo/motines). Requisito para cobertura del CCS: asegurado debe estar al corriente del pago del recibo de prima de su póliza de seguro; dicho recibo debe incluir un recargo específico a favor del Consorcio, detallado de forma expresa.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+
+Pregunta: ¿Cuáles son la naturaleza, características y elementos personales del contrato de seguro?
+Respuesta Correcta: Naturaleza aleatoria: característica esencial; tanto asegurado como aseguradora desconocen si el riesgo se producirá o cuándo. Mercantil: necesaria presencia de un empresario (entidad aseguradora). Doble función: conservación de riqueza (repara patrimonio dañado) e instrumento de previsión ante circunstancias dañosas. Elementos personales: Aseguradora (entidad privada que asume el riesgo; debe adoptar formas específicas como S.A., Mutua, Cooperativa, y contar con autorización de DGSFP; contrato con no autorizado es nulo). Tomador (realiza el contrato y paga la prima). Asegurado (titular del interés asegurado, quien sufre el daño patrimonial si ocurre el siniestro). Beneficiario (titular del derecho a la prestación/indemnización; puede ser tomador, asegurado o tercero). Víctima (en seguros de RC, quien sufre el daño y ejercita acción de indemnización).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+
+Pregunta: ¿Qué es la póliza de seguro y qué tipos existen?
+Respuesta Correcta: Art. 5 LCS exige forma escrita, pero doctrina mayoritaria entiende que es consensual y la forma escrita es solo a efectos probatorios (ad probationem). Póliza: documento que la aseguradora entrega al tomador; aclara condiciones de lo que cubre el seguro y lo que no. Contenido: condiciones generales (cláusulas predispuestas unilateralmente por aseguradora, de adhesión) y condiciones particulares (negociadas individualmente: riesgo cubierto, suma asegurada, importe prima, lugar y forma de pago, duración). Tipos de póliza: nominativas (incluyen nombre del asegurado), a la orden (transmisibles por endoso), al portador (titular quien tenga físicamente la póliza, aseguradora paga a quien presente el documento), flotantes o de abono (permiten comunicar valor de mercancías aseguradas, cobertura fluctúa; útiles para almacenes con entradas y salidas constantes).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+
+Pregunta: ¿Cuáles son los elementos reales del contrato de seguro?
+Respuesta Correcta: El interés: relación económica entre el asegurado y el bien asegurado; se calcula por el "miedo" a que se produzca daño a ese bien si ocurre el siniestro. El daño: lesión (total o parcial) del interés asegurado, que se produce cuando se materializa el riesgo. El riesgo: posibilidad de que el evento dañoso se produzca; es el núcleo del contrato. La prima: elemento real fundamental; dinero que el tomador tiene que pagar como contraprestación a la asunción del riesgo por la aseguradora; elemento esencial del contrato; puede ser pago único o periódico.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+
+Pregunta: ¿Cuáles son las obligaciones de las partes en el contrato de seguro?
+Respuesta Correcta: Obligaciones del tomador/asegurado: 1) Declarar el riesgo (deber de sinceridad): declarar circunstancias que puedan influir en valoración del riesgo, mediante formulario de la aseguradora (si no lo entrega, queda liberado). 2) Comunicar agravación del riesgo durante vida del contrato. 3) Pagar la prima (obligación principal). 4) Comunicar el siniestro en plazo máximo de 7 días desde que lo conoció (si se pasa, aseguradora puede reclamar daños y perjuicios). 5) Minorar consecuencias del siniestro (deber de salvamento): actuar diligentemente para reducir el daño (exclusivo del seguro de daños). Obligaciones de la aseguradora: entregar la póliza; pagar la indemnización una vez producido el siniestro, verificadas sus causas y valorado el daño, salvo dolo o mala fe del asegurado.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Contrato de Seguro
+Pregunta: ¿Qué son los seguros de personas y cuáles son sus tipos principales?
+Respuesta Correcta: Concepto (LCS): comprenden todos los riesgos que puedan afectar a la existencia, integridad corporal o salud del asegurado; pueden celebrarse para persona individual o grupo delimitado por característica común. Seguro de vida: la aseguradora se obliga a entregar al beneficiario una renta o capital cuando el asegurado fallezca o alcance edad determinada. Cubre dos riesgos opuestos: para caso de muerte (temporal = plazo determinado, ordinario/vida entera = primas hasta fallecimiento) o para caso de supervivencia (prestación si asegurado sobrevive a fecha determinada). Sujetos: asegurado (persona cuya vida es objeto del riesgo), tomador (contrata, firma póliza, paga prima), beneficiario (derecho a recibir indemnización, puede ser el tomador o tercero).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro
+
+Pregunta: ¿Qué es el seguro de accidentes?
+Respuesta Correcta: Cubre daños derivados de accidente = lesión corporal sufrida por el asegurado como consecuencia de causa violenta, súbita, externa y ajena a la intencionalidad del asegurado. Deber de información: tomador debe comunicar a la entidad posible existencia de otro seguro de accidentes referido al asegurado (evitar duplicidades o fraudes); incumplimiento puede dar lugar a reclamaciones por daños y perjuicios. Exclusión por dolo: si el asegurado provoca intencionadamente el accidente (para estafar al seguro), la aseguradora se libera de su obligación de pagar. Determinación de invalidez: si tras siniestro el asegurado queda inválido, tras presentar certificado médico de incapacidad, aseguradora notifica indemnización según baremos de la póliza; si asegurado no acepta la cuantía, las partes se someten a decisión de peritos médicos.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro
+
+Pregunta: ¿Qué otros tipos de seguros de personas existen?
+Respuesta Correcta: Seguro de enfermedad: la aseguradora puede obligarse, en caso de siniestro (enfermedad), al pago de sumas de gastos de asistencia médica y farmacéutica. Seguro de asistencia sanitaria: alternativamente, la aseguradora puede asumir directamente los servicios médicos y quirúrgicos; el tomador contrata acceso a servicios médicos pagando prima, y la aseguradora no le paga dinero sino que paga (o presta) el servicio médico. Seguro de decesos: la entidad se obliga a prestar los servicios funerarios pactados en la póliza para cuando muera el asegurado; es uno de los más contratados en España ("el seguro de los muertos"). Seguro de dependencia: garantiza al asegurado indemnización (renta, capital o prestación de servicio) si, habiéndolo contratado previamente, incurre en situación de dependencia (limitaciones físicas, psíquicas o intelectuales que impiden realizar labores cotidianas).
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro
+
+Pregunta: ¿Qué son los seguros de daños y cuál es su principio fundamental?
+Respuesta Correcta: Concepto (LCS): intentan reparar los daños patrimoniales sufridos por el asegurado (destrucción de coche, deterioro de casa, lucro cesante). Principio indemnizatorio: la finalidad es devolver al asegurado al mismo estado económico en que se encontraba antes del siniestro; NUNCA puede dejarle mejor que como estaba, ya que el seguro no puede ser fuente de lucro o enriquecimiento injusto. Seguro de incendios: cubre daños producidos en la cosa asegurada (descrita en póliza); si incendio provocado intencionadamente por asegurado, aseguradora se libera de pagar; el CCS cubre riesgos extraordinarios. Seguro contra robo: indemniza daños causados por el delito; se extiende tanto al valor de lo sustraído como a los destrozos causados para cometer el robo.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro
+
+Pregunta: ¿Qué otros tipos de seguros de daños existen?
+Respuesta Correcta: Seguro de transporte terrestre: indemniza daños materiales sufridos por mercancías durante transporte; cobertura desde entrega al porteador en origen hasta entrega al destinatario en destino (dentro del plazo de la póliza). Seguro de lucro cesante: cubre pérdida de beneficios económicos derivada de un siniestro (ej. lo que taxista dejó de ganar mientras coche en taller) y gastos generales derivados del siniestro. Seguro de caución (garantía): garantiza que el beneficiario cobre si otra parte incumple obligaciones contractuales; aseguradora paga al beneficiario la indemnización y luego reclama (derecho de repetición) al incumplidor el reembolso. Seguro de crédito: garantiza al asegurado que, en caso de insolvencia definitiva de su deudor, tenga garantizado el pago de los créditos a su favor. Seguro de responsabilidad civil (RC): cubre indemnización por daños que sufra un tercero por culpa del asegurado. Seguro de defensa jurídica: contrato autónomo por el que la entidad asume gastos de intervención del asegurado en procedimientos y le presta servicios de asistencia jurídica.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro
+
+Pregunta: ¿Cuál es la diferencia fundamental entre seguros de personas y seguros de daños?
+Respuesta Correcta: Seguros de personas: afectan a la existencia, salud o integridad del asegurado; cubren riesgos que recaen sobre la persona física (vida, accidentes, enfermedad, asistencia sanitaria, decesos, dependencia); la prestación puede ser capital, renta o servicios. Seguros de daños: afectan al patrimonio del asegurado; cubren riesgos que recaen sobre bienes o intereses económicos (incendios, robo, transporte, lucro cesante, caución, crédito, responsabilidad civil, defensa jurídica); rige el principio indemnizatorio = no puede ser fuente de enriquecimiento, solo reparar el daño efectivamente sufrido hasta el límite de la suma asegurada.
+Manual: Derecho Mercantil 3 - Contratos Mercantiles
+Bloque: 6
+Tema: Tipos de Seguro

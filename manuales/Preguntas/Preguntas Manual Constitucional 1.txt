@@ -1,0 +1,1728 @@
+Pregunta: ¿Por qué el constitucionalismo se considera una reacción directa al modelo de monarquía absoluta?
+Respuesta Correcta: El constitucionalismo surge como alternativa al poder absoluto del monarca, buscando limitar el poder a través del Derecho y garantizar derechos individuales, rompiendo con la legitimidad divina y concentrada de la monarquía absoluta.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: Analiza cómo la Reforma Protestante influyó en el surgimiento del constitucionalismo.
+Respuesta Correcta: La Reforma Protestante quebró la unidad religiosa, evidenciando la necesidad de un orden social secularizado, lo que impulsó la búsqueda de legitimidad basada en la razón y no en la fe, fomentando el desarrollo del constitucionalismo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: Explica la relevancia del iusnaturalismo racionalista en la transición hacia el Estado constitucional.
+Respuesta Correcta: El iusnaturalismo racionalista propuso una ley natural universal accesible por la razón, estableciendo derechos inherentes al ser humano por encima de las leyes del Estado, lo que fundamentó los derechos humanos y limitó el poder estatal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: Compara la fuente de legitimidad del poder en la monarquía absoluta y en el Estado constitucional.
+Respuesta Correcta: En la monarquía absoluta, el poder emana de Dios, mientras que en el Estado constitucional, la legitimidad proviene de la soberanía popular, reflejando un cambio de justificación trascendente a una fundamentada en el pueblo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: ¿Cómo se manifiesta la división de poderes en el Estado constitucional en contraste con la monarquía absoluta?
+Respuesta Correcta: El Estado constitucional establece una división de poderes con sistemas de frenos y contrapesos, contrastando con la concentración total de poder en el monarca de la monarquía absoluta, donde el rey ejercía todas las funciones estatales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: Discute la transformación en la relación entre poder y pueblo al pasar del Antiguo Régimen al constitucionalismo.
+Respuesta Correcta: La monarquía absoluta implicaba una relación de sumisión y obediencia del pueblo al monarca. En el constitucionalismo, la relación se basa en un pacto social donde el gobernante es un representante al servicio del pueblo y sus derechos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 1: El origen del constitucionalismo
+
+Pregunta: ¿Por qué es esencial la supremacía de la Constitución dentro del ordenamiento jurídico?
+Respuesta Correcta: La supremacía de la Constitución garantiza su función como norma suprema, asegurando que todas las demás fuentes del Derecho deben conformarse a sus mandatos, lo cual es vital para mantener la coherencia y estabilidad del ordenamiento jurídico.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: Analiza cómo la Constitución española de 1978 manifiesta la función de delimitación del Estado.
+Respuesta Correcta: La Constitución española de 1978 establece límites claros a la acción del Estado al reconocer derechos y libertades fundamentales, actuando como barrera contra la arbitrariedad del poder, y definiendo el marco y condiciones para el ejercicio de competencias.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: Discute la importancia de la función fundacional de la Constitución en el contexto del Derecho positivo.
+Respuesta Correcta: La función fundacional de la Constitución es crucial porque origina la validez del sistema normativo, derogando normas incompatibles, y estableciendo un nuevo marco jurídico que garantiza la coherencia y legitimidad del ordenamiento.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: Explica las diferencias entre constituciones auténticas y nominales según el criterio de legitimidad.
+Respuesta Correcta: Las constituciones auténticas limitan efectivamente el poder y garantizan derechos en un Estado de Derecho, mientras que las nominales son meras fachadas sin eficacia real, utilizadas por regímenes autoritarios para simular legitimidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: ¿Cómo se refleja la función de organización del Estado en una Constitución?
+Respuesta Correcta: La función de organización se refleja en la Constitución al definir los órganos del Estado, sus funciones y competencias, y al establecer el sistema de fuentes del Derecho, regulando la creación de nuevas normas jurídicas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: Evalúa la trascendencia del poder constituyente en la legitimidad de una Constitución.
+Respuesta Correcta: El poder constituyente es trascendental para la legitimidad de una Constitución, ya que representa la voluntad soberana del pueblo o nación, creando el marco jurídico fundamental que limita y define los poderes constituidos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 2: La Constitución como norma suprema 1. Concepto y Naturaleza Jurídica de la Constitución
+
+Pregunta: Analiza la influencia de la Constitución de Cádiz de 1812 en el desarrollo del constitucionalismo español del siglo XIX.
+Respuesta Correcta: La Constitución de Cádiz de 1812 sentó las bases del constitucionalismo en España al introducir principios como la soberanía nacional y la división de poderes. Aunque su vigencia fue efímera, influyó en constituciones posteriores al establecer un modelo de Estado liberal y democrático.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Evalúa las causas del fracaso funcional de la Constitución de Cádiz de 1812, especialmente en términos de división de poderes.
+Respuesta Correcta: El fracaso funcional de la Constitución de Cádiz de 1812 se debe a su estricta concepción de la división de poderes, sin mecanismos de colaboración entre ellos. Esto generó rigidez y dificultades en la operatividad del sistema político, contribuyendo a su eventual derogación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Compara la representación política establecida por la Constitución de 1837 con la de la Constitución de 1845.
+Respuesta Correcta: La Constitución de 1837 introdujo un modelo bicameral con un Senado designado por el rey y un Congreso de base popular, consolidando la representatividad política. En contraste, la Constitución de 1845 mantuvo el bicameralismo pero reforzó el poder del monarca, reduciendo el impacto de la representación popular.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Discute la relevancia del sufragio universal masculino en la Constitución de 1869 y su impacto en el sistema político español.
+Respuesta Correcta: La Constitución de 1869 fue pionera al introducir el sufragio universal masculino, ampliando significativamente la participación política. Este avance democratizó el sistema político, permitiendo una mayor representación ciudadana y reflejando las ideas progresistas de la época.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Explica cómo la flexibilidad de la Constitución de 1876 contribuyó a la estabilidad política durante la Restauración.
+Respuesta Correcta: La Constitución de 1876 fue deliberadamente flexible, permitiendo su adaptación por gobiernos de distintas ideologías. Esta característica ayudó a lograr una estabilidad política que no habían conseguido los textos anteriores, acomodando cambios sin necesidad de redactar nuevas constituciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Analiza el papel del monarca en el constitucionalismo español del siglo XIX, en particular en las constituciones de 1837 y 1845.
+Respuesta Correcta: En la Constitución de 1837, el monarca tenía prerrogativas significativas, como el veto y la disolución de las Cortes. En 1845, su poder se incrementó aún más, reflejando las ideas del partido moderado que limitaban la soberanía nacional en favor de la Corona, consolidando su influencia política.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 3: Antecedentes históricos de la Constitución Española (I) 1. Consideraciones Preliminares
+
+Pregunta: Analiza cómo el anteproyecto constitucional de 1929 prefiguró el modelo franquista en términos de organización del Estado.
+Respuesta Correcta: El anteproyecto de 1929 proponía un Estado corporativista, unitario y autoritario, sin separación de poderes, donde el Rey tenía preeminencia. Este modelo influyó en el franquismo, que adoptó una estructura similar con concentración de poder en el Jefe del Estado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: Explica la importancia de la descentralización política en la Constitución de 1931 para el actual Estado de las Autonomías.
+Respuesta Correcta: La Constitución de 1931 apostó por la descentralización política, sentando las bases del actual Estado de las Autonomías al permitir una mayor autonomía territorial, lo que representa un antecedente directo del modelo autonómico vigente en España.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: Discute el significado del término 'Estado Social de Derecho' en la Constitución de 1931.
+Respuesta Correcta: La Constitución de 1931 introdujo el concepto de Estado Social de Derecho, priorizando la justicia social y los derechos básicos de los ciudadanos, estableciendo un marco donde el Estado debía intervenir para garantizar el bienestar y equidad social.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: Compara la estructura de poder de la Constitución de 1931 con la del régimen franquista.
+Respuesta Correcta: La Constitución de 1931 estableció un sistema unicameral con mecanismos democráticos, mientras que el régimen franquista concentró el poder en el Jefe del Estado, sin representación democrática efectiva, mostrando una clara centralización autoritaria.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: Evalúa la importancia de la Ley para la Reforma Política de 1977 en la Transición española.
+Respuesta Correcta: La Ley para la Reforma Política de 1977 fue crucial en la Transición, ya que, aprobada por las Cortes franquistas, permitió convocar elecciones democráticas y proclamó la soberanía popular, actuando como puente legal hacia un sistema democrático.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: Analiza el papel del Rey Juan Carlos I durante la Transición española hacia la democracia.
+Respuesta Correcta: El Rey Juan Carlos I fue clave en la Transición al impulsar el cambio hacia la democracia, apoyando el nombramiento de Adolfo Suárez como Presidente del Gobierno y favoreciendo un proceso pacífico y legal para establecer un sistema democrático pleno.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 4: Antecedentes Históricos de la Constitución (II) 1. El Contexto de Crisis y los Proyectos Constitucionales Autoritarios
+
+Pregunta: ¿Cuál es la relevancia de la distinción entre valores superiores y principios constitucionales en el sistema jurídico español?
+Respuesta Correcta: La distinción es esencial porque los valores son fundamentos axiológicos del Estado y orientan las decisiones políticas, mientras que los principios son mandatos jurídicos concretos que operan para promover y materializar dichos valores.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: Analice cómo el valor superior de la libertad se manifiesta en la dimensión organizativa del Estado.
+Respuesta Correcta: En la dimensión organizativa, la libertad exige la configuración democrática del poder, radicando la soberanía en el pueblo, estableciendo la separación de poderes y elecciones mediante sufragio universal, lo que garantiza un marco de tolerancia ideológica y derechos fundamentales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: Explique la función de la justicia como valor superior en las resoluciones judiciales.
+Respuesta Correcta: La justicia actúa como un criterio orientador para los jueces, permitiéndoles incorporar criterios de moralidad y ponderación en sus resoluciones, asegurando que las soluciones sean materialmente correctas y equitativas, más allá de la mera aplicación automática de la ley.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: ¿Cómo se articula el principio de igualdad en la Constitución Española, y qué dimensiones presenta?
+Respuesta Correcta: El principio de igualdad se articula en los artículos 9.2 y 14 CE, presentando una dimensión formal, que asegura la igualdad ante la ley, y una material, que impone a los poderes públicos el deber de remover obstáculos para garantizar la igualdad real y efectiva.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: Examine el papel del pluralismo político como valor superior en la Constitución Española.
+Respuesta Correcta: El pluralismo político se refleja en la diversidad de partidos como expresión de la voluntad popular y se extiende al pluralismo social, con sindicatos y asociaciones, y al pluralismo territorial, con autonomías y lenguas cooficiales, fomentando la diversidad en la sociedad y el poder.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: Discuta la importancia del principio de constitucionalidad y su función dentro del ordenamiento jurídico español.
+Respuesta Correcta: El principio de constitucionalidad, recogido en el art. 9.1 CE, es crucial porque establece la Constitución como norma jurídica suprema, con eficacia directa y vinculante, sirviendo como parámetro de validez de toda la legislación ordinaria.
+Manual: Manual Constitucional 1
+Bloque: Bloque 1
+Tema: Tema 5: Principios y valores Constitucionales 1. Introducción: valores superiores y principios constitucionales. Delimitación conceptual.
+
+Pregunta: ¿Por qué el Tribunal Constitucional es el único competente para declarar la nulidad de una ley por inconstitucionalidad?
+Respuesta Correcta: Porque el Tribunal Constitucional es el órgano encargado de garantizar la supremacía de la Constitución, anulando aquellas leyes que vulneren principios constitucionales, como el principio de igualdad del art. 14 CE.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: Analiza la relación entre los Tratados Internacionales, el Derecho de la UE y la Constitución Española.
+Respuesta Correcta: Aunque los Tratados Internacionales y el Derecho de la UE vinculan a los Estados, desde la perspectiva interna deben ser conformes a la Constitución, siendo esta última la norma suprema del ordenamiento español.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: Discute la diferencia entre leyes orgánicas y leyes ordinarias en el sistema jurídico español.
+Respuesta Correcta: Las leyes orgánicas regulan materias específicas como derechos fundamentales y requieren mayorías especiales para su aprobación, mientras que las ordinarias no, pero ninguna es jerárquicamente superior a la otra.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: Explica cuándo y por qué se pueden utilizar los decretos-leyes en el sistema jurídico español.
+Respuesta Correcta: Los decretos-leyes se utilizan en casos de 'extraordinaria y urgente necesidad', permitiendo al gobierno actuar con rapidez, aunque requieren convalidación posterior por parte de los parlamentos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: ¿Por qué los reglamentos son considerados normas secundarias en el ordenamiento jurídico español?
+Respuesta Correcta: Porque los reglamentos, aunque regulan aspectos cotidianos, deben obedecer a las leyes superiores, careciendo de la misma fuerza normativa que las leyes y decretos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: ¿Cómo se determina el ámbito de actuación de las leyes nacionales y autonómicas en España?
+Respuesta Correcta: El ámbito de actuación se basa en el principio de competencia, donde cada tipo de ley tiene asignadas materias específicas, no existiendo una jerarquía directa entre ellas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 1: El Sistema de Fuentes del Ordenamiento Jurídico Nuestro ordenamiento jurídico está compuesto por una pluralidad de normas con una clara jerarquía. Esta jerarquía es un principio fundamental que rige el Derecho Constitucional y asegura la estabilidad del país, evitando el caos que resultaría si no hubiera una estructura de or den clara. La norma suprema de nuestro sistema es la Constitución. Esto significa que todas las demás normas, sin excepción, deben ser conformes a ella. En caso de que una ley aprobada por el Parlamento sea contraria a la Constitución, como una que atentase contra el
+
+Pregunta: ¿Cómo se aplica el principio de jerarquía normativa en el caso de un conflicto entre una ley orgánica y una orden ministerial?
+Respuesta Correcta: El principio de jerarquía normativa establece que una norma de rango inferior, como una orden ministerial, no puede contradecir a una de rango superior, como una ley orgánica. Si lo hace, la norma inferior deviene inválida.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: Explique un escenario en el que el principio de competencia territorial podría ser vulnerado por el Estado central.
+Respuesta Correcta: El principio de competencia territorial se vulnera si el Estado central legisla sobre una materia exclusiva de una Comunidad Autónoma, como agricultura, lo cual solo puede regular la Comunidad en cuestión.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: ¿Por qué es esencial la publicación de las normas en el Boletín Oficial del Estado para su validez?
+Respuesta Correcta: La publicación en el Boletín Oficial del Estado es esencial para la validez de las normas, ya que garantiza su conocimiento público, condición sine qua non para su entrada en vigor y exigibilidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: Analice las consecuencias jurídicas de dictar una ley ordinaria sobre una materia reservada a ley orgánica.
+Respuesta Correcta: Si una materia reservada a ley orgánica es regulada por una ley ordinaria, esta última sería inválida por invadir el ámbito competencial propio de la ley orgánica, según el principio de competencia normativa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: ¿Cómo podría un ayuntamiento contravenir el ordenamiento jurídico sin el respeto a los principios constitucionales?
+Respuesta Correcta: Un ayuntamiento podría contravenir el ordenamiento si, por ejemplo, dicta reglamentos que violen derechos constitucionales, lo cual estaría prohibido sin el respeto a los principios constitucionales que actúan como límites.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: ¿Qué ocurre cuando dos leyes de igual rango, pero de diferente fecha, presentan disposiciones contradictorias?
+Respuesta Correcta: Cuando dos leyes de igual rango presentan disposiciones contradictorias, no aplica el principio de jerarquía, sino el de sucesión cronológica: la ley posterior prevalece sobre la anterior (lex posterior derogat priori).
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 2: Principios Constitucionales del ordenamiento jurídico
+
+Pregunta: Analice la importancia de la legitimidad democrática directa de la ley en el sistema jurídico español.
+Respuesta Correcta: La legitimidad democrática directa de la ley asegura que toda norma jurídica emane del poder legislativo, reflejando la voluntad popular. Esto garantiza que las leyes regulen aspectos de la convivencia social conforme al mandato democrático, fortaleciendo la confianza en el ordenamiento jurídico.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: Explique la relación jerárquica entre la Constitución y las leyes en el ordenamiento jurídico español.
+Respuesta Correcta: La Constitución es la norma suprema del ordenamiento jurídico, situándose en el vértice de la jerarquía normativa. Las leyes, subordinadas a la Constitución, deben respetar sus principios y preceptos, siendo nulas aquellas que las contravengan, garantizando la coherencia del sistema legal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: Discuta cómo la orientación política del legislador puede influir en la configuración de las leyes.
+Respuesta Correcta: La orientación política del legislador influye en la configuración de leyes al determinar sus prioridades y enfoques. Por ejemplo, un legislador conservador puede favorecer impuestos bajos, mientras uno progresista podría incrementar la carga tributaria, evidenciando cómo las ideologías impactan en la normativa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: Evalúe el principio de reserva de ley y su impacto en la regulación de materias de especial trascendencia.
+Respuesta Correcta: El principio de reserva de ley asegura que ciertas materias, por su relevancia, se regulen únicamente mediante normas legislativas, excluyendo la potestad reglamentaria. Esto garantiza un control democrático y evita que el ejecutivo modifique aspectos fundamentales, como delitos y penas, sin el debido procedimiento legislativo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: Analice la distinción entre reserva material y reserva formal en el contexto del principio de reserva de ley.
+Respuesta Correcta: La reserva material de ley se impone cuando la Constitución exige regulación legal para ciertas materias, vedando la intervención reglamentaria. La reserva formal, en ausencia de tal exigencia, surge cuando una ley regula una materia, desplazando cualquier reglamento preexistente y asegurando el rango normativo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: Compare las leyes orgánicas y las leyes ordinarias, destacando sus diferencias fundamentales.
+Respuesta Correcta: Las leyes orgánicas se destinan a materias de especial trascendencia, requieren mayoría absoluta para su aprobación y no pueden ser modificadas por decretos-leyes. Las leyes ordinarias regulan el resto de materias y no precisan de mayoría reforzada, mostrando una distinción de competencia, no jerarquía.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 3: La Ley como fuente del Derecho 1. Concepto y Naturaleza de la Ley
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el Decreto Legislativo y el Decreto-Ley en cuanto a su origen y necesidad de autorización?
+Respuesta Correcta: El Decreto Legislativo requiere una delegación previa de las Cortes Generales mediante una ley de bases o ley ordinaria, mientras que el Decreto-Ley lo dicta el Gobierno sin autorización previa, en casos de extraordinaria y urgente necesidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: Analice cómo el principio de separación de poderes se ve reflejado en el control de los Decretos Legislativos.
+Respuesta Correcta: El control jurisdiccional sobre los Decretos Legislativos garantiza el respeto al principio de separación de poderes, asegurando que el Gobierno no exceda los límites de la delegación conferida por las Cortes Generales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: ¿Por qué no pueden los Decretos-Ley afectar a los derechos, deberes y libertades del Título I de la Constitución?
+Respuesta Correcta: El art. 86 CE impide que los Decretos-Ley afecten esos derechos, para evitar que el Ejecutivo, sin control previo parlamentario, modifique garantías constitucionales fundamentales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: Explique por qué el uso del Decreto-Ley puede desvirtuar su naturaleza excepcional en la práctica política.
+Respuesta Correcta: El Decreto-Ley ha sido utilizado por Gobiernos para regular cuestiones sin carácter genuinamente urgente, buscando agilizar la producción normativa, lo que contraviene su naturaleza de respuesta a situaciones excepcionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: En el contexto de un Decreto Legislativo, ¿qué sucede si el Gobierno se excede de la delegación otorgada?
+Respuesta Correcta: Si el Gobierno se excede de la delegación en un Decreto Legislativo, la norma incurre en inconstitucionalidad por infracción del art. 82 CE y puede ser impugnada ante la jurisdicción contencioso-administrativa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: Justifique la necesidad de la Ley de Bases en el proceso de creación de un Decreto Legislativo.
+Respuesta Correcta: La Ley de Bases es necesaria para delimitar el objeto y alcance de la delegación al Gobierno, estableciendo directrices específicas para garantizar que la normativa creada se ajuste a los principios y objetivos establecidos por el legislador.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 4: Normas del Gobierno con Fuerza de Ley 1. Introducción: Naturaleza Jurídica
+
+Pregunta: ¿Cuál es la diferencia fundamental entre un reglamento ejecutivo y un reglamento independiente?
+Respuesta Correcta: Un reglamento ejecutivo desarrolla o ejecuta una ley preexistente, mientras que un reglamento independiente regula materias no reservadas por ley y no previamente legisladas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: ¿Por qué los reglamentos nunca pueden contradecir una ley según el principio de jerarquía normativa?
+Respuesta Correcta: Los reglamentos son normas de rango inferior a las leyes y la Constitución, por lo que deben subordinarse a ellas y no pueden contradecir sus disposiciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: Analice el papel del reglamento en el desarrollo de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad del Estado.
+Respuesta Correcta: Los reglamentos complementan la ley al regular detalles técnicos y organizativos que no se incluyen en la ley, permitiendo así una regulación más eficiente y flexible.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: Explique cómo se controla la legalidad de los reglamentos y qué error común se comete al respecto.
+Respuesta Correcta: La legalidad de los reglamentos es controlada por la jurisdicción contencioso-administrativa, no por el Tribunal Constitucional, que supervisa normas con rango de ley.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: En el contexto de los convenios colectivos, ¿cómo se aplica el principio de jerarquía normativa?
+Respuesta Correcta: Los convenios colectivos son vinculantes pero subordinados a la ley; no pueden contradecir leyes superiores, como el Estatuto de los Trabajadores.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: Discuta la función de la jurisprudencia en el ordenamiento jurídico y su relación con los reglamentos.
+Respuesta Correcta: La jurisprudencia complementa el ordenamiento jurídico, interpretando y aplicando normas en casos concretos, y puede influir en cómo se interpretan y aplican los reglamentos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 5: EL Reglamento y otras fuentes del Derecho Introducción Una vez analizada la Constitución como norma suprema, la ley como expresión de la voluntad popular y las normas con rango de ley dictadas por el Gobierno, el estudio del sistema de fuentes culmina con el análisis de aquellas normas que, emanadas del poder ejecutivo, se subordinan jerárquicamente a la ley: los reglamentos. A su vez, el ordenamiento jurídico se ve complementado por otras figuras normativas, como los convenios colectivos, y por la función interpretativa de la jurisprudencia, cuyo papel, si bien no es el de crear Derecho, resulta indispensable para su correcta aplicación. 1. La Potestad Reglamentaria y el Reglamento (art. 97 CE) 1.1. Concepto y Función
+
+Pregunta: ¿Por qué un tratado internacional adopta una posición jerárquica superior a las normas internas una vez ratificado por España?
+Respuesta Correcta: Los tratados internacionales, al ser incorporados al ordenamiento jurídico español, prevalecen sobre las normas internas debido a su carácter supranacional, lo que implica la derogación de las disposiciones internas que les sean contrarias, exceptuando la Constitución Española.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: ¿Qué sucede si un tratado internacional contiene disposiciones contrarias a la Constitución Española?
+Respuesta Correcta: Si un tratado contiene disposiciones contrarias a la Constitución, es necesario reformar la Carta Magna antes de su ratificación. De no hacerlo, el Tribunal Constitucional puede declarar el tratado nulo, impidiendo su entrada en vigor.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: Explique la diferencia entre la obligación internacional y la eficacia interna de un tratado.
+Respuesta Correcta: La obligación internacional surge desde la firma del tratado por el Gobierno y el Rey, mientras que su eficacia interna, que permite su aplicación en España, se produce solo tras la aprobación por las Cortes Generales cuando así se requiera.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: ¿Cuál es el procedimiento necesario para la ratificación de un tratado que afecta a materias de ley orgánica?
+Respuesta Correcta: Los tratados que afectan a materias de ley orgánica requieren aprobación por mayoría absoluta en las Cortes Generales, debido a su trascendencia, como en el caso de tratados que afectan derechos fundamentales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: Analice cómo se gestiona la cesión de competencias soberanas a un organismo supranacional mediante un tratado.
+Respuesta Correcta: La cesión de competencias a un organismo supranacional, como la Unión Europea, se gestiona mediante un tratado que requiere aprobación por ley orgánica, ya que permite al organismo dictar normas vinculantes para España.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: ¿En qué casos no es obligatoria la aprobación de las Cortes Generales para la firma de un tratado?
+Respuesta Correcta: Para tratados que no encajan en categorías específicas anteriores y cuya relevancia es menor, no es obligatoria la aprobación de las Cortes Generales; solo se requiere informar a las cámaras de su firma.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 6: Tratados internacionales: entendiendo nuestro sistema en el ordenamiento global
+
+Pregunta: Analiza cómo el artículo 93 de la Constitución Española fundamenta la integración de España en la Unión Europea.
+Respuesta Correcta: El artículo 93 CE permite la autorización mediante ley orgánica para que organizaciones internacionales ejerzan competencias derivadas de la Constitución, facilitando la delegación de facultades a la UE y adaptando el ordenamiento español al marco jurídico europeo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: Explica la diferencia entre la cesión de soberanía y la delegación de competencias en el contexto de la UE.
+Respuesta Correcta: La adhesión a la UE implicó delegar facultades legislativas, ejecutivas y judiciales a la UE, no una cesión de soberanía, ya que España conserva su soberanía pero permite que la UE ejerza ciertas competencias en su nombre.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: Describe cómo el principio de primacía del Derecho de la Unión afecta al ordenamiento jurídico nacional de los Estados miembros.
+Respuesta Correcta: El principio de primacía establece que las normas de la UE tienen aplicación preferente sobre las nacionales en caso de conflicto, garantizando la uniformidad y eficacia del Derecho de la Unión sobre los ordenamientos nacionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: Analiza el papel del Derecho Originario en el sistema jurídico de la Unión Europea.
+Respuesta Correcta: El Derecho Originario, compuesto por los tratados constitutivos y sus modificaciones, actúa como la 'Constitución' de la UE, estableciendo objetivos, instituciones y procedimientos que son la base de todas las normas derivadas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: Diferencia el impacto de los reglamentos y las directivas en los ordenamientos jurídicos de los Estados miembros.
+Respuesta Correcta: Los reglamentos son directamente aplicables en todos los Estados miembros sin necesidad de transposición, mientras que las directivas obligan en cuanto al resultado, dejando a cada Estado la elección de los medios para su implementación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: Evalúa la importancia del Derecho Derivado en el proceso de integración europea.
+Respuesta Correcta: El Derecho Derivado, a través de reglamentos, directivas, decisiones, recomendaciones y dictámenes, permite a la UE legislar en diversas áreas, impulsando la armonización y unificación del derecho en los Estados miembros para alcanzar los objetivos comunes.
+Manual: Manual Constitucional 1
+Bloque: Bloque 2
+Tema: Tema 7: Derecho de la Unión Europea como Fuente de Derecho 1 . Naturaleza y posición jurídica
+
+Pregunta: ¿Por qué los Derechos Fundamentales tienen un procedimiento agravado de reforma constitucional, y cómo se justifica este rigor?
+Respuesta Correcta: El procedimiento agravado garantiza su estabilidad y permanencia, requiriendo una mayoría cualificada y un referéndum. Esto resalta su importancia y protege estos derechos de cambios impulsivos por mayorías coyunturales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: Analiza la función de los límites internos de los Derechos Fundamentales y proporciona un ejemplo.
+Respuesta Correcta: Los límites internos delimitan el ejercicio de los derechos según su definición legal. Por ejemplo, el hábeas corpus solo aplica a detenciones ilegales, asegurando que no se use indebidamente para otros fines.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: Explica cómo se ponderan los límites externos cuando los Derechos Fundamentales colisionan con otros derechos o bienes jurídicos.
+Respuesta Correcta: Es necesario ponderar los intereses en conflicto, evaluando cuál debe prevalecer. Un ejemplo es la restricción de la libertad de empresa durante una pandemia para proteger la salud pública y el derecho a la vida.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: Discute la importancia de la interpretación extensiva de los Derechos Fundamentales y su impacto en la libertad individual.
+Respuesta Correcta: La interpretación extensiva maximiza la libertad individual al garantizar el mayor alcance posible de los derechos. Evita abusos de poder y asegura que, ante la duda, prevalezca la libertad, como en la libertad de expresión.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: ¿Cuál es el papel del Tribunal Constitucional en la protección de los Derechos Fundamentales a través del recurso de amparo?
+Respuesta Correcta: El Tribunal Constitucional protege los Derechos Fundamentales permitiendo el recurso de amparo cuando se consideran vulnerados. Esto ofrece una vía judicial especializada y garantiza una protección reforzada de estos derechos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: Describe cómo la regulación por Ley Orgánica fortalece la protección de los Derechos Fundamentales frente a las coyunturas políticas.
+Respuesta Correcta: Requerir una Ley Orgánica, con mayoría cualificada, blinda los Derechos Fundamentales de cambios impulsivos por mayorías parlamentarias temporales, asegurando que cualquier modificación tenga un amplio consenso político.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 1: Introducción a los Derechos Fundamentales 1. Concepto y Características
+
+Pregunta: ¿Cuál es la diferencia fundamental entre capacidad jurídica y capacidad de obrar según el Derecho español?
+Respuesta Correcta: La capacidad jurídica es la aptitud para ser titular de derechos y obligaciones desde el nacimiento. La capacidad de obrar es la aptitud para ejercer esos derechos, que se adquiere gradualmente y es plena a los 18 años.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: ¿Por qué las personas jurídicas tienen derechos fundamentales más limitados que las personas físicas?
+Respuesta Correcta: Las personas jurídicas tienen derechos limitados debido a su naturaleza abstracta, que impide la titularidad de derechos inherentes a las personas físicas, como la libertad ambulatoria o la dignidad personal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: Analiza por qué un menor de edad posee derechos pero no puede ejercerlos plenamente.
+Respuesta Correcta: Un menor es titular de derechos desde el nacimiento, pero la capacidad de obrar se adquiere gradualmente. Esto implica que no puede ejercer derechos como el sufragio hasta alcanzar la mayoría de edad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: Explica cómo el Tribunal Constitucional ha abordado la titularidad de derechos fundamentales por parte de personas jurídicas.
+Respuesta Correcta: El Tribunal Constitucional establece que las personas jurídicas pueden ser titulares de ciertos derechos fundamentales, pero esto es una excepción, ya que la naturaleza de muchos derechos exige que su titular sea una persona física.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: Discute la importancia de la capacidad jurídica en la titularidad de derechos desde el nacimiento.
+Respuesta Correcta: La capacidad jurídica es crucial porque permite que desde el nacimiento, una persona sea titular de derechos fundamentales como la dignidad, sin requerir ninguna otra condición para su reconocimiento.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: ¿Por qué se considera que la titularidad de derechos en personas jurídicas es esencial para su existencia?
+Respuesta Correcta: La titularidad de derechos como el de asociación o libertad religiosa es esencial para las personas jurídicas, ya que les permite operar y existir dentro del marco legal, aunque con limitaciones respecto a derechos de las personas físicas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 2: Condiciones del ejercicio de los derechos
+
+Pregunta: ¿En qué medida el artículo 13 de la Constitución Española condiciona los derechos fundamentales de los extranjeros y cómo se concilia con la Declaración Universal de Derechos Humanos?
+Respuesta Correcta: El art. 13 CE reconoce derechos a extranjeros conforme a tratados y leyes, limitando algunos como el sufragio. Sin embargo, la Declaración Universal de Derechos Humanos, aplicada extensivamente, asegura derechos básicos a todos, conciliando restricciones con protección de derechos fundamentales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: Analiza las diferencias en el acceso a derechos entre ciudadanos de la UE y extranjeros en situación irregular en España.
+Respuesta Correcta: Ciudadanos de la UE disfrutan de libre circulación y residencia, con restricciones menores, mientras que extranjeros en situación irregular carecen de derechos laborales y sociales, aunque conservan derechos básicos como la vida y la integridad, según la Ley Orgánica 4/2000.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: Explica cómo la regularización de la situación administrativa de un extranjero en España afecta su acceso a derechos.
+Respuesta Correcta: La regularización es clave; permite acceder a derechos como sindicación y ayudas sociales. Sin regularización, el acceso es limitado, aunque derechos fundamentales están garantizados, reflejando el esquema del ordenamiento español sobre derechos de extranjeros.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: Discute la protección especial que el ordenamiento jurídico español ofrece a los refugiados y su impacto sobre las normas de inmigración.
+Respuesta Correcta: El art. 13.4 CE confiere protección a refugiados, priorizando sus derechos sobre normas migratorias. Esta protección incluye evitar expulsiones, destacando un enfoque humanitario ante su vulnerabilidad, a pesar de posibles entradas irregulares.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: ¿Qué derechos son reconocidos indistintamente a españoles y a extranjeros, y cómo se justifican las restricciones a otros derechos?
+Respuesta Correcta: Derechos como la vida, dignidad e integridad física son universales. Restricciones en derechos como el sufragio o trabajo para extranjeros se basan en la necesidad de regular la participación política y económica, observando tratados y leyes nacionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: Evalúa el impacto de la normativa comunitaria en la equiparación de derechos entre ciudadanos de la UE y españoles en el contexto español.
+Respuesta Correcta: La normativa comunitaria casi iguala derechos de ciudadanos de la UE a españoles, permitiendo circulación y residencia. Restricciones como en cargos públicos y elecciones generales reflejan la soberanía estatal en aspectos políticos, manteniendo distinciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 3
+Tema: Tema 3: Derecho y libertades de los extranjeros en España.
+
+Pregunta: ¿Cómo se justifica la importancia de la clasificación doctrinal de los derechos fundamentales en el estudio del Derecho constitucional español?
+Respuesta Correcta: La clasificación doctrinal, aunque teórica, proporciona una estructura que facilita la comprensión del alcance y operatividad de los derechos fundamentales, permitiendo un análisis más detallado para oposiciones y práctica jurídica.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: Analiza la relación entre los derechos de la esfera personal e íntima y la protección de la autonomía individual según la Constitución Española.
+Respuesta Correcta: Los derechos de la esfera personal e íntima, como la vida, integridad física y libertad ideológica, protegen la autonomía individual al asegurar la libertad de actuación sin interferencias externas, garantizando un ámbito privado en el que el individuo es soberano.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: ¿En qué medida los derechos de la libertad e información limitan la censura previa según el art. 20 CE?
+Respuesta Correcta: El art. 20 CE prohíbe la censura previa, salvo excepciones legales, garantizando la libertad de expresión e información como baluartes contra la injerencia del poder público, protegiendo así la difusión libre de ideas y opiniones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: Explica cómo el derecho al habeas corpus del art. 17 CE asegura la protección de la libertad individual.
+Respuesta Correcta: El habeas corpus garantiza que nadie sea privado de libertad arbitrariamente, estableciendo un mecanismo de control judicial que revisa la legalidad de detenciones, asegurando así el respeto a la libertad individual conforme a la ley y la Constitución.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: Evalúa la importancia de los derechos de participación política en la consolidación de la democracia según la Constitución Española.
+Respuesta Correcta: Los derechos de reunión, manifestación, asociación y sufragio permiten a los ciudadanos influir en la vida pública, asegurando su participación activa en la democracia y fortaleciendo el sistema político mediante la expresión y defensa de intereses colectivos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: ¿Cómo se diferencia la protección de los derechos laborales respecto a los derechos fundamentales en la Constitución Española?
+Respuesta Correcta: Aunque la CE reconoce derechos laborales como la libertad sindical y el derecho de huelga, no todos son fundamentales, como el derecho al trabajo, lo que implica menos protección jurídica, reflejando una distinción entre derechos esenciales y otros derechos socioeconómicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 1: La clasificación de los derechos fundamentales y su régimen jurídico en la Constitución española
+
+Pregunta: ¿Cómo se concilia la igualdad como derecho individual con la posibilidad de establecer tratos desiguales para alcanzar la igualdad real y efectiva?
+Respuesta Correcta: La igualdad como derecho individual garantiza un trato igualitario en situaciones similares. Sin embargo, el art. 9.2 CE permite tratos desiguales para lograr una igualdad real, siempre que se cumplan los requisitos de finalidad legítima, congruencia y proporcionalidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: Analiza la importancia de la inversión de la carga de la prueba en casos de discriminación especialmente grave según el art. 14 CE.
+Respuesta Correcta: La inversión de la carga de la prueba en discriminaciones del art. 14 CE facilita al ciudadano defender su derecho a la igualdad, obligando a la otra parte a demostrar que su conducta no fue discriminatoria, dada la dificultad de probarlo por el afectado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: ¿Qué justificación existe para permitir la elaboración de leyes dirigidas a sectores concretos de la sociedad?
+Respuesta Correcta: La elaboración de leyes dirigidas a sectores concretos es válida si hay una motivación objetiva que lo justifique. Estas leyes deben perseguir una finalidad legítima y no establecer supuestos de hecho artificiosos que discriminen a grupos específicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: Explora los límites que deben respetarse al adoptar medidas de trato desigual para evitar la discriminación.
+Respuesta Correcta: Las medidas de trato desigual deben partir de una desigualdad objetiva, perseguir una finalidad constitucionalmente legítima, ser congruentes con su objetivo y no ser desproporcionadas para evitar crear una nueva desigualdad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: Discute la diferencia entre igualdad ante la ley e igualdad en la ley y su relevancia constitucional.
+Respuesta Correcta: La igualdad ante la ley exige leyes generales para todos, mientras que la igualdad en la ley permite tratos desiguales para lograr igualdad real. Ambas son esenciales para garantizar un trato justo y oportunidades equitativas dentro del marco constitucional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: Evalúa el papel del Tribunal Constitucional en la protección del derecho a la igualdad.
+Respuesta Correcta: El Tribunal Constitucional protege el derecho a la igualdad permitiendo que los ciudadanos reclamen un trato igualitario cuando se sienten discriminados, asegurando que las leyes y medidas cumplan con el principio de igualdad establecido en la CE.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 2: Derecho a la Igualdad (Parte I)
+
+Pregunta: ¿Cómo se garantiza el principio de igualdad en la actuación de las Administraciones Públicas según el Tribunal Constitucional?
+Respuesta Correcta: El Tribunal Constitucional establece que las Administraciones no pueden aplicar una norma de forma arbitraria. Deben tratar a los ciudadanos en situaciones similares de manera igualitaria para evitar discriminaciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: ¿Cuáles son los requisitos para considerar una actuación judicial como discriminatoria?
+Respuesta Correcta: Debe provenir del mismo juzgado, tener un supuesto de hecho idéntico, haber aplicado la ley más favorable anteriormente y carecer de motivación jurídica en el cambio de criterio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: Explique por qué dos situaciones con diferentes supuestos de hecho no se consideran discriminación en la aplicación de la ley.
+Respuesta Correcta: Porque el principio de igualdad requiere que los casos sean sustancialmente idénticos para alegar discriminación, permitiendo una comparación justa entre las situaciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: ¿En qué casos la inversión de la carga de la prueba facilita la protección del derecho a la igualdad entre particulares?
+Respuesta Correcta: Cuando se alega discriminación basada en los supuestos del art. 14 de la CE, el particular o empresa debe probar que su actuación no fue discriminatoria, facilitando la defensa del ciudadano.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: Analice cómo la motivación judicial evita que un cambio de criterio sea considerado discriminatorio.
+Respuesta Correcta: Un juez puede cambiar su criterio si está debidamente motivado en la sentencia, lo cual demuestra que el cambio no es arbitrario ni discriminatorio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: ¿Por qué el ámbito de discriminación entre particulares es más limitado que en las relaciones con los poderes públicos?
+Respuesta Correcta: Porque solo se consideran discriminatorias las acciones basadas en los motivos tasados en el art. 14 de la CE, mientras que diferencias arbitrarias no están incluidas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 3: La apliación del principio de igualdad
+
+Pregunta: ¿Cómo concilia el Tribunal Constitucional el derecho a la vida del nasciturus con la despenalización del aborto en España?
+Respuesta Correcta: El Tribunal Constitucional sostiene que, aunque el nasciturus es titular del derecho a la vida, su protección no es absoluta. La Ley Orgánica 2/2010 permite el aborto en un sistema de plazos, considerando que la protección del embrión comienza a partir de las 14 semanas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: ¿Qué implica la prohibición de la tortura y tratos inhumanos o degradantes bajo el derecho a la integridad física y moral?
+Respuesta Correcta: La prohibición implica que ninguna persona puede ser sometida a tortura o tratos inhumanos, independientemente del delito cometido. El Tribunal Constitucional aclara que una pena elevada de prisión no constituye trato inhumano o degradante.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: Explique el alcance de la abolición de la pena de muerte en la Constitución Española y su excepción teórica.
+Respuesta Correcta: La Constitución abolió la pena de muerte, excepto en leyes penales militares para tiempos de guerra. Sin embargo, en la práctica está completamente abolida, y reintroducirla requeriría una reforma legal, alineando a España con estándares internacionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: Analice cómo la Ley Orgánica 3/2021 regula la eutanasia en España.
+Respuesta Correcta: La ley permite la eutanasia para personas con enfermedad grave e incurable o padecimiento grave certificado médicamente. Requiere dos solicitudes escritas y voluntarias, enfatizando el consentimiento. Fuera de estos supuestos, se considera delito.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: ¿Por qué el derecho a la vida no incluye el derecho a la muerte según la Constitución Española?
+Respuesta Correcta: La Constitución no reconoce el suicidio como un derecho, pues el derecho a la vida se centra en proteger la vida y la integridad, no en facilitar la muerte. Aunque la eutanasia está regulada, el enfoque es preservar la dignidad en situaciones extremas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: ¿Qué postura adopta la Constitución Española respecto al derecho a la vida de los nacidos y no nacidos?
+Respuesta Correcta: El artículo 15 CE establece que 'todos' tienen derecho a la vida, interpretado por el TC como aplicable a nacidos y, de forma limitada, a nasciturus, quienes merecen protección, aunque el aborto está despenalizado hasta las 14 semanas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 4: El derecho fundamental a la vida y a la integridad personal 1. El derecho a la vida: concepto y titularidad
+
+Pregunta: Analiza cómo el artículo 16 de la Constitución Española equilibra la protección de las libertades ideológica y religiosa con el mantenimiento del orden público.
+Respuesta Correcta: El artículo 16 CE protege estas libertades, limitando sus manifestaciones por el orden público, que incluye salud, seguridad y moralidad pública. Expresiones que inciten al odio o violencia no están amparadas, asegurando así el equilibrio entre derechos individuales y seguridad colectiva.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: Explica la diferencia entre la vertiente interna y externa de las libertades ideológica y religiosa según la Constitución Española.
+Respuesta Correcta: La vertiente interna es ilimitada, refiriéndose al derecho a pensar o creer libremente. La vertiente externa, que comprende la manifestación pública, está sujeta a limitaciones por el orden público, asegurando que las expresiones no vulneren derechos de otros ni el bien común.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: Evalúa la compatibilidad entre la aconfesionalidad del Estado español y su mandato de cooperación con confesiones religiosas.
+Respuesta Correcta: La aconfesionalidad implica que el Estado no tiene religión oficial, pero coopera activamente con confesiones, especialmente las arraigadas, en eventos y servicios. Esta cooperación no contraviene la neutralidad, ya que está basada en el mandato constitucional y el valor cultural de ciertas prácticas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: Discute el concepto de orden público en relación con las limitaciones a las libertades ideológica y religiosa.
+Respuesta Correcta: El orden público es un concepto amplio que no solo abarca el orden en las calles, sino también la protección de la salud, seguridad y moralidad pública. Las limitaciones a las libertades ideológica y religiosa se justifican cuando sus manifestaciones amenazan estos aspectos vitales para la coexistencia social.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: Analiza el papel de la financiación estatal en la relación entre el Estado español y las confesiones religiosas.
+Respuesta Correcta: El Estado permite que los ciudadanos destinen parte de sus impuestos a financiar confesiones, reflejando cooperación sin comprometer la aconfesionalidad. Esta medida respeta la libertad religiosa y reconoce el arraigo social de ciertas confesiones, sin implicar favoritismo oficial hacia ninguna.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: Reflexiona sobre la presencia de símbolos religiosos en espacios públicos en el contexto de la aconfesionalidad del Estado español.
+Respuesta Correcta: La neutralidad estatal no excluye los símbolos religiosos, como cruces, en espacios públicos, siempre que tengan valor cultural además de religioso. El Tribunal Constitucional ha sostenido que su presencia no viola la aconfesionalidad, respetando el patrimonio cultural y la diversidad de creencias en la sociedad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 5: Derecho a la Libertad Ideológica y Religiosa: Concepto y Alcance
+
+Pregunta: ¿Cómo se diferencian los derechos al honor, a la intimidad y a la propia imagen según el artículo 18.1 de la Constitución Española?
+Respuesta Correcta: El derecho al honor protege la reputación personal; la intimidad protege la esfera personal y familiar de injerencias no consentidas; y la propia imagen controla la captación y difusión de la imagen personal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: ¿En qué casos puede prevalecer la libertad de información sobre el derecho a la intimidad de una persona con proyección pública?
+Respuesta Correcta: La libertad de información prevalece cuando existe un interés informativo relevante para la opinión pública, pero no justifica divulgar aspectos íntimos sin relevancia pública.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: Analiza cómo se protegen los derechos al honor, intimidad y propia imagen de las personas jurídicas en comparación con las personas físicas.
+Respuesta Correcta: Las personas jurídicas tienen derecho al honor, pero no a la intimidad personal, reservado para personas físicas. Pueden exigir rectificación y/o indemnización por información falsa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: Discute la importancia de la protección penal frente a la protección civil en casos de vulneración de derechos del artículo 18 CE.
+Respuesta Correcta: La protección penal permite sancionar delitos como injurias, mientras que la civil busca indemnización por daños. La elección depende de la gravedad y objetivo del afectado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: ¿Qué papel juega la notoriedad de una persona en la protección de sus derechos al honor, intimidad y propia imagen?
+Respuesta Correcta: La notoriedad reduce la protección de estos derechos, aumentando la prevalencia de la libertad de información, siempre que exista interés informativo legítimo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: ¿Por qué es importante no confundir el derecho al honor con el derecho a la verdad?
+Respuesta Correcta: El derecho al honor protege la reputación frente a información falsa o injuriosa, mientras que el derecho a la verdad se centra en la veracidad de la información difundida.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 6: Derecho al honor, la intimidad y la Propia Imagen: nuestra esfera más personal
+
+Pregunta: ¿En qué situaciones está permitido entrar en un domicilio sin el consentimiento del titular según la Constitución Española?
+Respuesta Correcta: La entrada sin consentimiento es posible con autorización judicial debidamente motivada, en caso de flagrante delito, o en situaciones de urgente necesidad como incendios.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: Explique por qué la inviolabilidad domiciliaria de las personas jurídicas es menos proteccionista que la de las personas físicas.
+Respuesta Correcta: La inviolabilidad es menor para personas jurídicas ya que carecen de dignidad humana, por lo cual las consecuencias de intromisiones ilegales son menos graves.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: Analice los criterios que debe cumplir una orden judicial para entrar en un domicilio sin el consentimiento del titular.
+Respuesta Correcta: La orden judicial debe ser motivada, específica, concreta y proporcional a la finalidad perseguida para ser válida y permitir la entrada.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: Discuta la extensión del concepto de domicilio según la jurisprudencia del Tribunal Constitucional.
+Respuesta Correcta: El concepto de domicilio abarca cualquier espacio donde una persona desarrolle su vida privada, como caravanas o habitaciones de hotel, no limitándose a la vivienda habitual.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: Evalúe la relación entre el derecho a la intimidad y el derecho al secreto de las comunicaciones según el artículo 18 de la CE.
+Respuesta Correcta: El derecho a la intimidad protege el contenido de las comunicaciones, mientras que el secreto de las comunicaciones asegura que terceros no accedan sin autorización.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: Explique la relevancia de la protección de datos en el contexto de la inviolabilidad domiciliaria y la intimidad personal.
+Respuesta Correcta: La protección de datos busca evitar el tráfico ilícito y garantizar el control sobre la información personal, complementando la protección de la intimidad y el domicilio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 7: Inviolabilidad domiciliaria y secreto de las comunicaciones
+
+Pregunta: ¿Cómo se garantiza el principio de legalidad criminal en el contexto de la privación de libertad?
+Respuesta Correcta: El principio de legalidad criminal garantiza que una persona solo puede ser privada de libertad por una causa tipificada en la ley, evitando la analogía y asegurando la tasación legal. Esto asegura que no haya detenciones arbitrarias.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: Analiza cómo el principio de legalidad procesal protege los derechos del detenido.
+Respuesta Correcta: El principio de legalidad procesal requiere que la privación de libertad siga un procedimiento legalmente establecido, informando al detenido de sus derechos y asegurando su rápida disposición judicial, evitando situaciones de indefensión.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: Discute la proporcionalidad y temporalidad del internamiento por enajenación mental.
+Respuesta Correcta: El internamiento por enajenación mental debe ser proporcional y temporal, basado en un examen médico. Se cesa el internamiento cuando desaparece la causa, garantizando así su adecuación a la situación del individuo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: Explica las garantías procesales que debe recibir un detenido según el contenido del tema.
+Respuesta Correcta: Un detenido debe ser informado del motivo de su detención, tener derecho a guardar silencio, asistencia letrada, una llamada, intérprete si es necesario, y reconocimiento médico, asegurando sus derechos básicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: Analiza la función del procedimiento de habeas corpus en el control de la legalidad de la detención.
+Respuesta Correcta: El habeas corpus permite a cualquier persona detenida solicitar la intervención judicial inmediata si considera su detención ilegal, complementando la obligación policial de disposición judicial en 72 horas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: ¿Cuáles son los fines legítimos de la prisión provisional según la Ley de Enjuiciamiento Criminal?
+Respuesta Correcta: La prisión provisional busca evitar el riesgo de fuga, la destrucción de pruebas, y proteger a la víctima. Debe durar lo mínimo indispensable y cesar cuando desaparezcan las causas que la motivaron.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 8: Privación de Libertad: estos son los Derechos que todo detenido tiene 1. Concepto y principios reguladores de la privación de libertad La privación de libertad consiste en despojar a un individuo de su libertad deambulatoria contra su voluntad, recluyéndolo en un centro cerrado, como una prisión o un centro psiquiátrico. El derecho a la libertad, al ser un bien jurídico de gran relevancia, se encuentra estrictamente regulado en el ordenamiento español, tanto por sus consecuencias personales y sociales como por su naturaleza de derecho fundamental.
+
+Pregunta: ¿Cómo se articula el principio de legalidad en el ámbito penal y en el administrativo, y cuáles son sus diferencias clave?
+Respuesta Correcta: En el ámbito penal, el principio de legalidad requiere una Ley Orgánica para sancionar, mientras que en el administrativo se permite la remisión a reglamentos. Además, el derecho penal está sujeto a una reserva absoluta de ley, no permitiendo la analogía desfavorable al reo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: Analiza la importancia del principio de tipicidad en la protección de los derechos de los ciudadanos.
+Respuesta Correcta: El principio de tipicidad asegura que solo las conductas claramente definidas por ley puedan ser sancionadas, evitando la arbitrariedad y protegiendo a los ciudadanos de sanciones imprevisibles. Esto garantiza la seguridad jurídica y la previsibilidad de las normas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: Explica la prohibición de la retroactividad de las normas desfavorables en el contexto del principio de legalidad.
+Respuesta Correcta: La prohibición de retroactividad, bajo el principio de 'lex praevia', impide que las leyes sancionadoras se apliquen a hechos ocurridos antes de su promulgación, protegiendo así los derechos del individuo frente a cambios normativos posteriores.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: Discute las implicaciones de la reserva absoluta de ley en el derecho penal.
+Respuesta Correcta: La reserva absoluta de ley exige que solo las Leyes Orgánicas regulen delitos y penas, garantizando que estas decisiones cruciales sean tomadas con el máximo rigor legislativo y no delegadas a reglamentos, protegiendo así la libertad individual.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: ¿Qué papel juega el principio ne bis in idem en el derecho sancionador, y cómo se aplica en el derecho penal y administrativo?
+Respuesta Correcta: El principio ne bis in idem evita que una persona sea sancionada dos veces por el mismo hecho, protegiendo contra la duplicidad de procedimientos. En caso de coincidencia de ilícitos, prevalece la acción penal sobre la administrativa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: Analiza cómo el principio de legalidad limita la actuación de la administración pública en la imposición de sanciones.
+Respuesta Correcta: El principio de legalidad requiere una base legal para sanciones administrativas, limitando el uso de reglamentos y prohibiendo penas privativas de libertad. Además, asegura el respeto a los derechos de defensa del administrado, similar a un proceso penal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 9: principio de legalidad y tipicidad: sin esto, no puedes ser condenado 1. El principio de legalidad
+
+Pregunta: ¿Por qué no se considera una vulneración del derecho a la libertad de residencia en el caso de los traslados forzosos de los funcionarios públicos?
+Respuesta Correcta: Los traslados forzosos no vulneran el derecho porque los funcionarios aceptan implícitamente las condiciones laborales al ingresar en la administración, incluyendo la movilidad necesaria para el servicio público.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: Analiza cómo las catástrofes naturales pueden legitimar la limitación de la libertad de circulación.
+Respuesta Correcta: Las catástrofes naturales legitiman limitaciones para proteger la salud pública y garantizar la seguridad, siendo medidas temporales y proporcionadas al riesgo existente.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: Evalúa la compatibilidad de las restricciones de circulación durante una manifestación con el derecho a la libertad de circulación.
+Respuesta Correcta: Las restricciones durante manifestaciones buscan equilibrar el derecho a la circulación con el orden público, permitiendo limitaciones temporales y proporcionadas para garantizar la seguridad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: Discute cómo el derecho a salir de España está condicionado por las leyes y las decisiones de otros países.
+Respuesta Correcta: El derecho a salir de España puede restringirse por leyes nacionales en situaciones excepcionales, y por la política de entrada de otros países, que pueden imponer restricciones por diversas razones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: ¿En qué situaciones específicas puede ser suspendido el derecho a la libertad de circulación y residencia, según el ordenamiento jurídico español?
+Respuesta Correcta: Este derecho puede suspenderse total o parcialmente en casos excepcionales como el estado de alarma, excepción o sitio, para salvaguardar el interés general y la seguridad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: Explora cómo se protege el derecho a entrar y salir de España ante posibles discriminaciones ideológicas.
+Respuesta Correcta: El derecho se protege prohibiendo discriminaciones basadas en ideología, ya que tal prohibición vulneraría derechos fundamentales, garantizando así la libre circulación sin prejuicios políticos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 10: El derecho a la libertad de circulación y residencia 1. La libertad de circulación y residencia en el ordenamiento español El derecho a la libertad de circulación, recogido en el artículo 19 de la Constitución Española (CE), es una de las libertades más importantes de las que gozan los ciudadanos españoles. Este derecho ampara la facultad de elegir libremente el lugar de residencia y de desplazarse por el territorio nacional sin necesidad de pedir permiso a ninguna autoridad. El artículo 139 de la CE refuerza esta protección, al prohibir a cualquier autoridad (como gobiernos autonómicos o ayuntamientos) que adopte medidas que obstaculicen el libre desplazamiento de los ciudadanos. Este derecho se extiende también a los nacionales de la Unión Europea, que tienen la facultad de entrar y circular libremente por España sin pasaporte ni autorización administrativa.
+
+Pregunta: ¿Cómo se justifica la limitación del derecho a la libre circulación en situaciones de crisis según la Constitución Española?
+Respuesta Correcta: La Constitución permite limitar la libre circulación durante estados de alarma, excepción y sitio para gestionar crisis, como se demostró durante el COVID-19. Estas medidas son necesarias para proteger la salud y el orden público.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: Analiza si la imposición de penas privativas de libertad afecta el derecho a la libre circulación.
+Respuesta Correcta: Las penas privativas de libertad, como la cárcel, limitan directamente la circulación, ya que el condenado no puede moverse libremente. Esta restricción es legítima y proporcional al cumplimiento de una sentencia judicial.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: ¿En qué situaciones se puede limitar legítimamente el derecho de entrada y salida de España?
+Respuesta Correcta: Este derecho puede limitarse por ley y situaciones internacionales, como restricciones de viaje por pandemias o políticas de otros países, siempre que no haya discriminación ideológica o política.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: Evalúa la controversia sobre los traslados forzosos de funcionarios en relación con la libertad de residencia.
+Respuesta Correcta: Aunque los traslados forzosos parecen limitar la residencia, se consideran legítimos porque los funcionarios, al aceptar su puesto, consienten implícitamente esta posibilidad, según la jurisprudencia.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: ¿Por qué es importante que las autoridades no obstaculicen la libre circulación dentro del territorio nacional?
+Respuesta Correcta: La Constitución, en su artículo 139, impide a las autoridades limitar la circulación para garantizar la unidad del mercado y el ejercicio de derechos fundamentales, promoviendo la igualdad y libertad de los ciudadanos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: Discute la aplicabilidad del derecho a la libre circulación a los ciudadanos de la Unión Europea en España.
+Respuesta Correcta: Los ciudadanos de la UE tienen derecho a circular por España sin pasaporte ni autorización, reflejando el principio de libre circulación dentro de la UE y la no discriminación entre nacionales de distintos países miembros.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 11: La libertad de circulación y residencia 1. El derecho a la libertad de circulación y residencia
+
+Pregunta: ¿Cuál es la importancia de la prohibición de la censura previa en la libertad de expresión en sentido estricto?
+Respuesta Correcta: La prohibición de la censura previa es fundamental para garantizar que el Estado no pueda intervenir antes de la difusión de contenidos. Solo el poder judicial puede limitar la expresión posteriomente si se vulneran otros derechos, como el honor.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: Analiza cómo se conjugan la libertad de expresión y el derecho al honor según la Constitución Española.
+Respuesta Correcta: La libertad de expresión permite difundir ideas y opiniones, pero no debe vulnerar el derecho al honor de terceros. El equilibrio se logra al prohibir injurias y calumnias, protegiendo así ambos derechos fundamentales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: ¿En qué casos podría limitarse la libertad de cátedra en un centro educativo privado?
+Respuesta Correcta: En un centro privado con una ideología determinada, la libertad de cátedra podría restringirse para alinearse con dicha ideología, siempre que no se vulnere la esencia del derecho a expresar ideas en el ámbito docente.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: Discute la relación entre la libertad de creación y el derecho de propiedad intelectual.
+Respuesta Correcta: La libertad de creación protege la capacidad de inventar, mientras que la propiedad intelectual protege los derechos sobre la creación. Ambas son complementarias, pero las creaciones están sujetas a limitaciones legales específicas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: ¿Cómo se manifiesta la libertad de expresión en las redes sociales según el artículo 20 de la Constitución Española?
+Respuesta Correcta: La libertad de expresión se manifiesta en redes sociales como Twitter, permitiendo la difusión de ideas y opiniones. Al igual que otros medios, está sujeta a límites cuando vulnera derechos como el honor o incita al odio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: Explora los límites de la libertad de expresión en el marco de la creación artística.
+Respuesta Correcta: La creación artística goza de libertad, pero está limitada por leyes que protegen contra el plagio y regulan contenidos obscenos o incitaciones al odio. Se debe equilibrar el derecho a crear con el respeto a otras normativas vigentes.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 12: La libertad de expresión y sus manifestaciones 1. Concepto y alcance de la libertad de expresión El derecho a la libertad de expresión, consagrado en el artículo 20 de la Constitución Española, es uno de los pilares del Estado democrático. Se define, de manera simple, como el derecho fundamental a que las opiniones individuales sean respetadas, así como a investigar, recibir y difundir cualquier tipo de información a través de cualquier medio. Este derecho no es absoluto, y una de sus principales limitaciones es que no ampara la divulgación de amenazas de muerte o el ejercicio de la injuria, ya que estas acciones lesionan derechos fundamentales de terceros, como el derecho al honor y a la vida. Es un derecho en constante evolución que ampara tanto a personas físicas como a personas jurídicas. Una empresa, por ejemplo, es titular de este derecho y puede difundir libremente ideas y opiniones mediante comunicados. 2. Manifestaciones de la libertad de expresión
+
+Pregunta: ¿En qué se diferencia la libertad de información de la libertad de expresión y por qué es importante esta distinción?
+Respuesta Correcta: La libertad de información, aunque parte de la libertad de expresión, tiene autonomía al centrarse en la emisión y recepción de información veraz sin censura previa. Es crucial porque permite a los ciudadanos, no solo a periodistas, estar informados y participar en el debate público.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: ¿Por qué el acceso a ciertos eventos por parte de periodistas es fundamental para el ejercicio de la libertad de información?
+Respuesta Correcta: El acceso a eventos como ruedas de prensa permite a los periodistas obtener información de primera mano, asegurando la veracidad y facilitando que el público reciba información precisa, fortaleciendo así la transparencia y el control democrático.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: Analiza el papel del Tribunal Constitucional en la protección de la libertad de información frente a otros derechos fundamentales.
+Respuesta Correcta: El Tribunal Constitucional equilibra la libertad de información con derechos como la intimidad, el honor y la imagen, determinando que la información obtenida ilícitamente o que atente gravemente contra estos derechos no está protegida, asegurando así un balance justo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: ¿Cómo se articula la responsabilidad de los medios al diferenciar entre hechos y opiniones en las noticias?
+Respuesta Correcta: Los medios deben distinguir entre hechos y opiniones, ya que su responsabilidad legal varía. En la transmisión de hechos falsos, el entrevistado es responsable, mientras que en opiniones injuriosas emitidas por el medio, este puede ser demandado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: Discute la importancia de la cláusula de conciencia y el secreto profesional en el ejercicio del periodismo.
+Respuesta Correcta: La cláusula de conciencia protege a los periodistas de cambios editoriales radicales, permitiéndoles mantener su ética profesional, mientras que el secreto profesional asegura la confidencialidad de sus fuentes, aunque su falta de regulación precisa genera conflictos jurídicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: ¿Por qué es fundamental la prohibición de censura previa en el contexto de la libertad de expresión?
+Respuesta Correcta: La prohibición de censura previa es esencial para evitar el control estatal sobre el contenido antes de su difusión, garantizando así un flujo libre de información y permitiendo el ejercicio pleno del derecho a la libertad de expresión, incluso en situaciones de alarma.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 13: Libertad de información 1. La libertad de información
+
+Pregunta: ¿Cómo se relaciona el derecho a la tutela judicial efectiva con la prohibición de la autotutela?
+Respuesta Correcta: La tutela judicial efectiva impone el deber de resolver conflictos jurídicos a través de los tribunales, vedando a los ciudadanos la autotutela. Esto asegura que la resolución se ajuste al ordenamiento jurídico, garantizando imparcialidad y legalidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: Analiza la importancia de que el proceso judicial sea rápido y sin dilaciones indebidas en el contexto del derecho a la tutela judicial efectiva.
+Respuesta Correcta: La rapidez y la ausencia de dilaciones indebidas son esenciales para que la tutela judicial sea efectiva, evitando que el acceso a la justicia se convierta en un obstáculo por el tiempo o el coste, garantizando así el derecho a una protección judicial real.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: ¿En qué medida el derecho a un juez predeterminado por la ley contribuye a la tutela judicial efectiva?
+Respuesta Correcta: Un juez predeterminado por ley asegura imparcialidad y evita manipulaciones en la designación judicial, garantizando que la resolución del proceso sea justa y conforme a derecho, contribuyendo así a una tutela judicial efectiva.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: Explora cómo el derecho a ser asistido por un letrado complementa la tutela judicial efectiva.
+Respuesta Correcta: El derecho a asistencia letrada, garantizando defensa adecuada, es crucial para asegurar que los derechos e intereses del ciudadano sean efectivamente representados y protegidos durante el proceso judicial.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: Discute la relevancia del derecho a un proceso con garantías en el marco del derecho a la tutela judicial efectiva.
+Respuesta Correcta: Un proceso con garantías asegura que las partes puedan presentar pruebas y alegaciones, garantizando un juicio justo y equitativo. Esto se traduce en una tutela judicial que protege efectivamente los derechos del individuo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: Analiza la interacción entre el derecho a no declarar contra uno mismo y la tutela judicial efectiva.
+Respuesta Correcta: Este derecho protege al acusado de autoincriminarse, asegurando que la carga de la prueba recaiga en la acusación, lo cual es fundamental para garantizar un juicio justo y equitativo, elementos clave de la tutela judicial efectiva.
+Manual: Manual Constitucional 1
+Bloque: Bloque 4
+Tema: Tema 15: El Derecho Fundamental a la Tutela Judicial Efectiva 1. El Derecho a la Actividad Jurisdiccional y la Prohibición de la Autotutela
+
+Pregunta: ¿Por qué el derecho de asociación tiene un enfoque positivo y uno negativo en el contexto constitucional español?
+Respuesta Correcta: El enfoque positivo garantiza la libre asociación, mientras que el negativo asegura la libertad de no asociarse, protegiendo así la autonomía individual contra la imposición de pertenecer a cualquier grupo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: ¿Qué distingue a las asociaciones no lucrativas de las sociedades mercantiles en el marco del Derecho de Asociación?
+Respuesta Correcta: Las asociaciones no lucrativas están protegidas por el Derecho de Asociación al no buscar ganancias, a diferencia de las sociedades mercantiles que se rigen por la libertad de empresa y el derecho a la propiedad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: Analiza la importancia del registro de asociaciones para su funcionamiento efectivo frente a terceros.
+Respuesta Correcta: El registro de asociaciones es esencial para que estas existan plenamente y puedan contratar con terceros, asegurando que los datos presentados estén en orden sin evaluar la licitud de la asociación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: ¿Qué criterios definen a una asociación como prohibida o ilegal según la Constitución Española?
+Respuesta Correcta: Las asociaciones prohibidas son secretas o paramilitares, mientras que las ilegales buscan cometer delitos o incitar al odio, siendo la finalidad del grupo en su conjunto la clave para su clasificación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: Discute el papel del carácter democrático en la organización interna de las asociaciones.
+Respuesta Correcta: El carácter democrático es obligatorio para asegurar que los miembros puedan impugnar decisiones contrarias a la ley o estatutos, promoviendo la transparencia y participación interna.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: ¿Por qué existen límites al derecho de asociación para ciertos grupos como jueces o militares?
+Respuesta Correcta: Estos límites protegen la imparcialidad y neutralidad de funciones públicas críticas, evitando conflictos de interés y asegurando que los deberes institucionales no se vean comprometidos por afiliaciones externas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 1: El derecho de asociación 1. Concepto y ámbito de aplicación
+
+Pregunta: ¿Por qué se considera que la democracia interna es un elemento esencial en la estructura de los partidos políticos según la Constitución Española?
+Respuesta Correcta: La democracia interna es esencial porque garantiza que los partidos políticos reflejen el pluralismo político y la voluntad popular, permitiendo a los afiliados elegir y ser elegidos para cargos, lo cual es un pilar del sistema democrático según el artículo 6 de la Constitución.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: ¿Qué diferencias existen entre la constitución de una asociación y la de un partido político en el contexto del ordenamiento jurídico español?
+Respuesta Correcta: A diferencia de las asociaciones, los partidos políticos deben inscribirse en el registro de partidos políticos para ser válidos, y sus fundadores deben cumplir requisitos específicos de ciudadanía, mayoría de edad y no tener condenas por ciertos delitos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: Analice los criterios para la ilegalización de partidos políticos y explique por qué son tan estrictos.
+Respuesta Correcta: Los criterios son estrictos para proteger la libertad de expresión y el pluralismo político; un partido solo puede ser ilegalizado si promueve violencia, atenta contra los principios democráticos o apoya al terrorismo, asegurando que ideas contrarias al sistema no sean suprimidas sin causa grave.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: Explique por qué ciertos profesionales, como jueces o militares, tienen limitado su derecho de afiliación a partidos políticos.
+Respuesta Correcta: La limitación busca asegurar la imparcialidad y neutralidad de quienes desempeñan funciones esenciales del Estado, evitando conflictos de interés y garantizando que sus decisiones no estén influenciadas por afiliaciones políticas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: Discuta la importancia de los estatutos dentro de los partidos políticos y cómo contribuyen a la democracia interna.
+Respuesta Correcta: Los estatutos son fundamentales porque establecen derechos y deberes de los afiliados, regulando su participación y asegurando que las elecciones y decisiones internas respeten principios democráticos, contribuyendo así a la transparencia y el orden interno del partido.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: ¿Qué papel juega la ley en regular la financiación de los partidos políticos y por qué es crucial?
+Respuesta Correcta: La ley regula la financiación para asegurar transparencia y equidad, evitando influencias indebidas y garantizando que el acceso a ayudas y subvenciones públicas no comprometa la integridad del proceso democrático.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 2: Los partidos políticos 1. Noción constitucional y carácter jurídico
+
+Pregunta: Analice cómo la reforma de 1992 afectó a los derechos de participación política de los ciudadanos de la Unión Europea en España.
+Respuesta Correcta: La reforma de 1992 permitió a los ciudadanos de la UE ejercer tanto el sufragio activo como pasivo en las elecciones municipales españolas, ampliando así su participación política.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Explique la diferencia entre participación política activa directa e indirecta según la Constitución Española.
+Respuesta Correcta: La participación activa directa se ejerce mediante referéndum, mientras que la indirecta se realiza a través de representantes elegidos por sufragio universal, libre, igual, directo y secreto.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Evalúe la importancia del mandato libre en la relación entre representantes y representados en el sistema político español.
+Respuesta Correcta: El mandato libre, prohibiendo el mandato imperativo, asegura que los representantes actúen según su criterio, presumiendo que su voluntad refleja la de los representados.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Discuta la igualdad de acceso a los cargos públicos como parte de la participación política pasiva según la Constitución Española.
+Respuesta Correcta: El acceso a cargos públicos debe ser en condiciones de igualdad, sin discriminación, lo que garantiza que las leyes no establezcan requisitos discriminatorios.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Analice el alcance del derecho de petición en relación con las expectativas de los ciudadanos frente a los poderes públicos.
+Respuesta Correcta: El derecho de petición permite solicitar acciones a los poderes públicos, pero no garantiza la satisfacción de la solicitud, limitándose a la formalidad de la petición.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Valore el impacto del sufragio universal, libre, igual, directo y secreto en la legitimidad de los representantes en España.
+Respuesta Correcta: Este tipo de sufragio asegura que los representantes sean elegidos de manera justa y representativa, legitimando sus decisiones en nombre de los ciudadanos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 3: El derecho de participación política
+
+Pregunta: Analiza la protección reforzada del derecho a la huelga en el contexto de la Constitución Española.
+Respuesta Correcta: El derecho a la huelga es un derecho fundamental con protección reforzada, pero no es absoluto. Está sujeto a limitaciones por necesidades públicas y el mantenimiento de servicios esenciales, regulado por el Decreto Ley 17/77.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: Explica cómo los derechos impropios pueden ser invocados por los trabajadores en el ámbito laboral.
+Respuesta Correcta: Los derechos impropios, aunque no directamente laborales, se aplican en contextos laborales cuando derechos fundamentales se ven vulnerados, como el derecho a la igualdad o a la libertad ideológica, proporcionando protección adicional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: Discute la importancia del derecho a la libertad sindical y sus limitaciones en el ámbito laboral.
+Respuesta Correcta: La libertad sindical es crucial para la defensa de intereses laborales, permitiendo formar y unirse a sindicatos. Sin embargo, tiene limitaciones para militares, jueces y empresarios, balanceando otros valores constitucionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: Evalúa la función de los convenios colectivos en el sistema de derechos laborales colectivos.
+Respuesta Correcta: Los convenios colectivos, producto de la negociación entre sindicatos y empresarios, establecen condiciones laborales con fuerza vinculante, reflejando acuerdos cruciales en la regulación del trabajo colectivo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: Analiza las implicaciones del derecho al descanso como un principio rector según el artículo 40.2 CE.
+Respuesta Correcta: Aunque el derecho al descanso no es un derecho fundamental, es esencial para el bienestar laboral, reflejando la intención de los poderes públicos de regular la jornada laboral y asegurar vacaciones retribuidas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: Examina el rol de los poderes públicos en la protección de los derechos laborales según la Constitución Española.
+Respuesta Correcta: Los poderes públicos deben garantizar el régimen de seguridad social, el pleno empleo y condiciones laborales justas, alineando políticas con principios rectores que, aunque no fundamentales, son esenciales para el bienestar laboral.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 4: Los derechos laborales
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el derecho a la educación y la libertad de enseñanza según el artículo 27 de la Constitución Española?
+Respuesta Correcta: El derecho a la educación es prestacional y su titular son los niños y jóvenes, mientras que la libertad de enseñanza, cuyo titular son los padres o tutores, permite elegir el tipo de educación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: ¿Cómo asegura el Estado español que el derecho a la educación no sea una mera declaración de intenciones?
+Respuesta Correcta: El Estado garantiza puestos escolares gratuitos para niños de 6 a 18 años y establece un sistema de inspección educativa y ayudas a escuelas públicas y concertadas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: ¿Qué implicaciones legales tiene la no escolarización de un menor en España?
+Respuesta Correcta: No escolarizar a un menor puede ser considerado incumplimiento de deberes legales de patria potestad, tipificado como delito en el Código Penal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: Explique las diferencias de financiación entre escuelas públicas, concertadas y privadas en España.
+Respuesta Correcta: Las escuelas públicas reciben financiación pública completa, las concertadas reciben subvenciones pero son de titularidad privada, y las privadas no reciben financiación pública.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: Según la LODE, ¿qué requisitos deben cumplir los promotores para crear un centro docente en España?
+Respuesta Correcta: La LODE establece que los promotores de un centro docente deben poseer la nacionalidad española para poder crearlo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: Analice cómo la Ley Orgánica 4/2000 garantiza el derecho a la educación para menores extranjeros en España.
+Respuesta Correcta: La Ley Orgánica 4/2000 asegura que menores extranjeros no necesitan autorización de estancia o residencia para acceder a la educación básica obligatoria y gratuita.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 5: El derecho a la educación
+
+Pregunta: ¿Cómo se manifiesta el derecho a la libertad de enseñanza en los centros públicos frente a los privados y concertados?
+Respuesta Correcta: En los centros públicos, la pluralidad ideológica es obligatoria, permitiendo elegir entre religión confesional o no. En privados, el derecho se ejerce al elegir el centro según su ideario.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿Qué limitaciones existen para la creación de centros docentes según el artículo 27 de la Constitución?
+Respuesta Correcta: La creación de centros debe respetar principios constitucionales y no puede enseñar ideologías científicamente falsas, garantizando una enseñanza veraz a los alumnos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿En qué consiste la confrontación entre la libertad de creación y la libertad de cátedra?
+Respuesta Correcta: La libertad de creación permite un ideario específico, pero no puede obligar a profesores a enseñar de una manera específica, aunque deben respetar el ideario del centro.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿Cómo se regula la enseñanza en lengua oficial en comunidades autónomas con idiomas cooficiales?
+Respuesta Correcta: Las comunidades deben garantizar al menos un 25% de enseñanza en castellano, permitiendo a los padres elegir la lengua de la educación de sus hijos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿Qué comprende la autonomía universitaria según el artículo 27?
+Respuesta Correcta: Incluye la libertad de cátedra, estudio e investigación, asegurando que el conocimiento sea universal y libre de injerencias políticas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿Cuál es el papel de los poderes públicos en la inspección de centros educativos con ideario propio?
+Respuesta Correcta: Los poderes públicos pueden inspeccionar para asegurar el cumplimiento de las leyes y el respeto a principios constitucionales en los centros con ideario propio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 5
+Tema: Tema 6: Libertad de enseñanza
+
+Pregunta: ¿Por qué el artículo 30 de la Constitución Española limita el deber de defender a España exclusivamente a los ciudadanos españoles?
+Respuesta Correcta: El artículo 30 impone el deber de defender a España únicamente a los ciudadanos españoles, ya que obligar a extranjeros a hacerlo sería inconstitucional. Este mandato es exclusivo para asegurar que solo quienes tienen la nacionalidad española asuman la defensa del país.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: ¿Cómo se articula el derecho a la objeción de conciencia en el contexto del deber de defender a España?
+Respuesta Correcta: La objeción de conciencia permite a los individuos eximirse del servicio militar por motivos ideológicos o religiosos. Este derecho no es absoluto, y aunque no es fundamental, tiene una protección similar, permitiendo recurrir al Tribunal Constitucional si se vulnera.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: Analiza cómo el principio de igualdad se aplica en el sistema tributario según el artículo 31 de la Constitución.
+Respuesta Correcta: El principio de igualdad en el sistema tributario exige que personas con similar capacidad económica paguen impuestos de manera similar. Esto significa que individuos con ingresos equivalentes deben contribuir en proporciones similares, garantizando equidad fiscal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: Discute la importancia del carácter no confiscatorio del sistema tributario según la Constitución Española.
+Respuesta Correcta: El carácter no confiscatorio asegura que los impuestos no eliminen la riqueza de los contribuyentes. El Tribunal Constitucional ha afirmado que un impuesto es confiscatorio si priva de manera desproporcionada de rentas y propiedades, protegiendo así los derechos económicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: ¿Qué rol juega el principio de progresividad en el sistema tributario español?
+Respuesta Correcta: El principio de progresividad implica que quienes tienen mayor capacidad económica deben pagar más impuestos que quienes tienen menos. Esto busca una distribución equitativa de la carga fiscal, asegurando que los más ricos contribuyan proporcionalmente más.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: Evalúa la relación entre los deberes constitucionales y el sostenimiento de los derechos y servicios públicos en España.
+Respuesta Correcta: Los deberes constitucionales, como la defensa de España y el pago de impuestos, son fundamentales para sostener los derechos y servicios públicos. Estos deberes aseguran los recursos necesarios para el funcionamiento de la sociedad democrática y la prestación de servicios.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 1: Deberes constitucionales de los españoles La Constitución Española establece una serie de deberes u obligaciones que los ciudadanos deben cumplir para el sostenimiento del interés general de la comunidad. A diferencia de los derechos, que protegen los intereses individuales, los deberes son exigencias impuestas por el Estado para el beneficio de la sociedad en su conjunto. Entre los más importantes destacan los deberes militares y los deberes en materia fiscal. 1. Deberes militares
+
+Pregunta: ¿Cómo se interpreta el principio de igualdad jurídica en el contexto del matrimonio según el artículo 32.1 de la Constitución?
+Respuesta Correcta: El principio de igualdad jurídica en el matrimonio implica que el hombre y la mujer tienen los mismos derechos y deberes, eliminando discriminaciones previas como la suspensión laboral femenina tras el matrimonio.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: ¿De qué manera el artículo 32.2 de la Constitución delega en la ley la regulación del matrimonio?
+Respuesta Correcta: El artículo 32.2 delega en la ley la regulación de formas, edad y capacidad para contraer matrimonio, así como los derechos, deberes y causas de disolución, actuando como reserva material a la ley.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: ¿Cómo se justifica la legalización del matrimonio entre personas del mismo sexo en España pese a la redacción del artículo 32?
+Respuesta Correcta: La legalización se justifica mediante el artículo 44 del Código Civil, que redefine cónyuge como 'una persona casada con otra' sin importar el sexo, ampliando la interpretación del artículo 32.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: Analiza la importancia histórica y universal del matrimonio según la Constitución y su relación con la dignidad humana.
+Respuesta Correcta: El matrimonio es importante por su carácter histórico y universal, vinculado a la dignidad humana y reflejado en derechos humanos, siendo un derecho individual y opcional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: Explica la diferencia jurídica entre matrimonio y pareja de hecho según el Tribunal Constitucional.
+Respuesta Correcta: El Tribunal Constitucional diferencia matrimonio y pareja de hecho, siendo el primero garantizado constitucionalmente y el segundo regido por autonomía privada y legislación autonómica.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: ¿Qué papel juega el Estado en la determinación de las formas de matrimonio según el artículo 149 de la Constitución?
+Respuesta Correcta: El artículo 149 otorga al Estado competencia exclusiva para determinar las formas de matrimonio, centralizando esta regulación y asegurando uniformidad en su reconocimiento.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 2: El matrimonio El matrimonio es una institución con una larga tradición histórica, pero su regulación sorprende al incluirse en el catálogo de derechos constitucionales. Aunque tiene protección constitucional al estar en la sección segunda del capítulo segundo de la Constitución, sus garantías son menos intensas que las de los derechos fundamentales. Esto se debe a que no cuenta con una protección preferente en los tribunales ordinarios ni está amparado por el recurso de amparo ante el Tribunal Constitucional, por lo que podría considerarse un "derecho fundamental, pero no mucho".
+
+Pregunta: ¿Cómo se concibe el derecho de propiedad en la Constitución española y cuál es su función social?
+Respuesta Correcta: La Constitución española concibe el derecho de propiedad como un derecho con una función social que lo delimita y regula, transformándolo de un derecho individual a una institución jurídica al servicio de la comunidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: Analiza la diferencia entre la función social de la propiedad y la expropiación forzosa.
+Respuesta Correcta: La función social de la propiedad busca un uso responsable de esta en beneficio de la comunidad, mientras que la expropiación forzosa implica la privación del bien por causa de utilidad pública o interés social, con indemnización al propietario.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: ¿Qué papel juega la jurisprudencia del Tribunal Constitucional en la interpretación del derecho de propiedad?
+Respuesta Correcta: La jurisprudencia del Tribunal Constitucional ha reconocido la doble vertiente del derecho de propiedad: individual, relacionada con el disfrute y disposición del bien, e institucional, vinculada a su función social.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: Explica cómo la función social de la propiedad puede influir en la política de vivienda, proporcionando un ejemplo.
+Respuesta Correcta: La función social puede influir en la política de vivienda a través de medidas como la creación de viviendas de protección oficial, que buscan limitar la especulación inmobiliaria y garantizar un uso efectivo del suelo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: ¿Cuáles son los requisitos legales para que se pueda llevar a cabo una expropiación forzosa según la Constitución?
+Respuesta Correcta: Los requisitos legales incluyen la existencia de una causa justificada de utilidad pública o interés social, el pago de una indemnización justa (justiprecio) y el cumplimiento de las leyes, como la Ley de Expropiación Forzosa de 1954.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: En el caso de Juan, el agricultor, ¿por qué no puede negarse a la expropiación de su terreno?
+Respuesta Correcta: Juan no puede negarse a la expropiación si se cumplen los requisitos legales de utilidad pública, indemnización justa y conformidad con la ley, ya que la expropiación es un límite al derecho de propiedad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 3: El derecho a la propiedad y a la herencia El derecho a la propiedad privada y a la herencia son reconocidos como derechos fundamentales en el artículo 33.1 de la Constitución Española. Sin embargo, no gozan del máximo nivel de protección constitucional, ya que no se encuentran en la sección primera del capítulo segundo. Esto significa que no pueden ser objeto de recurso de amparo ante el Tribunal Constitucional ni cuentan con una protección preferente en los tribunales ordinarios.
+
+Pregunta: ¿Por qué la libertad de empresa, aunque es un derecho fundamental, no goza de la máxima protección en la Constitución Española?
+Respuesta Correcta: La libertad de empresa se encuentra en la sección segunda del capítulo segundo de la Constitución, lo que implica que no puede ser objeto de recurso de amparo ante el Tribunal Constitucional, a diferencia de otros derechos fundamentales con máxima protección.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: ¿Cómo puede el Estado limitar la libertad de empresa en casos de emergencia, como durante la pandemia de COVID-19?
+Respuesta Correcta: El Estado puede imponer restricciones como medidas de aforo y horario para proteger la salud pública, justificando la limitación del derecho en su función social, sin que ello suponga una vulneración ilegítima del derecho a la libertad de empresa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: Analiza cómo la función social puede justificar la intervención estatal en la libertad de empresa.
+Respuesta Correcta: La función social del derecho permite al Estado intervenir cuando la iniciativa privada va contra el interés general, como en el caso de monopolios, garantizando la libre competencia y protegiendo derechos y valores constitucionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: Explica la relación entre la libertad de empresa y otros derechos fundamentales según la Constitución Española.
+Respuesta Correcta: La libertad de empresa está relacionada con la dignidad humana, el derecho a la propiedad privada y la libertad de profesión, mostrando una interconexión con derechos que permiten elegir cómo ganarse la vida y gestionar bienes.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: Evalúa el impacto de los tratados de la Unión Europea en la libertad de empresa en España.
+Respuesta Correcta: Los tratados de la UE exigen el respeto a las libertades de circulación de personas, bienes, capitales y servicios, influyendo en la libertad de empresa al garantizar la competencia y la integración en el mercado único europeo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: ¿En qué circunstancias puede el Estado crear empresas públicas y cómo se justifica esta acción?
+Respuesta Correcta: El artículo 128.2 CE permite al Estado crear empresas públicas como RTVE o Loterías del Estado cuando es necesario gestionar recursos o servicios esenciales para el interés general, justificando la intervención en sectores estratégicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 4: La libertad de empresa
+
+Pregunta: ¿Por qué los derechos sociales, aunque incluidos en el título de los derechos fundamentales, tienen una protección jurídica limitada?
+Respuesta Correcta: Los derechos sociales son considerados principios rectores, lo que significa que su efectividad depende de leyes que los desarrollen. No tienen aplicabilidad directa ni protección a través del recurso de amparo ante el Tribunal Constitucional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Analiza cómo el derecho a la educación (art. 27.1) se diferencia en protección respecto a otros derechos sociales como el derecho a la vivienda digna (art. 47).
+Respuesta Correcta: El derecho a la educación está en la sección de derechos fundamentales, gozando de máxima protección. En contraste, el derecho a la vivienda es un principio rector, cuya efectividad depende de la promoción por parte de los poderes públicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Explica cómo los derechos sociales pueden adquirir una protección reforzada en relación con otros derechos fundamentales.
+Respuesta Correcta: Los derechos sociales pueden tener protección reforzada si se vinculan con derechos fundamentales, como el derecho a la integridad física relacionado con el medio ambiente adecuado, si su violación pone en peligro la salud.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Discute el papel de los poderes públicos en garantizar los derechos sociales y cómo se refleja en su aplicabilidad.
+Respuesta Correcta: Los poderes públicos tienen el deber de promover y crear condiciones para los derechos sociales, pero su falta de aplicabilidad directa limita la obligación del Estado a acciones concretas, dependiendo de leyes específicas para su desarrollo.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Comparar la protección del derecho al trabajo (art. 35.1) con la protección del derecho a la negociación colectiva (art. 37.1).
+Respuesta Correcta: Ambos derechos tienen protección media, vinculando a los poderes públicos y sujetos al principio de reserva de ley ordinaria. Sin embargo, el derecho al trabajo es más amplio y fundamental que la negociación colectiva, que es un aspecto específico del ámbito laboral.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: ¿Por qué el derecho a una vivienda digna, aunque garantizado por la Constitución, no asegura que todos los ciudadanos tengan una vivienda?
+Respuesta Correcta: El derecho a una vivienda digna es un principio rector, lo que significa que los poderes públicos deben promover condiciones favorables, pero no es un derecho subjetivo con cumplimiento inmediato y directo por parte del Estado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 6
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: ¿Por qué es esencial que la Constitución Española contemple dos procedimientos distintos de reforma, ordinario y agravado?
+Respuesta Correcta: Es esencial porque permite adaptar la Constitución a cambios necesarios sin perder su identidad, garantizando rigidez en aspectos fundamentales y flexibilidad en otros menos críticos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Analiza la razón por la cual la reforma constitucional no puede iniciarse en tiempos de guerra o durante un estado de alarma, sitio o excepción según el artículo 169.
+Respuesta Correcta: La prohibición busca asegurar que las reformas se realicen en un contexto de estabilidad y reflexión, evitando decisiones precipitadas bajo situaciones de presión o emergencia.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Discute la importancia de que los títulos preliminar, primero (capítulo segundo, sección primera) y segundo estén sujetos al procedimiento de reforma agravado.
+Respuesta Correcta: Estos títulos contienen los principios fundamentales del Estado y los derechos básicos, por lo que requieren un procedimiento riguroso para preservar su esencia y estabilidad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Evalúa la efectividad del requisito de referéndum obligatorio tras la aprobación de una reforma total por las nuevas Cortes.
+Respuesta Correcta: El referéndum refuerza la legitimidad democrática de la reforma, asegurando que la ciudadanía apruebe cambios significativos en la estructura fundamental del Estado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Examina el papel de una comisión paritaria en el procedimiento ordinario cuando no hay acuerdo entre el Congreso y el Senado.
+Respuesta Correcta: La comisión paritaria busca alcanzar un consenso entre ambas cámaras, facilitando un proceso de negociación que refleje un acuerdo más amplio y legitimado.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Reflexiona sobre la exclusión de la iniciativa popular en la reforma constitucional según el contenido del tema.
+Respuesta Correcta: La exclusión protege la Constitución de cambios impulsivos o populistas, asegurando que la iniciativa provenga de instituciones con responsabilidad legislativa formal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 1: La reforma de la Constitución de 1978
+
+Pregunta: Analiza cómo el Estado de Alarma puede afectar los derechos fundamentales y qué mecanismos existen para evitar abusos.
+Respuesta Correcta: El Estado de Alarma permite limitar derechos como la circulación de personas y vehículos. Para evitar abusos, su duración inicial es de solo 15 días y requiere la autorización del Congreso para prórrogas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: Discute la importancia de la prohibición de disolución del Congreso durante la vigencia de un estado de excepción.
+Respuesta Correcta: La prohibición de disolución del Congreso asegura el control democrático y legislativo sobre las medidas excepcionales, evitando que el Ejecutivo abuse de su poder aumentado durante estas situaciones.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: Compara el alcance de las limitaciones de derechos entre el Estado de Excepción y el Estado de Sitio.
+Respuesta Correcta: El Estado de Excepción suspende derechos como la inviolabilidad del domicilio y la libertad de expresión, mientras que el Estado de Sitio implica una militarización, afectando más gravemente la estructura del poder público.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: Evalúa la necesidad de la autorización del Congreso para declarar un Estado de Excepción y su impacto en el equilibrio de poderes.
+Respuesta Correcta: La necesidad de autorización del Congreso para un Estado de Excepción garantiza la supervisión legislativa, manteniendo el equilibrio de poderes y protegiendo el orden constitucional frente a medidas extraordinarias.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: Reflexiona sobre la justificación de extender el plazo de detención durante un Estado de Excepción.
+Respuesta Correcta: La extensión del plazo de detención a 10 días en un Estado de Excepción se justifica por la necesidad de preservar el orden público, aunque debe equilibrarse con garantías mínimas como la asistencia letrada.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: Analiza la función de la Diputación Permanente durante la vigencia de un estado de crisis y su relevancia constitucional.
+Respuesta Correcta: La Diputación Permanente asume funciones del Congreso si su mandato finaliza durante un estado de crisis, asegurando la continuidad legislativa y el control parlamentario en situaciones excepcionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 2: La suspensión colectiva de los derechos fundamentales
+
+Pregunta: ¿Por qué es fundamental la rigidez constitucional para la protección de los derechos fundamentales?
+Respuesta Correcta: La rigidez constitucional es crucial porque impide que normas inferiores modifiquen o vacíen de contenido los derechos fundamentales, asegurando su permanencia y efectividad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: Analiza la importancia de la aplicación directa de los derechos fundamentales en el sistema jurídico español.
+Respuesta Correcta: La aplicación directa permite que los derechos fundamentales sean exigibles sin necesidad de desarrollo legislativo, vinculando a todos los poderes públicos y garantizando su efectividad inmediata.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: Explica cómo la reserva de ley protege los derechos fundamentales frente a regulaciones inadecuadas.
+Respuesta Correcta: La reserva de ley asegura que el desarrollo de derechos fundamentales sea realizado por ley orgánica, evitando que otros órganos, como el Gobierno, los regulen o restrinjan arbitrariamente.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: ¿Qué papel juega el respeto al contenido esencial en la legislación sobre derechos fundamentales?
+Respuesta Correcta: El respeto al contenido esencial prohíbe que la legislación vacíe de contenido los derechos fundamentales, protegiendo sus rasgos típicos y los intereses vinculados por la Constitución.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: Evalúa la eficacia del recurso de amparo como garantía jurisdiccional de los derechos fundamentales.
+Respuesta Correcta: El recurso de amparo es una garantía subsidiaria ante el Tribunal Constitucional, proporcionando protección adicional frente a violaciones, aunque depende del agotamiento de otras vías judiciales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: Discute la relevancia del Defensor del Pueblo como garantía institucional en la protección de los derechos fundamentales.
+Respuesta Correcta: El Defensor del Pueblo actúa como inspector y supervisor de la Administración Pública, utilizando su influencia política para velar por los derechos, aunque carece de capacidad sancionadora.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 3: Las garantías de los derechos fundamentales
+
+Pregunta: ¿Por qué es importante que la regulación de los estados de alarma, excepción y sitio se realice mediante una ley orgánica?
+Respuesta Correcta: La importancia radica en que los estados de alarma, excepción y sitio afectan derechos fundamentales, y una ley orgánica, por su naturaleza y requisitos de aprobación, garantiza un mayor consenso y protección jurídica en su regulación.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: Analiza cómo el estado de alarma puede limitar derechos fundamentales sin llegar a suspenderlos.
+Respuesta Correcta: El estado de alarma permite imponer limitaciones como restricciones de circulación, lo cual afecta el ejercicio de derechos, pero no los suspende formalmente, manteniendo así un equilibrio entre seguridad y libertades.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: Examina el rol del Gobierno y del Congreso de los Diputados en la declaración y prórroga del estado de alarma.
+Respuesta Correcta: El Gobierno declara el estado de alarma mediante decreto, y su duración inicial de 15 días puede ser prorrogada con autorización del Congreso, asegurando así control legislativo sobre la extensión de medidas excepcionales.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: Discute las razones por las cuales la Ley Orgánica 4/1981 especifica diferentes supuestos para la declaración del estado de alarma.
+Respuesta Correcta: Especificar supuestos como catástrofes o crisis sanitarias permite una respuesta clara y adaptada a situaciones concretas, garantizando que la adopción de medidas excepcionales sea proporcional y justificada.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: Argumenta si la gestión del estado de alarma durante la pandemia de COVID-19 cumplió con los requisitos establecidos por la Ley Orgánica 4/1981.
+Respuesta Correcta: La declaración cumplió requisitos formales al ser decretada por el Gobierno y prorrogada por el Congreso; sin embargo, el debate surge en torno a la proporcionalidad y adecuación de las medidas adoptadas.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: Evalúa los efectos del estado de alarma sobre los servicios públicos esenciales, con ejemplos de situaciones recientes.
+Respuesta Correcta: El estado de alarma permite intervenir en servicios esenciales, como en la huelga de controladores de 2010, asegurando funcionamiento continuo, lo cual es crucial para mantener el orden público y evitar mayores perjuicios a la población.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 4: La suspensión de los derechos y libertades fundamentales
+
+Pregunta: ¿Por qué los derechos sociales incluidos en el Título I, Capítulo III de la Constitución Española se consideran de protección limitada?
+Respuesta Correcta: Estos derechos se consideran de protección limitada porque son principios rectores cuya efectividad depende de la voluntad y acción de los poderes públicos, y no tienen aplicabilidad directa ni amparo constitucional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Analiza la diferencia entre la protección de los derechos sociales de Grupo 1 y Grupo 2 según la Constitución Española.
+Respuesta Correcta: Los derechos del Grupo 1, como el derecho a la educación, gozan de máxima protección al estar en la sección de derechos fundamentales, mientras que los del Grupo 2, como el derecho al trabajo, tienen menor protección y dependen de leyes ordinarias.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: ¿Cómo pueden los derechos sociales adquirir una protección reforzada en la práctica?
+Respuesta Correcta: Adquieren protección reforzada si se vinculan a derechos fundamentales, por ejemplo, el derecho a un medio ambiente adecuado puede reforzarse si su violación afecta a la integridad física.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Discute la aplicabilidad de los derechos sociales en relación con su protección por los tribunales ordinarios.
+Respuesta Correcta: Los derechos sociales, al no tener aplicabilidad directa, solo pueden ser protegidos a través de tribunales ordinarios, no mediante el recurso de amparo ante el Tribunal Constitucional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Explica por qué el derecho a una vivienda digna no garantiza que todas las personas tengan un hogar.
+Respuesta Correcta: El derecho a una vivienda digna es un principio rector que encomienda a los poderes públicos promover condiciones para su efectividad, pero no obliga al Estado a proporcionar vivienda directamente.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: Evalúa cómo la Constitución Española aborda la protección de la familia y el acceso a la cultura como derechos sociales.
+Respuesta Correcta: La Constitución encomienda a los poderes públicos la protección social, económica y jurídica de la familia y la promoción del acceso a la cultura, reflejando su naturaleza como principios rectores sin aplicación directa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 5: Los derechos sociales en la constitución española
+
+Pregunta: ¿Cuál es la importancia del recurso de inconstitucionalidad para proteger el orden constitucional en España?
+Respuesta Correcta: El recurso de inconstitucionalidad es crucial para garantizar que las normas legales se ajusten a la Constitución, protegiendo así el orden constitucional y asegurando que ninguna ley infrinja los derechos fundamentales o el reparto competencial.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: Analiza la legitimación activa de los sujetos autorizados para interponer un recurso de inconstitucionalidad y su impacto en el control constitucional.
+Respuesta Correcta: La legitimación activa es limitada a ciertos sujetos, reflejando un equilibrio de poderes. Permite a actores clave como el presidente del gobierno, el defensor del pueblo y grupos parlamentarios ejercer control sobre la constitucionalidad de las normas, fortaleciendo la democracia.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: Evalúe la diferencia en los plazos para interponer un recurso de inconstitucionalidad dependiendo del sujeto legitimado.
+Respuesta Correcta: El plazo general es de tres meses, pero se extiende a nueve meses para el presidente del gobierno y órganos ejecutivos autonómicos, lo que refleja la importancia y complejidad de los recursos que pueden afectar la estructura del Estado y la autonomía regional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: Discuta el procedimiento de alegaciones en el recurso de inconstitucionalidad y su importancia para el proceso.
+Respuesta Correcta: El plazo de quince días para alegaciones permite a los órganos competentes defender sus posiciones. Este paso es esencial para asegurar un debate completo y justo, proporcionando al Tribunal Constitucional las perspectivas necesarias para una decisión bien fundamentada.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: Analice cómo el plazo para dictar sentencia en un recurso de inconstitucionalidad influye en la eficacia del sistema de justicia constitucional.
+Respuesta Correcta: El plazo inicial de diez días, ampliable a treinta, equilibra la necesidad de celeridad y la profundidad analítica. Esta rapidez es vital para resolver conflictos constitucionales sin demora, manteniendo la estabilidad y la certidumbre jurídica.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: Explique la competencia de los órganos ejecutivos y asambleas legislativas autonómicas para interponer un recurso de inconstitucionalidad contra normas estatales.
+Respuesta Correcta: Su competencia está limitada a normas estatales que afecten la autonomía regional, permitiendo a las comunidades autónomas proteger sus competencias y garantizar que las leyes estatales no vulneren su autonomía constitucionalmente reconocida.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 6: El recurso de inconstitucionalidad
+
+Pregunta: ¿Por qué es importante que el juez realice un juicio de relevancia antes de interponer una cuestión de inconstitucionalidad?
+Respuesta Correcta: El juicio de relevancia asegura que la norma cuestionada es clave para el caso concreto y que su constitucionalidad afecta directamente al resultado del litigio. Esto evita que se planteen cuestiones de inconstitucionalidad de manera arbitraria o innecesaria.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: Analice el papel del Ministerio Fiscal en el procedimiento de la cuestión de inconstitucionalidad.
+Respuesta Correcta: El Ministerio Fiscal, junto con las partes del proceso, tiene la oportunidad de presentar alegaciones en el turno de audiencia inicial. Su participación garantiza que todas las perspectivas relevantes se consideren antes de que el juez eleve la cuestión al Tribunal Constitucional.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: ¿Qué implicaciones tiene que solo un miembro del Poder Judicial pueda interponer una cuestión de inconstitucionalidad?
+Respuesta Correcta: Esta limitación asegura que la cuestión de inconstitucionalidad se plantea desde una posición de imparcialidad y conocimiento jurídico, dado que los jueces están mejor posicionados para evaluar la aplicabilidad y relevancia constitucional de una norma en un proceso.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: Discuta la importancia del plazo de diez días para dictar sentencia por parte del Tribunal Constitucional.
+Respuesta Correcta: El plazo de diez días fomenta la celeridad en la resolución de cuestiones de inconstitucionalidad, asegurando que no se retrase indebidamente el proceso judicial principal. No obstante, la posibilidad de ampliarlo a treinta días permite flexibilidad cuando la complejidad del caso lo requiere.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: Explique el impacto del proceso de admisión a trámite por parte del Tribunal Constitucional.
+Respuesta Correcta: La admisión a trámite permite al Tribunal Constitucional filtrar las cuestiones de inconstitucionalidad, garantizando que solo aquellas con suficiente fundamento y relevancia constitucional sean consideradas. Esto protege al sistema jurídico de sobrecargas innecesarias.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: ¿Cómo se garantiza el derecho a la defensa en el proceso de la cuestión de inconstitucionalidad?
+Respuesta Correcta: El turno de audiencia inicial asegura que todas las partes, incluyendo el Ministerio Fiscal, puedan exponer sus argumentos y defensas antes de que el juez decida elevar la cuestión al Tribunal Constitucional, lo que refleja el principio de contradicción y defensa procesal.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 7: La cuestión de inconstitucionalidad
+
+Pregunta: ¿Por qué el recurso de amparo es considerado subsidiario o extraordinario?
+Respuesta Correcta: El recurso de amparo es subsidiario porque solo procede después de agotar las vías judiciales ordinarias. Es extraordinario porque protege derechos fundamentales de forma especial, frente a vulneraciones por poderes públicos.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+
+Pregunta: Analiza la legitimación activa en el recurso de amparo. ¿Quiénes pueden interponerlo?
+Respuesta Correcta: Pueden interponerlo personas directamente afectadas, personas físicas o jurídicas con interés legítimo, el Ministerio Fiscal y el Defensor del Pueblo, siempre que demuestren la vulneración de un derecho fundamental.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+
+Pregunta: Examina los tipos de actos jurídicos susceptibles de recurso de amparo y sus plazos.
+Respuesta Correcta: Los actos incluyen decisiones sin valor de ley, disposiciones del Gobierno y actos judiciales. Los plazos varían: tres meses para actos sin valor de ley y 20 días para actos judiciales desde la notificación de la resolución.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+
+Pregunta: ¿Cuáles son las principales razones de inadmisión de un recurso de amparo?
+Respuesta Correcta: Un recurso puede ser inadmitido por incumplir requisitos legales, referirse a derechos no protegidos por amparo constitucional, o carecer de contenido o trascendencia constitucional significativa.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+
+Pregunta: ¿Qué efectos tiene una sentencia que otorga el recurso de amparo?
+Respuesta Correcta: La sentencia puede declarar nula la decisión o acto que vulneró el derecho, reconocer el derecho o libertad pública afectada, o restablecer al recurrente en la integridad de su derecho o libertad.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+
+Pregunta: Diferencia entre los actos de los poderes públicos y actuaciones de particulares respecto al recurso de amparo.
+Respuesta Correcta: El recurso de amparo solo procede contra vulneraciones de derechos por poderes públicos, no por actuaciones de particulares, ya que busca proteger derechos fundamentales frente a decisiones de autoridades.
+Manual: Manual Constitucional 1
+Bloque: Bloque 7
+Tema: Tema 8: El recurso de amparo
+

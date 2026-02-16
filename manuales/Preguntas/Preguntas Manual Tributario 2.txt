@@ -1,0 +1,1715 @@
+Pregunta: ¿Cuáles son las dos fuentes normativas principales del IRPF?
+Respuesta Correcta: La Ley 35/2006, de 28 de noviembre, del IRPF (LIRPF) y el Real Decreto 439/2007, de 30 de marzo, que aprueba el Reglamento del Impuesto (RIRPF).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+
+Pregunta: Según el artículo 1 de la LIRPF, ¿qué tres principios rigen el IRPF?
+Respuesta Correcta: Los principios de igualdad, generalidad y progresividad.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+
+Pregunta: ¿Cuáles son las tres categorías que componen la renta a efectos del IRPF según el artículo 2 LIRPF?
+Respuesta Correcta: Los rendimientos, las ganancias y pérdidas patrimoniales, y las imputaciones de renta.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+
+Pregunta: ¿Qué porcentaje del IRPF está cedido a las Comunidades Autónomas de régimen común?
+Respuesta Correcta: El 50% del rendimiento total del impuesto.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+
+Pregunta: ¿Qué límite tienen las CCAA para modificar el mínimo personal y familiar según el artículo 46 de la Ley 22/2009?
+Respuesta Correcta: La modificación no puede superar el 10% (al alza o a la baja) de las cuantías estatales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+
+Pregunta: ¿Qué significa que el IRPF sea un impuesto de carácter directo?
+Respuesta Correcta: Que grava una manifestación directa e inmediata de la capacidad económica del sujeto (la obtención de renta), a diferencia de los impuestos indirectos que gravan manifestaciones indirectas como el consumo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Fuentes, naturaleza, objeto y ámbito de aplicación
+Pregunta: ¿En qué consiste el hecho imponible del IRPF según el artículo 6 LIRPF?
+Respuesta Correcta: El hecho imponible consiste en la obtención de renta por parte del contribuyente.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+
+Pregunta: ¿Cuál es el límite máximo de la exención por indemnización de despido?
+Respuesta Correcta: 180.000 euros. Cualquier exceso sobre dicha cifra deberá tributar.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+
+Pregunta: ¿Cuáles son los tres requisitos para la exención por trabajos realizados en el extranjero?
+Respuesta Correcta: 1) Que los trabajos se realicen para una empresa no residente o establecimiento permanente en el extranjero; 2) Que en ese territorio se aplique un impuesto análogo al IRPF; 3) Que dicho territorio no sea paraíso fiscal.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+
+Pregunta: ¿Cuál es el límite de la exención por trabajos realizados en el extranjero?
+Respuesta Correcta: 60.100 euros anuales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+
+Pregunta: ¿Cuántos días de permanencia en territorio español determinan la residencia fiscal según el artículo 9 LIRPF?
+Respuesta Correcta: Más de 183 días durante el año natural.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+
+Pregunta: ¿Durante cuánto tiempo mantiene la condición de contribuyente español quien traslada su residencia a un paraíso fiscal?
+Respuesta Correcta: Durante el período impositivo del cambio y los cuatro períodos impositivos siguientes (un total de cinco años).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Sujeción al impuesto
+Pregunta: ¿A quién se atribuyen los rendimientos del trabajo según el artículo 11 LIRPF?
+Respuesta Correcta: Se atribuyen exclusivamente a quien haya generado el derecho a su percepción.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+
+Pregunta: ¿A quién se atribuyen los rendimientos del capital?
+Respuesta Correcta: Se atribuyen a los contribuyentes que sean titulares de los elementos patrimoniales, bienes o derechos de los que provengan dichos rendimientos.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+
+Pregunta: ¿Cuál es el período impositivo del IRPF según el artículo 12 LIRPF?
+Respuesta Correcta: El período impositivo coincide con el año natural (del 1 de enero al 31 de diciembre).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+
+Pregunta: ¿En qué fecha se produce el devengo del IRPF según el artículo 13 LIRPF?
+Respuesta Correcta: El último día del período impositivo: el 31 de diciembre de cada año.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+
+Pregunta: ¿Cuándo se imputan los rendimientos del trabajo y del capital según la regla general del artículo 14 LIRPF?
+Respuesta Correcta: Se imputan al período impositivo en el que sean exigibles por su perceptor.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+
+Pregunta: ¿Cómo deben regularizarse los atrasos de rendimientos del trabajo?
+Respuesta Correcta: Mediante una autoliquidación complementaria del período original, sin sanción, intereses de demora ni recargo alguno.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Individualización de rentas
+Pregunta: ¿Cuál es la cuantía exenta por kilómetro recorrido en vehículo propio para gastos de locomoción?
+Respuesta Correcta: 0,26 euros por kilómetro recorrido.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+
+Pregunta: ¿Cuál es el límite diario exento de manutención en España con pernocta?
+Respuesta Correcta: 53,34 euros diarios.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+
+Pregunta: ¿Cuál es el límite diario exento de manutención en el extranjero sin pernocta?
+Respuesta Correcta: 48,08 euros diarios.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+
+Pregunta: ¿Qué reducción se aplica a los rendimientos del trabajo irregulares o generados en más de 2 años?
+Respuesta Correcta: Una reducción del 30% sobre el rendimiento íntegro, con una base máxima de 300.000 euros.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+
+Pregunta: ¿Cuál es la cantidad fija deducible en concepto de "otros gastos" para todos los contribuyentes con rendimientos del trabajo?
+Respuesta Correcta: 2.000 euros anuales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+
+Pregunta: ¿En cuánto se incrementan los "otros gastos" por movilidad geográfica de un desempleado que acepta un trabajo?
+Respuesta Correcta: En 2.000 euros adicionales (total 4.000 euros), tanto en el año del cambio como en el siguiente.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del trabajo
+Pregunta: ¿Qué porcentaje de amortización es deducible para inmuebles arrendados?
+Respuesta Correcta: El 3% del mayor de los siguientes valores: el coste de adquisición satisfecho o el valor catastral, excluyendo el valor del suelo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+
+Pregunta: ¿Cuál es el límite conjunto para los gastos de intereses y reparación/conservación en el capital inmobiliario?
+Respuesta Correcta: El importe total no puede exceder de la cuantía de los rendimientos íntegros obtenidos en el ejercicio por ese inmueble. El exceso puede deducirse en los cuatro años siguientes.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+
+Pregunta: ¿Cuántos meses deben transcurrir para deducir un saldo de dudoso cobro en arrendamientos?
+Respuesta Correcta: Más de seis meses desde la primera gestión de cobro hasta la fecha de devengo del impuesto (31 de diciembre).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+
+Pregunta: ¿Cuál es la reducción general por arrendamiento de vivienda para contratos celebrados desde el 01/01/2024?
+Respuesta Correcta: Una reducción del 50% sobre el rendimiento neto positivo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+
+Pregunta: ¿Cuál es la reducción incrementada por alquiler en zona tensionada con rebaja de renta de al menos el 5%?
+Respuesta Correcta: Una reducción del 90% sobre el rendimiento neto positivo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+
+Pregunta: ¿Qué ocurre cuando se arrienda a parientes hasta el tercer grado según el artículo 24 LIRPF?
+Respuesta Correcta: El rendimiento neto no puede ser inferior a la renta que resultaría de aplicar el régimen de imputación de rentas inmobiliarias del artículo 85 LIRPF.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital inmobiliario
+Pregunta: ¿Qué rendimientos incluye el Grupo 1 del artículo 25 LIRPF?
+Respuesta Correcta: Los derivados de la participación en fondos propios de entidades: dividendos, primas de asistencia a juntas, distribución de prima de emisión y otras utilidades por condición de socio.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+
+Pregunta: ¿Qué rendimientos incluye el Grupo 2 del artículo 25 LIRPF?
+Respuesta Correcta: Los obtenidos por la cesión a terceros de capitales propios: intereses, rentas de bonos, obligaciones, letras de cambio y pagarés.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+
+Pregunta: ¿Cuándo tributan las prestaciones de seguros de vida en IRPF y cuándo en ISD?
+Respuesta Correcta: Tributan en IRPF cuando el contratante y el beneficiario son la misma persona. Tributan en ISD cuando son personas distintas.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+
+Pregunta: ¿Cómo se califica fiscalmente el rendimiento obtenido por el subarrendador de un inmueble?
+Respuesta Correcta: Siempre como rendimiento del capital mobiliario (Grupo 4), nunca como capital inmobiliario.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+
+Pregunta: ¿Qué gastos son deducibles en los rendimientos del capital mobiliario de los Grupos 1 y 2?
+Respuesta Correcta: Solo los gastos de administración y depósito de valores negociables, excluyendo las cuantías por gestión discrecional e individualizada de carteras.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+
+Pregunta: ¿A qué grupo del capital mobiliario se aplica la reducción del 30% por irregularidad?
+Respuesta Correcta: Únicamente al Grupo 4 del artículo 25.4 LIRPF (propiedad intelectual si no es autor, arrendamiento de muebles/negocios, subarrendamientos, etc.).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos del capital mobiliario
+Pregunta: ¿Qué requisito se exige para que el arrendamiento de inmuebles sea considerado actividad económica?
+Respuesta Correcta: Que para la ordenación de la actividad se utilice, al menos, una persona empleada con contrato laboral y a jornada completa.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+
+Pregunta: ¿A partir de qué cifra de INCN es obligatorio aplicar la Estimación Directa Normal?
+Respuesta Correcta: Cuando el INCN del conjunto de actividades en el año anterior supera los 600.000 euros.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+
+Pregunta: ¿Qué deducción adicional permite la Estimación Directa Simplificada por gastos de difícil justificación?
+Respuesta Correcta: Un 5% del rendimiento neto previo, con un límite máximo de 2.000 euros anuales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+
+Pregunta: ¿Pueden afectarse los vehículos de turismo con uso privado a una actividad económica?
+Respuesta Correcta: No, salvo que se dediquen exclusivamente a transporte de mercancías, transporte de viajeros, enseñanza de conductores, desplazamientos profesionales de representantes, o cesión de uso onerosa.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+
+Pregunta: ¿Cuál es el límite de deducción de las primas de seguro de enfermedad del empresario individual?
+Respuesta Correcta: 500 euros por cada persona cubierta (contribuyente, cónyuge e hijos menores de 25 años convivientes), o 1.500 euros si la persona tiene discapacidad.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+
+Pregunta: ¿Qué reducción se aplica por inicio de actividad económica en Estimación Directa?
+Respuesta Correcta: Una reducción del 20% sobre el rendimiento neto positivo, aplicable en el primer período con rendimiento positivo y en el siguiente.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Los rendimientos de actividades económicas
+Pregunta: ¿Cómo se definen las ganancias y pérdidas patrimoniales según el artículo 33.1 LIRPF?
+Respuesta Correcta: Son las variaciones en el valor del patrimonio del contribuyente que se pongan de manifiesto con ocasión de cualquier alteración en su composición, salvo que se califiquen como rendimientos.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+
+Pregunta: ¿Por qué las adquisiciones mortis causa no generan ganancia patrimonial en el IRPF?
+Respuesta Correcta: Porque están no sujetas al IRPF según el artículo 33.3 LIRPF. La "plusvalía del muerto" no tributa y será el heredero quien tribute por la adquisición en el ISD.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+
+Pregunta: ¿Cuál es la regla anti-especulación para pérdidas por transmisión de valores cotizados?
+Respuesta Correcta: No se computan las pérdidas si el transmitente vuelve a adquirir valores homogéneos en los 2 meses anteriores o posteriores a la transmisión.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+
+Pregunta: ¿Está exenta la ganancia por transmisión de vivienda habitual por mayores de 65 años?
+Respuesta Correcta: Sí, es una exención total e incondicionada para mayores de 65 años o personas en situación de dependencia severa o gran dependencia.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+
+Pregunta: ¿Cuál es el plazo para reinvertir el importe de la transmisión de vivienda habitual y obtener la exención?
+Respuesta Correcta: Dos años, anteriores o posteriores a la fecha de transmisión.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+
+Pregunta: ¿Cuál es el límite máximo para la exención por reinversión en rentas vitalicias para mayores de 65 años?
+Respuesta Correcta: 240.000 euros, con un plazo de reinversión de 6 meses desde la transmisión.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Ganancias y pérdidas
+Pregunta: ¿Cómo se valoran las rentas estimadas en préstamos según el artículo 6.5 LIRPF?
+Respuesta Correcta: Por el tipo de interés legal del dinero vigente el último día del período impositivo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+
+Pregunta: ¿Cómo deben valorarse las operaciones vinculadas según el artículo 41 LIRPF?
+Respuesta Correcta: Imperativamente por su valor normal de mercado, como si se hubieran pactado entre partes independientes.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+
+Pregunta: ¿Cuál es el límite diario exento para vales-comida o comedores de empresa?
+Respuesta Correcta: 11 euros diarios según el artículo 45 RIRPF.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+
+Pregunta: ¿Cuál es el límite anual exento del seguro médico pagado por la empresa por cada asegurado?
+Respuesta Correcta: 500 euros anuales por persona, o 1.500 euros si la persona tiene discapacidad.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+
+Pregunta: ¿Cómo se valora la utilización de una vivienda propiedad del pagador como renta en especie?
+Respuesta Correcta: El 10% del valor catastral (o 5% si el valor catastral ha sido revisado en los últimos 10 años), sin poder exceder del 10% del resto de retribuciones del trabajo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+
+Pregunta: ¿Cómo se valora la utilización de un vehículo cedido por la empresa como renta en especie?
+Respuesta Correcta: El 20% anual del coste de adquisición para el pagador (incluidos tributos), con posible reducción del 15%, 20% o 30% por eficiencia energética.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Reglas especiales de valoración
+Pregunta: ¿Qué rendimientos del capital mobiliario forman parte de la renta del ahorro?
+Respuesta Correcta: Solo los previstos en los apartados 1, 2 y 3 del artículo 25 LIRPF: participación en fondos propios (dividendos), cesión de capitales (intereses), y operaciones de seguros y capitalización.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+
+Pregunta: ¿Qué ganancias patrimoniales forman parte de la renta del ahorro?
+Respuesta Correcta: Únicamente las que se pongan de manifiesto con ocasión de la transmisión de elementos patrimoniales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+
+Pregunta: ¿Cuál es el límite de compensación de pérdidas patrimoniales (Saldo B negativo) con rendimientos (Saldo A positivo) en la base imponible general?
+Respuesta Correcta: El 25% del Saldo A positivo. El remanente puede compensarse en los cuatro años siguientes.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+
+Pregunta: ¿Es bidireccional la compensación entre componentes en la base imponible del ahorro?
+Respuesta Correcta: Sí, el saldo negativo de RCM puede compensar el saldo positivo de GPYP y viceversa, con límite del 25% del saldo positivo.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+
+Pregunta: ¿Cuál es la reducción por tributación conjunta para unidades familiares biparentales?
+Respuesta Correcta: 3.400 euros anuales sobre la base imponible general.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+
+Pregunta: ¿Cuál es el límite de la reducción por aportaciones a planes de pensiones?
+Respuesta Correcta: El menor de: 30% de la suma de rendimientos netos del trabajo y actividades económicas, o 1.500 euros anuales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto I
+Pregunta: ¿Cuál es el importe del mínimo del contribuyente con carácter general según el artículo 57 LIRPF?
+Respuesta Correcta: 5.550 euros anuales, incrementados en 1.150 euros si es mayor de 65 años, y en 1.400 euros adicionales si es mayor de 75 años.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+
+Pregunta: ¿Cuál es el mínimo por el primer descendiente según el artículo 58 LIRPF?
+Respuesta Correcta: 2.400 euros anuales, que se incrementan en 2.800 euros si el descendiente es menor de 3 años.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+
+Pregunta: ¿Cuál es el límite de rentas del descendiente para tener derecho al mínimo por descendientes?
+Respuesta Correcta: El descendiente no puede haber obtenido rentas superiores a 8.000 euros anuales (excluidas las exentas) ni presentar declaración con rentas superiores a 1.800 euros.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+
+Pregunta: ¿Cuál es el mínimo por ascendiente y qué requisitos debe cumplir según el artículo 59 LIRPF?
+Respuesta Correcta: 1.150 euros anuales por ascendiente mayor de 65 años (o con discapacidad), que conviva al menos la mitad del período impositivo y no tenga rentas superiores a 8.000 euros.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+
+Pregunta: ¿Cuál es el mínimo por discapacidad igual o superior al 65% según el artículo 60 LIRPF?
+Respuesta Correcta: 9.000 euros anuales, que se incrementan en 3.000 euros adicionales si se acredita necesitar ayuda de terceras personas o tener movilidad reducida (hasta 12.000 euros).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+
+Pregunta: ¿Cómo se procede si dos contribuyentes tienen derecho al mismo mínimo por descendiente o ascendiente?
+Respuesta Correcta: El importe se prorratea entre ellos por partes iguales. Si concurren contribuyentes de distinto grado de parentesco, el derecho corresponde exclusivamente al de grado más cercano.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto II
+Pregunta: ¿Qué porcentaje permite deducir la inversión en empresas de nueva o reciente creación según el artículo 68.1 LIRPF?
+Respuesta Correcta: El 50% de las cantidades invertidas, con una base máxima de deducción de 100.000 euros anuales.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+
+Pregunta: ¿Qué porcentaje de deducción se aplica a los primeros 150 euros de donativos a entidades de la Ley 49/2002 (mecenazgo general)?
+Respuesta Correcta: El 80% de los primeros 150 euros y el 35% del resto, con un límite del 10% de la base liquidable.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+
+Pregunta: ¿Cuál es el importe de la deducción por maternidad según el artículo 81 LIRPF?
+Respuesta Correcta: Hasta 1.200 euros anuales (100 euros al mes), aplicable a madres con hijos menores de 3 años que perciban prestaciones por desempleo o estén dadas de alta en la Seguridad Social.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+
+Pregunta: ¿En cuánto puede incrementarse la deducción por maternidad por gastos de guardería?
+Respuesta Correcta: Hasta 1.000 euros adicionales (máximo 83,33 euros al mes) por gastos de custodia en guarderías o centros de educación infantil autorizados.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+
+Pregunta: ¿Cuál es el importe de la deducción por familia numerosa general según el artículo 81 bis LIRPF?
+Respuesta Correcta: 1.200 euros anuales, que se duplican (2.400 euros) para familia numerosa de categoría especial, con incremento de 600 euros por cada hijo que exceda del número mínimo exigido.
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+
+Pregunta: ¿Cuál es el límite de rendimientos del trabajo para no estar obligado a declarar con varios pagadores (desde 2023)?
+Respuesta Correcta: 15.876 euros anuales (o 15.000 euros con un solo pagador).
+Manual: Derecho Tributario II
+Bloque: 1
+Tema: Cálculo del impuesto III
+Pregunta: ¿Cuál es la naturaleza jurídica del Impuesto sobre la Renta de No Residentes según el artículo 1 LIRNR?
+Respuesta Correcta: Es un tributo de carácter directo que grava la renta obtenida en territorio español por personas físicas y entidades no residentes.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el IRPF/IS y el IRNR respecto al ámbito de gravamen?
+Respuesta Correcta: El IRPF e IS gravan la renta mundial de los residentes, mientras que el IRNR grava únicamente la renta obtenida en territorio español por no residentes (principio de territorialidad).
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+
+Pregunta: ¿Quiénes son contribuyentes del IRNR según el artículo 5 LIRNR?
+Respuesta Correcta: Las personas físicas y entidades no residentes en territorio español que obtengan rentas en él, así como las personas de nacionalidad extranjera exentas del IRPF por su condición de diplomáticos o funcionarios.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+
+Pregunta: ¿Cuándo es obligatorio nombrar un representante ante la Administración Tributaria en el IRNR?
+Respuesta Correcta: Cuando el contribuyente opere mediante establecimiento permanente, cuando la Administración lo requiera, o cuando sea residente en un paraíso fiscal y sea titular de bienes en España.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+
+Pregunta: ¿Cuál es la sanción por incumplimiento de la obligación de nombrar representante en el IRNR?
+Respuesta Correcta: Constituye infracción tributaria grave con multa de 2.000 euros (o 6.000 euros si se trata de un país sin intercambio de información).
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+
+Pregunta: ¿Cuál es el domicilio fiscal de un contribuyente del IRNR que opera con establecimiento permanente?
+Respuesta Correcta: El lugar donde radique la efectiva gestión administrativa y la dirección de sus negocios en España; si no puede establecerse, donde radique el mayor valor del inmovilizado.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: Impuesto sobre la renta de no residentes (IRNR) Parte I
+Pregunta: ¿Qué responsabilidad tiene el pagador de rendimientos a no residentes sin establecimiento permanente?
+Respuesta Correcta: Responde solidariamente de las deudas tributarias correspondientes a los rendimientos que haya satisfecho al contribuyente sin EP.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+
+Pregunta: ¿Qué responsabilidad tiene el depositario o gestor de bienes de contribuyentes del IRNR?
+Respuesta Correcta: Responde solidariamente de las deudas correspondientes a las rentas de los bienes o derechos de contribuyentes sin EP cuyo depósito o gestión tiene encomendado.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+
+Pregunta: ¿En qué plazo debe comunicarse el nombramiento de representante a la Administración Tributaria?
+Respuesta Correcta: En el plazo de dos meses desde el nombramiento.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+
+Pregunta: ¿A qué normativa se remite el artículo 6 LIRNR para determinar cuándo una persona es no residente?
+Respuesta Correcta: Se remite expresamente a los criterios de residencia establecidos en la legislación del IRPF y del Impuesto sobre Sociedades.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+
+Pregunta: ¿Quién se considera representante subsidiario cuando no se ha cumplido la obligación de nombramiento?
+Respuesta Correcta: El inscrito en el Registro Mercantil (si opera con EP) o el depositario o gestor de los bienes (en caso de residentes en paraísos fiscales).
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+
+Pregunta: ¿Qué normativa actúa como derecho supletorio para la interpretación del IRNR según el artículo 3 LIRNR?
+Respuesta Correcta: La normativa reguladora del IRPF y del Impuesto sobre Sociedades.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR. Sujeción al impuesto y exenciones parte II
+Pregunta: ¿Cómo se determina la base imponible del IRNR para rentas sin establecimiento permanente?
+Respuesta Correcta: Se determina aplicando las normas del IRPF, y está constituida por el importe íntegro de los rendimientos.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+
+Pregunta: ¿Qué gastos pueden deducir los contribuyentes del IRNR sin EP por actividades económicas?
+Respuesta Correcta: Gastos de personal, gastos de aprovisionamiento de materiales incorporados a obras o trabajos, y gastos de suministro.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+
+Pregunta: ¿Cuál es el tipo de gravamen general del IRNR para contribuyentes sin EP?
+Respuesta Correcta: El 24% con carácter general, o el 19% para residentes en la UE o EEE con efectivo intercambio de información tributaria.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+
+Pregunta: ¿Qué tipo de gravamen se aplica a los dividendos, intereses y ganancias patrimoniales en el IRNR?
+Respuesta Correcta: El 19%.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+
+Pregunta: ¿Qué porcentaje debe retener el adquirente en la transmisión de inmuebles por no residentes sin EP?
+Respuesta Correcta: El 3% de la contraprestación acordada, en concepto de pago a cuenta del impuesto.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+
+Pregunta: ¿Qué tipo de gravamen se aplica a los rendimientos del trabajo de duración determinada para trabajadores extranjeros no residentes?
+Respuesta Correcta: El 2%.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR 3
+Pregunta: ¿Cuándo se devengan los rendimientos en el IRNR sin establecimiento permanente?
+Respuesta Correcta: Cuando resulten exigibles o en la fecha de cobro si esta fuera anterior.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+
+Pregunta: ¿Cuándo se devengan las ganancias patrimoniales en el IRNR sin EP?
+Respuesta Correcta: Cuando tenga lugar la alteración patrimonial.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+
+Pregunta: ¿Cuándo se devengan las rentas imputadas por inmuebles urbanos en el IRNR sin EP?
+Respuesta Correcta: El 31 de diciembre de cada año.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+
+Pregunta: ¿Qué deducciones son aplicables para obtener la cuota líquida en el IRNR sin EP?
+Respuesta Correcta: Las deducciones por donativos previstas en la ley del IRPF y las retenciones e ingresos a cuenta practicados sobre las rentas.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+
+Pregunta: ¿Qué ocurre con las rentas pendientes de imputación cuando fallece un contribuyente del IRNR?
+Respuesta Correcta: Todas las rentas pendientes de imputación se consideran exigibles en la fecha de fallecimiento.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+
+Pregunta: ¿Qué obligación formal tienen los contribuyentes del IRNR sin EP que desarrollan actividades económicas?
+Respuesta Correcta: Obligación de llevar libros de ingresos y gastos, y si practican retenciones o ingresos a cuenta, también deben presentar declaración censal.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Rentas sin establecimiento permanente
+Pregunta: ¿A quién se aplica el gravamen especial sobre bienes inmuebles del artículo 40 LIRNR?
+Respuesta Correcta: A entidades residentes en países o territorios considerados paraísos fiscales que sean propietarias o posean bienes inmuebles o derechos reales de goce sobre estos en España.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+
+Pregunta: ¿Cuál es el tipo de gravamen y la base imponible del gravamen especial sobre bienes inmuebles?
+Respuesta Correcta: El tipo es del 3% sobre el valor catastral de los inmuebles (o el valor según las reglas del Impuesto sobre el Patrimonio si no existe valor catastral).
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+
+Pregunta: ¿Cuándo se devenga el gravamen especial sobre bienes inmuebles y cuándo debe declararse?
+Respuesta Correcta: Se devenga el 31 de diciembre de cada año y debe declararse en el mes de enero siguiente.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+
+Pregunta: ¿Cuál es la cuantía exenta en el gravamen especial sobre premios de loterías para juegos desde 2020?
+Respuesta Correcta: 40.000 euros.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+
+Pregunta: ¿Qué porcentaje de retención se aplica a los premios de loterías sujetos al gravamen especial?
+Respuesta Correcta: El 20% sobre el importe de la base imponible del gravamen especial.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+
+Pregunta: ¿Qué requisitos debe cumplir un residente UE para acogerse al régimen opcional del artículo 46 LIRNR?
+Respuesta Correcta: Haber obtenido al menos el 75% de su renta en España por rendimientos del trabajo y actividades económicas, o que la renta obtenida en España sea inferior al 90% del mínimo personal y familiar.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR - Parte 5
+Pregunta: ¿Qué entidades se consideran en régimen de atribución de rentas según la LIRNR?
+Respuesta Correcta: Las Comunidades de Bienes, las Entidades Adyacentes, las Sociedades Civiles y demás entes sin personalidad jurídica que constituyan una unidad económica o patrimonio separado susceptible de imposición.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+
+Pregunta: ¿Cuál es el principio rector del régimen de atribución de rentas en el IRNR?
+Respuesta Correcta: Las rentas obtenidas por estas entidades no se gravan a nivel del propio ente, sino que se imputan directamente a sus miembros (socios, herederos, comuneros o partícipes).
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+
+Pregunta: ¿Quiénes son contribuyentes del IRNR por las rentas atribuidas de una entidad en atribución de rentas?
+Respuesta Correcta: Exclusivamente los miembros de la entidad que no sean residentes en España.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+
+Pregunta: ¿Qué obligación tiene una entidad en atribución de rentas sin EP respecto a sus miembros no residentes?
+Respuesta Correcta: Está obligada a ingresar a cuenta la diferencia entre la retención efectivamente soportada que corresponda al miembro no residente y la que hubiera resultado de aplicar las reglas generales de retención.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+
+Pregunta: ¿Quién es el contribuyente cuando una entidad extranjera con actividad económica en España actúa a través de un agente autorizado?
+Respuesta Correcta: El agente autorizado, quien debe presentar autoliquidación anual, declaración informativa y efectuar los pagos fraccionados.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+
+Pregunta: ¿Dónde se regula el régimen de atribución de rentas en el IRNR?
+Respuesta Correcta: En el Capítulo V del Texto Refundido de la LIRNR, artículos 34 a 39, integrando las normas del IRPF con especialidades para contribuyentes no residentes.
+Manual: Derecho Tributario II
+Bloque: 2
+Tema: IRNR parte 6
+Pregunta: ¿Cuál es la naturaleza jurídica del Impuesto sobre el Patrimonio según el artículo 1 de la Ley 19/1991?
+Respuesta Correcta: Es un tributo de carácter directo y de naturaleza personal que grava el patrimonio neto de las personas físicas.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+
+Pregunta: ¿Qué diferencia existe entre la obligación personal y la obligación real de contribuir en el Impuesto sobre el Patrimonio?
+Respuesta Correcta: La obligación personal afecta a residentes en España por la totalidad de su patrimonio neto mundial; la obligación real afecta a no residentes solo por los bienes y derechos situados en territorio español.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+
+Pregunta: ¿Cuál es el límite de exención de la vivienda habitual en el Impuesto sobre el Patrimonio?
+Respuesta Correcta: 300.000 euros.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+
+Pregunta: ¿Cuál es la sanción por incumplimiento de la obligación de nombrar representante por parte de un sujeto pasivo no residente en el IP?
+Respuesta Correcta: Constituye infracción grave con multa de 1.000 euros.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+
+Pregunta: ¿Cómo se determina la base imponible del Impuesto sobre el Patrimonio?
+Respuesta Correcta: Por la diferencia entre el valor de bienes y derechos menos las cargas, gravámenes, deudas y obligaciones, sin poder deducir las cargas correspondientes a bienes exentos.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+
+Pregunta: ¿Cómo se imputa el valor de un bien adquirido con contraprestación aplazada según el artículo 8 de la Ley del IP?
+Respuesta Correcta: El valor se imputa al adquirente (quien incluye como deuda la parte aplazada) y el vendedor incluye como derecho el crédito por la contraprestación aplazada.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio I: base imponible
+Pregunta: ¿Cómo se valoran los depósitos en cuenta corriente o de ahorro en el Impuesto sobre el Patrimonio?
+Respuesta Correcta: Por el mayor valor entre el saldo a fecha de devengo (31 de diciembre) y el saldo medio del último trimestre del año.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+
+Pregunta: ¿Cuál es el mínimo exento en el Impuesto sobre el Patrimonio?
+Respuesta Correcta: 700.000 euros (tanto para obligación real como supletoriamente para obligación personal si la Comunidad Autónoma no ha aprobado otro importe).
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+
+Pregunta: ¿Cuál es el límite de tributación conjunta IP + IRPF según el artículo 31 de la Ley del IP?
+Respuesta Correcta: La cuota íntegra del IP conjuntamente con las cuotas del IRPF no puede exceder del 60% de la suma de las bases imponibles del IRPF, con una reducción máxima del 80% de la cuota del IP.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+
+Pregunta: ¿Qué bonificación se aplica en el IP para bienes situados en Ceuta y Melilla?
+Respuesta Correcta: Bonificación del 75% sobre la cuota correspondiente a estos bienes.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+
+Pregunta: ¿Cuándo se devenga el Impuesto sobre el Patrimonio y cuál es el umbral para declarar sin cuota a ingresar?
+Respuesta Correcta: Se devenga el 31 de diciembre de cada año. Deben declarar sin cuota a ingresar quienes tengan bienes o derechos con valor superior a 2 millones de euros.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+
+Pregunta: ¿Cómo se valoran las participaciones en entidades no negociadas en mercados organizados sin auditoría favorable?
+Respuesta Correcta: Por el mayor de los tres siguientes: valor nominal, valor teórico del último balance aprobado, o el resultado de capitalizar al 20% el promedio de beneficios de los tres ejercicios anteriores.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre el patrimonio parte II. Deuda tributaria. Devengo. Gestión del impuesto
+Pregunta: ¿Cuáles son los tres hechos imponibles del Impuesto sobre Sucesiones y Donaciones según el artículo 3 de la Ley?
+Respuesta Correcta: Adquisiciones mortis causa (herencia, legado), adquisiciones inter vivos (donaciones) y percepción de seguros de vida cuando el contratante sea persona distinta del beneficiario.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+
+Pregunta: ¿Cómo se valora el ajuar doméstico en las adquisiciones mortis causa según el artículo 15 de la LISD?
+Respuesta Correcta: En el 3% del importe del caudal relicto neto, debiendo restarse el 3% del valor catastral de la vivienda habitual que corresponde al cónyuge superviviente.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+
+Pregunta: ¿Qué bienes se adicionan al caudal hereditario por haber pertenecido al causante hasta un año antes del fallecimiento?
+Respuesta Correcta: Bienes de toda clase que hubieran pertenecido al causante hasta un año antes, salvo que se pruebe que fueron transmitidos a persona distinta del heredero, legatario o pariente de tercer grado, o que figure contrapartida en el caudal.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+
+Pregunta: ¿Qué requisito adicional exige el artículo 17 LISD para deducir deudas en transmisiones inter vivos respecto a las mortis causa?
+Respuesta Correcta: Solo son deducibles las deudas garantizadas con derechos reales sobre los bienes transmitidos si el donatario ha asumido fehacientemente la obligación de pagar la deuda garantizada.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+
+Pregunta: ¿Cuándo se devenga el ISD en las adquisiciones mortis causa y en las transmisiones inter vivos?
+Respuesta Correcta: Mortis causa: el día del fallecimiento del causante. Inter vivos: el día en que se cause o celebre el acto o contrato.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+
+Pregunta: ¿Qué bonificación establece el artículo 23.b de la LISD para Ceuta y Melilla?
+Respuesta Correcta: Una bonificación del 50% de la cuota.
+Manual: Derecho Tributario II
+Bloque: 3
+Tema: Impuesto sobre sucesiones y donaciones
+Pregunta: ¿Cuál es la naturaleza jurídica del Impuesto sobre Sociedades según el artículo 1 LIS?
+Respuesta Correcta: Es un tributo directo de naturaleza personal que grava la renta de las sociedades y demás entidades jurídicas.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+
+Pregunta: ¿Cuáles son los tres criterios de residencia en territorio español para el IS según el artículo 8 LIS?
+Respuesta Correcta: Constitución conforme a leyes españolas, domicilio social en territorio español, o sede de dirección efectiva en territorio español.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+
+Pregunta: ¿Qué requisito específico exige el artículo 5.1 LIS para que el arrendamiento de inmuebles se considere actividad económica?
+Respuesta Correcta: Se requiere utilizar al menos una persona empleada con contrato laboral y a jornada completa.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+
+Pregunta: ¿Cuándo se considera que una entidad es patrimonial según el artículo 5.1 LIS?
+Respuesta Correcta: Cuando más de la mitad de su activo esté constituido por valores o por activo no afecto a su actividad económica.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+
+Pregunta: ¿Qué entidades están totalmente exentas del IS según el artículo 9.1 LIS?
+Respuesta Correcta: El Estado, Comunidades Autónomas, Entidades Locales, Organismos Autónomos, Banco de España, Entidades Gestoras de la Seguridad Social y Reales Academias Oficiales.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+
+Pregunta: ¿Qué principio cardinal del IS español establece el artículo 4 LIS respecto al ámbito de gravamen?
+Respuesta Correcta: El principio de renta mundial: se grava la renta con independencia del lugar donde se produzca y cualquiera que sea la residencia del pagador.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades
+Pregunta: ¿Cómo se determina la Base Imponible del IS según el artículo 10 LIS?
+Respuesta Correcta: La Base Imponible es la renta obtenida en el periodo impositivo menos las bases imponibles negativas de ejercicios anteriores que se opte por compensar.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+
+Pregunta: ¿Cuál es el criterio general de imputación temporal de ingresos y gastos en el IS según el artículo 11.1 LIS?
+Respuesta Correcta: El criterio de devengo: se atiende a la corriente real de las transacciones, ignorando la fecha de cobro o pago.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+
+Pregunta: ¿Qué se considera operación a plazo a efectos del artículo 11.4 LIS?
+Respuesta Correcta: Aquella en la que el precio se desembolsa con pagos sucesivos y ha transcurrido más de un año entre el devengo y el vencimiento del último plazo de pago.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+
+Pregunta: ¿Qué opción tiene el contribuyente para imputar la renta en operaciones a plazo según el artículo 11.4 LIS?
+Respuesta Correcta: Puede optar por el criterio de devengo (imputar todo al momento de la operación) o imputar la renta a medida que sean exigibles los correspondientes cobros.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+
+Pregunta: ¿Qué son los ajustes extracontables o fiscales en el IS?
+Respuesta Correcta: Son correcciones que se realizan al resultado contable para obtener la Base Imponible fiscal, debido a la falta de coincidencia entre las normas contables (PGC) y las reglas fiscales (LIS).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+
+Pregunta: ¿Qué es una diferencia temporaria en el contexto de los ajustes fiscales del IS?
+Respuesta Correcta: Es una diferencia entre el tratamiento contable y fiscal que tiene reversión en el tiempo; el gasto no aceptado fiscalmente en un periodo se aceptará en periodos futuros.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Cálculo de la base imponible
+Pregunta: ¿Cuál es el límite fiscal a la deducibilidad de la amortización según el artículo 12 LIS?
+Respuesta Correcta: Solo se permite deducir fiscalmente la amortización que se corresponda con una depreciación efectiva en el funcionamiento, uso, disfrute u obsolescencia normal del activo.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+
+Pregunta: ¿Cuáles son los métodos de amortización fiscalmente deducibles para el inmovilizado material según el artículo 12 LIS?
+Respuesta Correcta: Amortización según tablas oficiales, método del porcentaje constante, método de números dígitos, plan formulado por el contribuyente con acuerdo de la Administración, o justificación del importe.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+
+Pregunta: ¿Cuál es el límite máximo de amortización fiscal para el fondo de comercio según el artículo 12 LIS?
+Respuesta Correcta: Una veinteava parte (5%) anual.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+
+Pregunta: ¿En qué supuestos se aplica la libertad de amortización según el artículo 12.3 LIS?
+Respuesta Correcta: Inmovilizado material e intangible afectos a I+D (excepto edificios que se amortizan al 10% lineal en 10 años), gastos de I+D activados como intangibles, equipos de energías renovables y vehículos eléctricos.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+
+Pregunta: ¿Qué requisitos debe cumplir el deterioro de créditos por insolvencias para ser fiscalmente deducible según el artículo 13.1 LIS?
+Respuesta Correcta: Transcurso de 6 meses desde el vencimiento, deudor en concurso, deudor procesado por alzamiento de bienes, u obligaciones reclamadas judicialmente o por arbitraje.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+
+Pregunta: ¿Son deducibles fiscalmente los deterioros del inmovilizado material, intangible e inversiones inmobiliarias según el artículo 13.2 LIS?
+Respuesta Correcta: No, no se permite deducir fiscalmente las pérdidas por deterioros contables de estos activos, generando una diferencia permanente.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Amortizaciones y deterioros
+Pregunta: ¿Qué provisiones no son deducibles fiscalmente según el artículo 14 LIS?
+Respuesta Correcta: Las derivadas de obligaciones implícitas o tácitas y las referidas a devoluciones de ventas.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+
+Pregunta: ¿Cuáles son los principales gastos expresamente no deducibles según el artículo 15 LIS?
+Respuesta Correcta: Retribución de fondos propios, el propio IS, multas y sanciones, actuaciones contrarias al ordenamiento jurídico, donativos y liberalidades, y operaciones con paraísos fiscales.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+
+Pregunta: ¿Cuál es el límite de deducibilidad para atenciones a clientes y proveedores según el artículo 15 LIS?
+Respuesta Correcta: El 1% del importe neto de la cifra de negocios.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+
+Pregunta: ¿Cuál es el límite general de deducibilidad del gasto financiero neto según el artículo 16 LIS?
+Respuesta Correcta: Solo es deducible hasta el 30% del beneficio operativo del ejercicio, o 1 millón de euros si es mayor.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+
+Pregunta: ¿Qué ocurre con el gasto financiero neto no deducido según el artículo 16 LIS?
+Respuesta Correcta: El remanente se adiciona a los gastos financieros netos de los periodos impositivos siguientes, de forma indefinida, hasta su total deducción.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+
+Pregunta: ¿Qué ocurre con la capacidad de deducción no utilizada del gasto financiero neto según el artículo 16 LIS?
+Respuesta Correcta: Cuando los gastos financieros netos son inferiores al límite del 30% del beneficio operativo, la diferencia se puede sumar al límite del 30% de los 5 años siguientes.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Provisiones, gastos no deducibles y GFN
+Pregunta: ¿Qué operaciones deben valorarse por su valor de mercado según el artículo 17 LIS?
+Respuesta Correcta: Transmisiones o adquisiciones a título lucrativo, aportaciones a entidades y valores recibidos en contraprestación, transmisiones a socios por disolución/separación/reducción de capital, y adquisiciones por permuta, canje o conversión.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+
+Pregunta: ¿Qué porcentaje de participación determina la vinculación entre una entidad y sus socios según el artículo 18 LIS?
+Respuesta Correcta: El 25% o más de participación en el capital o fondos propios.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+
+Pregunta: ¿Cuáles son los cinco métodos de cálculo del valor de mercado en operaciones vinculadas según el artículo 18.4 LIS?
+Respuesta Correcta: Precio libre comparable, coste incrementado, precio de reventa, distribución del resultado y margen neto operacional.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+
+Pregunta: ¿Qué es el Exit Tax según el artículo 19 LIS?
+Respuesta Correcta: La obligación de integrar en la Base Imponible la diferencia entre el valor de mercado y el valor fiscal de los elementos patrimoniales cuando una empresa traslada su residencia del territorio español a otro lugar.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+
+Pregunta: ¿Cómo se puede fraccionar el Exit Tax en traslados a la UE/EEE según el artículo 19 LIS?
+Respuesta Correcta: Se puede fraccionar en cinco partes, pagando en el periodo actual y en los cuatro siguientes. El fraccionamiento finaliza si se transmite el elemento a un tercero en ese tiempo.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+
+Pregunta: ¿Qué sanción establece el artículo 18.13 LIS por falta de documentación en operaciones vinculadas?
+Respuesta Correcta: Constituye infracción tributaria grave la falta de aportación o la aportación incompleta o con datos falsos de la documentación obligatoria sobre operaciones vinculadas.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reglas especiales de valoración de la Base Imponible
+Pregunta: ¿Cuál es el porcentaje de reducción por rentas de intangibles según el artículo 23 LIS?
+Respuesta Correcta: El 60% de la renta neta positiva, multiplicado por un coeficiente que relaciona los gastos propios de creación con los gastos totales de creación y adquisición.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+
+Pregunta: ¿Cuál es el porcentaje de reducción por reserva de capitalización según el artículo 25 LIS?
+Respuesta Correcta: El 15% del incremento de los fondos propios, con un límite máximo del 10% de la Base Imponible previa a la reducción y a la compensación de BINs.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+
+Pregunta: ¿Cuánto tiempo debe mantenerse el incremento de fondos propios y la reserva de capitalización según el artículo 25 LIS?
+Respuesta Correcta: 5 años. El incremento debe mantenerse en el patrimonio neto y la reserva debe figurar separadamente y ser indisponible durante ese plazo.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+
+Pregunta: ¿Cuál es el límite cuantitativo para compensar BINs según el artículo 26 LIS?
+Respuesta Correcta: El 70% de la Base Imponible previa a la reserva de capitalización y a la propia compensación, pudiendo compensar en todo caso hasta 1 millón de euros.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+
+Pregunta: ¿Existe límite temporal para compensar las Bases Imponibles Negativas según el artículo 26 LIS?
+Respuesta Correcta: No, la compensación se puede realizar con las rentas positivas de periodos impositivos siguientes sin límite de años.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+
+Pregunta: ¿Qué entidades están excluidas del límite cuantitativo del 70% en la compensación de BINs?
+Respuesta Correcta: Las entidades de nueva creación y las entidades en el periodo impositivo en que se produzca la extinción (salvo en casos de reestructuración).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Reducciones, reserva y compensación de la base imponible
+Pregunta: ¿Qué diferencia existe entre la doble imposición jurídica y la económica?
+Respuesta Correcta: La jurídica grava la renta de un mismo contribuyente en dos jurisdicciones; la económica grava la misma renta pero recae sobre sujetos distintos (primero la entidad que genera, luego quien la recibe).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+
+Pregunta: ¿Cuál es el caso más habitual de doble imposición jurídica internacional?
+Respuesta Correcta: Cuando coinciden un criterio de sujeción de residencia (Estado de Residencia) y un criterio de territorialidad (Estado de la Fuente) sobre el mismo contribuyente.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+
+Pregunta: ¿Qué son los Convenios de Doble Imposición (CDIs)?
+Respuesta Correcta: Son tratados internacionales que adoptan un acuerdo fiscal entre dos países, con integración inmediata y jerarquía superior a la ley interna, estableciendo un reparto de potestades tributarias.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+
+Pregunta: ¿Cuáles son los dos métodos principales para eliminar la doble imposición?
+Respuesta Correcta: El método de exención (arts. 21 y 22 LIS): el Estado de Residencia no grava las rentas extranjeras; y el método de imputación (arts. 31 y 32 LIS): se integra la renta y se deduce el impuesto pagado en el extranjero.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+
+Pregunta: ¿Qué modelo internacional siguen la mayoría de los CDIs suscritos por España?
+Respuesta Correcta: El Modelo de Convenio sobre la Renta y sobre el Patrimonio de la OCDE.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+
+Pregunta: ¿En qué consiste el método de imputación ordinaria para eliminar la doble imposición?
+Respuesta Correcta: El Estado de Residencia integra la renta extranjera en la Base Imponible y permite deducir en la Cuota Íntegra el impuesto pagado en el extranjero, con el límite del impuesto español correspondiente a esa renta.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: La doble imposición
+Pregunta: ¿A qué rentas se aplica la exención del artículo 21 LIS para eliminar la doble imposición económica?
+Respuesta Correcta: A los dividendos o participaciones sobre beneficios de la participada y a la renta positiva (ganancia patrimonial) por transmisión de la participación.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+
+Pregunta: ¿Qué porcentaje de participación se requiere para aplicar la exención del artículo 21 LIS?
+Respuesta Correcta: Al menos el 5% de participación en el capital o en los fondos propios, mantenida de manera ininterrumpida durante todo el año anterior o hasta completar el año.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+
+Pregunta: ¿Qué tributación mínima debe haber soportado la participada no residente para aplicar la exención del artículo 21 LIS?
+Respuesta Correcta: Un tipo nominal del 10% o más, requisito que se considera cumplido si existe CDI con intercambio de información con el país de la participada.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+
+Pregunta: ¿Sobre qué porcentaje de la renta se aplica la exención del artículo 21.10 LIS?
+Respuesta Correcta: Sobre el 95% de la renta (se deduce un 5% por gastos de gestión), excepto si la cifra de negocios de la matriz es inferior a 40 millones de euros, en cuyo caso es el 100%.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+
+Pregunta: ¿Son compatibles los métodos de exención (art. 21 LIS) e imputación ordinaria (art. 32 LIS)?
+Respuesta Correcta: No, son totalmente incompatibles. La entidad matriz debe optar por aplicar uno u otro.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+
+Pregunta: ¿Qué impuesto se deduce en el método de imputación ordinaria del artículo 32 LIS?
+Respuesta Correcta: El impuesto subyacente: el IS extranjero impuesto a los beneficios con los que se repartieron los dividendos, con el límite de la parte proporcional a los dividendos obtenidos.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición económica
+Pregunta: ¿A qué rentas se aplica el método de exención del artículo 22 LIS para eliminar la doble imposición jurídica?
+Respuesta Correcta: A las rentas positivas obtenidas por medio de un establecimiento permanente (EP) en el extranjero.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+
+Pregunta: ¿Qué se entiende por establecimiento permanente según el artículo 22.3 LIS?
+Respuesta Correcta: Instalaciones o lugares de trabajo que la empresa dispone de forma continuada o habitual y en los que realiza la actividad empresarial (sucursales, oficinas, fábricas, almacenes, tiendas).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+
+Pregunta: ¿Qué requisito de tributación mínima exige el artículo 22 LIS para la exención de rentas de EP?
+Respuesta Correcta: La renta debe haber sido gravada con un tipo impositivo nominal mínimo del 10%, requisito que se considera cumplido si existe CDI con intercambio de información.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+
+Pregunta: ¿Qué tratamiento tienen las rentas negativas (pérdidas) del EP según el artículo 22 LIS?
+Respuesta Correcta: No se integran (están exentas), salvo las pérdidas por cese del EP, que sí son deducibles pero minorando las rentas positivas anteriores del EP.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+
+Pregunta: ¿Cómo funciona el método de imputación ordinaria del artículo 31 LIS?
+Respuesta Correcta: Se integra en la Base Imponible la renta bruta obtenida y gravada en el extranjero, se calcula la Cuota Íntegra y se deduce el impuesto extranjero pagado (IRNR análogo).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+
+Pregunta: ¿Cuál es el límite de la deducción en el método de imputación ordinaria del artículo 31 LIS?
+Respuesta Correcta: La deducción no puede ser superior a la Cuota Íntegra correspondiente a esas rentas (el impuesto español por esa renta). La diferencia no deducida será gasto deducible en la BI.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Métodos para eliminar la doble imposición jurídica
+Pregunta: ¿Con qué coincide el período impositivo del IS según el artículo 27 LIS?
+Respuesta Correcta: Con el ejercicio económico de la entidad, que no tiene obligación de coincidir con el año natural, pero no puede superar los 12 meses.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+
+Pregunta: ¿Cuáles son las causas de conclusión obligatoria del periodo impositivo según el artículo 27.2 LIS?
+Respuesta Correcta: Extinción de la entidad, cambio de residencia al extranjero, cambio de forma jurídica que implique dejar de estar sujeta al IS, o cambio de forma societaria/estatutos que implique aplicar un tipo o régimen distinto.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+
+Pregunta: ¿Cuándo se devenga el Impuesto sobre Sociedades según el artículo 28 LIS?
+Respuesta Correcta: El último día del periodo impositivo.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+
+Pregunta: ¿Cuál es el tipo de gravamen general del IS y cuáles son los tipos especiales más relevantes según el artículo 29 LIS?
+Respuesta Correcta: General: 25%. Empresas con cifra de negocios inferior a 1 millón: 23%. Nuevas entidades: 15%. Entidades de crédito e hidrocarburos: 30%. Fondos de inversión: 1%. Fondos de pensiones: 0%.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+
+Pregunta: ¿Cuál es la cuota líquida mínima según el artículo 30 bis LIS para grandes empresas?
+Respuesta Correcta: El 15% de la Base Imponible para empresas con cifra de negocios de 20 millones de euros o más (10% para entidades de nueva creación, 18% para entidades de crédito e hidrocarburos).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+
+Pregunta: ¿Qué deducciones se aplican antes del límite de la cuota líquida mínima según el artículo 30 bis LIS?
+Respuesta Correcta: Las bonificaciones, las deducciones del artículo 38 bis y las deducciones por doble imposición internacional (arts. 31, 32 y 100).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: periodo, devengo, tipo y cuota
+Pregunta: ¿Cuál es la bonificación por rentas obtenidas en Ceuta y Melilla según el artículo 33 LIS?
+Respuesta Correcta: El 50% de la Cuota Íntegra correspondiente a las rentas obtenidas operando efectiva y materialmente en dichos territorios.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+
+Pregunta: ¿Cuál es la bonificación por servicios públicos locales según el artículo 34 LIS?
+Respuesta Correcta: El 99% de la Cuota Íntegra correspondiente a rentas derivadas de la prestación de servicios públicos locales (actividades deportivas, estacionamiento, promoción cultural, urbanismo).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+
+Pregunta: ¿Cuáles son los porcentajes de deducción por I+D según el artículo 35 LIS?
+Respuesta Correcta: 25% general (42% si excede la media de los dos años anteriores), 17% adicional por gastos de personal investigador cualificado, 8% por inversiones en inmovilizado afecto, y 12% por innovación tecnológica.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+
+Pregunta: ¿Cuáles son las deducciones por creación de empleo según los artículos 37 y 38 LIS?
+Respuesta Correcta: 3.000€ por contrato indefinido a menor de 30 años, 9.000€ por trabajador con discapacidad 33-65%, y 12.000€ por trabajador con discapacidad igual o superior al 65%.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+
+Pregunta: ¿Cuál es el límite cuantitativo máximo para las deducciones de los artículos 35 a 38 bis según el artículo 39 LIS?
+Respuesta Correcta: El 25% de la Cuota Íntegra Minorada (CIM), que se eleva al 50% si los gastos de I+D+i y culturales superan el 10% de la CIM.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+
+Pregunta: ¿Cuál es el plazo para deducir cantidades no aplicadas según el artículo 39 LIS?
+Respuesta Correcta: 15 periodos impositivos siguientes para las deducciones generales, y 18 periodos para la deducción por I+D+i.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Impuesto de sociedades: bonificaciones y deducciones
+Pregunta: ¿En qué momentos deben realizarse los pagos fraccionados del IS según el artículo 40.1 LIS?
+Respuesta Correcta: Entre el 1 y 20 de abril, entre el 1 y 20 de octubre, y entre el 1 y 20 de diciembre del periodo impositivo en curso.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+
+Pregunta: ¿Cómo se calcula el pago fraccionado con la Opción A (cuota) según el artículo 40 LIS?
+Respuesta Correcta: Se multiplica por 18% la diferencia entre la cuota íntegra del último periodo con plazo de declaración vencido y las deducciones, bonificaciones y retenciones de ese mismo periodo.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+
+Pregunta: ¿Cómo se calcula el pago fraccionado con la Opción B (base) según el artículo 40 LIS?
+Respuesta Correcta: Se multiplica la Base Imponible de los meses transcurridos del periodo impositivo por el coeficiente 5/7 del tipo de gravamen, y se restan las bonificaciones, retenciones y pagos fraccionados anteriores.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+
+Pregunta: ¿Para qué empresas es obligatoria la Opción B de pago fraccionado según el artículo 40 LIS?
+Respuesta Correcta: Para las empresas con un importe neto de la cifra de negocios superior a 6 millones de euros en los 12 meses anteriores.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+
+Pregunta: ¿Cuándo debe ejercerse la opción B de pago fraccionado según el artículo 40 LIS?
+Respuesta Correcta: Por medio de declaración censal durante el mes de febrero, o en el plazo de dos meses desde el inicio si el periodo impositivo no coincide con el año natural.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+
+Pregunta: ¿Qué entidades están excluidas de la obligación de realizar pagos fraccionados según el artículo 40 LIS?
+Respuesta Correcta: Las entidades que tributen a los tipos del 1% y 0% (empresas de inversión colectiva y fondos de pensiones).
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Pagos fraccionados del IS
+Pregunta: ¿Cuál es el límite de cifra de negocios para aplicar el régimen de Entidades de Reducida Dimensión según el artículo 101 LIS?
+Respuesta Correcta: Importe neto de la cifra de negocios en el periodo impositivo inmediatamente anterior inferior a 10 millones de euros.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+
+Pregunta: ¿Qué condición exige el artículo 102 LIS para aplicar la libertad de amortización en ERD?
+Respuesta Correcta: Que la plantilla media de trabajadores en los dos años siguientes al inicio del periodo se incremente respecto a la del año anterior, y que este incremento se mantenga otros dos años más.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+
+Pregunta: ¿En qué consiste la amortización acelerada para ERD según el artículo 103 LIS?
+Respuesta Correcta: Multiplicar el coeficiente de amortización lineal máximo según tablas por 2 (duplo) para elementos nuevos de inmovilizado material, intangible e inversiones inmobiliarias.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+
+Pregunta: ¿Cuál es el límite de deducción por deterioro de créditos para ERD según el artículo 104 LIS?
+Respuesta Correcta: El 1% de los deudores existentes a la conclusión del periodo impositivo, sin necesidad de cumplir los requisitos del artículo 13.1 LIS.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+
+Pregunta: ¿En qué consiste la reserva de nivelación de bases imponibles para ERD según el artículo 105 LIS?
+Respuesta Correcta: Minorar la Base Imponible positiva hasta el 10% de su importe (máximo 1 millón de euros), debiendo integrar la minoración en los 5 periodos siguientes o en caso de BIN.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+
+Pregunta: ¿Cómo se calcula la Cuota a Ingresar del IS según el artículo 41 LIS?
+Respuesta Correcta: Restando de la Cuota Líquida los pagos a cuenta (pagos fraccionados + retenciones + ingresos a cuenta). Si el resultado es negativo, la Administración debe devolver el exceso de oficio.
+Manual: Derecho Tributario II
+Bloque: 4
+Tema: Regímenes especiales de tributación
+Pregunta: ¿Cuáles son las tres características esenciales del IVA según el artículo 1 de la Ley del IVA?
+Respuesta Correcta: Es un tributo indirecto, recae sobre el consumo (el consumidor final lo soporta económicamente), y grava operaciones del tráfico empresarial (entregas de bienes, prestaciones de servicios, AIB e importaciones).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+
+Pregunta: ¿Cuál es el ámbito territorial del IVA y qué territorios quedan excluidos?
+Respuesta Correcta: El territorio español (Estado español según el TFUE, islas adyacentes, mar territorial y espacio aéreo), excluyéndose Ceuta, Melilla e Islas Canarias (que tiene el IGIC).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+
+Pregunta: ¿Cuáles son los tres hechos imponibles del IVA según el artículo 1 LIVA?
+Respuesta Correcta: Las entregas de bienes y prestaciones de servicios por empresarios o profesionales, las adquisiciones intracomunitarias de bienes (AIB), y las importaciones de bienes.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+
+Pregunta: ¿Cuál es la regla de incompatibilidad entre IVA e ITP según el artículo 4.4 LIVA?
+Respuesta Correcta: Las operaciones sujetas al IVA no están sujetas a TPO/ITP, excepto las operaciones inmobiliarias sujetas pero exentas de IVA, que sí tributarán por TPO/ITP.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+
+Pregunta: ¿Qué operaciones principales no están sujetas al IVA según el artículo 7 LIVA?
+Respuesta Correcta: Transmisión de patrimonio empresarial que constituya unidad económica autónoma, entregas gratuitas promocionales (muestras, folletos), servicios en régimen de dependencia laboral, entregas de dinero y entregas de las Administraciones Públicas (salvo excepciones).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+
+Pregunta: ¿Cuáles son los cuatro requisitos para que una operación esté sujeta al IVA según el artículo 4 LIVA?
+Respuesta Correcta: Que se realice en el territorio de aplicación del impuesto (TAI), por empresarios o profesionales, a título oneroso (habitual u ocasionalmente), y en el desarrollo de una actividad empresarial o profesional.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA, Impuesto sobre el Valor Agregado
+Pregunta: ¿Qué se considera entrega de bienes según el artículo 8.1 LIVA?
+Respuesta Correcta: La transmisión del poder de disposición sobre un bien corporal (incluidos gas, calor, frío, energía eléctrica y demás modalidades de energía), incluyendo la cesión de título representativo de la propiedad.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+
+Pregunta: ¿Cuándo se considera entrega de bienes una ejecución de obra según el artículo 8.2 LIVA?
+Respuesta Correcta: Cuando tenga por objeto la construcción o rehabilitación de una edificación y el empresario ejecutor aporte materiales que excedan del 40% de la base imponible.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+
+Pregunta: ¿Qué operaciones se consideran asimiladas a entregas de bienes sujetas según el artículo 9 LIVA?
+Respuesta Correcta: Los autoconsumos de bienes (transferencias del patrimonio empresarial al consumo propio, transmisiones gratuitas a terceros, cambio de afectación entre sectores) y las transferencias intracomunitarias dentro de la misma empresa.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+
+Pregunta: ¿Cómo se define la prestación de servicios según el artículo 11 LIVA?
+Respuesta Correcta: Toda operación sujeta que no tenga la consideración de entrega, adquisición intracomunitaria de bienes ni importación, incluyendo arrendamientos, transportes, hostelería, préstamos y créditos.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+
+Pregunta: ¿Qué se entiende por empresario o profesional a efectos del IVA según el artículo 5 LIVA?
+Respuesta Correcta: Quienes realizan actividades que suponen la ordenación por cuenta propia de factores de producción materiales y humanos para intervenir en la producción y distribución de bienes y servicios.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+
+Pregunta: ¿Qué entidades se consideran siempre empresarios o profesionales según el artículo 5 LIVA?
+Respuesta Correcta: Las sociedades mercantiles (salvo prueba en contrario), quienes exploten bienes para obtener ingresos continuados, quienes urbanicen, promuevan, construyan o rehabiliten edificaciones, y quienes entreguen medios de transporte exentos del artículo 25.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA: hecho imponible
+Pregunta: ¿Qué es una Adquisición Intracomunitaria de Bienes (AIB) según el artículo 15 LIVA?
+Respuesta Correcta: La obtención del poder de disposición de bienes corporales enviados al TAI con destino al adquirente desde otro Estado miembro de la UE, siendo el adquirente quien incurre en el hecho imponible.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+
+Pregunta: ¿Qué se considera importación de bienes según el artículo 18 LIVA?
+Respuesta Correcta: La entrada en el interior del país de un bien procedente de un territorio tercero (no UE). Si el bien se coloca en zonas francas o regímenes aduaneros, la importación se produce cuando sale del área o abandona el régimen.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+
+Pregunta: ¿Qué significa que una exención del IVA sea "limitada" según el artículo 20 LIVA?
+Respuesta Correcta: Que el sujeto pasivo que realiza operaciones exentas no puede deducir el IVA soportado en la adquisición de bienes utilizados en esas operaciones, convirtiéndose el IVA soportado en un coste.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+
+Pregunta: ¿Cuáles son las principales exenciones limitadas del artículo 20 LIVA?
+Respuesta Correcta: Asistencia sanitaria, asistencia social, enseñanza (pública y privada autorizada, clases particulares), seguros y operaciones financieras, y operaciones inmobiliarias (terrenos rústicos no edificables y segunda entrega de edificaciones).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+
+Pregunta: ¿En qué consiste la renuncia a la exención inmobiliaria según el artículo 20.2 LIVA?
+Respuesta Correcta: El empresario puede renunciar a la exención de terrenos no edificables y segundas entregas de edificaciones cuando el adquirente sea empresario/profesional con derecho a deducir el IVA soportado, quedando la operación gravada por IVA y no por ITP.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+
+Pregunta: ¿Qué regulan las exenciones plenas de los artículos 21 a 67 LIVA?
+Respuesta Correcta: Son exenciones que sí otorgan derecho a deducir el IVA soportado, relacionadas con exportaciones, entregas intracomunitarias, AIB, importaciones, zonas francas y regímenes aduaneros.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: IVA hecho imponible (segunda parte)
+Pregunta: ¿Cuándo se considera realizada en el TAI una entrega de bienes sin expedición o transporte según el artículo 68 LIVA?
+Respuesta Correcta: Cuando los bienes se pongan a disposición del adquirente en el Territorio de Aplicación del Impuesto (TAI).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+
+Pregunta: ¿Cuándo se considera realizada en el TAI una prestación de servicios B2B según el artículo 69 LIVA?
+Respuesta Correcta: Si el destinatario empresario o profesional tiene en el TAI la sede de actividad económica, un establecimiento permanente o, en su defecto, la residencia habitual, y los servicios tienen destino allí.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+
+Pregunta: ¿Cuándo se entienden realizadas en el TAI las Adquisiciones Intracomunitarias de Bienes según el artículo 71 LIVA?
+Respuesta Correcta: Cuando se encuentre en el TAI la llegada de la expedición o transporte con destino al adquirente.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+
+Pregunta: ¿Cuándo se devenga el IVA en las entregas de bienes según el artículo 75 LIVA?
+Respuesta Correcta: Cuando se produzca la puesta a disposición del adquirente.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+
+Pregunta: ¿Cuándo se devenga el IVA en operaciones de tracto sucesivo (arrendamientos, suministros) según el artículo 75 LIVA?
+Respuesta Correcta: En el momento en que resulte exigible la parte del precio que comprenda cada percepción. Si no se pacta precio o el periodo es superior al año, el devengo es el 31 de diciembre por la parte proporcional.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+
+Pregunta: ¿Cuál es la diferencia entre pagos anticipados y pagos aplazados respecto al devengo del IVA?
+Respuesta Correcta: Los pagos anticipados (antes del hecho imponible) devengan impuesto en el momento del cobro por ese importe. Los pagos aplazados (después del hecho imponible) no tienen relevancia; el impuesto se devenga por el total en el momento de la entrega/prestación.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Lugar de realización y devengo
+Pregunta: ¿Qué elementos integran la Base Imponible del IVA según el artículo 78 LIVA?
+Respuesta Correcta: El importe total de la contraprestación, incluyendo gastos accesorios (comisiones, portes, transportes, seguros), subvenciones vinculadas al precio, tributos (excepto el propio IVA y el IEDMT), envases y embalajes, percepciones retenidas y deudas asumidas.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+
+Pregunta: ¿Qué conceptos no se incluyen en la Base Imponible del IVA según el artículo 78 LIVA?
+Respuesta Correcta: Las indemnizaciones que no sean contraprestación, los descuentos y bonificaciones incluidos en factura, y las sumas pagadas en nombre y por cuenta del cliente en virtud de mandatos expresos.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+
+Pregunta: ¿Cuál es la Base Imponible en los autoconsumos de bienes según el artículo 79 LIVA?
+Respuesta Correcta: Sin proceso de fabricación: el mismo valor de compra. Con alteración: el valor de mercado en el momento del autoconsumo. Sometidos a elaboración: el coste de los bienes y servicios utilizados para obtenerlos.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+
+Pregunta: ¿Cuándo puede modificarse la Base Imponible por créditos incobrables según el artículo 80 LIVA?
+Respuesta Correcta: Cuando haya transcurrido un año desde el devengo sin cobro (6 meses para pymes), esté reflejado en libros de IVA, se haya reclamado judicialmente o por requerimiento notarial, y el destinatario sea empresario o la BI supere 300€.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+
+Pregunta: ¿Cuál es el plazo para modificar la Base Imponible por insolvencia según el artículo 80 LIVA?
+Respuesta Correcta: Tres meses desde la finalización del plazo de un año sin haber cobrado.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+
+Pregunta: ¿Cómo se determina la Base Imponible en las importaciones según el artículo 83 LIVA?
+Respuesta Correcta: La suma de los impuestos, derechos y gravámenes que se devengan fuera del TAI y en España por la importación, más los gastos accesorios (comisiones, embalaje, transporte y seguro) hasta el primer lugar de destino en la comunidad.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Base imponible
+Pregunta: ¿Quién es el sujeto pasivo en las entregas de bienes y prestaciones de servicios según el artículo 84 LIVA?
+Respuesta Correcta: El empresario o profesional que realiza las entregas de bienes y prestaciones de servicios sujetos al impuesto.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+
+Pregunta: ¿Cuándo se produce la inversión del sujeto pasivo (ISP) según el artículo 84 LIVA?
+Respuesta Correcta: Cuando el destinatario empresario/profesional sea el sujeto pasivo en operaciones por no establecidos en TAI, entregas de oro/desechos/emisiones/metales preciosos/móviles/ordenadores, operaciones inmobiliarias concursales o por ejecución de garantía, y renuncia a exención inmobiliaria.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+
+Pregunta: ¿Quién es el sujeto pasivo en las Adquisiciones Intracomunitarias de Bienes según el artículo 85 LIVA?
+Respuesta Correcta: Quien realiza la adquisición, es decir, el destinatario que obtiene el poder de disposición del bien.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+
+Pregunta: ¿Quién es el sujeto pasivo en las importaciones según el artículo 86 LIVA?
+Respuesta Correcta: Los destinatarios de los bienes importados: adquirentes, cesionarios, propietarios o consignatarios (los importadores).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+
+Pregunta: ¿En qué consiste el mecanismo de repercusión del IVA según el artículo 88 LIVA?
+Respuesta Correcta: Los sujetos pasivos deben repercutir íntegramente el IVA al destinatario, quien lo soporta. Si el destinatario es empresario, repercute a un nuevo destinatario, y así hasta el consumidor final que soporta pero no repercute.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+
+Pregunta: ¿Qué ocurre con la repercusión en los casos de ISP, AIB e importaciones?
+Respuesta Correcta: La figura de quien repercute y quien soporta se concentra en la misma persona (el destinatario/adquirente es el sujeto pasivo), que devenga el IVA y se lo repercute a sí mismo, soportándolo.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Sujetos pasivos del IVA y su repercusión
+Pregunta: ¿Cuáles son los tres tipos impositivos del IVA según los artículos 90 y 91 LIVA?
+Respuesta Correcta: Tipo general 21%, tipo reducido 10% y tipo súper reducido 4%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+
+Pregunta: ¿Qué tipo impositivo se aplica como regla general y cuándo se determina?
+Respuesta Correcta: El tipo general del 21% se aplica salvo que resulte aplicable un tipo especial. El tipo aplicable es el vigente en el momento del devengo, ignorando cuándo se prestó o inició el servicio.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+
+Pregunta: ¿Qué entregas de bienes tributan al tipo reducido del 10% según el artículo 91.Uno LIVA?
+Respuesta Correcta: Productos de nutrición (excepto bebidas alcohólicas y refrescantes), animales y vegetales para alimentación, bienes agrícolas, aguas, medicamentos veterinarios, productos médicos, viviendas (con dos garajes y trastero), flores y semillas.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+
+Pregunta: ¿Qué prestaciones de servicios tributan al tipo reducido del 10% según el artículo 91.Uno LIVA?
+Respuesta Correcta: Transporte de viajeros, hostelería y restauración, limpieza de vías públicas, recogida de residuos, entradas culturales (museos, teatros, cine), espectáculos deportivos aficionados, exposiciones comerciales, y arrendamientos con opción de compra de vivienda.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+
+Pregunta: ¿Qué entregas de bienes tributan al tipo súper reducido del 4% según el artículo 91.Dos LIVA?
+Respuesta Correcta: Pan común, harinas panificables, leche, quesos, huevos, frutas, verduras, legumbres, tubérculos, cereales, libros/periódicos/revistas, medicamentos humanos, vehículos y sillas para discapacitados, prótesis e implantes, y viviendas de protección oficial (VPO).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+
+Pregunta: ¿Qué prestaciones de servicios tributan al 4% según el artículo 91.Dos LIVA?
+Respuesta Correcta: Servicios de reparación de vehículos y sillas para discapacitados, servicios de teleasistencia, ayuda a domicilio, centros de día/noche y atención residencial a personas dependientes, y arrendamientos con opción de compra de VPO.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos
+Pregunta: ¿Qué tipo impositivo especial se aplicó al gas natural, biomasa y madera para leña según el RD 20/2022?
+Respuesta Correcta: El 5% del IVA, con efectos desde el 1 de enero de 2023 y vigencia hasta el 31 de diciembre de 2023.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+
+Pregunta: ¿A qué suministros de energía eléctrica se aplicó el tipo del 5% según el RD 20/2022?
+Respuesta Correcta: A titulares con potencia contratada igual o inferior a 10 kW cuando el precio mayorista supere 45€/MWh, y a perceptores del bono social con condición de vulnerabilidad reconocida.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+
+Pregunta: ¿Qué tipo impositivo se aplicó a aceites de oliva y semillas y pastas alimenticias según el RD 20/2022?
+Respuesta Correcta: El 5% del IVA, con recargo de equivalencia del 0,62%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+
+Pregunta: ¿Qué alimentos básicos tuvieron tipo del 0% según el RD 20/2022?
+Respuesta Correcta: Pan común (incluida masa y pan congelado para elaboración), harinas panificables, leche de cualquier especie, quesos, huevos, frutas, verduras, hortalizas, legumbres, tubérculos y cereales naturales. Recargo de equivalencia del 0%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+
+Pregunta: ¿Cuál fue la vigencia temporal de las medidas del RD 20/2022 sobre alimentos?
+Respuesta Correcta: Desde el 1 de enero de 2023 hasta el 31 de diciembre de 2023, pudiendo pasar al 4% a partir del 1 de noviembre de 2023 si la inflación subyacente de septiembre era inferior al 5,5%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+
+Pregunta: ¿Cuál fue el objetivo de las modificaciones de tipos del RD 20/2022?
+Respuesta Correcta: Mitigar las consecuencias económicas de la guerra de Ucrania y la inflación mediante tipos temporales reducidos para energía y alimentos básicos.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Los tipos impositivos: novedades introducidas por el RD 20/2022
+Pregunta: ¿En qué consiste el derecho a deducir del IVA según el artículo 92 LIVA?
+Respuesta Correcta: Los sujetos pasivos pueden deducir de las cuotas de IVA devengadas (por ventas) las cuotas de IVA soportadas (por compras), ingresando solo la diferencia.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+
+Pregunta: ¿Cuáles son los requisitos para ejercer el derecho a deducir según los artículos 93-97 LIVA?
+Respuesta Correcta: Subjetivo (ser empresario/profesional), objetivo de destino (operaciones con derecho a deducir), objetivo de afectación (directa y exclusiva a la actividad), no ser bien excluido (joyas, tabacos, espectáculos), formal (poseer factura original) y temporal (4 años).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+
+Pregunta: ¿Qué operaciones originan el derecho a deducir según el artículo 94 LIVA?
+Respuesta Correcta: Entregas y prestaciones sujetas y no exentas, exportaciones, operaciones asimiladas a exportaciones, zonas francas y depósitos, regímenes aduaneros fiscales, y entregas intracomunitarias.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+
+Pregunta: ¿Cuál es la regla especial de deducción para automóviles y motocicletas según el artículo 95 LIVA?
+Respuesta Correcta: Deducción tasada del 50% del IVA soportado, salvo que se destinen al 100% a actividades específicas (vehículos mixtos, transporte de viajeros, enseñanza de conductores).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+
+Pregunta: ¿Cuál es el plazo para ejercer el derecho a deducir según los artículos 99 y 100 LIVA?
+Respuesta Correcta: En el mismo periodo de liquidación en que se soporten las cuotas o en los cuatro años siguientes al nacimiento del derecho (devengo de la cuota soportada). El derecho caduca si no se ejerce en cuatro años.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+
+Pregunta: ¿Qué bienes y servicios excluyen directamente el derecho a deducir según el artículo 96 LIVA?
+Respuesta Correcta: Joyas, alhajas, piedras preciosas y perlas; alimentos, bebidas y tabacos; espectáculos y servicios recreativos; y bienes destinados a atenciones de clientes, asalariados o terceras personas.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: Deducciones del IVA
+Pregunta: ¿Cuándo se aplica la regla de la prorrata según el artículo 102 LIVA?
+Respuesta Correcta: Cuando el sujeto pasivo efectúa conjuntamente operaciones que originan derecho a deducción (sujetas y no exentas, exenciones plenas) y operaciones que no originan derecho a deducción (exenciones limitadas del artículo 20).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+
+Pregunta: ¿Cómo se calcula el porcentaje de prorrata general según el artículo 104 LIVA?
+Respuesta Correcta: Dividiendo el importe de operaciones con derecho a deducir entre el importe total de operaciones, multiplicando por 100 y redondeando a la unidad superior.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+
+Pregunta: ¿Cuándo se aplica la prorrata especial según los artículos 103 y 106 LIVA?
+Respuesta Correcta: Por opción del sujeto pasivo o cuando la prorrata general exceda en un 10% o más a la que resultaría por aplicación de la especial.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+
+Pregunta: ¿Cómo funciona la deducción en la prorrata especial según el artículo 106 LIVA?
+Respuesta Correcta: Uso exclusivo en operaciones con derecho: 100% deducible. Uso exclusivo sin derecho: 0% deducible. Uso común: deducible en el porcentaje de la prorrata general.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+
+Pregunta: ¿Cuál es el periodo de regularización de bienes de inversión según el artículo 107 LIVA?
+Respuesta Correcta: 4 años siguientes a la adquisición (5 años totales) para bienes muebles, y 9 años siguientes (10 años totales) para terrenos y edificaciones.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+
+Pregunta: ¿Cuándo procede la regularización de bienes de inversión según el artículo 107 LIVA?
+Respuesta Correcta: Cuando el porcentaje de prorrata del año de adquisición y el del año de regularización difieran en más de diez puntos, generando una deducción complementaria (positiva) o ingreso adicional (negativa).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: La prorrata y regulación de IVA
+Pregunta: ¿Cuáles son las tres modalidades del ITPAJD y cuál es su compatibilidad?
+Respuesta Correcta: Transmisiones Patrimoniales Onerosas (TPO), Operaciones Societarias (OS) y Actos Jurídicos Documentados (AJD). TPO y OS son incompatibles entre sí, pero AJD es compatible con ambas.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+
+Pregunta: ¿Qué grava la modalidad de Transmisiones Patrimoniales Onerosas (TPO)?
+Respuesta Correcta: Transmisiones onerosas inter vivos de toda clase de bienes y derechos, y constitución de derechos reales. El sujeto pasivo es el adquirente de los bienes/derechos.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+
+Pregunta: ¿Cuál es la Base Imponible y tipo de gravamen para inmuebles en TPO según los artículos 10 y 11?
+Respuesta Correcta: La Base Imponible es el valor de referencia del Catastro Inmobiliario. El tipo es el aprobado por la Comunidad Autónoma (supletoriamente 6% para inmuebles, 4% para muebles).
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+
+Pregunta: ¿Qué operaciones grava la modalidad de Operaciones Societarias (OS) y a qué tipo?
+Respuesta Correcta: Constitución, aumento y disminución de capital social, disolución de sociedades, aportaciones de socios y traslado a España de sede/domicilio (si no estaban en UE). Tipo único del 1%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+
+Pregunta: ¿Cuál es la regla de incompatibilidad entre TPO e IVA?
+Respuesta Correcta: Las transmisiones sujetas a IVA (empresariales/profesionales) no se sujetan a TPO, excepto las operaciones inmobiliarias sujetas pero exentas de IVA, que sí tributan por TPO.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+
+Pregunta: ¿Cómo se calcula la Base Imponible del usufructo vitalicio en TPO?
+Respuesta Correcta: El 70% del valor del bien si el usufructuario tiene menos de 20 años, minorando un 1% por cada año de edad, con un mínimo del 10%.
+Manual: Derecho Tributario II
+Bloque: 5
+Tema: El impuesto de transmisiones y actos jurídicos documentados
+Pregunta: ¿Cuáles son las características de los Impuestos Especiales según el artículo 1 LIE?
+Respuesta Correcta: Son tributos de naturaleza indirecta que recaen sobre consumos específicos, se gravan en fase única (a diferencia del IVA), y gravan la fabricación, importación o entrada irregular de determinados bienes.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+
+Pregunta: ¿Cuáles son los Impuestos Especiales enumerados en el artículo 1.2 LIE?
+Respuesta Correcta: Impuestos especiales de fabricación (alcohol, hidrocarburos, tabaco), impuesto especial sobre la electricidad, impuesto especial sobre determinados medios de transporte (IEDMT) e impuesto especial sobre el carbón.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+
+Pregunta: ¿Cuál es el ámbito territorial de los Impuestos Especiales según el artículo 3 LIE?
+Respuesta Correcta: Se exigen en todo el territorio español, excepto Canarias, Ceuta y Melilla. Excepción: los impuestos sobre cerveza, productos intermedios y alcohol/bebidas derivadas sí se exigen también en Canarias.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+
+Pregunta: ¿Cuándo se produce el devengo en los Impuestos Especiales de Fabricación según el artículo 7 LIE?
+Respuesta Correcta: En la salida de los productos de fábrica o depósito fiscal, en el momento del autoconsumo, en el despacho de aduana (importación), o en la recepción por destinatarios registrados.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+
+Pregunta: ¿Quién es el sujeto pasivo (contribuyente) en los Impuestos Especiales de Fabricación según el artículo 8 LIE?
+Respuesta Correcta: El depositario autorizado (quien efectúa la salida de fábrica o depósito fiscal), el declarante de aduana en importaciones, y los destinatarios registrados o certificados en recepción.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+
+Pregunta: ¿Qué operaciones están exentas en los Impuestos Especiales según el artículo 9 LIE?
+Respuesta Correcta: La fabricación e importación destinada a relaciones diplomáticas o consulares, organizaciones internacionales, Fuerzas Armadas de la OTAN, y avituallamiento de buques/aeronaves en navegación internacional.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Naturaleza de los impuestos especiales de fabricación
+Pregunta: ¿Cuáles son los límites de exención para viajeros mayores de 17 años en alcohol y bebidas según el artículo 21 LIE?
+Respuesta Correcta: Alcohol y bebidas derivadas: 1 litro. Vino o bebidas fermentadas: 2 litros. Vino tranquilo: 4 litros. Cerveza: 16 litros.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+
+Pregunta: ¿Cuál es la base imponible y tipo del impuesto sobre la cerveza?
+Respuesta Correcta: Grava cerveza con graduación superior al 0,5%. Base: volumen en hectolitros. Tipo: desde 0€/hl hasta 9,91€/hl por grado plato.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+
+Pregunta: ¿Cuál es el tipo impositivo de los cigarrillos en el impuesto sobre labores del tabaco?
+Respuesta Correcta: Tipo proporcional del 51% (sobre el precio máximo de venta) más tipo específico de 24,7 euros por cada 1.000 unidades.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+
+Pregunta: ¿Cuál es el tipo impositivo del impuesto sobre la electricidad según la LIE?
+Respuesta Correcta: 5,11269632%, con cuota mínima de 0,5€/MWh para uso industrial y 1€/MWh para otros usos. La base liquidable tiene reducción del 85% para energía destinada a reducción química, procesos mineralógicos, riegos agrícolas, etc.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+
+Pregunta: ¿Cuál es el hecho imponible del Impuesto sobre Determinados Medios de Transporte (IEDMT)?
+Respuesta Correcta: La primera matriculación definitiva en España de vehículos a motor, embarcaciones/buques de recreo de más de 8 metros de eslora, motos náuticas, y aviones/avionetas (con excepciones).
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+
+Pregunta: ¿Cuáles son las reducciones de base liquidable en el IEDMT?
+Respuesta Correcta: 50% de reducción para vehículos de 5 a 9 plazas destinados a uso exclusivo de familias numerosas, y 30% de reducción para autocaravanas y vehículos acondicionados para vivienda.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos especiales de fabricación
+Pregunta: ¿Cuál es la naturaleza y objeto del Impuesto Temporal de Solidaridad a las Grandes Fortunas (ITSGF)?
+Respuesta Correcta: Es un tributo directo y de naturaleza personal, complementario al Impuesto sobre el Patrimonio, que grava el patrimonio neto de las personas físicas superior a 3 millones de euros.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+
+Pregunta: ¿Cuál es el mínimo exento aplicable en el ITSGF?
+Respuesta Correcta: 700.000 euros, aplicable tanto a sujetos por obligación personal como por obligación real. El RDL 8/2023 extendió este mínimo a no residentes con efectos retroactivos.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+
+Pregunta: ¿Cuáles son los tipos de gravamen del ITSGF según la escala?
+Respuesta Correcta: Hasta 3 millones de BL: 0%. De 3 a 5,35 millones: 1,70%. De 5,35 a 10,7 millones: 2,10%. Más de 10,7 millones: 3,50%.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+
+Pregunta: ¿Cuál es el límite conjunto de cuota íntegra en el ITSGF para obligación personal?
+Respuesta Correcta: La cuota íntegra del ITSGF, conjuntamente con las cuotas del IRPF y del IP, no puede exceder del 60% de la suma de las bases imponibles del IRPF.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+
+Pregunta: ¿Qué deducción principal existe en el ITSGF?
+Respuesta Correcta: El contribuyente puede deducir la cuota del Impuesto sobre el Patrimonio del ejercicio que efectivamente haya satisfecho de la cuota resultante en el ITSGF.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+
+Pregunta: ¿Cuándo se devenga el ITSGF y cuál es su ámbito territorial?
+Respuesta Correcta: Se devenga el 31 de diciembre de cada año. Se aplica en todo el territorio nacional y no es objeto de cesión a las Comunidades Autónomas.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: El Impuesto Temporal de Solidaridad a las Grandes Fortunas
+Pregunta: ¿Cuál es el hecho imponible del Impuesto sobre Bienes Inmuebles (IBI) según el artículo 61 TRLHL?
+Respuesta Correcta: La titularidad de derechos sobre bienes inmuebles (rústicos, urbanos o de características especiales): propiedad, usufructo, superficie o concesión administrativa sobre el inmueble o servicio público afecto.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales
+
+Pregunta: ¿Cuáles son los tipos de gravamen mínimos y máximos del IBI según el artículo 72 TRLHL?
+Respuesta Correcta: Urbanos: mínimo 0,4% y máximo 1,1%. Rústicos: mínimo 0,3% y máximo 0,9%. La base imponible es el valor catastral de los bienes inmuebles.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales
+
+Pregunta: ¿Quiénes están exentos del Impuesto sobre Actividades Económicas (IAE) según el artículo 82 TRLHL?
+Respuesta Correcta: Personas físicas (sean o no residentes), sujetos pasivos en sus dos primeros periodos impositivos, Estado/CCAA/EE.LL., entidades de la Seguridad Social, y entidades con cifra de negocios inferior a 1 millón de euros.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales
+
+Pregunta: ¿Cuál es el hecho imponible del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO)?
+Respuesta Correcta: La realización de cualquier construcción, instalación u obra para la que se exija licencia de obras/urbanística o declaración responsable/comunicación previa, cuyo control corresponda al Ayuntamiento.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales
+
+Pregunta: ¿Cuál es el tipo máximo de gravamen del ICIO y qué elementos se excluyen de la base imponible?
+Respuesta Correcta: El tipo no puede exceder del 4%. La base imponible es el coste real y efectivo de la obra, excluyendo el IVA, tasas, precios públicos, honorarios profesionales y beneficio empresarial del contratista.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales
+
+Pregunta: ¿Cuál es el hecho imponible del Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana (plusvalía) según el artículo 104 TRLHL?
+Respuesta Correcta: El incremento de valor de terrenos urbanos puesto de manifiesto por transmisión de la propiedad o constitución/transmisión de derechos reales de goce. Tipo máximo: 45%. Periodo máximo de cálculo: 20 años.
+Manual: Derecho Tributario II
+Bloque: 6
+Tema: Impuestos locales

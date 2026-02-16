@@ -1,0 +1,2232 @@
+Pregunta: ¿Cómo se interrelacionan los conceptos de Estado de Derecho, Democrático y Social según el art. 1 de la CE?
+Respuesta Correcta: Estos conceptos son interdependientes y complementarios; juntos definen el modelo de convivencia política y jurídica, asegurando derechos, participación democrática y protección social.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: Explique el papel del Poder Judicial en el control del cumplimiento del Estado de Derecho.
+Respuesta Correcta: El Poder Judicial garantiza la legalidad frente a abusos de los otros poderes, actuando como última ratio para restablecer el imperio de la ley, como se evidenció en el caso del Gobierno catalán.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: Analice cómo el art. 16 CE protege las libertades ideológica, religiosa y de culto.
+Respuesta Correcta: El art. 16 CE garantiza la libertad de convicciones personales, prohibiendo la coacción o discriminación por ideología o religión, y permite el ejercicio público de creencias sin intervención estatal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: Discuta el impacto del principio de legalidad en la actuación estatal según el art. 9.1 CE.
+Respuesta Correcta: El principio de legalidad obliga a ciudadanos y poderes públicos a someterse al ordenamiento jurídico, previniendo abusos de poder y asegurando la corrección de actos contra legem.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: ¿Cómo contribuyen los partidos políticos a la democracia representativa según el art. 6 CE?
+Respuesta Correcta: Los partidos políticos canalizan visiones ideológicas y proyectos, siendo esenciales para la participación política y el ejercicio del poder a través del sufragio universal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: Evalúe las tensiones entre la teoría de la separación de poderes y la práctica política en España.
+Respuesta Correcta: La práctica política, como en el nombramiento del CGPJ, a veces compromete la teoría de separación de poderes, aunque la autonomía funcional sigue siendo un requisito constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 1: Estado Social Y Democrático De Derecho
+
+Pregunta: Analiza cómo la Monarquía Parlamentaria española se diferencia de la Monarquía Absoluta en términos de distribución del poder.
+Respuesta Correcta: En la Monarquía Absoluta, el Rey concentraba los poderes Ejecutivo, Legislativo y Judicial. En cambio, la Monarquía Parlamentaria española distribuye estos poderes, limitando al Rey a funciones simbólicas y requiriendo refrendo ministerial para sus actos, asegurando así la separación de poderes.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: Explica la importancia del principio del ministro responsable en la Monarquía Parlamentaria.
+Respuesta Correcta: Este principio establece que el Rey no puede actuar solo, sino que sus actos deben ser refrendados por un ministro, quien asume la responsabilidad jurídica. Esto garantiza que el poder no se concentre en el monarca, promoviendo la responsabilidad política y el control democrático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: Discute la función moderadora y arbitral del Rey en el sistema político español.
+Respuesta Correcta: El Rey ejerce una función moderadora y arbitral debido a su posición imparcial y no electoral. Al no depender de partidos políticos, puede actuar como mediador entre instituciones, asegurando el funcionamiento regular del Estado sin influencias partidistas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: Evalúa las ventajas de la continuidad y estabilidad institucional que aporta la Monarquía Parlamentaria.
+Respuesta Correcta: La sucesión hereditaria predeterminada del Rey, establecida en la Constitución, elimina pugnas políticas por el poder. Esta continuidad institucional contribuye a la estabilidad del Estado, ya que el monarca no depende de elecciones ni de partidos políticos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: Analiza la rigidez del procedimiento de reforma del Título II de la Constitución y su impacto en la Monarquía Parlamentaria.
+Respuesta Correcta: La rigidez del procedimiento de reforma del Título II, que requiere el procedimiento agravado del art. 168 CE, protege la Monarquía al dificultar cambios en su estructura. Esto asegura estabilidad y continuidad en la forma de gobierno, reflejando la importancia constitucional de la Corona.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: Describe cómo la Monarquía Parlamentaria refleja la evolución histórica de la monarquía en España.
+Respuesta Correcta: La Monarquía Parlamentaria es el resultado de un proceso evolutivo desde la Monarquía Absoluta, pasando por las formas Limitada y Constitucional. Este modelo limita al Rey a funciones simbólicas, transfiriendo poderes a otras instituciones, y está formalizado en la Constitución.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 2: Monarquía Parlamentaria
+
+Pregunta: ¿Cómo se articula el régimen de sucesión a la Corona según la Constitución Española y qué principios lo rigen?
+Respuesta Correcta: El régimen de sucesión se articula según el art. 57.1 CE mediante el orden de primogenitura y representación, regido por las reglas de línea, grado, sexo y edad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: Analiza la aplicación de la Ley Sálica parcial en el orden sucesorio español y su impacto en la preferencia de sexo.
+Respuesta Correcta: La aplicación parcial de la Ley Sálica da preferencia al varón sobre la mujer en el mismo grado y línea, lo que influye en el acceso al trono, como en el caso del Rey Felipe VI.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: Explica el mecanismo de exclusión sucesoria por matrimonio sin el consentimiento del Rey y las Cortes Generales.
+Respuesta Correcta: El art. 57.4 CE establece que un matrimonio sin el consentimiento del Rey y las Cortes excluye ipso iure al contrayente y sus descendientes de la sucesión.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: Describe el proceso y la relevancia del juramento del Príncipe Heredero según el art. 61 CE.
+Respuesta Correcta: Al alcanzar la mayoría de edad, el Príncipe Heredero debe jurar ante las Cortes, comprometiéndose a cumplir la Constitución y las leyes, siendo un acto habilitante para su cargo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: ¿En qué circunstancias se activa la sucesión extraordinaria y cuál es el rol de las Cortes Generales en este proceso?
+Respuesta Correcta: La sucesión extraordinaria se activa al extinguirse todas las líneas sucesorias. Las Cortes Generales proveen a la sucesión según lo que más convenga a los intereses de España.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: Analiza la función de la Regencia por minoría de edad del Rey según el art. 59.1 CE.
+Respuesta Correcta: La Regencia se asume por el padre o madre viudo del Rey menor de edad, o por el pariente adulto más próximo en la sucesión, garantizando la continuidad de la autoridad real.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 3: Sucesión, Tutela y Regencia 1. Fundamento y Titularidad del Derecho Dinástico
+
+Pregunta: Analice la función simbólica del Rey como Jefe del Estado en el contexto del constitucionalismo moderno.
+Respuesta Correcta: El Rey actúa como símbolo de la unidad y permanencia del Estado, sin ejercer la jefatura del Poder Ejecutivo. Su función es principalmente representativa, garantizando el equilibrio institucional sin poder ejecutivo real.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: Explique la naturaleza de la función del Rey en la sanción, promulgación y publicación de las leyes según la Constitución Española.
+Respuesta Correcta: La función del Rey es automática y obligatoria, sin derecho de veto. Debe sancionar, promulgar y ordenar la publicación de las leyes aprobadas por las Cortes en un plazo de quince días, lo que asegura el respeto al procedimiento legislativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: Discuta la capacidad del Rey para influir en la propuesta y nombramiento del Presidente del Gobierno.
+Respuesta Correcta: Aunque el Rey formalmente propone al candidato a Presidente, en la práctica está limitado a elegir a quien tenga mayor apoyo en el Congreso. Su papel es más simbólico que decisorio, asegurando la estabilidad política.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: Evalúe el papel del Rey en la convocatoria de referéndum según el artículo 92 de la Constitución Española.
+Respuesta Correcta: El Rey convoca referéndum a propuesta del Presidente del Gobierno y con autorización del Congreso. Su función es de carácter formal y no vinculante, reflejando el carácter consultivo de estas consultas populares.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: Analice la posición doctrinal mayoritaria sobre el mando supremo del Rey en las Fuerzas Armadas.
+Respuesta Correcta: La posición mayoritaria sostiene que el mando supremo del Rey es honorífico, ya que la administración y defensa del Estado recaen en el Gobierno, limitando su acción a situaciones excepcionales como el 23-F.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: Argumente sobre la obligatoriedad de la firma del Rey en la expedición de decretos y su relevancia.
+Respuesta Correcta: La firma del Rey en decretos es un acto formal sin discrecionalidad, refrendado por el Gobierno. Constituye una formalidad necesaria que facilita el funcionamiento del sistema legal sin responsabilizar al Monarca.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 4: Funciones del Rey
+
+Pregunta: ¿Cómo se justifica la inviolabilidad del Rey desde una perspectiva constitucional y qué función cumple en la monarquía parlamentaria?
+Respuesta Correcta: La inviolabilidad del Rey, recogida en la Constitución, garantiza la estabilidad institucional al asegurar que el Monarca no sea responsable por sus actos oficiales, permitiendo que el sistema democrático funcione sin riesgos de crisis por acciones regias.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: Analiza el principio de refrendo y su importancia en el sistema democrático español.
+Respuesta Correcta: El refrendo transfiere la responsabilidad de los actos del Rey al Gobierno, asegurando rendición de cuentas en un sistema democrático y protegiendo al Monarca de responsabilidades jurídicas, garantizando así la continuidad institucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: Diferencia entre los tipos de refrendo constitucional y su aplicación en el ordenamiento jurídico español.
+Respuesta Correcta: El refrendo expreso requiere firma del Gobierno, el tácito se basa en la presencia en actos oficiales, y el presunto en la continuidad del Gobierno en funciones, asegurando así la cobertura de actos regios según su naturaleza.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: Discute el papel del Presidente del Congreso de los Diputados en el proceso de refrendo según la Constitución.
+Respuesta Correcta: El Presidente del Congreso refrenda propuestas y nombramientos del Presidente del Gobierno y la disolución de Cortes en investiduras fallidas, según el art. 64.1 CE, asegurando responsabilidad en decisiones clave.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: Evalúa los límites de la responsabilidad delegada en el refrendo de nombramientos del Consejo General del Poder Judicial y Tribunal Constitucional.
+Respuesta Correcta: El Presidente del Gobierno refrenda la legalidad formal de dichos nombramientos, pero no asume responsabilidad política ni justifica la elección, que corresponde a las Cámaras, delimitando así la responsabilidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: Examina la excepción al refrendo de los actos personalísimos del Rey y su impacto en el ámbito constitucional.
+Respuesta Correcta: Algunos actos personalísimos, como el consentimiento matrimonial, pueden estar exentos de refrendo debido a su naturaleza, aunque tengan relevancia institucional, lo cual refleja la autonomía personal del Monarca en ciertos ámbitos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 1
+Tema: Tema 5: Responsabilidad y Refrendo de los Actos del Rey
+
+Pregunta: ¿Cómo se garantiza la independencia de las Cortes Generales frente al Gobierno u otros poderes del Estado?
+Respuesta Correcta: Mediante prerrogativas colectivas como la autonomía normativa, administrativa y presupuestaria, que permiten a las Cortes auto-regularse y gestionarse sin intervención externa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: Explique la diferencia funcional entre el Congreso de los Diputados y el Senado en el sistema bicameral español.
+Respuesta Correcta: El Congreso tiene preeminencia en funciones legislativas y políticas, como la investidura del Presidente, mientras que el Senado actúa como Cámara de representación territorial con funciones específicas como el control coercitivo sobre CCAA.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: Analice el impacto de la elección de senadores por provincias en la representatividad del Senado.
+Respuesta Correcta: La elección de cuatro senadores por provincia, independientemente de su población, genera una representatividad desigual que beneficia a provincias menos pobladas, distorsionando el peso del voto ciudadano.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: ¿Qué papel juega el Tribunal Constitucional en la limitación del poder de las Cortes Generales?
+Respuesta Correcta: El Tribunal Constitucional supervisa la acción legislativa, asegurando que las Cortes no subviertan el orden constitucional, garantizando el respeto a la Constitución y evitando excesos de la mayoría parlamentaria.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: Discuta la importancia de la inviolabilidad de las Cortes Generales en el sistema jurídico español.
+Respuesta Correcta: La inviolabilidad asegura que las Cortes no sean responsables legalmente por sus actos funcionales, protegiendo su independencia y permitiendo un funcionamiento sin interferencias judiciales externas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: ¿Cómo se articula la representación territorial en el Senado y qué principios guía su composición?
+Respuesta Correcta: La representación territorial se articula combinando criterios poblacionales y territoriales, con senadores designados por CCAA según población y seleccionados por provincias, reflejando un equilibrio entre territorialidad y población.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 1: Cortes Generales 1. Definición y Fundamento Constitucional
+
+Pregunta: Analiza la función del Presidente de la Cámara en la interpretación del Reglamento y su impacto en la autonomía de la Cámara.
+Respuesta Correcta: El Presidente interpreta y suple el Reglamento, asegurando claridad y continuidad en el trabajo parlamentario. Esta función es crucial para la autonomía de la Cámara, ya que permite resolver ambigüedades y lagunas normativas, manteniendo la disciplina y el orden en los debates.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: Discute cómo la composición y elección de la Mesa del Parlamento garantizan la representación política adecuada.
+Respuesta Correcta: La elección de la Mesa mediante votación proporcional permite la integración de grupos parlamentarios mayoritarios y minoritarios. Este sistema asegura que la composición de la Mesa refleje la diversidad política del Parlamento, garantizando una gestión inclusiva del trabajo parlamentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: Examina el papel de la Junta de Portavoces en la fijación del Orden del Día y su influencia en la dinámica parlamentaria.
+Respuesta Correcta: La Junta de Portavoces, presidida por el Presidente de la Cámara, decide el Orden del Día del Pleno. Esta capacidad de decisión política permite tratar asuntos urgentes, influyendo significativamente en la agenda parlamentaria y priorizando temas de alta trascendencia política.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: Valora la importancia de las Comisiones en el proceso legislativo y su efecto en la eficiencia del Parlamento.
+Respuesta Correcta: Las Comisiones evitan el atasco del Pleno al asumir competencias legislativas plenas en ciertos casos. Permiten la discusión técnica y la resolución de controversias normativas, aligerando la carga del Pleno y mejorando la eficiencia legislativa del Parlamento.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: Argumenta sobre la relevancia de la publicidad de las sesiones parlamentarias como principio democrático.
+Respuesta Correcta: La publicidad de las sesiones, como establece el art. 80 CE, garantiza la transparencia de la actividad legislativa y de control. Este principio democrático permite el acceso del público y medios de comunicación, fomentando la rendición de cuentas y la participación ciudadana.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: Analiza cómo la Diputación Permanente asegura la continuidad del trabajo parlamentario durante los períodos no ordinarios.
+Respuesta Correcta: La Diputación Permanente opera fuera de los períodos ordinarios, representando proporcionalmente a los Grupos Parlamentarios. Valida Decretos-leyes y autoriza estados excepcionales, garantizando que el Parlamento continúe funcionando ante situaciones urgentes, incluso en vacaciones parlamentarias o disoluciones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 2: Órganos Parlamentarios
+
+Pregunta: ¿Cuál es el objetivo de las incompatibilidades constitucionales para los parlamentarios según el Art. 70 CE?
+Respuesta Correcta: Las incompatibilidades buscan garantizar la separación de poderes y la dedicación exclusiva al mandato, afectando a ciertos cargos como miembros del Tribunal Constitucional y altos cargos de la Administración del Estado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: ¿Qué implicaciones tiene la negativa de un parlamentario a jurar o prometer la Constitución?
+Respuesta Correcta: Aunque no pierden formalmente su condición de parlamentarios, la negativa a jurar o prometer la Constitución les suspende del ejercicio de sus funciones, como el derecho al voto.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: Analiza la importancia de la inviolabilidad parlamentaria en el ejercicio de la función representativa.
+Respuesta Correcta: La inviolabilidad permite a los parlamentarios expresar opiniones y votar sin temor a sanciones, garantizando así su libertad de acción y el correcto funcionamiento de las Cámaras.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: ¿En qué casos no se aplica la inmunidad parlamentaria?
+Respuesta Correcta: La inmunidad no se aplica en caso de flagrante delito, permitiendo la detención inmediata del parlamentario si es sorprendido cometiendo un crimen.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: Explica el concepto de fuero especial y su relevancia para los parlamentarios.
+Respuesta Correcta: El fuero especial asegura que los procesos penales contra parlamentarios sean conocidos por la Sala de lo Penal del Tribunal Supremo, garantizando objetividad y cualificación en el enjuiciamiento.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: Compara los efectos temporales de la inviolabilidad y la inmunidad parlamentaria.
+Respuesta Correcta: La inviolabilidad tiene efectos permanentes, impidiendo procedimientos incluso tras el cese del cargo, mientras que la inmunidad solo dura durante el mandato, permitiendo procedimientos penales al finalizar.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 3: Estatuto de los Parlamentarios
+
+Pregunta: ¿Por qué el Gobierno tiene prioridad en la tramitación de sus propuestas legislativas frente a las del Congreso y Senado?
+Respuesta Correcta: El art. 89.1 CE otorga al Proyecto de Ley del Gobierno prioridad en la tramitación debido a su rol central en la iniciativa legislativa, asegurando así mayor efectividad en la implementación de políticas gubernamentales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: Analiza la razón por la cual las Cámaras no pueden rechazar la tramitación de un Proyecto de Ley del Gobierno.
+Respuesta Correcta: La imposibilidad de rechazo inicial de un Proyecto de Ley busca evitar bloqueos políticos que podrían paralizar al Ejecutivo, garantizando al Gobierno la posibilidad de presentar sus iniciativas a debate parlamentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: Examina los requisitos necesarios para que una Proposición de Ley sea presentada en el Congreso de los Diputados.
+Respuesta Correcta: Según los Reglamentos, se necesita la presentación por al menos quince Diputados o un Grupo Parlamentario completo, asegurando así un respaldo mínimo necesario para iniciar el trámite legislativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: Evalúa la eficacia de la Iniciativa Legislativa Popular ante las restricciones materiales impuestas por el art. 87.3 CE.
+Respuesta Correcta: Aunque permite la participación ciudadana, la ILP está limitada por exclusiones en materias clave, como Leyes Orgánicas o Tributarias, restringiendo su impacto en áreas de alta relevancia política y económica.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: Discute la capacidad de las Asambleas de las CCAA para influir en la legislación estatal mediante la remisión de Proposiciones de Ley.
+Respuesta Correcta: Las Asambleas pueden remitir Proposiciones de Ley al Congreso y defenderlas, permitiéndoles influir en la agenda legislativa estatal, aunque sin garantía de aprobación, reflejando un mecanismo de colaboración intergubernamental.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: Considera las implicaciones jurídicas de la no vinculación del Gobierno ante solicitudes de Proyectos de Ley por parte de las Asambleas de las CCAA.
+Respuesta Correcta: La no vinculación asegura la autonomía del Ejecutivo en su agenda legislativa, aunque permite a las CCAA expresar intereses regionales, reflejando un equilibrio entre descentralización y unidad de acción estatal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 4: Funciones de las Cortes Generales I
+
+Pregunta: ¿Cómo se manifiesta la superioridad del Congreso sobre el Senado en el procedimiento legislativo ordinario?
+Respuesta Correcta: El bicameralismo español es asimétrico, otorgando al Congreso la última palabra. Aunque el Senado puede vetar un texto, el Congreso puede ratificarlo por mayoría absoluta de manera inmediata o por mayoría simple tras dos meses, superando así el veto del Senado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: Analiza las restricciones a las enmiendas a la totalidad en el Congreso de los Diputados.
+Respuesta Correcta: Las enmiendas a la totalidad no son admisibles respecto a proposiciones de ley que provengan del Congreso o de iniciativas legislativas populares. Esta limitación permite proteger iniciativas específicas y fomentar su tramitación en el Congreso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: ¿Cuál es la importancia del acto de sanción y promulgación del Rey en el proceso legislativo?
+Respuesta Correcta: El acto de sanción es un acto debido, sin discrecionalidad política, que asegura la promulgación y orden de publicación de la ley en el BOE. Aunque el Rey no puede cuestionar la constitucionalidad, debe verificar el cumplimiento formal, como la mayoría requerida en el Congreso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: Explique los objetivos y limitaciones del procedimiento de lectura única.
+Respuesta Correcta: El procedimiento de lectura única busca celeridad en la tramitación de leyes de amplio consenso o sencillas, permitiendo un solo debate y votación en el Pleno. Sin embargo, no es adecuado para proyectos que requieran un extenso debate técnico o político.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: Discuta la función del Senado en el procedimiento legislativo ordinario y sus limitaciones.
+Respuesta Correcta: El Senado tiene un papel de revisión, pudiendo vetar o enmendar textos, pero su poder es limitado a un retraso de dos meses. El Congreso tiene siempre la última palabra, lo que consolida el poder decisorio de la Cámara Baja en el sistema bicameral español.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: Analice cómo los procedimientos legislativos especiales pueden afectar la tramitación de leyes en comparación con el procedimiento ordinario.
+Respuesta Correcta: Los procedimientos especiales, como la comisión legislativa plena, lectura única o urgencia, buscan aligerar la carga del Pleno o acelerar la tramitación. Estos permiten adaptar el proceso a la urgencia o consenso, aunque no aplican a leyes de alta trascendencia como las orgánicas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 5: Funciones de las Cortes Generales II
+
+Pregunta: ¿Cuál es la importancia de la potestad tributaria de las Cortes Generales en el contexto del Estado español?
+Respuesta Correcta: La potestad tributaria de las Cortes es crucial ya que permite imponer y regular tributos, garantizando que los ingresos del Estado se obtengan de modo legítimo y conforme a la ley, lo cual es fundamental para la financiación del gasto público.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: Analiza cómo el principio de reserva de ley afecta a la imposición de nuevos tributos en España.
+Respuesta Correcta: El principio de reserva de ley implica que cualquier nuevo tributo o modificación de uno existente debe ser aprobado mediante una ley, garantizando control parlamentario y evitando la imposición arbitraria por parte del Gobierno.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: Discute el papel de las Cortes Generales en la aprobación de los Presupuestos Generales del Estado y su impacto en el control gubernamental.
+Respuesta Correcta: Las Cortes, al aprobar los PGE, no solo autorizan el gasto anual del Gobierno, sino que ejercen un control sobre su política económica, asegurando que los recursos se destinen conforme a las prioridades establecidas democráticamente.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: Explica la relevancia de la prórroga presupuestaria en caso de no aprobación de los PGE y su efecto en la estabilidad financiera del Estado.
+Respuesta Correcta: La prórroga presupuestaria garantiza la continuidad del funcionamiento del Estado, utilizando el presupuesto anterior, lo que aporta estabilidad financiera mientras se negocian nuevos presupuestos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: Examina cómo los principios de eficiencia y economía influyen en la gestión del gasto público según el artículo 31.2 CE.
+Respuesta Correcta: Estos principios obligan a que el gasto público se ejecute optimizando los recursos disponibles, evitando despilfarros, y buscando siempre el mayor beneficio social posible con los fondos asignados.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: Evalúa la autonomía presupuestaria de ciertos órganos constitucionales y su significado dentro del sistema financiero del Estado.
+Respuesta Correcta: La autonomía presupuestaria de órganos como las Cortes o el CGPJ les permite gestionar sus propios recursos sin interferencia gubernamental, garantizando independencia operativa y funcional dentro del marco constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 6: Funciones de las Cortes Generales III
+
+Pregunta: ¿Cómo se distingue el control parlamentario de la exigencia de responsabilidad política en el contexto del sistema parlamentario español?
+Respuesta Correcta: El control parlamentario se centra en fiscalizar la gestión del Gobierno mediante la recabación de información y documentación. En contraste, la exigencia de responsabilidad política busca sustituir al Gobierno mediante mociones de censura y cuestiones de confianza, competencias exclusivas del Congreso de los Diputados.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: Explique el papel de las preguntas e interpelaciones como instrumentos de control parlamentario según el artículo 111 CE.
+Respuesta Correcta: Las preguntas e interpelaciones son mecanismos que permiten a las Cámaras interrogar al Gobierno sobre hechos concretos o políticas generales. Estas deben ser respondidas semanalmente, garantizando así la rendición de cuentas y la transparencia de la gestión gubernamental.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: Analice la importancia de las Comisiones de Investigación en el control parlamentario y sus poderes coercitivos.
+Respuesta Correcta: Las Comisiones de Investigación son cruciales para esclarecer asuntos de interés público, dado que pueden obligar la comparecencia de cualquier ciudadano o funcionario. La obligatoriedad de comparecer, bajo pena de delito de desobediencia, subraya su capacidad de fiscalización efectiva.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: ¿Qué implica el artículo 109 CE sobre la facultad de las Cámaras de recabar información y documentación del Gobierno?
+Respuesta Correcta: El artículo 109 CE otorga a las Cámaras y sus comisiones el derecho de solicitar del Gobierno la información y documentación necesaria para ejercer sus funciones, asegurando así un control efectivo sobre la gestión gubernamental.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: Discuta la finalidad del control parlamentario en el sistema político español.
+Respuesta Correcta: La finalidad del control parlamentario es fiscalizar la gestión del Gobierno, garantizando la transparencia y el buen uso de los recursos públicos. Esto se logra mediante la recabación de información y la supervisión constante de las acciones gubernamentales por ambas Cámaras.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: ¿Qué mecanismos prevé el sistema parlamentario español para obligar al Gobierno a rendir cuentas semanalmente?
+Respuesta Correcta: El sistema prevé el uso de preguntas e interpelaciones, que deben ser respondidas semanalmente según el artículo 111 CE. Esto obliga al Gobierno a rendir cuentas regularmente, promoviendo la transparencia y la responsabilidad en la gestión pública.
+Manual: Manual Constitucional 2
+Bloque: Bloque 2
+Tema: Tema 7: Funciones De Las Cortes Generales IV
+
+Pregunta: ¿Cómo se equilibra el poder del Gobierno en una democracia parlamentaria como la española según el art. 97 CE?
+Respuesta Correcta: El art. 97 CE establece que el Gobierno dirige la política y administración del Estado, pero su acción está limitada por el control de las Cortes Generales, garantizando un equilibrio entre el Ejecutivo y el Legislativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: Analice la flexibilidad en la estructura del Gobierno según el art. 98.1 CE.
+Respuesta Correcta: El art. 98.1 CE permite flexibilidad en la composición del Gobierno, no exige un número fijo de miembros ni vicepresidencias, y permite al Presidente modular la estructura según las necesidades políticas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: Explique la dualidad funcional del Gobierno como órgano colegiado y cómo afecta su toma de decisiones.
+Respuesta Correcta: El Gobierno actúa como órgano colegiado a través del Consejo de Ministros, donde las decisiones son conjuntas. Sin embargo, el Presidente ejerce una función directiva y jerárquica, evitando bloqueos por votos particulares.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: Discuta las funciones exclusivas del Presidente del Gobierno y su relevancia en el sistema político español.
+Respuesta Correcta: El Presidente tiene funciones exclusivas como la disolución de las Cortes y la convocatoria de referéndums, lo que le confiere supremacía política y capacidad de influir decisivamente en la agenda política nacional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: Evalúe la importancia del régimen de incompatibilidades para los miembros del Gobierno.
+Respuesta Correcta: El régimen de incompatibilidades asegura dedicación exclusiva al cargo y evita conflictos de interés al prohibir otras actividades profesionales, garantizando independencia y cumplimiento de sus funciones en el Gobierno.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: ¿Qué implicaciones tiene el aforamiento penal para los miembros del Gobierno?
+Respuesta Correcta: El aforamiento penal otorga a los miembros del Gobierno un fuero especial ante el Tribunal Supremo, asegurando un tratamiento judicial específico y protegiendo la estabilidad institucional mientras ejercen funciones de Estado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 1: El Gobierno 1. Definición y Fundamento (Art. 97 CE)
+
+Pregunta: ¿Cuál es el papel del Rey en la fase de consultas para la investidura del Presidente del Gobierno?
+Respuesta Correcta: El Rey, como Jefe del Estado, inicia una ronda de consultas con representantes de todos los grupos políticos del Congreso. Propone un candidato a la Presidencia, un acto que necesita el refrendo del Presidente del Congreso de los Diputados.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: Analiza las diferencias y similitudes entre la primera y segunda vuelta de votación en el Congreso para la investidura del Presidente.
+Respuesta Correcta: La primera vuelta requiere mayoría absoluta de los miembros del Congreso. Si no se alcanza, se realiza una segunda vuelta 48 horas después, donde es suficiente la mayoría simple (más votos a favor que en contra). Ambas votaciones buscan asegurar el respaldo parlamentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: Discute las implicaciones del cese del Gobierno debido a la dimisión o fallecimiento del Presidente.
+Respuesta Correcta: La dimisión o fallecimiento del Presidente provoca el cese automático de todo el Gobierno. Sin embargo, el Gobierno cesante continúa en funciones para garantizar la continuidad institucional hasta que un nuevo Presidente sea investido por el Congreso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: Evalúa la importancia del refrendo del Presidente del Congreso en el proceso de propuesta del candidato por el Rey.
+Respuesta Correcta: El refrendo del Presidente del Congreso es un requisito formal ineludible que legitima la propuesta del Rey y permite su tramitación parlamentaria, asegurando así el cumplimiento del proceso democrático y constitucional para la investidura.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: ¿Qué sucede si ningún candidato obtiene la confianza del Congreso tras una investidura fallida?
+Respuesta Correcta: Si en dos meses desde la primera votación de investidura ningún candidato es investido, el Rey disuelve las Cámaras y convoca nuevas elecciones generales, garantizando que se busque una solución democrática al vacío de liderazgo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: Examina el rol del Gobierno en funciones tras el cese del Gobierno en pleno.
+Respuesta Correcta: El Gobierno en funciones asegura la continuidad de la administración pública del Estado, cuidando los asuntos públicos hasta que un nuevo Gobierno tome posesión. Esto evita un vacío institucional y mantiene la estabilidad del sistema político.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 2: Elección de Gobierno
+
+Pregunta: ¿Cómo se articula la función directiva del Gobierno en relación con la política interior sin establecer una jerarquía sobre otros poderes del Estado?
+Respuesta Correcta: La dirección de la política interior se manifiesta a través de la coordinación superior de las instituciones estatales, sin implicar jerarquía, orientando e impulsando el funcionamiento correcto de los órganos constitucionales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Analiza el papel del Gobierno en la dirección de la política exterior y cómo se equilibra con el papel de las Cortes Generales en la autorización de tratados internacionales.
+Respuesta Correcta: El Gobierno negocia y concluye tratados internacionales, mientras que las Cortes Generales autorizan aquellos que implican cesión de competencias constitucionales, equilibrando la función ejecutiva con el control parlamentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Discute las implicaciones de la potestad reglamentaria del Gobierno en relación con el principio de jerarquía normativa.
+Respuesta Correcta: La potestad reglamentaria permite al Gobierno dictar reglamentos, subordinados a la Ley, respetando el principio de jerarquía normativa, asegurando que los reglamentos no contravengan las leyes superiores.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Evalúa el control coercitivo autonómico del Gobierno según el artículo 155 de la CE y su relación con el interés general.
+Respuesta Correcta: El Gobierno puede tomar medidas bajo el art. 155 CE para que una Comunidad Autónoma cumpla con sus obligaciones legales, requiriendo la conformidad del Senado, actuando como garante del interés general nacional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Describe cómo el Gobierno ejerce la dirección de la defensa del Estado y su relación con el mando supremo del Rey.
+Respuesta Correcta: El Gobierno dirige la política de defensa y la administración militar, siendo el mando del Rey simbólico, mientras que el control efectivo y la dirección recaen en el Ejecutivo, con supervisión del Congreso para misiones exteriores.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Analiza cómo el Gobierno garantiza la objetividad e imparcialidad en la dirección de la administración civil bajo el Derecho Administrativo.
+Respuesta Correcta: El Gobierno dirige los organismos públicos transmitiendo directrices políticas, pero no interfiere en la actuación de los funcionarios, quienes deben actuar bajo principios de objetividad e imparcialidad conforme al Derecho Administrativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 3: Funciones de Gobierno
+
+Pregunta: Analice la importancia del art. 108 CE en el sistema parlamentario español.
+Respuesta Correcta: El art. 108 CE establece la responsabilidad política solidaria del Gobierno ante el Congreso, asegurando su control y fiscalización. Fundamenta mecanismos como la Moción de Censura y la Cuestión de Confianza, esenciales para el equilibrio de poderes y la estabilidad democrática.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: Explique cómo la Moción de Censura garantiza la cohesión del Gobierno como entidad colegiada.
+Respuesta Correcta: La Moción de Censura implica una responsabilidad colectiva del Gobierno, ya que cualquier fallo político de un ministro afecta a todo el Ejecutivo. Esto fomenta la unidad y cohesión del Gobierno, al obligar a sus miembros a actuar de manera concertada y solidaria.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: Compare los requisitos y efectos de la Moción de Censura y la Cuestión de Confianza.
+Respuesta Correcta: La Moción de Censura requiere la mayoría absoluta de los diputados y sustituye automáticamente al Gobierno si prospera. La Cuestión de Confianza, planteada por el Presidente, necesita mayoría simple y su pérdida no implica sustitución inmediata, sino el inicio de un nuevo proceso de investidura.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: Discuta las implicaciones políticas de la vacatio política tras la presentación de una Moción de Censura.
+Respuesta Correcta: La vacatio política de cinco días permite a los grupos parlamentarios negociar apoyos y posicionarse, influyendo en el debate y en la opinión pública. Aunque la moción no prospere, el proponente puede obtener réditos electorales al destacar su liderazgo y agenda política.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: Analice el efecto de una Moción de Censura no prosperada sobre el Gobierno en ejercicio.
+Respuesta Correcta: Si la Moción de Censura no prospera, el Gobierno en ejercicio recupera la facultad de disolver las Cámaras, reafirmando su posición y estabilidad. Esto refuerza su capacidad de acción política, al disipar la incertidumbre sobre su continuidad en el poder.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: Evalué las ventajas y desventajas de permitir que el Presidente del Gobierno plantee una Cuestión de Confianza.
+Respuesta Correcta: Permitir que el Presidente plantee una Cuestión de Confianza, refuerza el liderazgo del Ejecutivo al asegurar respaldo parlamentario, pero puede ser un riesgo político en contextos de debilidad. Su pérdida implica cese y un proceso de investidura, afectando la gobernabilidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 3
+Tema: Tema 4: Exigencia de Responsabilidad Política
+
+Pregunta: ¿Por qué el Tribunal Constitucional considera a los partidos políticos como insustituibles en un Estado democrático moderno?
+Respuesta Correcta: El TC sostiene que los partidos son insustituibles porque permiten la expresión del pluralismo político, concurren a la formación de la voluntad popular y son fundamentales para la participación política, según el art. 6 CE.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: Analiza la importancia de la ubicación del artículo 6 de la Constitución Española en el Título Preliminar.
+Respuesta Correcta: La ubicación en el Título Preliminar otorga al artículo 6 CE una protección especial, requiriendo un procedimiento agravado para su modificación, lo que subraya la centralidad de los partidos en el ordenamiento español.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: Explica cómo los partidos políticos contribuyen al ejercicio del derecho de sufragio en los sistemas representativos.
+Respuesta Correcta: Aunque no son titulares del derecho de sufragio, los partidos canalizan la participación ciudadana, influencian a los votantes y presentan candidatos en elecciones, facilitando el ejercicio del sufragio activo y pasivo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: Discute las restricciones legales al ejercicio de la libertad de creación de partidos políticos.
+Respuesta Correcta: La libertad de creación está limitada por el ordenamiento jurídico para preservar la convivencia democrática, prohibiendo partidos que fomenten odio o busquen la hegemonización política, con mecanismos para su ilegalización.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: Describe los requisitos subjetivos que deben cumplir los promotores de un partido político según la LOPP.
+Respuesta Correcta: Los promotores deben ser mayores de edad, estar en pleno ejercicio de sus derechos y no estar inhabilitados judicialmente, garantizando su capacidad para participar en la creación de un partido.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: Analiza el procedimiento de inscripción de un partido político y su importancia para la personalidad jurídica.
+Respuesta Correcta: La inscripción en el Registro de Partidos, tras verificar que la documentación es completa y legalmente válida, confiere al partido personalidad jurídica, esencial para su existencia legal y operativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 1: Partidos Políticos
+
+Pregunta: ¿Por qué los Estatutos son considerados la norma institucional suprema de un partido político?
+Respuesta Correcta: Los Estatutos son esenciales porque contienen la regulación básica del partido, incluyendo su denominación, domicilio, ámbito de actuación y órganos de gobierno. Son necesarios para la inscripción del partido, asegurando su viabilidad legal y registral.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: ¿Cómo garantiza la LOPP la democracia interna en los partidos políticos?
+Respuesta Correcta: La LOPP exige democracia estructural mediante la participación directa de afiliados, la existencia de una Asamblea General y la provisión de cargos por sufragio libre y secreto, asegurando así una legitimidad interna conforme a principios democráticos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: Explique el fundamento de la limitación a la libertad organizativa de los partidos según el Tribunal Constitucional.
+Respuesta Correcta: El fundamento radica en las garantías funcional y democrática, buscando que los partidos cumplan sus funciones constitucionales y eviten estructuras autocráticas, donde un pequeño grupo monopolice decisiones, garantizando así un funcionamiento democrático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: Analice la importancia del respeto a los valores constitucionales en la actividad externa de los partidos políticos.
+Respuesta Correcta: El respeto a los valores constitucionales es crucial para asegurar que los partidos actúen democráticamente y respeten el pluralismo. Cualquier actividad contraria puede llevar a la disolución del partido, protegiendo así el orden constitucional y los derechos humanos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: Discuta las modalidades de afiliación y su importancia para el régimen jurídico de los afiliados.
+Respuesta Correcta: Las modalidades de afiliación, como afiliados directos y simpatizantes, permiten diversidad en la vinculación con el partido. Cada modalidad debe respetar la igualdad de derechos y deberes, asegurando una estructura organizativa inclusiva y equitativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: ¿Qué derechos y deberes tienen los afiliados en un partido político según el art. 8 LOPP?
+Respuesta Correcta: Los afiliados gozan de derechos como participación, eligibilidad, impugnación, información y defensa. Deben cumplir deberes como colaborar con los fines del partido, respetar normas y abonar cuotas, garantizando su compromiso y responsabilidad con el partido.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 2: Organización De Partidos Políticos
+
+Pregunta: ¿Por qué el ordenamiento jurídico español adopta un sistema de financiación mixto para los partidos políticos?
+Respuesta Correcta: El sistema mixto se adopta para garantizar la igualdad de oportunidades y mitigar riesgos de corrupción, combinando recursos públicos y privados para asegurar una competencia política equitativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: Analiza cómo el sistema de financiación pública contribuye a la igualdad de oportunidades en el contexto político.
+Respuesta Correcta: La financiación pública asegura que todos los partidos tengan acceso a recursos mínimos necesarios para competir electoralmente, evitando que las formaciones con más recursos privados tengan una ventaja desproporcionada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: Evalúa los riesgos que podría suponer para la democracia un sistema de financiación exclusivamente privado.
+Respuesta Correcta: Un sistema privado puro podría incrementar gastos electorales desmedidos y fomentar prácticas financieras ilícitas, comprometiendo la transparencia y equidad en la contienda política.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: Explica el rol del Tribunal de Cuentas en la supervisión de la financiación de los partidos políticos.
+Respuesta Correcta: El Tribunal de Cuentas fiscaliza todos los recursos y actividades económicas de los partidos, garantizando transparencia y control sobre el gasto público y privado en el ámbito político.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: Discute cómo las donaciones privadas están reguladas por la LOFPP para evitar la financiación opaca de los partidos políticos.
+Respuesta Correcta: La LOFPP prohíbe las donaciones anónimas y establece requisitos de identificación y límites legales para las donaciones, previniendo la financiación no transparente.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: Describe cómo las subvenciones estatales anuales de funcionamiento contribuyen al sostenimiento económico de los partidos políticos.
+Respuesta Correcta: Estas subvenciones son asignaciones periódicas que cubren los gastos ordinarios del partido, garantizando su operatividad continua a nivel estatal y autonómico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 3: Financiación De Partidos Políticos
+
+Pregunta: ¿Cómo se relaciona el principio de libertad e independencia de los partidos políticos con los mecanismos de control establecidos?
+Respuesta Correcta: Aunque los partidos gozan de máxima libertad e independencia, el ordenamiento establece controles internos, administrativos, financieros y judiciales para asegurar su legalidad y funcionamiento democrático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: Analiza la importancia del control financiero ejercido por el Tribunal de Cuentas sobre los partidos políticos.
+Respuesta Correcta: El Tribunal de Cuentas garantiza la legalidad en el uso de recursos, asegurando que los partidos no desvíen fondos a usos personales y cumplan con las normas de financiación electoral.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: ¿Qué papel juega el control judicial en la suspensión y extinción de partidos políticos?
+Respuesta Correcta: El control judicial puede suspender actividades de un partido por delitos, y decretar su extinción por infracciones graves, garantizando el respeto al sistema democrático según lo dispuesto en el art. 10.3 de la LOPP.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: Discute las consecuencias jurídicas de la declaración judicial de extinción de un partido político.
+Respuesta Correcta: La extinción judicial se anota en el Registro de Partidos Políticos, cesando sus actividades legales, tras un procedimiento que incluye apercibimiento y fallo judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: En el contexto del control interno de los partidos, ¿qué importancia tienen los estatutos en la prevención de delitos?
+Respuesta Correcta: Los estatutos deben prever mecanismos de control sobre dirigentes y establecer sistemas preventivos, conforme al deber estatutario y el art. 31 bis del Código Penal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: Examina las diferencias entre disolución voluntaria y forzosa de un partido político según la LOPP.
+Respuesta Correcta: La disolución voluntaria se decide internamente por la Asamblea, mientras que la forzosa es impuesta judicialmente por causas como asociación ilícita o destrucción del orden constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 4: Control Y Disolución De Partidos Políticos
+
+Pregunta: ¿Por qué el sistema de democracia representativa es más adecuado que la democracia directa para un país como España?
+Respuesta Correcta: Debido a la gran población y extensión territorial de España, la democracia directa sería ineficaz. El sistema representativo permite una gestión más eficiente, delegando el poder en representantes elegidos por sufragio universal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: Analiza cómo la elección de la provincia como circunscripción electoral afecta la proporcionalidad del sistema electoral español.
+Respuesta Correcta: La provincia como circunscripción limita la proporcionalidad al reducir el número de escaños por circunscripción. Esto favorece a los partidos grandes y provoca sobre-representación en provincias menos pobladas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: Discute las implicaciones del principio de sufragio universal en el contexto del ordenamiento electoral español.
+Respuesta Correcta: El sufragio universal garantiza que todos los mayores de edad puedan votar sin discriminación, promoviendo la participación democrática plena y eliminando restricciones históricas como el sufragio censitario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: Evalúa el impacto de la representación mínima inicial exigida por el art. 68.2 CE en la distribución de escaños.
+Respuesta Correcta: La representación mínima inicial busca igualdad entre circunscripciones, pero distorsiona la proporcionalidad al sobre-representar zonas menos pobladas e infra-representar las más pobladas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: Explica por qué el sistema electoral del Senado, aunque teóricamente proporcional, resulta mayoritario en la práctica.
+Respuesta Correcta: El uso de listas abiertas y la elección de cuatro senadores por provincia concentran el voto en partidos grandes, transformando el sistema en mayoritario pese a su diseño proporcional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: Analiza los factores de corrección de la proporcionalidad en el Congreso de los Diputados y su efecto en las elecciones.
+Respuesta Correcta: Los factores como el número limitado de escaños, la amplitud de circunscripciones y la representación mínima inicial matizan la proporcionalidad, favoreciendo a partidos grandes y afectando la equidad del sistema.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 5: Régimen Jurídico de las Elecciones
+
+Pregunta: ¿Cuál es la importancia del sufragio activo en la articulación de la participación ciudadana en los asuntos públicos en España?
+Respuesta Correcta: El sufragio activo permite a los ciudadanos intervenir en los asuntos públicos mediante el voto, asegurando la representación democrática. Al elegir representantes, se legitima el poder y se garantiza la participación en elecciones generales, municipales y autonómicas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: Analiza el papel del Estado en garantizar el ejercicio del sufragio activo para los españoles que residen en el extranjero.
+Respuesta Correcta: El Estado tiene la obligación de asegurar el sufragio activo a través del voto por correo, permitiendo que los españoles en el extranjero participen en elecciones según su circunscripción, garantizando así su derecho democrático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: ¿Qué requisitos deben cumplir los españoles para ejercer el sufragio activo según la Constitución Española y la LOREG?
+Respuesta Correcta: Deben ser mayores de edad, tener nacionalidad española y estar en pleno uso de sus derechos políticos. No deben estar incursos en causas de exclusión como las previstas en el art. 3 LOREG.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: Discute las restricciones impuestas al sufragio pasivo y su finalidad según la normativa española.
+Respuesta Correcta: Las restricciones al sufragio pasivo buscan preservar la independencia y la imparcialidad de la función pública, afectando a ciertos cargos como jueces, fiscales, y militares, asegurando así la separación de poderes.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: ¿Cómo se regula la privación del derecho de sufragio en el ámbito penal, y qué consecuencias tiene para el condenado?
+Respuesta Correcta: La LOREG prevé la privación del sufragio para condenados a penas específicas, afectando su capacidad de ser elegido. Ejemplos incluyen delitos de prevaricación, que conllevan inhabilitación y pérdida del derecho pasivo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: Examina la particularidad del sufragio en las elecciones municipales para ciudadanos de la UE y extranjeros en España.
+Respuesta Correcta: Bajo ciertos requisitos legales, ciudadanos de la UE y extranjeros pueden ejercer el sufragio activo y pasivo en elecciones municipales, ampliando así la participación democrática y reflejando el carácter integrador de la normativa electoral.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 6: Sufragio Activo Y Pasivo
+
+Pregunta: ¿Qué importancia tiene la independencia e inamovilidad de los miembros de la Administración Electoral en el procedimiento electoral?
+Respuesta Correcta: La independencia e inamovilidad garantizan que los miembros de la Administración Electoral actúen sin influencias externas, asegurando la objetividad y transparencia del proceso electoral, protegiendo así la proporcionalidad y libertades fundamentales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: Analiza la función de la Junta Electoral Central respecto a la emisión de credenciales en caso de vacantes. ¿Por qué es crucial esta función?
+Respuesta Correcta: La JEC asegura la continuidad del mandato democrático al expedir credenciales en vacantes, garantizando que el reemplazo de cargos electos se realice de manera ordenada y conforme al marco legal, manteniendo la representación ciudadana.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: Explora la relación jerárquica entre las Juntas Electorales y su impacto en la eficacia del proceso electoral.
+Respuesta Correcta: La estructura jerárquica (JEC, JEP, JEZ) permite una supervisión efectiva y una coordinación eficiente, asegurando que las directrices fluyan adecuadamente y que las disputas se resuelvan a nivel local, optimizando el manejo del proceso electoral.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: ¿Cómo asegura la Junta Electoral de Zona la corrección de infracciones durante el proceso electoral?
+Respuesta Correcta: La JEZ tiene potestades disciplinarias sobre las operaciones electorales locales, lo que le permite corregir infracciones en tiempo real, garantizando el cumplimiento de la normativa electoral y la integridad del proceso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: Discute la relevancia de la organización de las Mesas Electorales en el contexto de un proceso electoral justo.
+Respuesta Correcta: Las Mesas Electorales, mediante su composición por sorteo público, aseguran una representación aleatoria y equitativa de los votantes, minimizando sesgos y garantizando que el proceso se realice de manera justa y transparente.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: ¿Por qué el incumplimiento del deber de comparecencia en las Mesas Electorales se considera un delito electoral?
+Respuesta Correcta: El deber de comparecencia es crucial para el funcionamiento de las Mesas Electorales; su incumplimiento socava la integridad del proceso electoral, justificando su tipificación como delito para asegurar la participación obligatoria y la legalidad del sufragio.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 7: La Administración Electoral
+
+Pregunta: Analiza las causas que pueden llevar a la disolución de las Cámaras y la convocatoria de elecciones generales.
+Respuesta Correcta: Las causas son: expiración del mandato de cuatro años, disolución anticipada por decisión del Presidente del Gobierno, e investidura fallida, donde no se logra mayoría en dos meses desde la primera votación.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Explica el proceso de formalización de la convocatoria de elecciones y su importancia en el procedimiento electoral.
+Respuesta Correcta: La convocatoria se formaliza mediante un Decreto publicado en el BOE, fijando la fecha electoral 54 días después. Este acto es esencial para garantizar la legalidad y transparencia del proceso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Evalúa la legitimidad de los sujetos que pueden presentar candidatos en las elecciones generales según la LOREG.
+Respuesta Correcta: Solo partidos políticos, federaciones, coaliciones y agrupaciones de electores que cumplan requisitos legales pueden presentar candidatos, asegurando la representatividad y cumplimiento normativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Discute las limitaciones establecidas para la campaña electoral y su impacto en la equidad del proceso electoral.
+Respuesta Correcta: La campaña está limitada a 15 días y excluye a personas jurídicas no autorizadas, lo que busca garantizar igualdad de oportunidades y evitar influencias indebidas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Describe el procedimiento y la importancia de la jornada de reflexión en el contexto del proceso electoral.
+Respuesta Correcta: La jornada de reflexión, sin actos de campaña, permite a los votantes deliberar racionalmente, siendo crucial para un ejercicio democrático consciente y libre de presiones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Analiza el rol de la Junta Electoral Provincial en el escrutinio oficial y su relevancia en el sistema electoral español.
+Respuesta Correcta: La JEP realiza el escrutinio oficial basado en actas de mesas, garantizando resultados definitivos y oficiales, lo que es fundamental para la transparencia y legitimidad del proceso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 8: Procedimiento Electoral
+
+Pregunta: Analice la importancia de los recursos en materia electoral para garantizar la legalidad de los actos de la Administración Electoral.
+Respuesta Correcta: Los recursos en materia electoral son esenciales para asegurar la legalidad de los actos de la Administración Electoral, permitiendo a los sujetos legitimados impugnar decisiones que contravengan la normativa, como la proclamación indebida de candidatos, y asegurando así un proceso electoral justo y transparente.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: Explique la diferencia entre los recursos contra la Administración Electoral y los recursos judiciales en el sistema electoral.
+Respuesta Correcta: Los recursos contra la Administración Electoral son procedimientos administrativos que impugnan decisiones de las Juntas Electorales ante su jerarquía superior, mientras que los recursos judiciales se interponen directamente ante órganos jurisdiccionales, buscando la revisión judicial de actos como la proclamación de candidaturas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: Evalúe la eficacia del plazo de resolución de 5 y 10 días para los recursos contra la Administración Electoral.
+Respuesta Correcta: El plazo de resolución de 5 días durante el periodo electoral y 10 días fuera de él asegura una respuesta rápida y efectiva en un contexto donde la inmediatez es crucial para mantener la integridad del proceso electoral y evitar la alteración de los resultados por decisiones erróneas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: Discuta la función del Tribunal Constitucional en el proceso de recursos en materia electoral.
+Respuesta Correcta: El Tribunal Constitucional actúa como última instancia mediante el recurso de amparo cuando se agotan las vías judiciales ordinarias, resolviendo en un plazo de 3 días y garantizando la protección de derechos fundamentales en el contexto electoral, asegurando así la constitucionalidad del proceso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: Analice el papel de los Juzgados de lo Contencioso-Administrativo en los recursos contra la proclamación de candidaturas.
+Respuesta Correcta: Los Juzgados de lo Contencioso-Administrativo son competentes para resolver en un plazo de 2 días los recursos contra la proclamación de candidaturas, ejerciendo un control judicial crucial sobre las decisiones de las Juntas Electorales para garantizar que los candidatos cumplan con los requisitos legales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: Explique la relevancia del recurso contencioso-electoral en la validación de los requisitos de los ya elegidos.
+Respuesta Correcta: El recurso contencioso-electoral es vital para verificar si los elegidos cumplen con los requisitos legales para ejercer su cargo, siendo resuelto por el Tribunal Supremo o el Tribunal Superior de Justicia según el tipo de elección, asegurando la legitimidad de los representantes electos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 9: Recursos en Materia Electoral
+
+Pregunta: ¿Qué implica la modificación en la competencia territorial de las Juntas Electorales en las elecciones locales respecto a las generales?
+Respuesta Correcta: En las elecciones locales, las Juntas Electorales de Zona (JEZ) reemplazan en gran parte a las Juntas Electorales Provinciales, ya que el ámbito operativo de las JEZ coincide con el Partido Judicial, mientras que las JEP operan a nivel provincial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: Analice el criterio de mayoría absoluta en la elección del Alcalde y sus implicaciones en caso de ausencia de esta mayoría.
+Respuesta Correcta: Para ser nombrado Alcalde, se requiere la mayoría absoluta de los votos de los Concejales. Si ningún candidato la alcanza, se proclama Alcalde al que obtuvo más votos populares en las elecciones. Un empate se resuelve por sorteo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: Explique las condiciones bajo las cuales los ciudadanos de la Unión Europea pueden ejercer el sufragio activo en las elecciones locales.
+Respuesta Correcta: Los ciudadanos de la UE pueden votar si ostentan dicha ciudadanía, cumplen los requisitos de los electores españoles y manifiestan su voluntad de votar. No deben estar privados de este derecho en su país de origen.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: Comparar la circunscripción electoral de las elecciones al Parlamento Europeo con las elecciones generales en España.
+Respuesta Correcta: Las elecciones al Parlamento Europeo tienen una circunscripción única que abarca todo el territorio nacional, a diferencia de las generales, donde la circunscripción se basa en la provincia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: Discuta las implicaciones prácticas del derecho de sufragio pasivo para ciudadanos extranjeros en las elecciones locales.
+Respuesta Correcta: Los extranjeros pueden ser candidatos si no han sido desposeídos del derecho de sufragio en su país. Esto permite una representación más inclusiva, aunque está condicionada a la reciprocidad y residencia legal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: ¿Cómo afecta la extensión del sufragio activo a extranjeros no comunitarios en las elecciones locales a la reciprocidad internacional?
+Respuesta Correcta: El sufragio activo para extranjeros no comunitarios depende de la reciprocidad, es decir, si sus países permiten a los españoles votar en elecciones similares. Esto fomenta acuerdos internacionales y equidad en derechos electorales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 4
+Tema: Tema 10: Elecciones Locales y al Parlamento Europeo 1. Objeto y Convocatoria
+
+Pregunta: ¿Por qué es fundamental el carácter fragmentario del Poder Judicial frente a los poderes Ejecutivo y Legislativo?
+Respuesta Correcta: El carácter fragmentario del Poder Judicial, ejercido por jueces y magistrados, asegura la independencia y la imparcialidad en la administración de justicia, diferenciándose de la estructura unitaria del Ejecutivo y Legislativo. Esto es clave para evitar interferencias y garantizar la imparcialidad en la resolución de conflictos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: Analiza cómo el principio de legalidad y reserva de Ley Orgánica protege la independencia del Poder Judicial.
+Respuesta Correcta: Este principio impide que los órganos judiciales sean modificados por medidas reglamentarias del Ejecutivo o leyes ordinarias del Legislativo, requiriendo una Ley Orgánica para tales cambios. Esto asegura que el Poder Judicial no sea sujeto a influencias políticas momentáneas, manteniendo su independencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: Explica la importancia del Consejo General del Poder Judicial en el principio de autogobierno.
+Respuesta Correcta: El CGPJ, como órgano de gobierno del Poder Judicial, administra y gestiona asuntos internos, garantizando independencia frente al Ejecutivo. Al gestionar destinos, sanciones y régimen de incompatibilidades, asegura que jueces y magistrados operen sin interferencia externa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: ¿Cuál es la relevancia del Tribunal Supremo según el art. 123 CE y cómo se distingue del Tribunal Constitucional?
+Respuesta Correcta: El Tribunal Supremo es la máxima instancia jurisdiccional en todos los órdenes excepto en garantías constitucionales, donde el Tribunal Constitucional tiene competencia exclusiva. Esta separación asegura que el Supremo mantenga la unidad jurisdiccional mientras el Constitucional interpreta la Constitución.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: Discute el impacto del principio de exclusividad jurisdiccional en la función del Poder Judicial.
+Respuesta Correcta: Este principio garantiza que solo el Poder Judicial tiene la potestad de juzgar y ejecutar lo juzgado, evitando que otros poderes asuman funciones jurisdiccionales. Esto preserva la independencia y la imparcialidad en la aplicación de la ley.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: ¿Cómo se manifiesta la tutela judicial efectiva en el Estado de Derecho según el manual?
+Respuesta Correcta: La tutela judicial efectiva se manifiesta cuando los conflictos se resuelven mediante un juez imparcial, en lugar de autotutela o fuerza. El juez aplica las normas del ordenamiento jurídico, garantizando la paz social y la certeza jurídica en la resolución de disputas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 1: Poder Judicial
+
+Pregunta: ¿Cómo garantiza el Poder Judicial la paz social mediante la resolución de conflictos?
+Respuesta Correcta: El Poder Judicial resuelve conflictos aplicando las normas jurídicas de manera imparcial y vinculante, lo que evita la autotutela y garantiza la paz social, como ocurre en litigios sobre propiedad, donde el juez decide conforme al Derecho.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: Analiza la importancia de las cuatro notas del Estatuto Personal de Jueces y Magistrados establecidas en el art. 117.1 CE.
+Respuesta Correcta: Las notas de independencia, inamovilidad, responsabilidad y sometimiento a la ley son esenciales para asegurar la imparcialidad y eficacia jurisdiccional, ya que previenen influencias externas y garantizan que las decisiones judiciales se basen en el Derecho.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: Explica cómo el Principio de Legalidad y Reserva de Ley Orgánica estructura la organización del Poder Judicial.
+Respuesta Correcta: Este principio, recogido en el art. 122 CE, asegura que solo una Ley Orgánica pueda constituir y regular los juzgados y tribunales, protegiendo al Poder Judicial de influencias del Ejecutivo y Legislativo, y asegurando su independencia estructural.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: Discute el papel del Consejo General del Poder Judicial según el Principio de Autogobierno.
+Respuesta Correcta: El CGPJ, como órgano de gobierno del Poder Judicial, gestiona cuestiones administrativas, garantizando la independencia judicial mediante la provisión de destinos, sanciones disciplinarias y control de incompatibilidades, según el art. 122.2 CE.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: ¿En qué consiste el Principio de Exclusividad Jurisdiccional y cuál es su relevancia?
+Respuesta Correcta: Este principio, en su vertiente positiva, confiere únicamente a juzgados y tribunales la potestad jurisdiccional, mientras que la negativa limita sus funciones a lo jurisdiccional, garantizando así la especialización y eficacia del Poder Judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: Reflexiona sobre el significado del Principio de Unidad Jurisdiccional y su impacto en el sistema judicial español.
+Respuesta Correcta: Consagrado en el art. 117.5 CE, este principio establece que la jurisdicción es única y estatal, evitando la fragmentación del Poder Judicial en entidades autonómicas, lo que fortalece la coherencia y uniformidad del sistema judicial español.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 2: Estatuto De Jueces Y Magistrados
+
+Pregunta: ¿En qué se diferencia el control de normas con rango de ley inconstitucionales del control de reglamentos ilegales?
+Respuesta Correcta: El control de normas con rango de ley inconstitucionales se realiza mediante una Cuestión de Inconstitucionalidad ante el Tribunal Constitucional. En cambio, el control de reglamentos ilegales se efectúa mediante la inaplicación directa por parte de los jueces, según el art. 6 LOPJ.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: ¿Por qué un juez no puede inaplicar directamente una ley inconstitucional en su sentencia?
+Respuesta Correcta: Un juez no puede inaplicar directamente una ley inconstitucional porque el control de constitucionalidad es competencia exclusiva del Tribunal Constitucional. Debe plantear una Cuestión de Inconstitucionalidad para que el TC evalúe la norma.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: Explique cómo la independencia judicial se relaciona con el sometimiento al imperio de la ley.
+Respuesta Correcta: La independencia judicial implica libertad frente a injerencias, pero no permite fallar según el criterio personal del juez, sino conforme a la ley. El juez debe seguir la norma jurídica, asegurando una aplicación técnica del Derecho, no una justicia subjetiva.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: Analice las consecuencias legales para un juez que aplica una norma ilegal deliberadamente.
+Respuesta Correcta: Si un juez aplica una norma ilegal a sabiendas, podría incurrir en prevaricación, según el art. 446 del Código Penal. Esto conlleva penas que pueden incluir prisión e inhabilitación para empleo o cargo público, subrayando la gravedad de la acción.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: ¿Qué facultades tienen los jueces frente a reglamentos ilegales y cómo se justifican?
+Respuesta Correcta: Los jueces pueden inaplicar reglamentos ilegales directamente, sin necesidad de elevar una cuestión de inconstitucionalidad. Esta facultad, fundamentada en el art. 6 LOPJ, asegura que no se apliquen normas contrarias a la Constitución, la ley o la jerarquía normativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: Discuta cómo se ejerce el control de legalidad de normas según su rango.
+Respuesta Correcta: El control de legalidad difiere según el rango: las leyes inconstitucionales se someten a Cuestión de Inconstitucionalidad ante el TC, mientras que los reglamentos ilegales se inaplican directamente por jueces, reflejando la separación de competencias en el control normativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 3: Independencia Judicial II
+
+Pregunta: Analice el principio de Inamovilidad de los Jueces y Magistrados y su relación con la independencia judicial.
+Respuesta Correcta: El principio de Inamovilidad, enunciado en el art. 117 CE, protege a los jueces de actos arbitrarios, garantizando su independencia. Evita represalias por decisiones contrarias a intereses políticos, asegurando que su separación, suspensión, traslado o jubilación solo ocurran por causas legales tasadas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: Discuta las diferencias entre causas voluntarias y causas disciplinarias para la pérdida de la condición de Juez o Magistrado.
+Respuesta Correcta: Las causas voluntarias, como la renuncia o pérdida de nacionalidad, dependen del juez, mientras que las disciplinarias, como una sanción por falta grave, son impuestas por infracciones a la ley. Ambas resultan en la desvinculación definitiva de la carrera judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: Explique cómo el Consejo General del Poder Judicial puede mitigar la pérdida de la condición de Juez ante una condena penal.
+Respuesta Correcta: El CGPJ puede sustituir la pérdida de la condición judicial por una suspensión de hasta tres años si la condena por delito doloso es de corta duración, permitiendo una respuesta sancionadora más proporcionada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: Compare las causas de suspensión y traslado forzoso de Jueces y Magistrados según la LOPJ.
+Respuesta Correcta: La suspensión, regulada en el art. 383 LOPJ, puede ser cautelar o punitiva por delitos o procedimientos disciplinarios. El traslado forzoso ocurre principalmente por incompatibilidades sobrevenidas, que se estudian en otro régimen específico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: Analice el régimen de jubilación de Jueces y Magistrados, destacando las distintas modalidades y sus requisitos.
+Respuesta Correcta: La jubilación forzosa ocurre a los 70 años, mientras que la anticipada es opcional a los 65, solicitada al CGPJ con seis meses de antelación. La prolongación del servicio hasta los 72 años también es posible, solicitada dos meses antes de los 70.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: Evalúe la importancia de la posibilidad de rehabilitación para jueces jubilados por incapacidad permanente.
+Respuesta Correcta: La rehabilitación, según el art. 387.3 LOPJ, permite a jueces recuperados de incapacidades volver al servicio activo, asegurando su plaza. Esta medida subraya el compromiso con la continuidad y la justicia en la carrera judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 4: La Inamovilidad I
+
+Pregunta: ¿Cuál es el fundamento constitucional de las prohibiciones impuestas a los Jueces y Magistrados en el ejercicio de su función?
+Respuesta Correcta: El fundamento reside en el art. 127 CE, que busca garantizar la independencia judicial evitando la vinculación política de Jueces y Magistrados.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: Analiza las consecuencias disciplinarias de que un Juez pertenezca a un sindicato o partido político.
+Respuesta Correcta: La pertenencia a partidos o sindicatos es una falta muy grave bajo el art. 417 LOPJ, pudiendo resultar en la separación de la carrera judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: ¿Por qué el art. 395 LOPJ prohíbe a los Jueces participar en actos públicos no judiciales en su calidad de miembros del Poder Judicial?
+Respuesta Correcta: Para mantener la neutralidad e imparcialidad del Poder Judicial, evitando que su imagen se asocie con intereses no judiciales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: Examina las excepciones a la prohibición de concurrir a actos públicos no judiciales por parte de los Jueces.
+Respuesta Correcta: Las excepciones son los actos para cumplimentar al Rey y aquellos autorizados por el CGPJ, manteniendo así cierta flexibilidad institucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: Discute la razón detrás de la prohibición de los Jueces de intervenir en campañas electorales.
+Respuesta Correcta: Se busca evitar cualquier influencia o percepción de parcialidad política, limitando su participación a emitir el voto personal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: Explica las consecuencias de la infracción del secreto profesional por parte de un Juez según el art. 396 LOPJ.
+Respuesta Correcta: La infracción lleva a responsabilidades penal y disciplinaria, pudiendo resultar en prisión, inhabilitación o separación de la carrera judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 5: Prohibiciones de Jueces y Magistrados
+
+Pregunta: ¿Por qué es fundamental el régimen de incompatibilidades para asegurar la imparcialidad de los jueces y magistrados?
+Respuesta Correcta: El régimen de incompatibilidades garantiza la dedicación exclusiva y evita vínculos que puedan comprometer la imparcialidad del juzgador, conforme al art. 127 CE.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: Analiza la razón por la cual un juez no puede ejercer simultáneamente cargos políticos o de elección popular.
+Respuesta Correcta: La prohibición de cargos políticos busca evitar conflictos de interés y preservar la neutralidad del juez, asegurando su independencia del poder político.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: Explica cómo el principio de exclusividad jurisdiccional influye en las incompatibilidades absolutas de jueces y magistrados.
+Respuesta Correcta: El principio de exclusividad jurisdiccional impide que jueces ejerzan en jurisdicciones ajenas al Poder Judicial, asegurando su dedicación total a su función.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: Discute la diferencia entre incompatibilidades absolutas y relativas según el contexto del tema.
+Respuesta Correcta: Las incompatibilidades absolutas aplican sin excepción alguna, mientras que las relativas dependen de circunstancias específicas, como el lugar o personas involucradas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: ¿Por qué se consideran excepciones las actividades de docencia e investigación jurídica en el régimen de incompatibilidades?
+Respuesta Correcta: La docencia e investigación jurídica se permiten ya que complementan la función judicial sin comprometer la dedicación o imparcialidad del juez, fomentando el conocimiento.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: Analiza las consecuencias de no optar por la renuncia a actividades incompatibles en el plazo de 8 días tras el nombramiento como juez.
+Respuesta Correcta: No optar en el plazo de 8 días implica una renuncia tácita al cargo judicial, asegurando que solo asuman la posición quienes puedan dedicarse plenamente a ella.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 6: Incompatibilidades Absolutas de Jueces y Magistrados
+
+Pregunta: ¿Por qué es importante regular las incompatibilidades relativas por vínculos personales en el ámbito judicial?
+Respuesta Correcta: Es crucial para garantizar la independencia y evitar influencias indebidas en las deliberaciones de los órganos colegiados, asegurando que las decisiones judiciales no estén sesgadas por relaciones personales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: Analiza cómo las excepciones a las incompatibilidades relativas por vínculos personales pueden afectar la independencia judicial.
+Respuesta Correcta: Las excepciones, como permitir a magistrados relacionados trabajar en distintas secciones de una misma Audiencia Provincial, buscan equilibrar la independencia con la funcionalidad del sistema judicial en entornos con múltiples secciones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: Discute la justificación de las incompatibilidades relativas por arraigo económico y lugar de ejercicio en el contexto de la imparcialidad judicial.
+Respuesta Correcta: Estas incompatibilidades previenen que el arraigo económico o lazos con el entorno afecten la imparcialidad. En poblaciones pequeñas, los intereses económicos familiares pueden influir en la función jurisdiccional, justificando restricciones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: Evalúa el impacto del traslado forzoso como medida para resolver las incompatibilidades relativas en jueces y magistrados.
+Respuesta Correcta: El traslado forzoso es una medida administrativa que resuelve la incompatibilidad sin afectar el estatus del juez, asegurando la independencia judicial al remover el conflicto de interés sin sanciones disciplinarias.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: ¿Cómo contribuyen las incompatibilidades relativas al objetivo de independencia judicial establecido en el Estatuto de Jueces y Magistrados?
+Respuesta Correcta: Aseguran que los jueces actúen sin influencias externas o internas, protegiendo la integridad de las decisiones judiciales al evitar vínculos personales o económicos que puedan comprometer su imparcialidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: ¿Qué mecanismos establece el Estatuto de Jueces y Magistrados para garantizar su independencia, y cómo interactúan con el régimen de incompatibilidades?
+Respuesta Correcta: El estatuto emplea mecanismos como denuncias al CGPJ y el control de constitucionalidad, integrando las incompatibilidades para asegurar dedicación exclusiva y prevenir interferencias en la función jurisdiccional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 7: Incompatibilidades Relativas de Jueces y Magistrados
+
+Pregunta: Analice cómo el principio de inamovilidad se relaciona con la responsabilidad de jueces y magistrados.
+Respuesta Correcta: El principio de inamovilidad garantiza la independencia judicial, permitiendo a jueces y magistrados actuar sin presiones externas. Sin embargo, están sujetos a responsabilidad por sus actos, asegurando que su independencia no derive en impunidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: Explique la diferencia entre la responsabilidad penal y civil de jueces y magistrados.
+Respuesta Correcta: La responsabilidad penal surge por conductas delictivas como prevaricación, juzgándose según el Código Penal. La responsabilidad civil, tras 2015, implica que el Estado asume la indemnización por errores judiciales o funcionamiento anormal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: ¿Qué implicaciones tuvo la eliminación de la responsabilidad civil directa de jueces y magistrados en 2015?
+Respuesta Correcta: La eliminación de la responsabilidad civil directa significó que el Estado asume la indemnización por daños, protegiendo a los jueces de reclamaciones directas, aunque mantiene la acción de regreso por dolo o culpa grave.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: Evalué la función del Estado en la responsabilidad civil de jueces y magistrados tras la reforma de 2015.
+Respuesta Correcta: El Estado indemniza a los perjudicados por errores judiciales, reflejando una asunción de responsabilidad patrimonial, pero puede recuperar el coste de jueces por dolo o culpa grave, asegurando un control sobre malas prácticas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: Discuta la importancia de la acción de regreso en el sistema de responsabilidad civil de jueces y magistrados.
+Respuesta Correcta: La acción de regreso permite al Estado recuperar lo indemnizado cuando la negligencia se debe a dolo o culpa grave, incentivando la diligencia en el ejercicio judicial y asegurando que los jueces no actúen impunemente.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: Analice cómo la responsabilidad disciplinaria complementa los otros tipos de responsabilidad de jueces y magistrados.
+Respuesta Correcta: La responsabilidad disciplinaria aborda incumplimientos de deberes e incompatibilidades, complementando las responsabilidades penal y civil al sancionar conductas que, aunque no sean delictivas ni causen daños patrimoniales, afectan la ética judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad de Jueces y Magistrados
+
+Pregunta: ¿Cuál es la finalidad principal de la creación del Consejo General del Poder Judicial según la Constitución Española de 1978?
+Respuesta Correcta: La finalidad principal es garantizar la independencia judicial frente al Poder Ejecutivo, evitando su influencia en el estatuto personal de los miembros de la Carrera Judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: Analiza las implicaciones que tiene la composición mixta del CGPJ en cuanto a su independencia y capacidad de autogobierno.
+Respuesta Correcta: La composición mixta, con vocales judiciales y no judiciales, busca integrar diversas perspectivas, pero su elección parlamentaria total puede comprometer la independencia al permitir influencias políticas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: Examina las críticas al sistema de elección de los vocales del CGPJ instaurado por la LO 6/1985.
+Respuesta Correcta: El sistema de elección parlamentaria total genera dudas sobre la independencia del CGPJ, ya que permite que partidos mayoritarios pacten el reparto de puestos, debilitando el principio de autogobierno.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: ¿Cómo afecta el bloqueo institucional a la renovación del CGPJ y cuál es el papel de los partidos políticos en este contexto?
+Respuesta Correcta: El bloqueo institucional, debido a la falta de consenso entre PSOE y PP, mantiene el CGPJ en funciones y refleja intereses partidistas que buscan influir en el órgano judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: Discute la postura del GRECO sobre el sistema de elección de los vocales del CGPJ en España.
+Respuesta Correcta: El GRECO critica la influencia política en la elección de los vocales del CGPJ y aboga por que sean los propios jueces quienes elijan a sus representantes para asegurar una verdadera independencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: ¿Cuáles son las ventajas técnicas de contar con una mayoría de vocales de procedencia judicial en el CGPJ?
+Respuesta Correcta: Contar con una mayoría de vocales judiciales mejora la gestión del CGPJ al integrar miembros con experiencia directa en la carrera judicial, facilitando la atención de sus intereses y asuntos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 9: El Consejo General del Poder Judicial (CGPJ)
+
+Pregunta: Analiza la importancia del consenso en la elección del Presidente del CGPJ y cómo afecta al funcionamiento del órgano.
+Respuesta Correcta: El consenso en la elección del Presidente del CGPJ, que requiere una mayoría de tres quintos de los Vocales, asegura una legitimidad fuerte y una base de apoyo amplia, facilitando la gobernabilidad y la estabilidad institucional del órgano.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Discute cómo la composición mixta de la Comisión Permanente refleja el principio de separación de poderes en el contexto del CGPJ.
+Respuesta Correcta: La Comisión Permanente integra tanto Vocales del turno judicial como del turno de juristas, lo que refleja un equilibrio entre la experiencia judicial y la perspectiva jurídica externa, asegurando diversidad y objetividad en la gestión cotidiana del CGPJ.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Examina el papel del Pleno en el nombramiento de Magistrados del Tribunal Constitucional y su impacto en el equilibrio institucional.
+Respuesta Correcta: El Pleno tiene la potestad de nombrar dos Magistrados del Tribunal Constitucional, lo que le otorga una influencia significativa en el equilibrio constitucional, asegurando que el Poder Judicial participe en la conformación del órgano garante de la Constitución.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Evalúa la función de la Comisión Disciplinaria en el mantenimiento de la integridad del Poder Judicial.
+Respuesta Correcta: La Comisión Disciplinaria, al resolver expedientes disciplinarios por faltas graves y muy graves, juega un papel crucial en el mantenimiento de la integridad y la ética judicial, al asegurar que los miembros de la Carrera Judicial cumplan con altos estándares de conducta.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Argumenta sobre la necesidad de una dedicación exclusiva de los Vocales en la Comisión Permanente del CGPJ.
+Respuesta Correcta: La dedicación exclusiva de los Vocales de la Comisión Permanente es esencial para gestionar eficazmente el día a día del CGPJ, asegurando que las funciones administrativas y de gestión se realicen con continuidad y sin distracciones externas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Reflexiona sobre la importancia de la Comisión de Igualdad en la promoción de la equidad de género dentro del Poder Judicial.
+Respuesta Correcta: La Comisión de Igualdad es vital para integrar el principio de igualdad de género en el Poder Judicial, promoviendo políticas que combatan la violencia de género y asegurando que la justicia se administre de manera equitativa y sensible a las cuestiones de género.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 10: CGPJ II. Estructura
+
+Pregunta: Analiza la importancia de las funciones de gobierno del CGPJ en relación con el nombramiento de altos cargos judiciales.
+Respuesta Correcta: Las funciones de gobierno del CGPJ son cruciales para garantizar la independencia judicial, ya que eligen altos cargos como el Presidente del Tribunal Supremo. Esto asegura que las designaciones sean independientes del poder político, manteniendo la integridad del sistema judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: Explica cómo las competencias sobre el Estatuto de Jueces y Magistrados refuerzan la función disciplinaria del CGPJ.
+Respuesta Correcta: El CGPJ refuerza su función disciplinaria al incoar y tramitar expedientes por faltas disciplinarias de jueces, como actividades incompatibles con su cargo, asegurando el cumplimiento de la normativa y el mantenimiento de la ética judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: Evalúa la relevancia de la potestad reglamentaria del CGPJ en el contexto de la autoorganización.
+Respuesta Correcta: La potestad reglamentaria permite al CGPJ establecer normas internas para la gestión eficiente de su funcionamiento, como la habilitación de días hábiles. Esto facilita la adaptación a necesidades específicas, optimizando su operatividad y autonomía.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: Discute el impacto de las funciones consultivas del CGPJ sobre la legislación que afecta al Poder Judicial.
+Respuesta Correcta: Las funciones consultivas del CGPJ son esenciales porque, aunque sus informes no son vinculantes, aseguran que las modificaciones legislativas consideren la perspectiva judicial, protegiendo así la estructura y funcionamiento del Poder Judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: Analiza las consecuencias de la limitación de funciones del CGPJ en funciones sobre el sistema judicial.
+Respuesta Correcta: La limitación de funciones impide nombramientos discrecionales, causando acumulación de vacantes en altos tribunales. Esto afecta gravemente la eficiencia judicial, exacerbando la carga de trabajo y comprometiendo la administración de justicia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: Reflexiona sobre el papel del CGPJ en la defensa de sus atribuciones frente a otros poderes del Estado.
+Respuesta Correcta: El CGPJ defiende sus atribuciones mediante conflictos de atribuciones ante el TC, asegurando que otros poderes no invadan su competencia. Este mecanismo es vital para mantener la separación de poderes y la independencia del poder judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 11: CGPJ III. Funciones
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el Gobierno Externo y el Gobierno Interno del Poder Judicial según la LOPJ?
+Respuesta Correcta: El Gobierno Externo, ejercido por el CGPJ, no se integra en el Poder Judicial y se enfoca en funciones de supervisión y dirección general, mientras que el Gobierno Interno gestiona la organización y administración diaria de los Juzgados y Tribunales, según el Título Tercero del Libro Segundo de la LOPJ.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: ¿Qué papel juegan las Salas de Gobierno en la administración de los tribunales, y cómo se diferencian según su categoría?
+Respuesta Correcta: Las Salas de Gobierno son órganos colegiados que gestionan tareas organizativas y administrativas, como el reparto de asuntos. Su composición varía según la categoría del tribunal: en el TS y AN incluyen al Presidente y Presidentes de Sala, mientras que en los TSJ incluyen además a Presidentes de Audiencias Provinciales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: Analice la función de los Presidentes de Tribunal y Audiencia en el reparto de asuntos y su límite gubernativo.
+Respuesta Correcta: Los Presidentes convocan, presiden y dirigen la Sala de Gobierno, aplicando criterios de reparto aprobados por esta. Su límite gubernativo está en que no pueden corregir la interpretación jurídica de los juzgados inferiores, garantizando la independencia judicial, según el art. 12.2 de la LOPJ.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: Explique la importancia de las Normas de Reparto de Asuntos y quién las aprueba.
+Respuesta Correcta: Las Normas de Reparto de Asuntos, aprobadas por las Salas de Gobierno, establecen criterios objetivos para distribuir casos entre salas y secciones, asegurando equidad y eficiencia en la tramitación judicial, como se detalla en el art. 152 de la LOPJ.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: ¿Cuál es la función de los Presidentes de Sala y Jueces en la gestión interna de los tribunales?
+Respuesta Correcta: Según el art. 165 de la LOPJ, los Presidentes de Sala y Jueces tienen facultades de moderación y gestión a pequeña escala, permitiéndoles adoptar decisiones para mejorar la eficiencia interna, sin intervenir en la aplicación del Derecho.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: Discuta las facultades de gestión de medios de las Salas de Gobierno y su relación con el CGPJ.
+Respuesta Correcta: Las Salas de Gobierno pueden proponer al CGPJ mejoras en medios materiales y personales para optimizar la función judicial, como la adquisición de programas informáticos, según el art. 152 de la LOPJ. Esto busca beneficiar a los órganos judiciales de su circunscripción.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 12: El Gobierno Interno de Jueces y Tribunales I
+
+Pregunta: Analice la importancia de las Juntas de Jueces en el contexto del gobierno interno del Poder Judicial.
+Respuesta Correcta: Las Juntas de Jueces son cruciales para el apoyo organizativo y la expresión de criterios técnicos, especialmente en la elaboración de propuestas para las Normas de Reparto de Asuntos, lo que permite una distribución eficiente de la carga judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: ¿En qué se diferencia la función de las Juntas Generales de las Juntas Sectoriales?
+Respuesta Correcta: Las Juntas Generales se centran en la coordinación local de jueces de una misma población, mientras que las Juntas Sectoriales se enfocan en jueces de un mismo orden jurisdiccional, priorizando la adaptación a reformas legales y propuestas de reparto.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: Explique el impacto de la regulación del Juez Decano en la administración de justicia local.
+Respuesta Correcta: El Juez Decano, al representar a los jueces ante los poderes públicos y coordinar la actividad judicial local, asegura una gestión eficiente y una adecuada supervisión del reparto de asuntos, optimizando el uso de recursos comunes.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: Discuta la dualidad en la asignación de Jueces Decanos y su importancia en el sistema judicial.
+Respuesta Correcta: La dualidad en la asignación, entre electivos y no electivos según el número de juzgados, permite una representación adecuada, garantizando que el decanato refleje las características demográficas y organizativas de cada localidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: ¿Cómo contribuyen las Juntas Sectoriales a la práctica judicial ante reformas normativas?
+Respuesta Correcta: Las Juntas Sectoriales permiten a los jueces del mismo orden jurisdiccional discutir y adaptar la práctica judicial a las nuevas normativas, asegurando su efectiva implementación y el respeto a los principios legales vigentes.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: Analice el papel de las Juntas de Jueces en la propuesta de Normas de Reparto y su relevancia.
+Respuesta Correcta: Las Juntas de Jueces, al proponer las Normas de Reparto, aseguran que estas reflejen un conocimiento profundo de las necesidades y particularidades locales, lo que mejora la eficiencia y equidad en la distribución de casos judiciales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 13: El Gobierno Interno de Jueces y Magistrados II
+
+Pregunta: Analiza cómo el principio de legalidad influye en la actuación del Ministerio Fiscal.
+Respuesta Correcta: El principio de legalidad obliga al Ministerio Fiscal a actuar siempre conforme a la Constitución y las leyes. Esto se traduce en no realizar actos ilegales y en promover acciones en defensa de la legalidad cuando haya infracciones, asegurando que su actuación esté fundamentada en el ordenamiento jurídico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: Discuta la naturaleza jurídica del Ministerio Fiscal en relación con el Poder Judicial.
+Respuesta Correcta: La integración del Ministerio Fiscal en el Poder Judicial es debatida. Aunque está en el Título VI de la CE, se argumenta que no forma parte de él, ya que no ejerce potestad jurisdiccional. Legalmente, se define como un órgano autónomo con relevancia constitucional dentro del Poder Judicial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: Evalúe la importancia del principio de imparcialidad en las funciones del Ministerio Fiscal.
+Respuesta Correcta: El principio de imparcialidad requiere que el Ministerio Fiscal actúe objetivamente, sin dejarse influenciar por conveniencias o presiones sociales. Debe enfocarse en la infracción y el interés público, incluso si eso significa defender la inocencia de alguien con mala reputación.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: Explique la función del principio de unidad de actuación y cómo se asegura dentro del Ministerio Fiscal.
+Respuesta Correcta: El principio de unidad de actuación garantiza que el Ministerio Fiscal actúe de manera homogénea en todo el país. Se asegura mediante la dependencia jerárquica, donde las instrucciones y circulares del Fiscal General del Estado unifican criterios y guían la actuación de todos los fiscales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: Analice la función del mecanismo de objeción en el contexto de la dependencia jerárquica del Ministerio Fiscal.
+Respuesta Correcta: El mecanismo de objeción permite a un Fiscal rechazar órdenes jerárquicas que considere inconstitucionales o ilegales, presentando un informe motivado. Esto asegura que la dependencia jerárquica no conduzca a una obediencia ciega, protegiendo así la legalidad y derechos fundamentales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: Comente sobre el papel del Ministerio Fiscal en la defensa de los derechos de los ciudadanos y el interés público.
+Respuesta Correcta: El Ministerio Fiscal defiende los derechos ciudadanos y el interés público mediante su participación en procesos judiciales. Actúa de oficio o a instancia de parte para asegurar que los derechos y el interés social estén protegidos, reflejando su misión constitucional de promover la justicia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 14: El Ministerio Fiscal I
+
+Pregunta: ¿Cómo garantiza el Ministerio Fiscal su autonomía funcional respecto al Poder Ejecutivo y por qué es fundamental esta autonomía?
+Respuesta Correcta: La autonomía funcional del Ministerio Fiscal, establecida en el art. 2 EOMF, asegura que no reciba órdenes del Gobierno, permitiendo actuar independientemente en la aplicación de la legalidad, lo que es esencial para evitar influencias políticas en la administración de justicia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: Analiza el papel del Ministerio Fiscal en la dirección de la instrucción de menores y cómo se diferencia del procedimiento para adultos.
+Respuesta Correcta: En el procedimiento penal de menores, el Ministerio Fiscal asume la dirección de la instrucción, a diferencia de los adultos, donde la instrucción recae en el Juez. Esta excepción busca un enfoque especializado y protector hacia los menores.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: Explora las funciones del Ministerio Fiscal en el ámbito civil, especialmente en procesos de familia, y su importancia.
+Respuesta Correcta: En el ámbito civil, el Ministerio Fiscal interviene preceptivamente en procesos que afectan a menores o incapaces, como los de familia, protegiendo su interés superior y asegurando que se respeten sus derechos en ausencia de representación ordinaria.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: ¿Qué rol desempeña el Ministerio Fiscal ante el Tribunal Constitucional y cómo contribuye a la defensa de la legalidad?
+Respuesta Correcta: El Ministerio Fiscal interviene en procesos ante el Tribunal Constitucional, ostentando la legitimación para interponer recursos de amparo, lo que le permite proteger derechos fundamentales y asegurar el respeto a la Constitución.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: Discute la relación entre la autonomía funcional y la dependencia jerárquica del Ministerio Fiscal según el EOMF.
+Respuesta Correcta: El Ministerio Fiscal mantiene autonomía funcional frente a otros Poderes del Estado para aplicar la legalidad sin interferencias, pero opera bajo una estructura de dependencia jerárquica interna para asegurar la unidad de actuación y criterios homogéneos en todo el territorio.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: ¿Cómo contribuye el Ministerio Fiscal a la protección de la independencia judicial según el art. 3 EOMF?
+Respuesta Correcta: El Ministerio Fiscal tiene el deber de velar por la independencia judicial, promoviendo acciones y recursos que aseguren la correcta aplicación de la justicia, incluyendo el control de plazos en la instrucción penal, protegiendo así la integridad de la función jurisdiccional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 15: El Ministerio
+
+Pregunta: ¿Qué papel juega el Fiscal General del Estado en la jerarquía del Ministerio Fiscal y cómo se articula con los principios de unidad de actuación y dependencia jerárquica?
+Respuesta Correcta: El Fiscal General del Estado es la máxima autoridad en el Ministerio Fiscal, asegurando la unidad de actuación y dependencia jerárquica mediante órdenes e instrucciones obligatorias, salvo si son improcedentes o ilegales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: Analiza el procedimiento de nombramiento del Fiscal General del Estado y evalúa la importancia del informe del Consejo General del Poder Judicial.
+Respuesta Correcta: El nombramiento es a propuesta del Gobierno y formalizado por el Rey, con el informe del CGPJ siendo preceptivo pero no vinculante, lo que resalta su carácter consultivo, asegurando un control previo del candidato.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: Examina las causas de cese del Fiscal General del Estado y discute la trascendencia del cese del Gobierno proponente.
+Respuesta Correcta: El cese puede ser por expiración del mandato, incapacidad, prohibiciones, incumplimiento grave o cese del Gobierno que lo propuso, siendo esta última una causa política significativa que implica su cese automático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: ¿Cómo se garantiza la idoneidad del candidato a Fiscal General del Estado a través de los trámites previos al nombramiento?
+Respuesta Correcta: La idoneidad se evalúa mediante el informe preceptivo del CGPJ y la comparecencia en el Congreso, donde se valoran sus méritos y competencia, asegurando un control de calidad en el proceso de nombramiento.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: ¿Qué funciones principales desempeña el Fiscal General del Estado según su posición jerárquica y cómo influyen en el funcionamiento del Ministerio Fiscal?
+Respuesta Correcta: El Fiscal General dirige la Fiscalía General, preside órganos colegiados y lidera la Fiscalía del Tribunal Supremo, funciones que consolidan su autoridad y garantizan la cohesión y eficacia del Ministerio Fiscal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: Discute la relevancia de los requisitos personales para el nombramiento del Fiscal General del Estado y su impacto en la independencia del cargo.
+Respuesta Correcta: Ser un jurista de reconocida competencia con al menos 15 años de experiencia asegura que el FGE tenga la capacidad técnica y profesional necesaria, aunque su nombramiento a propuesta del Gobierno podría afectar su independencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 5
+Tema: Tema 16: El Ministerio Fiscal III
+
+Pregunta: ¿Cuáles son las principales diferencias entre el sistema de control de constitucionalidad norteamericano y el europeo?
+Respuesta Correcta: El sistema norteamericano es difuso, permitiendo a cualquier juez declarar la inconstitucionalidad de una norma con efectos inter partes. El europeo es concentrado, con un único órgano especializado (TC en España) que declara la inconstitucionalidad con efectos erga omnes.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: Analice el papel del Tribunal Constitucional español como intérprete supremo de la Constitución.
+Respuesta Correcta: El Tribunal Constitucional, según el art. 1.1 LOTC, es el intérprete supremo de la Constitución, independiente de otros órganos y sometido solo a la Constitución y LOTC. Su función es garantizar la primacía de la Constitución en el ordenamiento jurídico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: Explique el proceso de nombramiento de los magistrados del Tribunal Constitucional español.
+Respuesta Correcta: El TC se compone de 12 magistrados nombrados por el Rey, propuestos por el Congreso y Senado (4 cada uno), el Gobierno (2) y el CGPJ (2), reflejando consenso institucional. Requiere mayoría cualificada de tres quintos en las cámaras legislativas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: Discuta la importancia del sistema de renovación parcial de los magistrados del Tribunal Constitucional.
+Respuesta Correcta: La renovación parcial cada tres años de un tercio de los magistrados, según el art. 159.3 CE, busca mantener la continuidad y estabilidad del TC, evitando cambios drásticos en su composición y asegurando experiencia acumulada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: ¿Qué requisitos deben cumplir los candidatos a magistrados del Tribunal Constitucional según el artículo 159.2 CE?
+Respuesta Correcta: Los candidatos deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional, pudiendo ser magistrados, fiscales, profesores universitarios, funcionarios o abogados, asegurando alta cualificación.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: Analice cómo se organiza el Tribunal Constitucional español para el ejercicio de sus funciones.
+Respuesta Correcta: El TC se organiza en Pleno, Salas y Secciones. El Pleno incluye a los 12 magistrados, mientras que las dos Salas tienen 6 magistrados cada una. Las Salas pueden dividirse en Secciones para tareas específicas, asegurando eficiencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 1: El Tribunal Constitucional
+
+Pregunta: ¿Cuál es la función primordial del Tribunal Constitucional en el control de constitucionalidad y cuáles son los mecanismos esenciales que utiliza?
+Respuesta Correcta: La función primordial es determinar la conformidad de las leyes con la Constitución, utilizando el Recurso de Inconstitucionalidad y la Cuestión de Inconstitucionalidad como mecanismos esenciales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: Analiza la competencia del Tribunal Constitucional respecto a los conflictos de competencias entre el Estado y las Comunidades Autónomas.
+Respuesta Correcta: El TC resuelve conflictos de competencias entre el Estado y CCAA, asegurando la delimitación de competencias conforme a la Constitución y el marco legal, incluyendo los Estatutos de Autonomía.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: Explique las excepciones al monopolio del Tribunal Constitucional en la declaración de inconstitucionalidad de normas.
+Respuesta Correcta: Jueces y Tribunales ordinarios pueden inaplicar leyes preconstitucionales por derogación tácita y controlar la legalidad de normas infralegales, según la jerarquía normativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: ¿Qué papel juega el concepto de 'Bloque de la Constitucionalidad' en el enjuiciamiento de leyes por el Tribunal Constitucional?
+Respuesta Correcta: El Bloque de la Constitucionalidad, compuesto por la Constitución y leyes delimitadoras de competencias, sirve como parámetro integral para evaluar la validez de normas con rango de ley.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: Discuta la exclusividad del Tribunal Constitucional en el control de las leyes postconstitucionales.
+Respuesta Correcta: El TC tiene exclusividad en declarar la inconstitucionalidad de leyes postconstitucionales, abarcando normas con rango de ley, asegurando su conformidad con la Constitución y el marco legal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: Analice el efecto de las sentencias del Tribunal Constitucional en el control de leyes postconstitucionales.
+Respuesta Correcta: Las sentencias del TC sobre leyes postconstitucionales tienen efecto erga omnes, eliminando la norma del ordenamiento jurídico, asegurando su concordancia con el Bloque de la Constitucionalidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 2: Funciones del Tribunal Constitucional 1. Funciones del Tribunal Constitucional (Art. 161 CE y LOTC)
+
+Pregunta: Analice la legitimación activa para interponer un recurso de inconstitucionalidad y su carácter institucional.
+Respuesta Correcta: La legitimación activa está restringida a ciertos órganos y autoridades, reflejando su carácter institucional y político. Solo el Presidente del Gobierno, el Defensor del Pueblo, o grupos de 50 Diputados o Senadores pueden interponerlo, destacando la importancia de la representación política en este control constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: Explique la importancia del plazo de tres meses para interponer un recurso de inconstitucionalidad y su función en el sistema jurídico.
+Respuesta Correcta: El plazo de tres meses, según el art. 33 LOTC, busca asegurar la estabilidad jurídica al imponer una limitación temporal para cuestionar la constitucionalidad de normas, evitando la incertidumbre prolongada sobre la validez de las leyes en vigor.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: Compare los efectos de interponer un recurso de inconstitucionalidad ordinario y un recurso previo de inconstitucionalidad.
+Respuesta Correcta: El recurso ordinario no suspende la vigencia de la norma impugnada, permitiendo su aplicación hasta que el TC resuelva. En contraste, el recurso previo suspende automáticamente la tramitación del Estatuto, previniendo efectos jurídicos potencialmente inconstitucionales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: Discuta el papel de la comisión bilateral en la ampliación de plazos para el recurso de inconstitucionalidad.
+Respuesta Correcta: La comisión bilateral permite ampliar el plazo a nueve meses, incentivando la cooperación entre el Estado y las CCAA para resolver conflictos de competencias sin recurrir al TC, demostrando un enfoque flexible y colaborativo en la resolución de disputas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: Evalúe la función del Tribunal Constitucional en la depuración del ordenamiento jurídico mediante el recurso de inconstitucionalidad.
+Respuesta Correcta: El TC actúa como garante de la supremacía constitucional, eliminando normas contrarias a la Constitución y asegurando que el ordenamiento jurídico se mantenga en conformidad con los principios constitucionales, lo que refuerza el Estado de Derecho.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: Analice cómo el plazo para dictar sentencia en un recurso de inconstitucionalidad afecta la eficacia del Tribunal Constitucional.
+Respuesta Correcta: El plazo de 10 a 30 días para dictar sentencia es raramente cumplido debido a la carga de trabajo del TC, lo que afecta su eficacia al generar retrasos y acumular asuntos pendientes, cuestionando la prontitud en la protección de la constitucionalidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 3: El Recurso De Inconstitucionalidad
+
+Pregunta: ¿Cuál es el fundamento constitucional de la Cuestión de Inconstitucionalidad y cómo se diferencia de un recurso de inconstitucionalidad?
+Respuesta Correcta: La Cuestión de Inconstitucionalidad se fundamenta en el art. 163 CE, permitiendo a los jueces cuestionar normas legales en un caso concreto. Se diferencia del recurso, que cualquier ciudadano puede interponer y se admite automáticamente, mientras que la CI no.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: Explique la importancia del requisito de aplicabilidad y dependencia en la Cuestión de Inconstitucionalidad.
+Respuesta Correcta: Este requisito asegura que la norma cuestionada sea relevante para el fallo del caso concreto. Si la norma no es aplicable o el fallo no depende de su validez, la CI no procede, protegiendo así la pertinencia del control constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: Analice cómo la presunción de inocencia se ve afectada por el art. 94 CC en el contexto de la Cuestión de Inconstitucionalidad.
+Respuesta Correcta: El art. 94 CC permite suspender visitas por estar en un proceso penal, lo que podría vulnerar la presunción de inocencia al imponer sanciones civiles sin condena firme, justificación de la CI planteada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: Discuta el procedimiento de planteamiento de la Cuestión de Inconstitucionalidad desde su iniciación hasta su resolución.
+Respuesta Correcta: El procedimiento puede iniciarse de oficio o a instancia de parte, seguido de una audiencia de 15 días y resolviéndose en 3 días mediante auto motivado. Se debe plantear antes de dictar sentencia en el proceso principal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: ¿Qué efectos tiene el auto de planteamiento de la Cuestión de Inconstitucionalidad sobre el proceso judicial original?
+Respuesta Correcta: El auto de planteamiento suspende provisionalmente el proceso judicial original hasta que el Tribunal Constitucional decida sobre la admisión a trámite, garantizando que el fallo no se vea afectado por la norma cuestionada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: Analice las causas de inadmisión de una Cuestión de Inconstitucionalidad según el art. 37 LOTC.
+Respuesta Correcta: Las causas incluyen la falta de condiciones procesales, como la omisión de audiencia de 15 días, o ser notoriamente infundada, lo que exige una valoración mínima sobre la evidente falta de fundamento de la inconstitucionalidad alegada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 4: La Cuestión De Inconstitucionalidad
+
+Pregunta: ¿Cómo se garantiza la publicidad y valor de cosa juzgada para las sentencias del Tribunal Constitucional según el artículo 164 CE?
+Respuesta Correcta: El artículo 164 CE establece que las sentencias del TC deben publicarse en el BOE y adquieren valor de cosa juzgada al día siguiente, asegurando su difusión y firmeza legal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: ¿Por qué las sentencias del Tribunal Constitucional son irrecurribles y qué implicaciones tiene esto para los procesos de inconstitucionalidad?
+Respuesta Correcta: Las sentencias del TC son irrecurribles para garantizar su autoridad definitiva. Esto implica que una vez dictada, no puede ser revisada, asegurando estabilidad jurídica en procesos de inconstitucionalidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: Explique la eficacia erga omnes de las sentencias del Tribunal Constitucional y su vinculación a los poderes públicos.
+Respuesta Correcta: La eficacia erga omnes implica que todos, incluidos los poderes públicos, deben acatar las sentencias del TC, evitando la aplicación de normas declaradas inconstitucionales, asegurando uniformidad legal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: Analice las consecuencias de una sentencia estimatoria del Tribunal Constitucional en un proceso de inconstitucionalidad.
+Respuesta Correcta: Una sentencia estimatoria declara la nulidad de la norma impugnada y, por conexión, puede extenderse a otros preceptos relacionados, garantizando la eliminación de toda inconsistencia legal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: En qué casos las sentencias del Tribunal Constitucional pueden afectar la cosa juzgada anterior, según el artículo 40 LOTC.
+Respuesta Correcta: La cosa juzgada anterior puede ser afectada si la declaración de inconstitucionalidad implica una limitación de pena o exención de responsabilidad, priorizando la libertad individual del condenado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: ¿Cómo deben actuar los órganos judiciales tras una sentencia del Tribunal Constitucional en un proceso de cuestión de inconstitucionalidad?
+Respuesta Correcta: Tras la sentencia, el órgano judicial que planteó la cuestión debe resolver conforme al fallo del TC, asegurando que la decisión respete la supremacía constitucional en el procedimiento ordinario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 5: Efectos De Las Sentencias Del TC
+
+Pregunta: ¿Por qué la Constitución Española tiene supremacía jerárquica sobre los Tratados Internacionales según el texto?
+Respuesta Correcta: La Constitución Española es la norma jurídica suprema, lo que garantiza la coherencia entre compromisos internacionales y el texto fundamental, evitando contradicciones posteriores.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: Explique el procedimiento que debe seguirse si se detecta una contradicción entre un Tratado Internacional y la Constitución Española.
+Respuesta Correcta: El Gobierno o las Cámaras pueden requerir al Tribunal Constitucional para que determine la compatibilidad del Tratado, evitando así responsabilidades internacionales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: ¿Cuáles son los efectos de una declaración de incompatibilidad por parte del Tribunal Constitucional respecto a un Tratado Internacional?
+Respuesta Correcta: El Estado debe reformar la Constitución para el tratado o abstenerse de consentirlo, preservando la integridad constitucional y evitando responsabilidades internacionales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: Analice la importancia del control previo de constitucionalidad de los Tratados Internacionales.
+Respuesta Correcta: El control previo protege la supremacía constitucional y asegura estabilidad jurídica internacional, previniendo litigios tras la ratificación de tratados.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: ¿Qué legitimación activa existe para instar el procedimiento de control previo ante el Tribunal Constitucional?
+Respuesta Correcta: El Gobierno y cualquiera de las Cámaras (Congreso o Senado) poseen legitimación activa, reflejando su rol constitucional y poder ejecutivo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: Discuta el papel del Tribunal Constitucional en la salvaguarda de la supremacía de la Constitución Española en el ámbito internacional.
+Respuesta Correcta: El Tribunal Constitucional garantiza que ningún tratado contradiga la Constitución, emitiendo declaraciones vinculantes que preservan la supremacía constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 6: Control Previo de Inconstitucionalidad de los Tratados
+
+Pregunta: Analiza la naturaleza extraordinaria del recurso de amparo y sus implicaciones prácticas.
+Respuesta Correcta: El recurso de amparo es extraordinario, limitando sus motivos a violaciones de derechos fundamentales específicos. Esto restringe su uso a situaciones excepcionales, donde otros recursos judiciales no son suficientes, garantizando que solo se dirima ante el TC cuando sea estrictamente necesario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: Explica la importancia del carácter subsidiario del recurso de amparo.
+Respuesta Correcta: El carácter subsidiario exige agotar todos los recursos judiciales previos antes de acudir al TC. Esto asegura que se utilicen todos los mecanismos ordinarios de resolución de conflictos, reservando el amparo para situaciones donde estos hayan fallado en proteger derechos fundamentales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: Discute la delimitación del ámbito de protección del recurso de amparo según la Constitución Española.
+Respuesta Correcta: El recurso de amparo se limita a derechos fundamentales y libertades públicas de los arts. 14 a 29 y el art. 30 CE. Esta delimitación excluye derechos socioeconómicos como el derecho a una vivienda digna, concentrando el amparo en proteger derechos esenciales para la libertad individual.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: Evalúa los requisitos acumulados para la procedibilidad del recurso de amparo contra actos jurisdiccionales.
+Respuesta Correcta: Se requiere el agotamiento de todos los medios de impugnación y que la violación sea imputable de forma directa al órgano judicial. Esto formaliza el proceso y asegura que el TC solo intervenga cuando la justicia ordinaria no rectifique una violación clara de derechos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: Analiza el papel de la denuncia formal de la vulneración en el proceso del recurso de amparo.
+Respuesta Correcta: Es crucial que el recurrente denuncie la violación tan pronto como sea posible, lo que subraya la importancia de la prontitud y diligencia en la protección de derechos fundamentales, evitando dilaciones indebidas en la búsqueda de tutela constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: Comenta la legitimación activa para interponer el recurso de amparo y su relación con la protección de derechos.
+Respuesta Correcta: La legitimación recae en los directamente afectados, partes del proceso, Defensor del Pueblo y Ministerio Fiscal, asegurando que aquellos con interés legítimo o institucional puedan buscar protección ante el TC, garantizando una defensa amplia de los derechos fundamentales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 7: El Recurso De Amparo I
+
+Pregunta: ¿Por qué es esencial agotar la vía judicial precedente antes de interponer un recurso de amparo según el art. 44 LOTC?
+Respuesta Correcta: Agotar la vía judicial precedente asegura que el sistema judicial ordinario haya tenido la oportunidad de corregir la vulneración antes de recurrir al amparo, subrayando su carácter subsidiario y extraordinario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: Explique la importancia de la denuncia formal de la infracción en el proceso judicial ordinario para el amparo constitucional.
+Respuesta Correcta: La denuncia formal es crucial porque permite que el órgano judicial ordinario tenga conocimiento de la presunta vulneración y, potencialmente, pueda remediarla antes de acudir al Tribunal Constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: Analice el papel de la especial trascendencia constitucional (ETC) en la admisión de un recurso de amparo.
+Respuesta Correcta: La ETC actúa como filtro para asegurar que el recurso tenga relevancia más allá del caso particular, impactando en la interpretación, aplicación o eficacia general de la Constitución, lo que justifica la intervención del Tribunal Constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: Discuta las consecuencias procesales de no presentar la demanda de amparo dentro del plazo establecido de 30 días.
+Respuesta Correcta: El incumplimiento del plazo de 30 días conlleva la inadmisión del recurso, ya que el plazo es preclusivo, asegurando celeridad y seguridad jurídica en el proceso constitucional de amparo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: ¿Cuál es la relevancia de acompañar documentación anexa con la demanda de amparo?
+Respuesta Correcta: La documentación anexa acredita la representación del solicitante y proporciona las resoluciones impugnadas, facilitando al Tribunal Constitucional una evaluación adecuada y fundamentada del recurso.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: Examine el proceso y las implicaciones de la fase de alegaciones en el procedimiento de amparo.
+Respuesta Correcta: En la fase de alegaciones, las partes presentan argumentos sobre la presunta vulneración, permitiendo al Tribunal Constitucional valorar la cuestión en profundidad, lo que es esencial para una decisión informada y justa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 8: El Recurso De Amparo II
+
+Pregunta: ¿Cómo se diferencian los conflictos positivos y negativos de competencia en el Estado Autonómico español?
+Respuesta Correcta: Los conflictos positivos surgen por la invasión competencial de un ente sobre otro, mientras que los negativos se dan por la abstención de un ente al considerar que la competencia es de otro. Ambos requieren la intervención del TC para resolver la controversia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: Analiza la legitimación activa en los conflictos positivos y negativos de competencia.
+Respuesta Correcta: En los conflictos positivos, la legitimación activa corresponde al Gobierno y a los órganos colegiados ejecutivos de las CC. AA. En los conflictos negativos, además del Gobierno, los particulares también pueden tener legitimación activa, ampliando así el acceso a la justicia constitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: ¿Cuál es el procedimiento a seguir en los conflictos positivos de competencia según la LOTC, y qué excepción se contempla para el Gobierno?
+Respuesta Correcta: El procedimiento general requiere un requerimiento previo, con un plazo de respuesta de un mes. Sin embargo, el Gobierno puede plantear el conflicto directamente ante el TC sin requerimiento previo, siempre que lo haga en dos meses desde la publicación del acto que genera el conflicto.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: Explica el papel del Tribunal Constitucional en la resolución de conflictos de competencia.
+Respuesta Correcta: El TC actúa como árbitro neutral, resolviendo conflictos mediante la interpretación de las normas de distribución competencial, como la Constitución y los Estatutos de Autonomía. Su sentencia indica la titularidad de la competencia controvertida, garantizando el equilibrio territorial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: Compara el procedimiento de planteamiento de conflictos negativos por parte de un particular y del Gobierno.
+Respuesta Correcta: Un particular debe realizar un doble requerimiento antes de acudir al TC. El Gobierno, en cambio, inicia el procedimiento con un único requerimiento. Ambos procesos culminan con la intervención del TC para determinar la competencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: Discute la importancia de los artículos 148 y 149 de la Constitución Española en los conflictos de competencia.
+Respuesta Correcta: Estos artículos son fundamentales, ya que delimitan las competencias del Estado y las CC. AA., sirviendo de referencia en los conflictos. El TC los utiliza para interpretar y decidir sobre la titularidad de competencias en casos de controversia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 9: Conflictos Entre El Estado Y Las CCAA
+
+Pregunta: Analiza cómo el conflicto de atribuciones entre órganos constitucionales garantiza el equilibrio orgánico en el Estado.
+Respuesta Correcta: El conflicto de atribuciones permite resolver las invasiones de competencias entre órganos supremos, garantizando el respeto a la delimitación de funciones y el equilibrio institucional, evitando que un órgano asuma funciones no previstas por la Constitución.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Explica la importancia de la legitimación activa en el procedimiento de conflictos de atribuciones.
+Respuesta Correcta: La legitimación activa, reservada a órganos con atribuciones constitucionales, asegura que solo entidades con interés directo puedan promover el conflicto, manteniendo el control de competencias dentro de los límites constitucionales establecidos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Evalúa el papel del silencio administrativo en el procedimiento de conflictos de atribuciones.
+Respuesta Correcta: El silencio administrativo, considerado como rechazo, permite avanzar en el proceso cuando el órgano requerido no responde, asegurando que la falta de contestación no impida la protección de competencias del órgano afectado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Discute la función del Tribunal Constitucional en la resolución de conflictos de atribuciones.
+Respuesta Correcta: El Tribunal Constitucional actúa como árbitro final, decidiendo sobre la titularidad de competencias tras el análisis de alegaciones, asegurando una resolución imparcial y basada en preceptos constitucionales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Valora el impacto del conflicto en defensa de la autonomía local en la protección de las entidades locales.
+Respuesta Correcta: Este conflicto permite a entidades locales impugnar normas que lesionan su autonomía, proporcionando un mecanismo de defensa directo frente a invasiones competenciales por parte del Estado o Comunidades Autónomas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Analiza la relevancia del control bifásico en el conflicto de autonomía local.
+Respuesta Correcta: El control bifásico asegura un examen detallado de la vulneración de autonomía y posible inconstitucionalidad, permitiendo una revisión exhaustiva que puede culminar en la nulidad de normas lesivas, fortaleciendo la protección de la autonomía local.
+Manual: Manual Constitucional 2
+Bloque: Bloque 6
+Tema: Tema 10: Conflictos De Atribuciones Entre Órganos Constitucionales Y En Defensa De La Autonomía Local
+
+Pregunta: Analiza cómo la Constitución Económica española aborda la distribución equitativa de la renta y el progreso social.
+Respuesta Correcta: La CEco promueve la equitativa distribución de la renta y el progreso social a través del art. 40.1 CE, que obliga a los poderes públicos a fomentar condiciones favorables para el desarrollo económico y social, asegurando políticas de pleno empleo y modernización sectorial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: Explica cómo se concilia la libertad de empresa con la intervención estatal en el marco del capitalismo mixto español.
+Respuesta Correcta: La libertad de empresa, garantizada por el art. 38 CE, coexiste con la intervención estatal (arts. 128.1 y 128.2 CE), permitiendo al Estado regular y participar en la economía para proteger el interés general, sin anular la iniciativa privada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: Evalúa el papel del Estado en la economía según la CEco, comparándolo con el liberalismo clásico previo a la Segunda Guerra Mundial.
+Respuesta Correcta: La CEco otorga al Estado un rol activo en la economía, contrastando con el abstencionismo del liberalismo clásico pre-Segunda Guerra Mundial, al subordinar toda riqueza al interés general (art. 128.1 CE) y reconocer la iniciativa pública (art. 128.2 CE).
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: Argumenta sobre la función social de la propiedad privada según la Constitución Económica española.
+Respuesta Correcta: La función social de la propiedad privada, según el art. 33 CE, permite su subordinación al interés general, asegurando que la propiedad y herencia no contravengan objetivos sociales y económicos más amplios, como la equidad y el bienestar general.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: Discute la importancia de la planificación económica en la CEco y su impacto potencial en la economía de mercado.
+Respuesta Correcta: La planificación económica (art. 131 CE) permite a los poderes públicos dirigir la actividad económica, coordinando sectores y recursos para cumplir fines sociales, lo que puede optimizar el funcionamiento del mercado y reducir desigualdades estructurales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: Analiza el concepto de expropiación en el marco de la Constitución Económica y su justificación jurídica.
+Respuesta Correcta: La expropiación, justificada por el art. 128.1 CE, se basa en la subordinación de la riqueza al interés general, permitiendo al Estado expropiar mediante justa compensación cuando la utilidad pública o el interés social lo requieran, equilibrando derechos privados y colectivos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 1: Constitución Económica
+
+Pregunta: ¿Cómo se justifica la necesidad de planificación económica en un sistema de Capitalismo Mixto como el español?
+Respuesta Correcta: La planificación económica es necesaria para alcanzar objetivos constitucionales como el progreso social y económico (art. 40.1 CE) y la utilización racional de recursos naturales (art. 45.2 CE), los cuales requieren intervención estatal ordenada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: Analice el papel del Consejo Económico y Social (CES) en el proceso de planificación económica en España.
+Respuesta Correcta: El CES, como órgano consultivo, garantiza la participación de sindicatos y organizaciones empresariales en la planificación, superando modelos centralizados y asegurando que los afectados participen en la toma de decisiones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: Explique las diferencias entre la potestad tributaria del Estado y la de las Comunidades Autónomas según el artículo 133 CE.
+Respuesta Correcta: El Estado tiene la potestad originaria exclusiva de crear tributos mediante ley, mientras que las Comunidades Autónomas tienen potestad derivada, limitada por la Constitución y leyes, sin poder gravar bienes fuera de su territorio.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: ¿Qué mecanismos constitucionales limitan la potestad financiera de las Comunidades Autónomas?
+Respuesta Correcta: La Constitución impone límites como el principio de estabilidad presupuestaria, que previene desequilibrios financieros, y la prohibición de gravar bienes fuera de su territorio, asegurando una gestión fiscal responsable.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: Discuta la relación entre la política fiscal y los objetivos de redistribución de renta en el contexto de la planificación económica.
+Respuesta Correcta: La política fiscal, a través de impuestos progresivos y bonificaciones, ayuda a redistribuir la renta, estimulando sectores específicos y cumpliendo con el objetivo de una distribución más justa de la riqueza según el art. 131.1 CE.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: ¿Por qué es esencial la reserva de ley en la planificación económica y la política fiscal en España?
+Respuesta Correcta: La reserva de ley garantiza que la planificación económica y la creación de tributos se realicen mediante leyes, asegurando control parlamentario y transparencia, fundamentales para el equilibrio y armonización del desarrollo económico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 2: Planificación Económica Y Financiera
+
+Pregunta: Analice la diferencia entre la naturaleza jurídica de los ingresos y los gastos en los Presupuestos Generales del Estado según la Ley General Presupuestaria.
+Respuesta Correcta: Los ingresos son una mera estimación sin valor vinculante, mientras que los gastos tienen efectos jurídicos, como autorización, límite cuantitativo y afectación al destino.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: Explique cómo la prórroga automática de los Presupuestos Generales del Estado puede afectar la gestión del gasto público.
+Respuesta Correcta: La prórroga garantiza la continuidad administrativa, pero puede limitar la capacidad del Gobierno para enfrentar nuevas necesidades de gasto, creando rigidez política y económica.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: Evalúe el papel de la separación de poderes en el proceso de elaboración y aprobación de los Presupuestos Generales del Estado.
+Respuesta Correcta: La elaboración corresponde al Gobierno, mientras que el examen y aprobación son competencia de las Cortes Generales, invirtiendo el proceso legislativo ordinario y asegurando control parlamentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: Discuta las limitaciones materiales impuestas a la Ley de Presupuestos según el artículo 134.7 de la Constitución Española.
+Respuesta Correcta: La Ley de Presupuestos no puede modificar la ley tributaria ni establecer tributos, limitándose a incluir normas relacionadas directamente con el presupuesto para su mejor comprensión.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: Analice el principio de anualidad en los Presupuestos Generales del Estado y su importancia para el control político.
+Respuesta Correcta: Este principio establece un periodo de un año para los presupuestos, permitiendo estimaciones precisas y control continuo del Parlamento sobre la actuación del Ejecutivo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: Reflexione sobre el principio de unidad en los Presupuestos Generales del Estado y su aplicación práctica.
+Respuesta Correcta: El principio de unidad implica que todos los ingresos y gastos se consignan en un único documento, aunque instituciones como el Tribunal Constitucional elaboran sus propios anteproyectos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 3: Presupuestos Generales del Estado
+
+Pregunta: ¿Cómo se articula el principio de unidad en el Estado Autonómico según la Constitución Española de 1978?
+Respuesta Correcta: El principio de unidad se articula como un límite a la autonomía territorial, asegurando la supremacía estatal y la unicidad de la soberanía. Esto se refleja en el interés general, la igualdad de derechos y la unidad de mercado (arts. 2, 139.1, 139.2, 157.2 CE).
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: Analiza la función del art. 155 CE en el contexto de la superioridad y poderes de control estatal.
+Respuesta Correcta: El art. 155 CE permite al Estado imponer obligaciones a las Comunidades Autónomas para asegurar el cumplimiento de sus deberes, actuando como una herramienta de coacción federal que mantiene la unidad estatal en situaciones de incumplimiento grave.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: Explica cómo el principio de autonomía distribuye el poder en el Estado Autonómico.
+Respuesta Correcta: El principio de autonomía permite una distribución efectiva del poder, otorgando competencias propias a las entidades territoriales, lo que evita el monopolio del poder central. Esta autonomía es diversificada y puede ser compartida con el Estado, pero no es ilimitada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: Discute el papel del Fondo de Compensación Interterritorial (FCI) en el principio de solidaridad económica.
+Respuesta Correcta: El FCI materializa la solidaridad económica al financiar inversiones en Comunidades Autónomas menos desarrolladas, buscando un equilibrio económico justo entre territorios y fomentando así la equiparación de niveles de vida.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: ¿Qué implicaciones tiene el principio de lealtad autonómica en las relaciones entre el Estado y las Comunidades Autónomas?
+Respuesta Correcta: El principio de lealtad autonómica implica una obligación de fidelidad recíproca, donde ni el Estado puede socavar la autonomía, ni las Comunidades Autónomas pueden ignorar su pertenencia al sistema estatal, evitando conflictos e inestabilidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: Analiza la relación entre el principio de cooperación y la operatividad del sistema autonómico.
+Respuesta Correcta: El principio de cooperación es esencial para la operatividad del sistema autonómico, fomentando la colaboración entre los diferentes entes territoriales y el Estado, lo que permite una gestión coordinada y eficaz de competencias compartidas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 5: Estado Autonómico
+
+Pregunta: Analice las diferencias fundamentales entre la vía ordinaria y la vía especial de acceso a la autonomía según la Constitución Española.
+Respuesta Correcta: La vía ordinaria (art. 143 y 144 CE) requiere acuerdos territoriales y es más lenta, mientras que la vía especial (art. 151 CE y DT Segunda) es más rápida y permite a ciertas comunidades asumir competencias más amplias desde el inicio.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Explique cómo el Estatuto de Autonomía actúa como norma institucional básica y su relación con la Constitución.
+Respuesta Correcta: El Estatuto es la norma básica de la CCAA, condicionando su vida jurídica y política (art. 147.1 CE). Aunque superior a leyes ordinarias y orgánicas, está subordinado a la Constitución y su control de constitucionalidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Discuta la naturaleza dual del Estatuto de Autonomía y sus implicaciones en el ordenamiento jurídico español.
+Respuesta Correcta: El Estatuto es simultáneamente norma autonómica y Ley Orgánica estatal (art. 81 CE), lo que significa que su modificación requiere un procedimiento agravado y no puede ser alterado unilateralmente por el Estado.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Evalúe el papel del referéndum en el proceso de aprobación y reforma del Estatuto de Autonomía.
+Respuesta Correcta: El referéndum es crucial tanto en la aprobación inicial del Estatuto (art. 146 CE) como en su reforma, garantizando la participación directa de la población de la CCAA afectada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Analice el concepto de 'comunidades históricas' y su relevancia en el acceso por la vía especial a la autonomía.
+Respuesta Correcta: Las 'comunidades históricas' (Cataluña, Galicia, País Vasco) accedieron rápidamente al régimen competencial amplio por tener regímenes provisionales preconstitucionales, un mecanismo extendido también a Andalucía.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Comente sobre la rigidez en la reforma del Estatuto de Autonomía y cómo protege su contenido frente al cambio legislativo.
+Respuesta Correcta: La rigidez de la reforma (art. 147.3 y 152.2 CE) requiere quórum reforzado y referéndum, protegiendo al Estatuto de modificaciones unilaterales, asegurando estabilidad institucional en la CCAA.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 6: Acceso a la Autonomía y Estatuto de Autonomía
+
+Pregunta: Analiza la diferencia entre la autonomía plena y la autonomía gradual en la distribución competencial entre Comunidades Autónomas según la Constitución Española.
+Respuesta Correcta: La autonomía plena permite a ciertas CC.AA. asumir desde su constitución todas las competencias del art. 148 CE y otras no reservadas al Estado en el art. 149.1 CE, mientras que la autonomía gradual, a través del art. 143 CE, solo permite asumir inicialmente las competencias del art. 148 CE, ampliables tras cinco años mediante reforma estatutaria.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: Explique cómo el Tribunal Constitucional ha contribuido a definir el reparto competencial entre el Estado y las Comunidades Autónomas.
+Respuesta Correcta: El Tribunal Constitucional ha desarrollado una vasta doctrina que clarifica el alcance de los artículos 148 y 149 CE, resolviendo conflictos de competencias y asegurando que los Estatutos de Autonomía respeten el marco constitucional, siendo clave para entender la estructura del Estado autonómico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: Discuta sobre la importancia de la asunción expresa de competencias en los Estatutos de Autonomía.
+Respuesta Correcta: La asunción expresa de competencias en los Estatutos es crucial, ya que solo así las CC.AA. consolidan potestades autonómicas. Sin esta asunción, las competencias vuelven al Estado por la cláusula de prevalencia del art. 149.3 CE, asegurando la coherencia en el reparto competencial.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: Analice el papel de las Leyes Marco y las Leyes de Transferencia o Delegación en el sistema competencial español.
+Respuesta Correcta: Las Leyes Marco y las Leyes de Transferencia o Delegación, recogidas en el art. 150 CE, permiten al Estado ceder competencias a las CC.AA., estableciendo límites y directrices. Esto ofrece flexibilidad en el ejercicio de competencias, adaptando la distribución a las necesidades territoriales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: ¿Cómo se distribuyen las competencias exclusivas del Estado y qué criterios se utilizan para su atribución?
+Respuesta Correcta: Las competencias exclusivas del Estado, enumeradas en el art. 149.1 CE, se asignan por su naturaleza esencial. Pueden ser reservadas en bloque, atribuirse sectores específicos de una materia o mediante potestades concretas, garantizando el control estatal en áreas vitales como defensa o legislación penal.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: Evalúe la relevancia de las competencias compartidas y cómo se gestionan entre el Estado y las Comunidades Autónomas.
+Respuesta Correcta: Las competencias compartidas permiten que el Estado legisle y las CC.AA. ejecuten o desarrollen normativamente, como en la Seguridad Social. Esta distribución asegura que la legislación básica del Estado se adapte a las particularidades regionales, manteniendo unidad y diversidad en la gestión autonómica.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 7: Distribución De Competencias Entre El Estado Y Las CC.AA
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el estatuto de los parlamentarios autonómicos y los estatales en cuanto a inmunidad e inviolabilidad?
+Respuesta Correcta: Los parlamentarios autonómicos no gozan de inmunidad, prerrogativa exclusiva de los parlamentarios estatales. Sin embargo, sí disfrutan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones, lo que garantiza su libertad de expresión sin consecuencias legales.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: Analiza la importancia del sistema de sufragio para la Asamblea Legislativa de las Comunidades Autónomas.
+Respuesta Correcta: El sufragio universal, libre, igual, directo y secreto, junto con un sistema de representación proporcional, asegura la representación equitativa de las diversas zonas del territorio en las Asambleas Legislativas, garantizando la pluralidad y la participación democrática.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: Explica el papel dual del Presidente de la Comunidad Autónoma y su relevancia institucional.
+Respuesta Correcta: El Presidente tiene un papel dual: representa suprema y ordinariamente tanto a la Comunidad Autónoma como al Estado. Esta dualidad refleja la compleja relación entre los entes territoriales y el Estado, destacando su rol en la coordinación y dirección del gobierno autonómico.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: ¿Cómo se articula la relación entre el Consejo de Gobierno y el Consejo de Ministros en el ámbito autonómico?
+Respuesta Correcta: El Consejo de Gobierno es análogo al Consejo de Ministros en composición y funciones ejecutivas y administrativas. Aunque actúa dentro del marco autonómico, su estructura y potestades reflejan el modelo central, incluyendo la aprobación de reglamentos autonómicos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: Discute la función del Tribunal Superior de Justicia en el marco autonómico y su relación con el Tribunal Supremo.
+Respuesta Correcta: El Tribunal Superior de Justicia es la máxima instancia judicial en la Comunidad Autónoma, resolviendo apelaciones importantes. Aunque culmina la organización judicial autonómica, sigue subordinado al Tribunal Supremo en la jerarquía judicial nacional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: Evalúa la capacidad de las Asambleas Legislativas para interponer recursos de inconstitucionalidad y su impacto en el equilibrio de poderes.
+Respuesta Correcta: Las Asambleas pueden interponer recursos de inconstitucionalidad contra leyes estatales que vulneren las competencias autonómicas, lo que refuerza su autonomía y protege el equilibrio de poderes, asegurando que el Estado respete las competencias asumidas por los Estatutos de Autonomía.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 8: Organización Institucional de las CCAA
+
+Pregunta: ¿Cómo se garantiza la existencia jurídica de los entes locales según el Título VIII de la Constitución Española?
+Respuesta Correcta: La existencia jurídica de los entes locales está garantizada al impedir que el Estado o las CC. AA. puedan eliminarlos, como establece el TC, asegurando así una protección institucional reforzada.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: Explique cómo la autonomía local contribuye a la distribución del poder territorial en España.
+Respuesta Correcta: La autonomía local asegura que el poder no se concentre exclusivamente en el Estado o las CC. AA., permitiendo a los entes locales gestionar sus propios intereses, lo que se refleja en la potestad de recaudar tributos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: Analice el papel del legislador ordinario en la determinación de las competencias de las entidades locales.
+Respuesta Correcta: A diferencia de las CC. AA., cuyas competencias están en la Constitución, las competencias de los entes locales son concretadas por el legislador ordinario, principalmente mediante la LRBRL.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: Discuta los mecanismos de defensa de la autonomía local ante intromisiones del Estado o las CC. AA.
+Respuesta Correcta: La autonomía local se defiende ante leyes estatales o autonómicas mediante el Recurso contra la Autonomía Local en el TC, y ante normas infralegales a través de la Jurisdicción Contencioso-Administrativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: ¿Qué controles existen para garantizar que los entes locales cumplan con sus obligaciones?
+Respuesta Correcta: Existen mecanismos como el cumplimiento subsidiario y la disolución de órganos según los arts. 60 y 61 LRBRL, además de controles ordinarios de legalidad ante la Jurisdicción Contencioso-Administrativa.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: Compare la autonomía local con la autonomía de las Comunidades Autónomas en términos de competencias.
+Respuesta Correcta: Mientras las competencias de las CC. AA. están delimitadas por los arts. 148 y 149 CE, las de los entes locales se desarrollan a través de la LRBRL, mostrando una diferencia en la determinación de sus funciones.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 9: Autonomía Local
+
+Pregunta: ¿Cómo se estructura jerárquicamente el ordenamiento jurídico autonómico y qué papel juega la Constitución Española en esta estructura?
+Respuesta Correcta: El ordenamiento autonómico sigue una estructura piramidal, con la Constitución Española en la cúspide, subordinando a todas las normas autonómicas. Los Estatutos de Autonomía, leyes autonómicas, decretos, y reglamentos se sitúan en niveles inferiores.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: Analiza la diferencia entre la promulgación de una ley autonómica y una ley estatal.
+Respuesta Correcta: Las leyes autonómicas son promulgadas por el Presidente de la Comunidad Autónoma y no requieren sanción, entrando en vigor al publicarse en el Boletín Oficial de la Comunidad Autónoma. En cambio, las leyes estatales son sancionadas y promulgadas por el Rey, y se publican en el BOE.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: Explica el principio de competencia y su relevancia en la relación entre leyes autonómicas y estatales.
+Respuesta Correcta: El principio de competencia establece que las leyes autonómicas desarrollan aspectos particulares del territorio, mientras que las leyes estatales abordan aspectos generales. Una ley estatal que invada competencias autonómicas sería inconstitucional por violar el bloque de la constitucionalidad.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: Discute el papel de las leyes de armonización en el contexto autonómico.
+Respuesta Correcta: Las leyes de armonización permiten al Gobierno del Estado establecer principios para coordinar normativas autonómicas en situaciones excepcionales, asegurando así la coherencia y operatividad estatal en materias de interés general, aunque estén atribuidas a las CC. AA.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: ¿Cuál es el efecto de una impugnación gubernamental de una norma autonómica ante el Tribunal Constitucional?
+Respuesta Correcta: La impugnación ante el Tribunal Constitucional suspende automáticamente la norma autonómica impugnada hasta un máximo de cinco meses, periodo en el cual el Tribunal debe decidir si mantiene o levanta la suspensión, lo que impide que la norma produzca efectos.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: Compara el control gubernamental sobre las leyes autonómicas y estatales.
+Respuesta Correcta: El control gubernamental sobre leyes autonómicas implica que su impugnación ante el TC suspende automáticamente su vigencia por hasta cinco meses. En contraste, la impugnación de leyes estatales no genera una suspensión automática, reflejando una diferencia clave en el control normativo.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 10: El Ordenamiento Jurídico De Las CC.AA
+
+Pregunta: ¿Cómo se diferencia la cláusula de prevalencia de una relación jerárquica entre normas estatales y autonómicas?
+Respuesta Correcta: La cláusula de prevalencia no establece una jerarquía; se aplica solo si hay conflicto y ambas normas actúan en su ámbito. Si una ley estatal invade competencia autonómica exclusiva, es inconstitucional.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+
+Pregunta: Explique el papel del Tribunal Constitucional en la aplicación de la cláusula de prevalencia.
+Respuesta Correcta: El Tribunal Constitucional exige una interpretación exhaustiva de las normas en conflicto antes de aplicar la prevalencia, buscando soluciones que eviten su uso automático.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+
+Pregunta: Analice cómo se justifica la cláusula de supletoriedad en el ordenamiento jurídico español.
+Respuesta Correcta: Se justifica por la naturaleza integral del derecho estatal, que suple lagunas en el derecho autonómico, al ser este fragmentario y de desarrollo, sin permitir creación de normas nuevas sin competencia.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+
+Pregunta: Describa el proceso técnico-jurídico para la aplicación de la cláusula de supletoriedad.
+Respuesta Correcta: Consiste en identificar la laguna legal en el derecho autonómico y acudir a la normativa estatal, invocando el título competencial que permite su aplicación como supletorio.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+
+Pregunta: Compare las funciones principales de las cláusulas de prevalencia y supletoriedad.
+Respuesta Correcta: La prevalencia resuelve conflictos entre normas válidas en sus competencias, mientras que la supletoriedad colma vacíos normativos en el derecho autonómico fragmentario.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+
+Pregunta: ¿Cuáles son los límites del uso de la cláusula de supletoriedad por el Estado?
+Respuesta Correcta: El Estado no puede crear legislación supletoria sin título competencial expreso; su uso debe ser para llenar lagunas, no para legislar ex novo en competencias ajenas.
+Manual: Manual Constitucional 2
+Bloque: Bloque 7
+Tema: Tema 11: Integración del Ordenamiento Jurídico de las CC.AA.
+

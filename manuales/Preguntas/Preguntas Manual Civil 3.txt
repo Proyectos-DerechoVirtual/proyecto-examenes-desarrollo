@@ -1,0 +1,2124 @@
+Pregunta: ¿Cómo influye la ejecución previa de la prestación en la exigibilidad de los contratos innominados romanos?
+Respuesta Correcta: La ejecución previa es crucial en los contratos innominados, ya que solo tras el cumplimiento de una prestación por una de las partes, la otra parte puede exigir el cumplimiento de su obligación, marcando la diferencia con los pactos que no generan acción de cumplimiento.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: Analiza la diferencia fundamental entre la noción de contrato en el Derecho Romano y en el sistema moderno.
+Respuesta Correcta: En el Derecho Romano, el cumplimiento estaba ligado a la ejecución de la prestación, mientras que en el sistema moderno, la autonomía de la voluntad es el eje, destacando el consentimiento libre como fundamento de la obligación.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: Evalúa el impacto del principio de autonomía de la voluntad en el desarrollo del Derecho de Contratos.
+Respuesta Correcta: La autonomía de la voluntad permitió que el consentimiento libremente manifestado se convirtiera en el fundamento de las obligaciones contractuales, potenciando la libertad contractual y el desarrollo del comercio, especialmente tras la época de Adam Smith.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: ¿De qué manera la crisis del orden liberal evidenció la necesidad de intervención estatal en los contratos?
+Respuesta Correcta: La crisis mostró que la igualdad formal al contratar era insuficiente, ya que las diferencias económicas y sociales permitían abusos, lo que llevó a la intervención estatal para proteger a la parte débil y asegurar la igualdad real en el contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: Discute cómo la Constitución Española de 1978 aborda las desigualdades contractuales.
+Respuesta Correcta: La Constitución de 1978 promueve la igualdad real y efectiva mediante la intervención estatal, como se refleja en el art. 9.2 y el art. 51.1, que obligan a los poderes públicos a garantizar condiciones equitativas en las relaciones contractuales y a proteger a los consumidores.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: ¿Cuál es la relevancia del contrato innominado romano en la evolución del Derecho de Contratos?
+Respuesta Correcta: El contrato innominado romano subraya la importancia de la ejecución como criterio de exigibilidad, marcando un antecedente en la evolución hacia la autonomía de la voluntad, destacando la necesidad de acciones concretas para generar obligaciones exigibles.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 1: ¿Qué Es Un Contrato?
+
+Pregunta: ¿Cómo afecta la aparición de contratos en masa al concepto tradicional de libertad contractual?
+Respuesta Correcta: Los contratos en masa limitan la libertad contractual al predefinir las condiciones por una parte dominante, reduciendo la capacidad de negociación de la otra parte, que se limita a aceptar o rechazar sin posibilidad de modificar el contenido.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: Analiza cómo la disociación de la voluntad en las prestaciones del tráfico en masa representa un cambio respecto al modelo contractual clásico.
+Respuesta Correcta: La disociación de la voluntad en el tráfico en masa elimina la necesidad de un acuerdo de voluntades explícito, ya que la obligación surge por la mera realización de un acto, rompiendo con la negociación y consensualidad del modelo tradicional.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: ¿Qué implicaciones jurídicas tiene el hecho de que una gran multinacional sea la parte que diseña los contratos tipo?
+Respuesta Correcta: Implica un desequilibrio de poder y conocimiento en la relación contractual, donde la multinacional impone términos que pueden no ser equitativos, limitando la autonomía contractual de los consumidores.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: Evalúa el impacto de los contratos tipo en sectores de consumo masivo y servicios esenciales.
+Respuesta Correcta: Facilitan la estandarización y eficiencia en la prestación de servicios, pero también pueden llevar a prácticas abusivas al no permitir ajustes individuales, afectando la protección del consumidor en sectores críticos como agua y luz.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: ¿En qué sentido la obligación de pago por aparcar en un parking desafía el concepto tradicional de contrato?
+Respuesta Correcta: Desafía el concepto tradicional al no requerir un acuerdo explícito; la obligación de pago surge automáticamente con la acción de aparcar, eliminando la negociación y acuerdo explícito de voluntades.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: Discute la compatibilidad del concepto de contrato tipo con la doctrina alemana sobre la creación de obligaciones sin voluntad expresa.
+Respuesta Correcta: La doctrina alemana reconoce que ciertas obligaciones pueden surgir sin voluntad expresa, como en contratos tipo, pero esto plantea desafíos de equidad y protección al consumidor al desdibujar la necesidad de consentimiento activo.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 2: Clasificación De Los Contratos
+
+Pregunta: ¿En qué circunstancias la discrepancia entre la voluntad interna y la expresada puede afectar la validez de un contrato según el consentimiento contractual?
+Respuesta Correcta: La discrepancia afecta la validez cuando la voluntad expresada no refleja la interna, como en el caso de condiciones no comunicadas que alteran el acuerdo inicial, comprometiendo la formación del consentimiento.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: Analiza la importancia de la capacidad para prestar consentimiento válido en la formación de un contrato, según el artículo 1263 C.C.
+Respuesta Correcta: La capacidad es crucial, ya que protege a sujetos como menores y personas con capacidad modificada judicialmente, garantizando que solo quienes entienden y asumen las obligaciones puedan contratar válidamente.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: ¿Cómo se interpreta la validez del autocontrato y sus limitaciones según la doctrina civilista?
+Respuesta Correcta: El autocontrato es válido salvo colisión de intereses o prohibición expresa. Su validez es plena para terceros si no hay conflicto, asegurando que ambas posiciones contractuales se respeten equitativamente.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: Discute el requisito de la licitud del objeto contractual y sus implicaciones jurídicas.
+Respuesta Correcta: La licitud asegura que el objeto no sea ilegal. Contratos con objetos fuera del comercio o contrarios a leyes y buenas costumbres, como asesinatos, son nulos, protegiendo el orden público y moral.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: Explica el concepto de determinación del objeto en un contrato y su relevancia jurídica.
+Respuesta Correcta: La determinación implica que el objeto sea concreto o determinable sin nuevos acuerdos. Esto asegura claridad y ejecutabilidad, evitando ambigüedades que podrían invalidar el contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: Analiza la función de la forma en los contratos, particularmente cuando es impuesta por la ley.
+Respuesta Correcta: La forma, aunque no esencial, es clave en ciertos contratos por ley, como escrituras públicas para bienes inmuebles, asegurando autenticidad y protección de derechos frente a terceros.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 3: Elementos Esenciales
+
+Pregunta: ¿Cómo se diferencia el error sobre la sustancia de la cosa del error sobre la persona en términos de invalidez del contrato?
+Respuesta Correcta: El error sobre la sustancia afecta a la esencia misma del objeto del contrato, mientras que el error sobre la persona solo invalida el contrato si la identidad o cualidades de la persona eran esenciales para el consentimiento.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: Analiza cómo el error de cálculo es tratado por el Código Civil y su impacto en la validez contractual.
+Respuesta Correcta: El error de cálculo se considera subsanable, no afecta la validez del contrato y solo requiere corrección, ya que no altera la estructura causal del negocio.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: Discute la aplicabilidad del dolo omisivo en el contexto contractual y su diferencia con el dolo grave.
+Respuesta Correcta: El dolo omisivo implica la omisión intencional de información relevante, mientras que el dolo grave recae sobre elementos esenciales del contrato, anulándolo. Ambos son actos de engaño, pero la omisión es pasiva.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: Explica cómo la intimidación y la violencia pueden anular el consentimiento en la formación de contratos.
+Respuesta Correcta: La intimidación requiere una amenaza grave que cause temor racional, mientras que la violencia implica coacción física. Ambos vician el consentimiento, anulando la libertad del contratante.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: En qué medida el dolo incidental afecta la validez del contrato y cuáles son sus consecuencias jurídicas.
+Respuesta Correcta: El dolo incidental no anula el contrato, pero obliga al culpable a indemnizar por daños y perjuicios, ya que afecta solo elementos secundarios del acuerdo.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: Diferencia entre causa inexistente y causa ilícita en términos de nulidad contractual.
+Respuesta Correcta: La causa inexistente implica falta de intercambio contractual y provoca nulidad radical. La causa ilícita se opone a la ley o moral, también anulando el negocio.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 4: Vicios De Los Elementos Esenciales
+
+Pregunta: ¿Cuál es la diferencia fundamental entre los tratos preliminares y el precontrato en cuanto a la vinculación de las partes?
+Respuesta Correcta: Los tratos preliminares no vinculan a las partes, salvo en casos de responsabilidad precontractual, mientras que el precontrato sí genera una vinculación, permitiendo exigir el cumplimiento del contrato proyectado.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: Explique el concepto de responsabilidad precontractual y cuándo se aplica.
+Respuesta Correcta: La responsabilidad precontractual o culpa in contrahendo se aplica cuando una parte rompe injustificadamente las negociaciones, frustrando la confianza del otro y obligándose a indemnizar los gastos causados.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: Analice el papel de la oferta y la aceptación en la formación del contrato según el artículo 1262 del Código Civil.
+Respuesta Correcta: La oferta y la aceptación son esenciales para la formación del contrato, ya que el consentimiento se formaliza con ambas; la oferta debe ser clara y completa, y la aceptación pura y simple.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: Discuta el efecto jurídico de la promesa de comprar o vender según el artículo 1451 del Código Civil.
+Respuesta Correcta: La promesa de comprar o vender, con acuerdo en la cosa y el precio, permite exigir el cumplimiento del contrato de compraventa o indemnización si se incumple.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: ¿En qué momento y lugar se perfecciona un contrato y por qué es relevante esta determinación?
+Respuesta Correcta: El contrato se perfecciona cuando coinciden la oferta y la aceptación; el lugar es donde se hizo la oferta, lo que es crucial para determinar la jurisdicción aplicable.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: ¿Qué implica la revocabilidad de la oferta y la aceptación en el proceso contractual?
+Respuesta Correcta: La oferta es revocable hasta su aceptación; la aceptación es revocable solo si llega antes que la confirmación de aceptación, permitiendo flexibilidad en el proceso.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 5: Formación Del Contrato I
+
+Pregunta: Analiza la naturaleza del contrato de opción y discute cómo el consentimiento del optante influye en la perfección del negocio definitivo.
+Respuesta Correcta: El contrato de opción es una promesa unilateral de venta o compra, donde el optante tiene la facultad de decidir unilateralmente sobre la eficacia del contrato proyectado. El consentimiento del optante es crucial, ya que su decisión activa o desactiva la puesta en vigor del contrato definitivo.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: Evalúa la transmisibilidad del contrato de opción y discute por qué se requiere el consentimiento del oferente para ello.
+Respuesta Correcta: El contrato de opción es transmisible, pero se requiere el consentimiento del oferente para garantizar que la persona a quien se transmite sea aceptable para el oferente, preservando así la integridad del acuerdo inicial y la confianza en la relación contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: Compara y contrasta la invitatio ad offerendum con una oferta contractual válida, utilizando ejemplos del ámbito publicitario.
+Respuesta Correcta: La invitatio ad offerendum es una invitación a ofertar, no una oferta contractual vinculante. En publicidad, un anuncio puede ser invitatio si no expresa una intención clara de ser una oferta, como un folleto informativo, mientras que una promoción con términos explícitos podría ser considerada una oferta contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: Analiza el riesgo jurídico inherente a los contratos por adhesión y cómo afecta la igualdad de las partes en la contratación.
+Respuesta Correcta: Los contratos por adhesión, al ser redactados unilateralmente, limitan la capacidad del adherente de negociar, lo que puede implicar cláusulas ocultas o gravosas. Este desequilibrio atenta contra la igualdad contractual al imponer condiciones que el adherente debe aceptar tal cual.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: Discute el concepto de consumidor según la LGDCU y cómo se aplica la protección ante cláusulas abusivas.
+Respuesta Correcta: La LGDCU define consumidor como una persona que actúa fuera de su ámbito profesional. La protección se aplica para evitar cláusulas abusivas, garantizando que las estipulaciones no negociadas que perjudican al consumidor sean nulas y no formen parte del contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: Explora cómo la LCGC permite la protección frente a condiciones generales de la contratación y su impacto en los contratos masivos.
+Respuesta Correcta: La LCGC regula las condiciones generales predispuestas, permitiendo su nulidad si perjudican al adherente. Esto protege al consumidor en contratos masivos, como billetes de transporte, asegurando que cláusulas injustas no sean aplicables, preservando así los derechos del adherente.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 6: Formación Del Contrato II
+
+Pregunta: ¿Cómo se diferencia la interpretación objetiva de la subjetiva en la interpretación de contratos?
+Respuesta Correcta: La interpretación objetiva se centra en el sentido literal y general de las declaraciones contractuales, presumiendo la buena fe, mientras que la subjetiva busca la intención común real de las partes, y se aplica cuando la objetiva no es suficiente.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: Analiza el principio de literalidad y su límite según el artículo 1281 del Código Civil.
+Respuesta Correcta: El principio de literalidad indica que si los términos son claros, se atenderá a su sentido literal. Sin embargo, si las palabras son contrarias a la intención evidente de las partes, prevalece la intención sobre el sentido literal.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: Explica la función del canon hermenéutico de la totalidad en la interpretación de contratos.
+Respuesta Correcta: El canon de totalidad obliga a interpretar las cláusulas contractuales de forma conjunta, asegurando que el sentido dudoso de una cláusula se aclare con el contexto del contrato en su totalidad, evitando conflictos internos.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: Discute el papel del principio de buena fe en el proceso de interpretación contractual.
+Respuesta Correcta: La buena fe es fundamental para garantizar la seguridad jurídica, presumiendo en principio que la voluntad declarada prevalece sobre la real. Es clave en todas las fases contractuales para sancionar acuerdos celebrados con mala fe.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: ¿Qué solución ofrece el artículo 1289 del Código Civil ante dudas irresolubles sobre el objeto principal del contrato?
+Respuesta Correcta: El artículo 1289 establece que si las dudas son irresolubles y recaen sobre el objeto principal, el contrato será nulo, ya que no puede determinarse la intención o voluntad esencial de los contratantes.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: Analiza cómo se resuelven las dudas sobre circunstancias accidentales en contratos gratuitos y onerosos según el artículo 1289 CC.
+Respuesta Correcta: Para contratos gratuitos, las dudas se resuelven en favor de la menor transmisión de derechos, mientras que en contratos onerosos se favorece la mayor reciprocidad de intereses, garantizando así la validez del contrato en ambos casos.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 7: Interpretación Del Contrato
+
+Pregunta: ¿Cómo se relaciona el concepto de Lex Privata con la integración del contrato según el Código Civil?
+Respuesta Correcta: La Lex Privata otorga al contrato un valor normativo en el ámbito privado, y la integración del contrato permite que no solo lo pactado explícitamente, sino también las consecuencias legales, usos y buena fe, conformen la obligación, ampliando así el contenido contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: Analiza el principio de relatividad de los efectos contractuales y su impacto en terceros.
+Respuesta Correcta: El principio de relatividad establece que los contratos solo afectan a las partes y sus herederos, pero tienen eficacia indirecta ante terceros, quienes deben reconocer la situación jurídica creada, aunque no estén obligados por el contrato mismo.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: ¿Cuál es la diferencia clave entre un contrato en favor de tercero y una estipulación en favor de tercero?
+Respuesta Correcta: En un contrato en favor de tercero, toda la prestación se dirige al tercero, mientras que en una estipulación en favor de tercero, solo ciertas cláusulas lo favorecen, manteniéndose la obligación principal entre promitente y estipulante.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: Explora las consecuencias legales de un contrato en daño de tercero.
+Respuesta Correcta: Un contrato en daño de tercero es ilícito por perjudicar a alguien ajeno al contrato, generando responsabilidad extracontractual. Los contratantes deben indemnizar al tercero perjudicado, al violar pactos previos como exclusividades.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: Discute el riesgo y consecuencias de incumplimiento en un contrato a cargo de tercero.
+Respuesta Correcta: El riesgo principal es que el tercero no quiera obligarse. Si esto ocurre, el promitente incumple su obligación frente al estipulante, debiendo indemnizar por el incumplimiento de la promesa de hecho ajeno.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: Explica la operativa y naturaleza del contrato por persona a designar.
+Respuesta Correcta: El contrato por persona a designar es atípico, pues carece de regulación específica en Derecho español. Permite al estipulante nombrar a un tercero desconocido al momento de celebración, quien asumirá la posición contractual en un plazo fijado.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 8: Efectos Del Contrato
+
+Pregunta: Analiza la diferencia entre nulidad absoluta y anulabilidad en el contexto de la ineficacia contractual.
+Respuesta Correcta: La nulidad absoluta se impone cuando un contrato carece de requisitos esenciales, siendo ineficaz desde su inicio. La anulabilidad, en cambio, se debe a vicios de menor entidad y requiere una acción para ser declarada, manteniendo efectos hasta entonces.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: ¿Cómo afecta la inoponibilidad de la ineficacia contractual a terceros no intervinientes en el contrato?
+Respuesta Correcta: La inoponibilidad significa que la ineficacia del contrato no afecta a terceros que no son parte del mismo, manteniendo sus derechos intactos frente a las partes contractuales.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: Explora las causas de nulidad absoluta y cómo estas afectan la validez del contrato.
+Respuesta Correcta: Las causas de nulidad incluyen falta de elementos esenciales, ilicitud del objeto o causa, y violación de la autonomía de la voluntad. Estas causas privan al contrato de validez desde su celebración, impidiendo su reconocimiento legal.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: Evalúa el efecto restitutorio de la nulidad y sus excepciones.
+Respuesta Correcta: La nulidad conlleva la restitución de las prestaciones mutuamente, salvo si ambas partes cometen delito o solo una lo hace. En tal caso, la parte culpable no puede reclamar, mientras la inocente puede exigir restitución o liberarse de su obligación.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: Discute las figuras de conservación del contrato nulo y su aplicación.
+Respuesta Correcta: La conversión de un contrato nulo permite su validez si cumple requisitos de otro contrato válido. La nulidad parcial preserva las partes válidas del contrato, integrando las nulas con normas legales, siempre que no afecten su esencia.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: Analiza la rescisión contractual como medida excepcional de ineficacia y sus causas.
+Respuesta Correcta: La rescisión es una medida subsidiaria aplicada cuando no hay otro recurso legal, basada en causas como daño patrimonial en contratos de tutela o ausencia, fraude a acreedores, y contratos sobre cosas litigiosas sin aprobación judicial.
+Manual: Manual Civil 3
+Bloque: Bloque 1
+Tema: Tema 9: Ineficacia Del Contrato
+
+Pregunta: ¿Cómo influye la consensualidad en la perfección del contrato de compraventa según el Código Civil?
+Respuesta Correcta: La consensualidad implica que el contrato de compraventa se perfecciona con el mero acuerdo de las partes, sin necesidad de una forma especial. Aunque el art. 1280.1 CC requiere escritura pública, esta es una formalidad que puede ser exigida para la plena eficacia del contrato, no para su perfección.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Analice la reciprocidad en las obligaciones del contrato de compraventa y su impacto en las partes contratantes.
+Respuesta Correcta: La reciprocidad en la compraventa significa que ambas partes, comprador y vendedor, asumen obligaciones simultáneamente. Esto fortalece el vínculo contractual, ya que cada parte tiene expectativas legítimas de cumplimiento por parte de la otra, asegurando así el equilibrio contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Explique las restricciones a la capacidad de comprar establecidas en el art. 1459 CC y su finalidad.
+Respuesta Correcta: El art. 1459 CC impone restricciones a ciertas personas para evitar conflictos de interés, como tutores, mandatarios y empleados públicos, entre otros. Estas prohibiciones protegen la integridad del proceso contractual y previenen el abuso de posiciones de poder o influencia indebida.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Evalúe la licitud de fijar el precio de la compraventa mediante un tercero y su implicación en la certeza de precio.
+Respuesta Correcta: Fijar el precio mediante un tercero es lícito y permite flexibilidad en el contrato. Una vez determinado, el precio es obligatorio para las partes, asegurando la certeza necesaria para la validez del contrato, incluso si no estaba cuantificado al momento de la celebración.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Diferencie entre las arras penitenciales y el simple anticipo en un contrato de compraventa.
+Respuesta Correcta: Las arras penitenciales permiten la rescisión del contrato, penalizando al incumplidor: el comprador pierde las arras y el vendedor debe devolverlas duplicadas. A diferencia del simple anticipo, no solo representan un adelanto del precio, sino también una cláusula penalizadora.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Discuta la función de la compraventa con reserva de dominio y su efecto sobre la relación entre comprador y vendedor.
+Respuesta Correcta: La compraventa con reserva de dominio permite al vendedor retener la titularidad hasta el pago total del precio. Esto protege al vendedor frente al incumplimiento del comprador, asegurando que la transferencia de dominio solo ocurra una vez cumplida la obligación de pago.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 1: Compraventa I
+
+Pregunta: Analiza la obligación de entrega del vendedor en una compraventa y explica qué ocurre si la cosa produce frutos.
+Respuesta Correcta: El vendedor debe entregar la cosa en el estado al perfeccionarse la venta, incluyendo los frutos desde esa fecha. Estos frutos son parte del contrato, por lo que deben entregarse junto con la cosa principal.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: Describe las diferentes modalidades de 'traditio' y su importancia en la compraventa.
+Respuesta Correcta: Las modalidades de 'traditio' incluyen entrega material, instrumental, simbólica y por simple acuerdo. Estas formas aseguran que el comprador obtenga la posesión y el poder sobre el bien, crucial para el cumplimiento del contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: ¿Cómo protege el saneamiento por evicción al comprador y cuáles son sus efectos?
+Respuesta Correcta: El saneamiento por evicción protege al comprador si pierde la cosa por sentencia firme sobre un derecho anterior. El vendedor debe restituir el precio, frutos, costas, gastos del contrato y, si actuó de mala fe, daños e intereses.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: Examina las acciones que puede ejercer el comprador ante vicios ocultos y sus implicaciones.
+Respuesta Correcta: El comprador puede optar por la acción redhibitoria para desistir del contrato o la acción quanti minoris para reducir el precio. En caso de mala fe del vendedor, se puede exigir indemnización adicional por daños.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: Discute la diferencia entre defectos manifiestos y ocultos en el contexto de la compraventa.
+Respuesta Correcta: Los defectos manifiestos son evidentes o fácilmente detectables, mientras que los ocultos no son evidentes y no debieron ser conocidos por el comprador. Solo estos últimos permiten acciones legales por vicios ocultos.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: Analiza el papel del consentimiento en la perfección del contrato de compraventa y su relación con las obligaciones sinalagmáticas.
+Respuesta Correcta: El contrato de compraventa se perfecciona por el mero consentimiento, generando obligaciones recíprocas: el vendedor debe entregar la cosa y el comprador pagar el precio. Estas obligaciones son principales y recíprocas.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 2: Compraventa II
+
+Pregunta: ¿En qué casos puede el vendedor resolver la venta por peligro de pérdida de la cosa y del precio según el art. 1503 CC?
+Respuesta Correcta: El vendedor puede resolver la venta si tiene un temor fundado y serio de pérdida de la cosa y del precio. Esto debe basarse en un posible incumplimiento grave del comprador, conforme al art. 1124 CC.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: Explique cómo opera la lex commissoria en la protección del vendedor en un contrato de venta de inmuebles.
+Respuesta Correcta: La lex commissoria permite al vendedor resolver la venta si el comprador no paga en el plazo estipulado, pero requiere que el vendedor realice un requerimiento de pago al comprador antes de resolver el contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: Analice la preferencia del crédito del vendedor de cosa mueble sobre otros créditos del deudor según el art. 1922 CC.
+Respuesta Correcta: El crédito del vendedor por el precio impagado de una cosa mueble prevalece sobre otros créditos del comprador, incluso aquellos garantizados con bienes inmuebles, otorgando al vendedor un privilegio especial.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: Compare cómo se resuelve la propiedad en caso de doble venta de bienes muebles e inmuebles según el art. 1473 CC.
+Respuesta Correcta: Para bienes muebles, la propiedad se adquiere por quien primero toma posesión con buena fe. En inmuebles, prima la inscripción registral, seguida de la posesión de buena fe y, en último caso, el título más antiguo con buena fe.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: Discuta cómo se distribuyen los riesgos en la compraventa de cosas fungibles según el art. 1452 CC.
+Respuesta Correcta: En ventas aisladas y por un solo precio, el riesgo pasa al comprador tras la perfección del contrato. Sin embargo, en ventas por peso, número o medida, el riesgo recae sobre el vendedor hasta la individualización de las cosas.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: Explique las consecuencias de la mora del vendedor en caso de pérdida de la cosa vendida antes de la entrega.
+Respuesta Correcta: Si el vendedor está en mora, su responsabilidad se agrava si la cosa se pierde o daña por caso fortuito antes de la entrega, según el art. 1096 CC, lo que implica que no quedará libre de su obligación de entregar.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 3: Compraventa III
+
+Pregunta: ¿Cuál es la naturaleza jurídica del retracto convencional en la compraventa y por qué se considera de naturaleza real?
+Respuesta Correcta: El retracto convencional es un derecho de naturaleza real, ya que otorga al vendedor la facultad de recuperar la cosa vendida. Aunque el Código Civil lo regula dentro de la compraventa, su esencia radica en afectar la titularidad real del bien.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: Analiza las implicaciones jurídicas de no estipular un plazo en el contrato para el ejercicio del retracto convencional.
+Respuesta Correcta: Si no se estipula un plazo en el contrato, el derecho de retracto caduca a los cuatro años. Esto asegura que el ejercicio del retracto no quede indefinidamente abierto, proporcionando seguridad jurídica a ambas partes en la compraventa.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: Discute la relevancia de los reembolsos que el vendedor debe hacer al comprador para ejercer el retracto convencional.
+Respuesta Correcta: El vendedor debe reembolsar el precio de la venta, los gastos del contrato y los gastos necesarios y útiles. Esto garantiza que el comprador no sufra pérdidas económicas por el ejercicio del retracto, manteniendo el equilibrio contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: Examina cómo el Código Civil aborda la pluralidad de sujetos en el ejercicio del retracto convencional para evitar situaciones de copropiedad.
+Respuesta Correcta: Los artículos 1513 a 1517 CC regulan las compras de cuotas o fincas en proindiviso y herencias. Estas reglas previenen que el ejercicio del retracto genere copropiedades no deseadas, preservando la unidad de la titularidad.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: Compara los efectos de la compraventa a prueba y la compraventa ad gustum en la formación del contrato.
+Respuesta Correcta: En la compraventa a prueba, el contrato se perfecciona solo si la cosa cumple con la calidad convenida tras la prueba. En la compraventa ad gustum, la degustación verifica la calidad, perfeccionando el contrato si se ajusta a lo convenido.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: Evalúa las ventajas de la compraventa de bienes muebles a plazos para ambas partes del contrato.
+Respuesta Correcta: Esta modalidad facilita al comprador el pago al permitir abonos aplazados y reduce el riesgo de impago total para el vendedor. Así, se promueve el acceso a bienes muebles a quienes no pueden pagar al contado y se asegura el cobro al vendedor.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 4: Compraventa IV y Permuta
+
+Pregunta: ¿Cómo se define el contrato de donación según el artículo 618 del Código Civil y cuál es su característica esencial?
+Respuesta Correcta: El contrato de donación se define como un acto de liberalidad donde una persona dispone gratuitamente de una cosa a favor de otra que la acepta. Su característica esencial es el carácter gratuito, sin contraprestación económica para el donante.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: ¿Qué implica el 'animus donandi' en el contexto de una donación y por qué es fundamental para su validez?
+Respuesta Correcta: El 'animus donandi' es la intención del donante de enriquecer al donatario a costa de su propio empobrecimiento, sin simulación de compraventa o acto ilícito. Es fundamental para asegurar la naturaleza gratuita y válida de la donación.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: Explique los límites que establece el Código Civil respecto a la capacidad de donar todos los bienes de una persona.
+Respuesta Correcta: El artículo 634 del Código Civil exige que el donante se reserve lo necesario para su subsistencia, y el artículo 636 limita la donación al máximo que se puede legar por testamento, protegiendo la legítima de los herederos forzosos.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: Analice las condiciones bajo las cuales una donación puede ser revocada debido a la ingratitud del donatario.
+Respuesta Correcta: La donación puede revocarse por ingratitud si el donatario comete un delito contra el donante, le imputa un delito perseguible de oficio o le niega alimentos indebidamente, demostrando un incumplimiento del deber de gratitud.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: Describa las formas de formalizar una donación de bienes muebles y su importancia según el Código Civil.
+Respuesta Correcta: Una donación de bienes muebles puede ser verbal si hay entrega simultánea, o por escrito si no la hay. Este requisito de forma asegura la validez del acto y previene disputas sobre la transferencia de bienes.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: ¿Qué efectos tiene una donación sobre el patrimonio del donante y qué responsabilidades no asume?
+Respuesta Correcta: La donación empobrece el patrimonio del donante y enriquece el del donatario. El donante no responde por evicción, no hay derecho de acrecer entre donatarios, y el donatario no paga deudas del donante salvo pacto en contrario.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 5: Donación I
+
+Pregunta: ¿Cómo se integran las donaciones mortis causa en el Derecho de Sucesiones y qué implica su regulación bajo las disposiciones de última voluntad?
+Respuesta Correcta: Las donaciones mortis causa se integran en el Derecho de Sucesiones porque su efectividad está supeditada a la muerte del donante. Están reguladas por las normas de la sucesión testamentaria, lo que implica que participan de la naturaleza de las disposiciones de última voluntad, asegurando que se cumplan los deseos del donante post mortem.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: Analice las implicaciones jurídicas de imponer una carga en una donación modal u onerosa.
+Respuesta Correcta: La carga en una donación modal limita la gratuidad al imponer una obligación al donatario, sin desnaturalizar la donación, ya que el valor de la carga debe ser menor que el bien donado. Esto asegura que el donatario reciba un beneficio neto, manteniendo el carácter gratuito esencial de la donación.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: Explique la diferencia entre una donación remuneratoria y una obligación contractual pendiente de pago.
+Respuesta Correcta: La donación remuneratoria se fundamenta en el agradecimiento por méritos o servicios no exigibles, sin constituir una obligación contractual. A diferencia de una deuda contractual, no es exigible por el donatario, ya que su causa es el animus donandi, no una obligación legalmente establecida.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: ¿Qué restricciones existen en la donación con reserva de la facultad de disponer y cuál es su efecto post mortem?
+Respuesta Correcta: El donante puede reservarse el derecho de disponer solo de una parte de los bienes donados, no de la totalidad. Si muere sin ejercer esta facultad, los bienes reservados pasan irrevocablemente al donatario, asegurando su derecho definitivo sobre esos bienes tras el fallecimiento del donante.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: Analice la validez de una cláusula de reversión en una donación y las condiciones bajo las cuales puede operar.
+Respuesta Correcta: Una cláusula de reversión es válida si establece que el bien donado retornará al donante o a un tercero si se cumple una condición o término. Esta cláusula debe ser clara y específica, permitiendo recuperar o transferir el bien donado al cumplirse el evento estipulado.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: Diferencie entre una donación de nuda propiedad y usufructo frente a las liberalidades de uso.
+Respuesta Correcta: La donación de nuda propiedad y usufructo separa los derechos reales entre dos personas, mientras que las liberalidades de uso son actos de enriquecimiento basados en normas sociales. Estas últimas no están sujetas a los mismos requisitos formales que las donaciones ordinarias, al estar regidas por usos sociales.
+Manual: Manual Civil 3
+Bloque: Bloque 2
+Tema: Tema 6: Donación II
+
+Pregunta: ¿Por qué los bienes fungibles que se consumen no pueden ser objeto del contrato de arrendamiento según el artículo 1545 CC?
+Respuesta Correcta: Porque se consumen con el uso, lo cual impide cumplir con el goce o uso continuo que caracteriza el arrendamiento, como en el ejemplo de las manzanas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Analiza la responsabilidad del arrendatario en caso de subarriendo según el artículo 1550 CC.
+Respuesta Correcta: El arrendatario sigue siendo responsable ante el arrendador, ya que el subarriendo no afecta su obligación contractual inicial, siendo el subarrendatario un tercero.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Explora la obligación del arrendador de mantener el goce pacífico del arrendamiento y sus implicaciones.
+Respuesta Correcta: El arrendador debe garantizar que el arrendatario disfrute del bien sin interferencias, evitando su ingreso sin permiso o uso de llaves no autorizadas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Discute la obligación del arrendatario de usar la cosa con diligencia y sus consecuencias legales.
+Respuesta Correcta: Implica un uso responsable, comparable al de un 'diligente padre de familia', y el arrendatario asume responsabilidad por daños causados por su culpa.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Explica el requisito de forma en los arrendamientos de larga duración y su importancia jurídica.
+Respuesta Correcta: Los arrendamientos de seis o más años deben formalizarse en escritura pública si afectan a terceros, asegurando publicidad y seguridad jurídica.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Analiza la obligación del arrendatario de tolerar obras urgentes y sus limitaciones.
+Respuesta Correcta: El arrendatario debe permitir obras urgentes que no puedan posponerse, siempre que no alteren la forma de la cosa arrendada, cumpliendo con el artículo 1557 CC.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 1: Arrendamiento de Cosas I
+
+Pregunta: Analiza las diferencias entre la tácita reconducción y la prórroga del contrato de arrendamiento.
+Respuesta Correcta: La tácita reconducción es una presunción legal por la inacción de las partes que extiende el contrato bajo las condiciones originales, mientras que la prórroga implica un acuerdo previo entre las partes para extender el plazo, creando un nuevo contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: Explica cómo afecta la venta de la cosa arrendada al contrato de arrendamiento según el Código Civil.
+Respuesta Correcta: La venta de la cosa arrendada permite al comprador terminar el contrato vigente ('venta quita renta'), salvo que el arrendatario sea quien compre, en cuyo caso el contrato se extingue tácitamente por subrogación jurídica.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: Discute las consecuencias legales de la pérdida de la cosa arrendada sobre el contrato de arrendamiento.
+Respuesta Correcta: La pérdida de la cosa arrendada extingue el contrato de pleno derecho, abarcando tanto la destrucción como la salida del comercio, lo que elimina la obligación de mantener el arrendamiento.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: Describe las circunstancias bajo las cuales el arrendador puede resolver el contrato de arrendamiento por incumplimiento del arrendatario.
+Respuesta Correcta: El arrendador puede resolver el contrato por impago de rentas, subarriendo no consentido, o actividades ilícitas como narcotráfico, solicitando la resolución y la indemnización por daños y perjuicios.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: Compara la cesión del arrendamiento con el subarriendo en términos de requisitos y efectos.
+Respuesta Correcta: La cesión requiere consentimiento escrito del arrendador y transfiere la titularidad del contrato a un tercero, mientras que el subarriendo solo necesita que no esté prohibido y se crea un contrato secundario.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: Analiza el papel del leasing back como herramienta financiera para empresas.
+Respuesta Correcta: El leasing back permite a empresas obtener liquidez inmediata vendiendo un bien a una sociedad de leasing y arrendándolo nuevamente, asegurando el uso continuo y la opción de recompra.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 2: Arrendamiento De Cosas II
+
+Pregunta: ¿Cuál es la finalidad principal de la Ley de Arrendamientos Rústicos (LAR) y cómo se refleja históricamente su evolución?
+Respuesta Correcta: La LAR busca proteger al propietario y al arrendatario, fomentar la actividad agraria y garantizar la estabilidad en la explotación de la tierra. Históricamente, ha evolucionado para asegurar un acceso justo a la tierra y condiciones adecuadas, destacando la Ley 49/2003 como una modificación relevante.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: ¿Cómo influye la Política Agraria Común (PAC) de la UE en la regulación de los arrendamientos rústicos en España?
+Respuesta Correcta: La PAC influye mediante criterios y ayudas que afectan la viabilidad y condiciones de los arrendamientos rústicos. Exige que los contratos cumplan requisitos de sostenibilidad, medioambientales y de calidad, formando un marco interconectado con la LAR.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: Analiza la relación entre el objeto del contrato de arrendamiento rústico y los objetivos de la LAR.
+Respuesta Correcta: El objeto, una finca rústica destinada a actividades agrícolas, ganaderas o forestales, se vincula con los objetivos de la LAR al buscar un equilibrio que proteja derechos, fomente la actividad agraria y garantice la estabilidad en la explotación de la tierra.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: ¿En qué aspectos la LAR y la PAC se complementan para el desarrollo del derecho agrario español?
+Respuesta Correcta: La LAR y la PAC se complementan al establecer un marco normativo que protege derechos, fomenta la actividad agraria y garantiza la sostenibilidad y calidad de las explotaciones, asegurando así la viabilidad y estabilidad de los arrendamientos rústicos.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: Discute la importancia de la protección del propietario y arrendatario dentro del marco de la LAR.
+Respuesta Correcta: La protección es fundamental para equilibrar derechos y deberes, previniendo abusos y garantizando un uso justo de la tierra. La LAR busca asegurar que ambas partes tengan condiciones adecuadas para la explotación agraria, promoviendo la estabilidad y continuidad.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: ¿Qué papel juegan las modificaciones históricas de la LAR en la mejora de las condiciones de arrendamiento rústico?
+Respuesta Correcta: Las modificaciones, como la Ley 49/2003, han sido cruciales para adaptar la normativa a nuevas realidades agrarias, mejorar condiciones de explotación y asegurar un acceso más justo a la tierra, reflejando así un proceso de evolución hacia un marco más equilibrado.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 3: Arrendamientos Rústicos (I)
+
+Pregunta: Analiza el derecho del arrendador a rescindir el contrato en caso de incumplimiento grave por parte del arrendatario.
+Respuesta Correcta: El arrendador puede rescindir el contrato si el arrendatario incurre en incumplimientos graves, como el impago de la renta o uso indebido de la finca. Esto protege los intereses del arrendador y asegura que la finca se use conforme al destino pactado.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: Explica cómo el respeto al plazo contractual por parte del arrendador contribuye a la estabilidad de las explotaciones agrarias.
+Respuesta Correcta: El respeto al plazo contractual permite al arrendatario planificar y ejecutar actividades agrarias sin incertidumbres sobre la tenencia de la tierra, asegurando así la continuidad y viabilidad de la explotación.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: Justifica la importancia del derecho de adquisición preferente del arrendatario en el contexto de protección de su inversión.
+Respuesta Correcta: El derecho de adquisición preferente protege la inversión del arrendatario al darle la oportunidad de adquirir la finca antes que terceros, garantizando que sus esfuerzos y mejoras realizadas en la finca no se vean comprometidos por una venta inesperada.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: Evalúa la obligación del arrendatario de conservar la finca y cómo esta afecta la relación contractual.
+Respuesta Correcta: La obligación de conservación asegura que el arrendatario mantenga la finca en buen estado, lo cual protege el valor de la propiedad para el arrendador y evita conflictos derivados del deterioro o uso inapropiado de la tierra.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: Discute la relación entre la forma de pago de la renta y el equilibrio contractual en un arrendamiento rústico.
+Respuesta Correcta: La forma de pago, que puede ser en dinero o especie, debe ser proporcional a la explotación de la finca. Esto asegura un equilibrio contractual, evitando abusos y asegurando que ambas partes obtengan un beneficio justo de la relación.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: Analiza la obligación del arrendador de entregar la finca en condiciones adecuadas y su impacto en el arrendamiento.
+Respuesta Correcta: El arrendador debe entregar la finca en condiciones aptas para la explotación agraria, garantizando que el arrendatario pueda cumplir con su parte del contrato. Esto es esencial para iniciar la actividad agraria sin retrasos o dificultades inesperadas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 4: Arrendamientos Rústicos (II)
+
+Pregunta: ¿Por qué es fundamental para el arrendatario que la Ley de Arrendamientos Rústicos establezca una duración mínima de 5 años en los contratos de arrendamiento rústico?
+Respuesta Correcta: El plazo mínimo de 5 años permite al arrendatario rentabilizar sus inversiones en la tierra y planificar a largo plazo, lo cual es esencial debido a la naturaleza de las actividades agrícolas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: Analiza cómo la prórroga automática de los contratos de arrendamiento rústico contribuye a la estabilidad de las explotaciones agrícolas.
+Respuesta Correcta: La prórroga automática evita la incertidumbre de renegociar anualmente, asegurando la continuidad de la explotación y permitiendo al arrendatario planificar a largo plazo.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: Examina los efectos de la subrogación por causas personales en la continuidad de la explotación agraria.
+Respuesta Correcta: La subrogación permite que herederos o descendientes directos continúen con el contrato tras la jubilación o fallecimiento del arrendatario, garantizando la estabilidad y continuidad de la explotación.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: ¿Qué importancia tiene la existencia de mecanismos de resolución anticipada del contrato en la LAR?
+Respuesta Correcta: Estos mecanismos permiten resolver el contrato en casos de incumplimiento grave, fuerza mayor o por mutuo acuerdo, protegiendo los intereses de ambas partes y asegurando la equidad en la relación contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: Analiza la resolución del contrato por incumplimiento de obligaciones y su impacto en las partes implicadas.
+Respuesta Correcta: La resolución por incumplimiento protege a la parte cumplidora permitiéndole terminar el contrato si hay incumplimientos significativos, como impago de renta, asegurando el respeto a las obligaciones contractuales.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: Evalúa la resolución del contrato por causa de fuerza mayor y su justificación en el contexto de arrendamientos rústicos.
+Respuesta Correcta: La resolución por fuerza mayor se justifica cuando eventos imprevisibles impiden el cumplimiento del contrato, protegiendo a las partes ante circunstancias fuera de su control, como desastres naturales.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 5: Arrendamientos Rústicos (III)
+
+Pregunta: ¿Qué criterios deben considerarse para asegurar que la renta en un contrato de arrendamiento rústico sea justa y equitativa?
+Respuesta Correcta: La renta debe reflejar la productividad de la finca y las condiciones del mercado en el momento de la firma, considerando precios de fincas colindantes para evitar abusos y desequilibrios.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: Analiza el papel de los índices oficiales de precios en la revisión de la renta de un arrendamiento rústico.
+Respuesta Correcta: Los índices oficiales, como el IPC, limitan objetivamente la modificación de la renta, protegiendo al arrendador de la inflación y al arrendatario de incrementos desproporcionados.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: ¿Cuáles son las posibles consecuencias jurídicas del impago de la renta en un contrato de arrendamiento rústico?
+Respuesta Correcta: El arrendador puede exigir el cumplimiento de la obligación de pago o la resolución del contrato, según lo pactado, asegurando así sus derechos frente al incumplimiento.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: ¿Por qué es importante la frecuencia y la notificación en la revisión de la renta de un arrendamiento rústico?
+Respuesta Correcta: Limitar la frecuencia a una vez al año y exigir notificación previa asegura estabilidad económica y seguridad jurídica, evitando sorpresas y desequilibrios para ambas partes.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: Discute la función del requisito de equidad en la fijación de la renta en un contrato de arrendamiento rústico.
+Respuesta Correcta: El requisito de equidad evita contratos con rentas desproporcionadas, que podrían ser considerados como encubrimientos o falsos contratos, garantizando una contraprestación justa.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: Evalúa cómo la forma de pago de la renta (dinero o especie) puede afectar la relación contractual entre arrendador y arrendatario.
+Respuesta Correcta: El pago en dinero es más común y directo, mientras que en especie depende de la producción, pudiendo generar variabilidad y requerir acuerdos claros para evitar conflictos.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 6: Arrendamientos Rústicos (IV)
+
+Pregunta: Analice las obligaciones fundamentales del arrendador y arrendatario en el contrato de arrendamiento rústico.
+Respuesta Correcta: El arrendador debe garantizar el uso pacífico de la finca, mientras que el arrendatario tiene la obligación de mantener la finca en buen estado para su explotación agrícola, ganadera o forestal.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: ¿Cómo se establece la renta en un contrato de arrendamiento rústico y qué mecanismos existen para su revisión?
+Respuesta Correcta: La renta se establece libremente por las partes y puede revisarse anualmente conforme a índices como el IPC. La ley permite flexibilidad en el acuerdo de pago, sin imposición de periodicidad concreta.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: Explique la importancia de la duración mínima del contrato de arrendamiento rústico según la LAR.
+Respuesta Correcta: La LAR impone una duración mínima de cinco años para proteger la estabilidad del agricultor. Las partes pueden pactar una duración mayor, como diez años, para asegurar la continuidad de la explotación.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: Analice la problemática del subarriendo y las condiciones bajo las cuales es permitido en un arrendamiento rústico.
+Respuesta Correcta: El subarriendo está prohibido sin consentimiento expreso del arrendador. Un acuerdo de subarriendo es legal si tiene el consentimiento del arrendador y no altera materialmente el objeto arrendado.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: Discuta el principio de relatividad contractual y su aplicación en el contrato de arrendamiento rústico.
+Respuesta Correcta: El principio establece que los contratos solo vinculan a las partes firmantes. Sin embargo, si un acuerdo de subarriendo cambia el uso del bien arrendado, el arrendador tiene derecho a intervenir.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: Evalúe la efectividad de las cláusulas claras para prevenir conflictos en el contrato de arrendamiento rústico.
+Respuesta Correcta: Las cláusulas claras, como la prohibición de subarrendar sin consentimiento, son esenciales para prevenir malentendidos y proteger los intereses de las partes, promoviendo la estabilidad contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 7: Arrendamientos Rústicos. Caso Práctico
+
+Pregunta: ¿Por qué es fundamental la distinción entre arrendamientos de vivienda y arrendamientos para usos distintos de vivienda según la LAU?
+Respuesta Correcta: La distinción es crucial porque afecta radicalmente los derechos y obligaciones de arrendador y arrendatario. El arrendamiento de vivienda se rige por un régimen más imperativo, protegiendo la necesidad permanente de residencia, mientras que el uso distinto permite mayor autonomía.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: Analiza cómo el caso de un arrendamiento turístico se enmarca dentro de la categoría de arrendamiento para uso distinto de vivienda.
+Respuesta Correcta: Un arrendamiento turístico, como el de Luis en Torremolinos, es para uso no permanente, sin constituir residencia habitual. Por ello, se regula como arrendamiento para uso distinto de vivienda, aplicándose un régimen más flexible y dispositivo, acorde con su naturaleza temporal.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: Explica cómo el arrendamiento de temporada se diferencia del arrendamiento de vivienda tradicional.
+Respuesta Correcta: El arrendamiento de temporada, como el de Luis en Salamanca, es para un uso temporal y no satisface la necesidad permanente de vivienda. Se clasifica como arrendamiento para uso distinto, lo que implica un régimen menos protector y más adaptado al acuerdo entre partes.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: Desde el punto de vista jurídico, ¿cómo afecta la calificación del uso del inmueble al régimen de derechos y obligaciones en un contrato de arrendamiento?
+Respuesta Correcta: La calificación impacta directamente en el régimen aplicable: los arrendamientos de vivienda, al ser de necesidad permanente, se rigen por normas más restrictivas, mientras que los arrendamientos para uso distinto permiten mayor flexibilidad contractual, adaptándose a la naturaleza transitoria del uso.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: ¿Qué implica la aplicación del artículo 2.1 de la LAU en la calificación de un arrendamiento de vivienda?
+Respuesta Correcta: El artículo 2.1 de la LAU establece que un arrendamiento de vivienda debe recaer sobre una edificación habitable destinada a satisfacer la necesidad permanente de residencia del arrendatario, asegurando que el contrato cumpla con requisitos de estabilidad y protección de derechos básicos.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: Evalúa la importancia de distinguir entre residencia habitual y uso temporal en el contexto de la Ley de Arrendamientos Urbanos.
+Respuesta Correcta: La distinción entre residencia habitual y uso temporal define si el arrendamiento es de vivienda o para uso distinto. Esto es esencial porque determina el régimen legal aplicable: protección imperativa en residencias habituales y mayor flexibilidad en usos temporales, adaptando la regulación a la realidad del contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 8: Ley De Arrendamientos Urbanos (LAU)
+
+Pregunta: ¿Por qué es fundamental que el uso legal del inmueble coincida con su uso finalístico para la aplicación de la LAU?
+Respuesta Correcta: El uso legal del inmueble debe ser de vivienda para aplicar las normas protectoras de la LAU. Si el uso es distinto, no se puede aplicar este régimen, incluso si el inquilino lo utiliza como vivienda.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: Analiza el impacto de la apariencia de vivienda en la calificación del arrendamiento según la LAU.
+Respuesta Correcta: La apariencia de vivienda no afecta la calificación del arrendamiento. Si el uso legal es distinto, como oficina, prevalece este y el contrato se encuadra como uso distinto de vivienda.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: Explique la excepción a la regla de uso excluyente en el arrendamiento de vivienda según la LAU.
+Respuesta Correcta: La excepción se da en elementos anexos como garajes y trasteros. Aun sin uso de vivienda, si son accesorios a un contrato de vivienda habitual, se consideran parte de este.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: ¿Cómo se determina el tipo de arrendamiento cuando el destino del inmueble es temporal?
+Respuesta Correcta: Si el destino es temporal, como en alquileres de verano, el arrendamiento se califica como uso distinto de vivienda, ya que no satisface la necesidad permanente de vivienda habitual.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: Discute la importancia de la doble verificación (uso finalístico y objeto material) en la calificación de un arrendamiento.
+Respuesta Correcta: La doble verificación asegura que el arrendamiento cumpla con la necesidad de vivienda habitual y que el inmueble tenga uso legal de vivienda, garantizando la aplicación de la LAU.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: ¿Qué consecuencias jurídicas derivan de la falta de uso legal de vivienda en el objeto arrendado?
+Respuesta Correcta: La ausencia de uso legal de vivienda en el objeto arrendado resulta en la calificación del contrato como arrendamiento para uso distinto, excluyendo la protección de la LAU.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 9: Arrendamiento De Vivienda Habitual
+
+Pregunta: ¿En qué se diferencia el principio de autonomía de la voluntad entre el arrendamiento de vivienda y el arrendamiento para uso distinto de vivienda según la LAU?
+Respuesta Correcta: En el arrendamiento para uso distinto de vivienda, las partes tienen libertad para pactar la duración y renta del contrato, a diferencia del arrendamiento de vivienda, que está sujeto a plazos y condiciones imperativas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: Analiza por qué un contrato de arrendamiento de temporada, como el de Elena que estudia en Madrid, se considera uso distinto de vivienda.
+Respuesta Correcta: Aunque el contrato se use para residencia, no es permanente. Está ligado a una actividad transitoria, como estudios, lo que lo clasifica como uso distinto de vivienda bajo la LAU.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: Explique cómo se regula el arrendamiento de solares y locales bajo la LAU.
+Respuesta Correcta: Los arrendamientos sobre solares y locales se consideran uso distinto de vivienda. Pueden dedicarse a actividades no residenciales, como industriales o comerciales, según el art. 3.2 LAU.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: Argumente cómo se determina el régimen aplicable en un arrendamiento mixto que combina uso residencial y profesional.
+Respuesta Correcta: En arrendamientos mixtos, la finalidad principal del contrato determina el régimen aplicable. Si la prioridad es profesional, se aplica el régimen de uso distinto; si es residencial, el de vivienda.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: Discuta el orden de aplicación de normas en el arrendamiento para uso distinto de vivienda según el art. 4 LAU.
+Respuesta Correcta: El art. 4 LAU establece que se aplican primero las normas imperativas, luego la voluntad de las partes, y en ausencia de pacto expreso, las normas supletorias del Título III y el Código Civil.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: ¿Cuáles son las obligaciones básicas de un arrendador y un arrendatario en un contrato para uso distinto de vivienda?
+Respuesta Correcta: El arrendador debe entregar la finca y garantizar su posesión útil. El arrendatario debe pagar la renta y custodiar adecuadamente la finca, según lo dispuesto en la LAU.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 10: Arrendamiento Uso Distinto De Vivienda (I)
+
+Pregunta: ¿Por qué el arrendatario de una finca para uso empresarial o industrial puede ceder o subarrendar sin el consentimiento del arrendador?
+Respuesta Correcta: El art. 32 LAU permite la cesión o subarriendo sin consentimiento para facilitar la continuidad de las actividades empresariales, dado su dinamismo, aunque con compensación económica para el arrendador.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: Analice la compensación económica que puede recibir el arrendador en caso de cesión o subarriendo del contrato.
+Respuesta Correcta: El arrendador puede incrementar la renta un 10% en caso de subarriendo parcial y un 20% en caso de subarriendo total o cesión, compensando la falta de consentimiento requerido.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: Explique la importancia de la notificación al arrendador en el proceso de cesión o subarriendo.
+Respuesta Correcta: La notificación al arrendador, dentro del mes de celebración, es crucial para que pueda ejercer su derecho al incremento de renta, asegurando transparencia y equidad en el proceso.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: ¿Qué condiciones permiten al heredero o legatario subrogarse en el contrato tras el fallecimiento del arrendatario?
+Respuesta Correcta: El heredero puede subrogarse si continúa la actividad empresarial en la finca y notifica al arrendador dentro de dos meses del fallecimiento, asegurando la continuidad del negocio.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: Razone la justificación de la indemnización al arrendatario tras la extinción del contrato.
+Respuesta Correcta: La indemnización evita el enriquecimiento injusto del arrendador aprovechando la clientela o valor creado por el arrendatario, quien debe haber intentado renovar el contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: Analice las causas específicas de extinción del arrendamiento para uso distinto de vivienda según el art. 35 LAU.
+Respuesta Correcta: El contrato se extingue por falta de pago, daños dolosos, actividades ilícitas, o cesión/subarriendo ilegal, protegiendo el interés del arrendador y el uso adecuado de la finca.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 11: Arrendamiento Uso Distinto De Vivienda (II)
+
+Pregunta: Analice las razones por las que la ley permite la libertad de pacto en arrendamientos de vivienda habitual con ciertas características específicas.
+Respuesta Correcta: La ley permite la libertad de pacto en arrendamientos de vivienda habitual si la superficie es superior a 300 m² o la renta inicial supera 5.5 veces el SMI, porque considera que estas circunstancias justifican un régimen más flexible, similar al de arrendamientos para uso distinto de vivienda, favoreciendo acuerdos personalizados entre las partes.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: Explique por qué es necesaria la exclusión expresa de preceptos legales en arrendamientos sujetos a la LAU.
+Respuesta Correcta: La exclusión expresa de preceptos legales asegura que las partes están conscientes y acuerdan no aplicar ciertas disposiciones de la LAU. Esto evita que, en ausencia de un pacto expreso, se aplique automáticamente lo dispuesto en el Título II, protegiendo la seguridad jurídica y la voluntad contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: Justifique la exclusión de la LAU para viviendas asignadas por razón del cargo.
+Respuesta Correcta: Las viviendas asignadas por razón del cargo se excluyen de la LAU porque su uso está vinculado a la función o servicio prestado, lo que implica un régimen legal específico que no encaja en el marco de arrendamientos residenciales, asegurando así un ajuste adecuado al propósito de la ocupación.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: Argumente por qué los arrendamientos rústicos con casa habitación se rigen por su propia legislación y no por la LAU.
+Respuesta Correcta: Los arrendamientos rústicos con casa habitación se centran en el aprovechamiento agrícola, pecuario o forestal, siendo su finalidad principal no residencial. Por tanto, se rigen por la legislación de arrendamientos rústicos, que regula adecuadamente sus características y necesidades específicas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: Analice cómo afecta la calificación de una vivienda como universitaria a su régimen de arrendamiento.
+Respuesta Correcta: La calificación de una vivienda como universitaria, realizada por la universidad, implica que su uso se somete a normas internas de la institución. Esto justifica su exclusión de la LAU, permitiendo su adaptación a las necesidades específicas de estudiantes y personal, bajo un régimen propio.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: Discuta las razones para la exclusión de las viviendas de uso turístico (VUT) del ámbito de aplicación de la LAU.
+Respuesta Correcta: Las viviendas de uso turístico se excluyen de la LAU debido a su finalidad lucrativa y su comercialización en canales turísticos, lo que requiere un régimen específico derivado de la normativa sectorial turística, asegurando así una regulación adecuada a su naturaleza y uso.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 12: Excepciones
+
+Pregunta: ¿Por qué el principio de primacía de la ley sobre la autonomía de la voluntad es fundamental en el arrendamiento de vivienda habitual según la LAU?
+Respuesta Correcta: Este principio protege al arrendatario al invalidar cualquier cláusula que modifique en su perjuicio las normas del Título II, asegurando que sus derechos sean respetados incluso si el inquilino acepta lo contrario.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: Analiza cómo el mantenimiento del régimen de vivienda habitual protege a la unidad familiar cuando el arrendatario original deja de residir en el inmueble.
+Respuesta Correcta: La LAU garantiza que la calificación de arrendamiento de vivienda se mantenga si la unidad familiar, como el cónyuge o hijos, sigue habitando el inmueble, preservando así la estabilidad familiar.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: ¿Qué justificaciones puede alegar un arrendador para recuperar una vivienda antes del plazo mínimo establecido en un contrato de arrendamiento?
+Respuesta Correcta: El arrendador puede recuperar la vivienda si, tras el primer año, justifica la necesidad de usarla como residencia habitual propia, de familiares directos o cónyuge en caso de separación o divorcio.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: Explora cómo la subrogación en caso de crisis matrimonial refleja la protección del arrendatario no titular del contrato.
+Respuesta Correcta: La LAU permite que el cónyuge no arrendatario se subrogue como tal en caso de divorcio o separación, asegurando la continuidad del uso de la vivienda como domicilio familiar.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: Examina las limitaciones al aumento de renta por obras de mejora realizadas por el arrendador y su impacto en el arrendatario.
+Respuesta Correcta: El aumento de renta por mejoras está limitado temporalmente (no antes de 5 o 7 años) y cuantitativamente (máximo 20% de la renta actual), protegiendo así al arrendatario de subidas excesivas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: Discute la obligación del arrendador de mantener la vivienda en condiciones de habitabilidad y el impacto sobre las responsabilidades del arrendatario.
+Respuesta Correcta: El arrendador debe realizar todas las reparaciones necesarias sin aumentar la renta, mientras que el arrendatario es responsable de los daños por mal uso, garantizando así un equilibrio en las obligaciones.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 13: Titulo II LAU. Régimen Jurídico Del Arrendamiento De Vivienda Habitual
+
+Pregunta: ¿Cómo afecta el Título II de la LAU a la libertad contractual en los arrendamientos de vivienda habitual?
+Respuesta Correcta: El Título II de la LAU impone un marco protector que limita la libertad contractual, prohibiendo pactos que perjudiquen al arrendatario y obligando a cumplir con las disposiciones legales imperativas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: Analiza la prelación de fuentes en los arrendamientos para uso distinto de vivienda según la LAU.
+Respuesta Correcta: En estos arrendamientos, prima la voluntad de las partes con total libertad de pacto. Si falta un pacto, se aplica supletoriamente el Título III de la LAU, y en última instancia, el Código Civil.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: ¿Qué ocurre si en un contrato de arrendamiento de vivienda habitual las partes pactan algo contrario al Título II de la LAU?
+Respuesta Correcta: Cualquier pacto contrario al Título II de la LAU es nulo, y por defecto, se aplicará lo dispuesto en el Código Civil siempre que no contravenga el citado Título II.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: Explica cómo se determina la normativa aplicable en caso de un vacío legal en un arrendamiento para uso distinto de vivienda.
+Respuesta Correcta: En caso de vacío legal, si el Título III de la LAU no regula el asunto, se recurre subsidiariamente al Código Civil para resolver el conflicto.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: Discute la implicación práctica de la libertad de pacto en los arrendamientos para uso distinto de vivienda.
+Respuesta Correcta: La libertad de pacto permite a las partes acordar cualquier término contractual, facilitando adaptaciones específicas a sus necesidades, salvo intervención supletoria en ausencia de pacto.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: Compara el régimen supletorio de la LAU en arrendamientos de vivienda habitual y para uso distinto de vivienda.
+Respuesta Correcta: En arrendamientos de vivienda habitual, el régimen supletorio se basa en el Código Civil, respetando el Título II. Para uso distinto, el régimen supletorio sigue el Título III y finalmente el Código Civil.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 14: Titulo II vs Titulo III LAU
+
+Pregunta: ¿Cuáles son las principales diferencias en la libertad de pactos entre los arrendamientos de vivienda y para uso distinto de vivienda según la LAU?
+Respuesta Correcta: En los arrendamientos para uso distinto de vivienda, la LAU concede mayor libertad a las partes, permitiendo pactar plazos largos, como 30 años, mientras que en los de vivienda existen más restricciones legales.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: Analiza la aplicabilidad del artículo 3.1 de la LAU en un arrendamiento de un solar para uso comercial.
+Respuesta Correcta: El artículo 3.1 de la LAU permite arrendamientos para uso distinto de vivienda sobre edificaciones, pero también se extiende a solares si el destino es una actividad comercial, como un restaurante.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: Explora cómo se determina la naturaleza de un arrendamiento mixto según la finalidad primordial de las partes.
+Respuesta Correcta: En arrendamientos mixtos, donde el inmueble tiene un uso dual, se determina su naturaleza basándose en la finalidad primordial; será de uso distinto si el propósito principal es profesional.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: Discute el orden de prelación de fuentes en los arrendamientos para uso distinto de vivienda según el artículo 4 de la LAU.
+Respuesta Correcta: El artículo 4 de la LAU establece que se aplica primero el Título I y IV, luego la voluntad de las partes, supletoriamente el Título III, y finalmente el Código Civil.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: Argumenta sobre las obligaciones del arrendador en un contrato de uso distinto de vivienda.
+Respuesta Correcta: El arrendador debe entregar la finca y mantener su posesión útil, incluyendo garantizar al arrendatario la posesión frente a terceros que reivindiquen la propiedad.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: Evalúa cómo se gestionan los elementos accesorios en un contrato de arrendamiento de vivienda según la LAU.
+Respuesta Correcta: Si un arrendamiento de vivienda incluye accesorios como garaje y trastero, se aplican las normas de arrendamiento de vivienda, dado que estos no tienen uso habitacional propio.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 15: Titulo III LAU
+
+Pregunta: ¿Por qué se considera la fianza una garantía contractual esencial en los contratos de arrendamiento según el art. 36 de la LAU?
+Respuesta Correcta: La fianza asegura el cumplimiento de las obligaciones del contrato, protegiendo al arrendador en caso de incumplimiento del arrendatario, como impago de rentas o daños en la propiedad.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: Analiza los límites legales sobre las garantías adicionales en arrendamientos de vivienda y explica su finalidad.
+Respuesta Correcta: Los límites, hasta dos mensualidades de renta, protegen al arrendatario de exigencias excesivas, equilibrando la protección del arrendador y evitando el abuso en la exigencia de garantías.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: Discute la justificación legal para que la fianza no esté sujeta a actualización durante el plazo inicial del contrato.
+Respuesta Correcta: La fianza no se actualiza durante los primeros 5 o 7 años para asegurar la estabilidad del arrendatario, permitiendo que solo se revisen las condiciones tras un periodo razonable.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: Evalúa las implicaciones para el arrendador en caso de retraso en la devolución de la fianza.
+Respuesta Correcta: El arrendador incurre en mora y el saldo de la fianza devenga el interés legal, incentivando la devolución oportuna y protegiendo al arrendatario de demoras injustificadas.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: ¿Cómo se determina la actualización de la fianza tras el plazo inicial del contrato, según el art. 36.3 LAU?
+Respuesta Correcta: La actualización depende de la voluntad de las partes; si no se acuerda nada, se presume que la fianza sigue la misma actualización que la renta, asegurando claridad en las condiciones.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: Explora cómo el art. 36 de la LAU balancea los intereses de arrendador y arrendatario en materia de fianza.
+Respuesta Correcta: El artículo establece límites claros para proteger al arrendatario de abusos y asegura mecanismos para que el arrendador recupere posibles pérdidas, equilibrando los derechos de ambas partes.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 16: La Fianza
+
+Pregunta: ¿Cuál es la principal diferencia entre una obligación de resultado y una obligación de medios en el contexto del contrato de obra?
+Respuesta Correcta: La obligación de resultado exige al contratista entregar una obra terminada y conforme, mientras que la obligación de medios solo obliga a poner diligencia sin garantizar el éxito.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: Explique cómo se determina el precio en un contrato de obra y las modalidades que existen para su estipulación.
+Respuesta Correcta: El precio debe ser cierto y puede ser fijado como un monto total (ajuste alzado) o mediante pagos parciales por unidades o certificaciones de obra.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: Analice las garantías disponibles para el contratista en caso de impago por parte del comitente.
+Respuesta Correcta: El contratista tiene derecho de retención sobre la obra y su crédito es preferente, lo que le otorga prioridad frente a otros acreedores del comitente.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: Discuta la responsabilidad del contratista en caso de pérdida de la obra antes de su entrega.
+Respuesta Correcta: El contratista es responsable de la pérdida o destrucción de la obra antes de su entrega, ya que la obra se realiza a su riesgo, salvo pacto en contrario.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: Explique el concepto de ruina funcional y su relevancia en el contrato de obra.
+Respuesta Correcta: La ruina funcional permite exigir responsabilidad cuando los defectos constructivos hacen la edificación parcialmente inservible, incluso sin colapso físico.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: ¿Qué circunstancias pueden llevar a la extinción del contrato de obra según el Código Civil?
+Respuesta Correcta: El contrato se extingue por desistimiento unilateral del comitente, muerte del contratista con obligación personal o imposibilidad sobrevenida de ejecución.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 17: Contrato De Obra
+
+Pregunta: ¿En qué se diferencia la obligación de medios del arrendamiento de servicios respecto a la obligación de resultado del arrendamiento de obra?
+Respuesta Correcta: La obligación de medios exige al arrendatario diligencia en la prestación del servicio sin garantizar un resultado, mientras que la obligación de resultado obliga al prestador a asegurar el cumplimiento del fin pactado.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: Analiza cómo el carácter esencialmente temporal del contrato de arrendamiento de servicios afecta la libertad contractual de las partes.
+Respuesta Correcta: El carácter temporal prohíbe contratos vitalicios, asegurando que la vinculación no limite la libertad del prestador, permitiendo contratos indefinidos si están sujetos a necesidades concretas futuras.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: Discute la aplicabilidad del régimen normativo del Código Civil a los contratos de arrendamiento de servicios en profesiones liberales.
+Respuesta Correcta: El Código Civil es insuficiente, aplicándose supletoriamente las reglas generales de capacidad contractual, especialmente en profesiones liberales, donde el contrato es común para servicios temporales.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: Evalúa la importancia de la diligencia debida en el cumplimiento de un contrato de arrendamiento de servicios.
+Respuesta Correcta: La diligencia debida es crucial, ya que el arrendatario debe demostrar pericia y cuidado profesional, siendo responsable solo si se prueba negligencia, no garantizando resultados específicos.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: ¿Por qué el Código Civil prohíbe expresamente los contratos de duración vitalicia?
+Respuesta Correcta: Prohíbe contratos vitalicios para proteger la libertad individual del prestador, evitando vínculos contractuales irresolubles que podrían limitar su autonomía y capacidad de elección futura.
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: Analiza cómo la falta de regulación específica en el Código Civil afecta la distinción entre arrendamiento de servicios y arrendamiento de obra.
+Respuesta Correcta: La regulación escasa del Código Civil genera incertidumbre, requiriendo a menudo una interpretación del objeto del contrato para distinguir entre compromisos de actividad (servicios) y de fin (obra).
+Manual: Manual Civil 3
+Bloque: Bloque 3
+Tema: Tema 18: Arrendamiento De Servicios
+
+Pregunta: ¿Cómo se diferencian jurídicamente el comodato y el simple préstamo según el Código Civil?
+Respuesta Correcta: El comodato se aplica a cosas no fungibles y es un préstamo de uso, mientras que el simple préstamo se aplica a cosas fungibles y es un préstamo de consumo. En comodato, la propiedad permanece en el comodante, pero en el simple préstamo, el prestatario adquiere la propiedad.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: ¿Cuál es la importancia de la restitución en los contratos de comodato y simple préstamo?
+Respuesta Correcta: En comodato, la restitución es de la misma cosa prestada, mientras que en simple préstamo es de otro tanto de la misma especie y calidad. Esto refleja la diferencia en la finalidad y naturaleza de los bienes prestados.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: Explique el carácter gratuito del contrato de comodato y sus efectos en las obligaciones del comodatario.
+Respuesta Correcta: El comodato es esencialmente gratuito, lo que significa que el comodatario no paga por el uso del bien. Sin embargo, debe satisfacer los gastos ordinarios de uso y conservación, y es responsable de la pérdida del bien en ciertos casos.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: ¿Qué obligaciones asume el comodante en el contrato de comodato y cómo afectan al comodatario?
+Respuesta Correcta: El comodante debe pagar los gastos extraordinarios necesarios y avisar de los vicios del objeto prestado. Esto protege al comodatario y garantiza un uso adecuado del bien, aunque el comodante puede reclamar el bien en circunstancias específicas.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: Analice el papel del derecho de propiedad en el simple préstamo o mutuo.
+Respuesta Correcta: En el mutuo, el prestatario adquiere la propiedad de las cosas consumibles, transformando el derecho de propiedad del prestamista en un derecho de crédito. Esto implica una obligación de restitución equivalente en especie y calidad.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: ¿Qué relevancia tiene la figura del precario en el contexto del comodato?
+Respuesta Correcta: El precario se aplica cuando el comodante puede reclamar la cosa prestada sin estipulación de uso o duración. A pesar de su uso limitado, es relevante para el desahucio, destacando la importancia de definir claramente los términos del comodato.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 1: El Préstamo
+
+Pregunta: ¿Cuál es la diferencia principal entre el depósito judicial y el depósito extrajudicial según el Código Civil?
+Respuesta Correcta: El depósito judicial permite la custodia de bienes inmuebles, a diferencia del extrajudicial, que se limita a bienes muebles. El primero se relaciona con embargos y litigios, mientras que el segundo se basa en la voluntad del depositante o causas extraordinarias.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: Analiza la obligación de guarda y custodia en el depósito voluntario. ¿Qué restricciones tiene el depositario respecto al uso del bien?
+Respuesta Correcta: La obligación de guarda y custodia es provisional, requiriendo la restitución del bien cuando se reclame. El depositario no puede usar la cosa sin permiso del depositante, limitándose a necesidades de guarda o restitución.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: Explora cómo se regula la capacidad contractual en el contrato de depósito, especialmente cuando una parte es incapaz.
+Respuesta Correcta: La capacidad general para contratar rige, pero si el depositante era incapaz al celebrar el contrato, solo sus representantes pueden anularlo. Si el depositario era incapaz, el contrato es anulable, y el depositante puede exigir la restitución o el abono del enriquecimiento.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: Discute la regulación del depósito mancomunado y el indivisible. ¿Cómo se resuelven las obligaciones en cada caso?
+Respuesta Correcta: En el depósito mancomunado, cada depositante solo puede exigir su parte si es divisible. En el depósito indivisible, se aplica la solidaridad, permitiendo a cualquier depositante exigir la totalidad, regido por los arts. 1141 y 1142 CC.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: Analiza el impacto de la pluralidad de depositarios en el contrato de depósito según las reglas generales de obligaciones.
+Respuesta Correcta: Ante el silencio del CC sobre pluralidad de depositarios, se aplican las reglas generales de obligaciones, la voluntad de las partes y los usos negociales, lo que requiere un análisis caso por caso según la estructura acordada.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: Evalúa la adaptación del concepto de depósito a nuevas formas contractuales modernas como los contratos de aparcamiento.
+Respuesta Correcta: La evolución social genera nuevas formas contractuales cercanas al depósito, como el aparcamiento de vehículos. Esto requiere que el Derecho adapte las normas del depósito a estas realidades, considerando la custodia y restitución de bienes muebles.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 2: El Depósito
+
+Pregunta: ¿Cómo afecta el carácter intuitu personae del mandato a la relación entre mandante y mandatario?
+Respuesta Correcta: El carácter intuitu personae implica que el mandato se basa en la confianza personal entre mandante y mandatario, afectando la estabilidad del contrato, ya que la pérdida de confianza podría justificar su revocación.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: Analiza la transformación del mandato de unilateral a bilateral y sus implicaciones jurídicas.
+Respuesta Correcta: El mandato pasa de ser unilateral a bilateral cuando es retribuido, generando obligaciones para ambas partes; el mandante debe retribuir, y el mandatario debe cumplir con las instrucciones del mandante.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: ¿Qué obligaciones tiene el mandante para garantizar la esfera económica del mandatario?
+Respuesta Correcta: El mandante debe pagar la remuneración convenida, anticipar fondos necesarios, reembolsar gastos y daños, asegurando así que el mandatario no sufra perjuicios económicos por ejecutar el mandato.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: Diferencia los efectos del mandato ostensible y no representativo frente a terceros.
+Respuesta Correcta: En el mandato ostensible, el mandante queda obligado ante terceros, mientras que en el no representativo, es el mandatario quien asume la obligación, actuando en nombre propio.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: ¿Cómo influye el conocimiento de la extinción del mandato en la validez de los actos posteriores del mandatario?
+Respuesta Correcta: Los actos del mandatario tras la extinción son nulos, salvo que el tercero actúe de buena fe y el mandatario ignore la extinción, protegiendo así la seguridad jurídica de los terceros.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: Explica la presunción de retribución en el mandato y su aplicación a profesionales.
+Respuesta Correcta: La presunción de retribución aplica cuando el mandatario realiza servicios que constituyen su ocupación habitual, reflejando la expectativa razonable de pago por servicios profesionales.
+Manual: Manual Civil 3
+Bloque: Bloque 4
+Tema: Tema 3: EL Mandato
+
+Pregunta: ¿Cómo se diferencia la representación directa de la representación indirecta en términos de efectos jurídicos?
+Respuesta Correcta: En la representación directa, los efectos jurídicos recaen directamente sobre el representado, mientras que en la indirecta, los actos se realizan en nombre propio del representante y luego se transfieren al representado.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: Analiza la importancia del poder de representación en el contexto de las empresas y su gestión.
+Respuesta Correcta: El poder de representación permite que directivos actúen en nombre de la empresa, facilitando decisiones ágiles y la gestión efectiva, siempre dentro de los límites legales y estatutarios.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: ¿Por qué se considera a la representación legal esencial para personas sin plena capacidad jurídica?
+Respuesta Correcta: La representación legal asegura que menores e incapaces puedan ejercer derechos y obligaciones a través de un representante, garantizando su participación en el tráfico jurídico.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: Discute las diferencias entre representación activa y pasiva en relación con la declaración de voluntad.
+Respuesta Correcta: En la representación activa, el representante emite la declaración de voluntad en nombre de otro, mientras que en la pasiva, actúa solo como transmisor de la voluntad ajena, sin declaración propia.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: ¿Qué papel juega la autonomía privada en la representación voluntaria?
+Respuesta Correcta: La representación voluntaria se basa en la autonomía privada, permitiendo que el representado confiera la facultad de actuar en su nombre, lo cual es un ejercicio de libertad contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: Examina las implicaciones jurídicas de considerar el poder de representación como un negocio jurídico.
+Respuesta Correcta: Como negocio jurídico, el poder de representación implica un acto que otorga facultades al representante, influyendo en la esfera jurídica del representado, y requiere consentimiento y formalidad.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 1: La Representación I
+
+Pregunta: ¿En qué aspectos el apoderamiento constituye un negocio unilateral y cómo afecta esto a la relación con el apoderado?
+Respuesta Correcta: El apoderamiento es unilateral porque no requiere aceptación del apoderado. Esto implica que el apoderado no tiene obligaciones derivadas del poder, solo actúa en la esfera jurídica del poderdante.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: Analiza las diferencias en la extinción del mandato frente al apoderamiento y su impacto en la relación con terceros.
+Respuesta Correcta: La extinción del mandato requiere comunicación al mandatario, mientras que en el apoderamiento también debe notificarse a terceros, afectando así la seguridad jurídica de estos últimos.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: Discute la relevancia de la capacidad general de obrar en el rol del apoderado en comparación con el mandatario.
+Respuesta Correcta: La capacidad general de obrar es suficiente para el apoderado, ya que no establece relaciones jurídicas propias, a diferencia del mandatario que sí asume obligaciones.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: ¿Por qué el Código Civil exige que ciertos poderes consten en documento público y cómo se relaciona esto con la protección de terceros?
+Respuesta Correcta: El art. 1280.5 CC exige documento público para asegurar claridad y seguridad jurídica en poderes que afectan a terceros, como el poder para pleitos o administrar bienes.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: Examinar la diferencia entre poder general y poder especial y su aplicación práctica en la representación.
+Respuesta Correcta: El poder general permite todos los negocios del poderdante, mientras el especial se limita a ciertos actos. En la práctica, esto define el alcance y los límites de la representación.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: Evalúa las implicaciones del subapoderamiento en la estructura de representación y los vínculos entre los apoderados.
+Respuesta Correcta: El subapoderamiento implica que el apoderado nombra a otro sin desvincularse del poderdante, creando una cadena de representación que puede complicar la estructura contractual.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 2: La Representación II y Apoderamiento 1. Definición del Apoderamiento
+
+Pregunta: ¿En qué medida la indeterminación del estilo en un contrato de obra afecta la ejecución del objeto contractual?
+Respuesta Correcta: La indeterminación permite al deudor elegir el estilo, siempre que respete dimensiones y temática. Esto beneficia su ejecución artística sin incumplir el contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: ¿Cómo se aplica la responsabilidad civil por hecho ajeno en el caso del empleado agresor?
+Respuesta Correcta: El empresario es responsable directo de los actos de sus empleados durante su jornada laboral, pero puede reclamar al empleado agresor lo pagado al cliente.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: ¿Qué diferencia existe entre una obligación de medios y una de resultado en el ámbito de los servicios profesionales?
+Respuesta Correcta: En una obligación de medios, el profesional debe actuar con diligencia sin garantizar un resultado específico; en una de resultado, se compromete a un fin concreto.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: ¿Puede un testador disponer de un bien específico para un heredero sin perjudicar a los demás?
+Respuesta Correcta: Sí, siempre que respete la legítima y compense a los otros herederos de forma equitativa, asegurando que su disposición no lesione sus derechos.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: ¿Por qué es infrecuente que un contrato de asesoría fiscal incluya obligaciones de resultado?
+Respuesta Correcta: La normativa fiscal es volátil, haciendo que una obligación de resultado sea incierta o imposible, por lo que se suele pactar una obligación de medios.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: ¿Qué importancia tiene la correcta disposición testamentaria en la voluntad del testador?
+Respuesta Correcta: Permite que el testador asigne bienes específicos respetando la legítima, evitando conflictos y asegurando que su voluntad se cumpla efectivamente.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 3: Casos Prácticos De Contratos
+
+Pregunta: Analiza la diferencia esencial entre un contrato aleatorio y un contrato sujeto a condición en términos de eficacia.
+Respuesta Correcta: En los contratos aleatorios, la eficacia es inmediata desde su celebración, mientras que en los contratos sujetos a condición, la eficacia está en suspenso hasta que se cumpla la condición.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: Explica cómo el alea influye en el contrato aleatorio y en el contrato sujeto a condición.
+Respuesta Correcta: En el contrato aleatorio, el alea afecta al contenido de las obligaciones, determinando pérdidas o ganancias. En el contrato sujeto a condición, el alea determina la validez o invalidez del contrato.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: Discute por qué el contrato de renta vitalicia es considerado un contrato aleatorio.
+Respuesta Correcta: El contrato de renta vitalicia es aleatorio debido a la incertidumbre sobre la duración de la vida del beneficiario, lo que determina la extensión de las obligaciones del deudor.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: Analiza las consecuencias jurídicas de participar en juegos y apuestas ilegales según el Código Civil.
+Respuesta Correcta: La participación en juegos y apuestas ilegales conlleva que las deudas generadas no sean exigibles judicialmente, ya que carecen de amparo legal.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: Explica la razón por la cual el contrato de seguro se considera aleatorio.
+Respuesta Correcta: El contrato de seguro es aleatorio debido a la incertidumbre sobre la ocurrencia del evento asegurado, que determina si se deben o no satisfacer las prestaciones pactadas.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: Analiza la diferencia entre el contrato de alimentos y la obligación alimentaria entre parientes.
+Respuesta Correcta: El contrato de alimentos es contractual y no cesa con la reducción de fortuna del obligado, mientras que la obligación entre parientes sí puede cesar por esta causa, salvo por la muerte del alimentista.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 4: Contratos Aleatorios
+
+Pregunta: ¿Cuál es la esencia jurídica del contrato de transacción según el Código Civil y cómo se diferencia del arbitraje y la mediación?
+Respuesta Correcta: La esencia de la transacción es un acuerdo para resolver una controversia mediante concesiones mutuas. A diferencia del arbitraje o mediación, que tienen sus propias leyes, la transacción se basa principalmente en normas civiles (art. 1809 CC).
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: ¿Qué implicaciones tiene el art. 1813 CC respecto a las transacciones sobre acciones civiles derivadas de un delito?
+Respuesta Correcta: El art. 1813 CC permite transigir sobre la acción civil de un delito, permitiendo acuerdos como indemnizaciones. Sin embargo, no extingue la acción penal, pues la responsabilidad penal sigue independiente del acuerdo civil.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: Analiza las limitaciones impuestas por el art. 1814 CC a la facultad de transigir en el Derecho español.
+Respuesta Correcta: El art. 1814 CC limita la transacción en materias de ius cogens, como el estado civil, cuestiones matrimoniales esenciales y alimentos futuros, protegiendo así aspectos fundamentales del orden público y derechos irrenunciables.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: ¿Cómo ha influido la Ley Orgánica 1/2025 en el proceso judicial respecto a los acuerdos entre partes?
+Respuesta Correcta: La Ley Orgánica 1/2025 refuerza los mecanismos de acuerdo, permitiendo la conciliación anticipada en jurisdicción social y agilizando la presentación telemática de acuerdos, facilitando la resolución pactada y eficiente de conflictos.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: ¿En qué consiste la agilización telemática de acuerdos en el proceso judicial según la reciente legislación?
+Respuesta Correcta: La agilización telemática permite presentar y aprobar acuerdos ante el letrado de la Administración de Justicia de forma digital, acelerando el trámite procesal y promoviendo la resolución rápida de controversias legales.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: Discute la importancia de los límites a la transacción en materias de ius cogens y su impacto en el ordenamiento jurídico.
+Respuesta Correcta: Los límites a la transacción en ius cogens, como estado civil y alimentos futuros, garantizan que derechos fundamentales y de orden público no sean objeto de acuerdos privados, protegiendo así la integridad del sistema jurídico.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 5: La Transacción
+
+Pregunta: ¿Cómo contribuye la mediación a la desjudicialización y cuál es su impacto en la carga de los tribunales según la Ley 5/2012?
+Respuesta Correcta: La mediación fomenta la resolución de conflictos fuera del ámbito judicial, promoviendo acuerdos entre las partes. Esto reduce la carga de trabajo de los tribunales, permitiendo una gestión más eficiente de los recursos judiciales y agilizando el proceso judicial para otros casos.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: Analiza las condiciones de aplicabilidad de la Ley de Mediación en asuntos civiles y mercantiles y su relevancia en conflictos transfronterizos.
+Respuesta Correcta: La Ley se aplica cuando una de las partes está domiciliada en España y la mediación ocurre en territorio español, incluso en conflictos transfronterizos. Esto asegura que la mediación sea un método viable y regulado para resolver disputas internacionales, siempre que las partes tengan capacidad de gestión sobre los derechos involucrados.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: Discuta el papel de la escritura pública en el acuerdo de mediación y su transformación en título ejecutivo.
+Respuesta Correcta: La elevación del acuerdo de mediación a escritura pública le otorga fuerza ejecutiva, permitiendo su cumplimiento forzoso en caso de incumplimiento. Esto facilita la integración de la mediación en el sistema legal, asegurando que los acuerdos alcanzados tengan respaldo jurídico adecuado.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: Explique cómo la suspensión de plazos de prescripción y caducidad influye en el proceso de mediación.
+Respuesta Correcta: La solicitud de mediación interrumpe los plazos de prescripción y suspende la caducidad, protegiendo los derechos de las partes mientras intentan resolver su conflicto extrajudicialmente. Esta suspensión dura hasta que se firma el acuerdo de mediación o se termina el proceso, garantizando tiempo suficiente para negociar.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: Evalúe la importancia de la confidencialidad en el proceso de mediación y las excepciones a esta regla.
+Respuesta Correcta: La confidencialidad es crucial para crear un entorno seguro donde las partes puedan dialogar abiertamente. Sin embargo, existen excepciones legales que permiten revelar información, como cuando se requiere para proteger el interés público o en casos de delitos graves, asegurando un equilibrio entre privacidad y justicia.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: Analice la obligatoriedad de la mediación según la LO 1/2025 y su efecto en la resolución de conflictos.
+Respuesta Correcta: Aunque la mediación es generalmente voluntaria, la LO 1/2025 puede hacerla obligatoria en ciertos casos antes de litigar. Esto busca fomentar la resolución amistosa y eficiente de disputas, reduciendo la litigiosidad y promoviendo acuerdos más consensuados, lo cual puede aliviar la carga judicial y favorecer la autocomposición.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 6: La Mediación
+
+Pregunta: ¿Cuál es el papel del mediador según la Ley 5/2012 y por qué es crucial en el contexto de la LO 1/2025?
+Respuesta Correcta: El mediador, siendo neutral y cualificado, ayuda a las partes en conflicto a alcanzar un acuerdo sin imponer soluciones. Es crucial, ya que la mediación puede ser obligatoria antes de acudir a tribunales, promoviendo así la eficiencia en el Servicio Público de Justicia.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: Analiza las implicaciones de la interrupción de plazos de prescripción y suspensión de caducidad al iniciar la mediación.
+Respuesta Correcta: La solicitud de mediación interrumpe la prescripción y suspende la caducidad, lo cual protege los derechos de las partes al detener el tiempo legalmente establecido para el ejercicio de acciones, incentivando la mediación como mecanismo eficaz de resolución de conflictos.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: ¿Qué requisitos debe cumplir un mediador según el artículo 11 de la Ley de Mediación y por qué son importantes?
+Respuesta Correcta: Un mediador debe tener capacidad civil plena, formación específica y un seguro de responsabilidad civil. Estos requisitos aseguran que el mediador esté cualificado y protegido legalmente, garantizando así la calidad y seguridad del proceso de mediación.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: Examina el rol de la imparcialidad y la declaración de conflictos de interés en la actuación del mediador.
+Respuesta Correcta: La imparcialidad es esencial para la confianza en el mediador. Debe declarar cualquier conflicto de interés y, si es necesario, renunciar a la mediación para mantener su objetividad y la equidad del proceso, evitando así influencias indebidas en la resolución del conflicto.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: ¿Cómo se distribuye la responsabilidad entre el mediador y la institución de mediación según el artículo 14?
+Respuesta Correcta: El mediador es responsable de daños por negligencia o dolo, mientras que la institución puede ser responsable si la elección del mediador fue inapropiada. La institución puede reclamar al mediador si paga una compensación, asegurando la adecuada rendición de cuentas en el proceso.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: Analiza el reparto de costes en la mediación y el efecto de la provisión de fondos incumplida.
+Respuesta Correcta: Los costes se dividen equitativamente entre las partes, a menos que se acuerde lo contrario. Si una parte no cumple con la provisión de fondos, la mediación puede terminar, pero la otra parte es notificada para cubrir el déficit, asegurando así la continuidad del proceso si se desea.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 7: Mediación II
+
+Pregunta: Analiza la importancia de la voluntariedad y obligatoriedad en el proceso de mediación según la LO 1/2025.
+Respuesta Correcta: La LO 1/2025 introduce la obligatoriedad en ciertos casos civiles y mercantiles, lo que refuerza la mediación como paso previo a la vía judicial. La voluntariedad sigue siendo esencial para asegurar que las partes estén dispuestas a colaborar en la resolución del conflicto, manteniendo, sin embargo, la obligatoriedad como mecanismo para fomentar el uso de la mediación.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: ¿Qué papel juega la reunión informativa previa en el proceso de mediación y cómo influye en el requisito de procedibilidad?
+Respuesta Correcta: La reunión informativa es crucial para explicar el proceso y sus implicaciones legales, y en casos de mediación obligatoria, su mera asistencia cumple el requisito de procedibilidad. Esta sesión garantiza que las partes comprendan la mediación antes de poder optar por un proceso judicial, fomentando así el uso de métodos alternativos de resolución.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: Discute la función del mediador en el desarrollo de la mediación y su impacto en la confidencialidad del proceso.
+Respuesta Correcta: El mediador dirige las sesiones, facilitando el diálogo y garantizando un trato equitativo, mientras protege la confidencialidad de la información compartida. Esta confidencialidad es vital para crear un entorno seguro donde las partes puedan comunicarse abiertamente, lo cual es fundamental para el éxito del proceso.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: Evalúa la relevancia del acta final y el acuerdo de mediación en el cierre del proceso.
+Respuesta Correcta: El acta final documenta la conclusión del proceso, reflejando los acuerdos alcanzados, y debe ser firmada por todas las partes. El acuerdo de mediación detalla las obligaciones asumidas y tiene carácter vinculante, siendo esencial para garantizar la ejecución de lo acordado, reforzando así la seguridad jurídica de las partes.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: Explica cómo se eleva un acuerdo de mediación a escritura pública y su transformación en título ejecutivo.
+Respuesta Correcta: El acuerdo de mediación puede elevarse a escritura pública para adquirir fuerza ejecutiva, cumpliendo con los requisitos legales y verificando su conformidad con el Derecho. Este proceso, validado por un notario, facilita su ejecución judicial, garantizando que el acuerdo sea exigible ante los tribunales.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: Analiza los desafíos y procedimientos para la ejecución de acuerdos de mediación transfronterizos.
+Respuesta Correcta: La ejecución de acuerdos transfronterizos requiere el cumplimiento de normativas de la UE, convenios internacionales y la Ley de Cooperación Jurídica Internacional. El principal desafío es asegurar que los acuerdos no contradigan el orden público español, lo cual podría impedir su ejecución en España.
+Manual: Manual Civil 3
+Bloque: Bloque 5
+Tema: Tema 8: Mediación III
+
+Pregunta: ¿Cuál es la importancia del fondo común en el contrato de sociedad según el Código Civil?
+Respuesta Correcta: El fondo común es esencial porque representa las aportaciones de los socios, que pueden ser dinero, bienes o industria. Este fondo se hace común a todos los socios, asegurando la base material para la actividad societaria y el reparto de ganancias o pérdidas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: Analiza la relevancia del 'animi lucrandi' en la validez del contrato de sociedad.
+Respuesta Correcta: El 'animi lucrandi' es crucial porque sin la intención de obtener lucro, el contrato se regiría por la ley de asociaciones. Además, las ganancias y pérdidas deben ser compartidas, siendo nula cualquier cláusula que excluya a un socio de este reparto, salvo el socio de industria respecto a las pérdidas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: ¿Por qué el contrato de sociedad se considera consensual y qué requisitos formales puede tener?
+Respuesta Correcta: Es consensual porque se perfecciona con el mero consentimiento. Sin embargo, si se aportan bienes inmuebles o derechos reales, se requiere escritura pública para que la sociedad exista frente a terceros, asegurando seguridad jurídica en estas transacciones.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: Explica cómo el carácter plurilateral del contrato de sociedad influye en los derechos y obligaciones de los socios.
+Respuesta Correcta: El carácter plurilateral implica que el contrato involucra a varios socios, generando derechos y obligaciones recíprocos con intereses afines, promoviendo la colaboración y el reparto equitativo de los beneficios y obligaciones entre las partes.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: Discute la importancia de la atribución de personalidad jurídica a las sociedades según el Código Civil.
+Respuesta Correcta: La personalidad jurídica permite a la sociedad actuar como un ente independiente, facilitando la celebración de contratos y la responsabilidad legal. Sin ella, las sociedades funcionan como comunidades de bienes, limitando su operatividad ante terceros.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: ¿Por qué la confianza es un elemento esencial en el contrato de sociedad civil?
+Respuesta Correcta: La confianza, o 'intuitu personae', es esencial porque el contrato se basa en la relación personal entre los socios. Sin confianza, la sociedad podría degenerar en una mera comunidad de bienes, perdiendo su eficacia y cohesión jurídica.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 1: Sociedad Civil I 1. Definición Legal y Alcance Restrictivo
+
+Pregunta: ¿Qué criterios determinan la distinción entre sociedades civiles y mercantiles?
+Respuesta Correcta: La distinción se basa en el objeto de la sociedad: si se dedica a actos de industria o comercio, es mercantil; de lo contrario, es civil. El régimen aplicable es el Código de Comercio para mercantiles y el Código Civil para civiles.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: Analiza las diferencias en la responsabilidad de los socios en sociedades mercantiles y civiles.
+Respuesta Correcta: En sociedades mercantiles, la responsabilidad de los socios es limitada a sus aportaciones, mientras que en sociedades civiles es ilimitada pero mancomunada, según el artículo 1698 del Código Civil.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: Explica la relevancia de la formalidad en la constitución de sociedades mercantiles frente a las civiles.
+Respuesta Correcta: Las sociedades mercantiles requieren escritura pública e inscripción en el Registro Mercantil, lo que garantiza seguridad jurídica y publicidad. Las civiles gozan de libertad de forma, salvo aportaciones de inmuebles.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: Discute la aplicación subsidiaria de normas mercantiles a sociedades civiles.
+Respuesta Correcta: El artículo 1670 del Código Civil permite aplicar normas mercantiles si no contradicen el Código Civil, lo que facilita adaptar el régimen mercantil a sociedades civiles cuando el objeto lo justifique.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: Evalúa la presunción legal en la constitución de sociedades universales según el Código Civil.
+Respuesta Correcta: El Código Civil presume una sociedad universal de ganancias si no se especifica otra, siendo menos gravosa para los socios, ya que solo comparten ganancias derivadas de su industria o trabajo.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: ¿Cómo se estructura la obligación de resarcimiento de gastos e indemnización de perjuicios entre socios y la sociedad?
+Respuesta Correcta: La sociedad debe resarcir los gastos del socio en beneficio de ella y asumir obligaciones de buena fe. Los socios responden de los daños causados a la sociedad, sin poder compensar con beneficios de su industria.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 2: Sociedad Civil II
+
+Pregunta: Analice las diferencias en las potestades del administrador nombrado en el contrato social frente al nombrado posteriormente.
+Respuesta Correcta: El administrador nombrado en el contrato social tiene poderes amplios e irrevocables, salvo causa legítima, y puede actuar contra la mayoría de socios. El nombrado posteriormente tiene poderes limitados y revocables en cualquier momento.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: Explique las implicaciones jurídicas de nombrar varios administradores sin determinar sus funciones.
+Respuesta Correcta: En este caso, cada administrador puede actuar separadamente, pero cualquiera puede oponerse a las acciones de otro antes de que tengan efecto legal, asegurando así un control mutuo.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: Evalúe cómo afecta a la administración de la sociedad la falta de pacto sobre la administración en el contrato social.
+Respuesta Correcta: La falta de pacto resulta en una administración legal por defecto, donde todos los socios son apoderados, actuando separadamente con derecho de oposición, similar a varios administradores sin funciones determinadas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: Discuta la responsabilidad mancomunada y subsidiaria de los socios frente a las deudas sociales.
+Respuesta Correcta: Los socios son responsables mancomunadamente en proporción a su participación y subsidiariamente, lo que implica que se recurre a sus patrimonios solo tras agotar el de la sociedad, salvo pacto contrario.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: Analice las causas de extinción de la sociedad dependientes de la voluntad de los socios.
+Respuesta Correcta: La sociedad puede extinguirse por expiración del plazo, terminación del objeto social o renuncia de un socio si es por tiempo indefinido, reflejando la importancia de la voluntad fundacional en su continuidad.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: Explique el proceso de liquidación tras la extinción de la sociedad y sus implicaciones.
+Respuesta Correcta: La liquidación implica finalizar operaciones pendientes sin contraer nuevas obligaciones, manteniendo la personalidad jurídica hasta su conclusión, asegurando la correcta distribución y cierre de asuntos.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 3: Sociedad Civil III
+
+Pregunta: ¿Cómo se define un contrato parciario y cuáles son sus elementos estructurales esenciales?
+Respuesta Correcta: Un contrato parciario es aquel donde una parte cede un bien a cambio de una cuota de frutos o beneficios. Sus elementos esenciales son la cesión del bien y la obligación de entregar una parte proporcional de los rendimientos obtenidos.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: Analiza por qué los contratos parciarios se consideran contratos aleatorios y no de arrendamiento.
+Respuesta Correcta: Son contratos aleatorios porque la contraprestación depende del éxito de la producción, lo que genera incertidumbre. A diferencia del arrendamiento, donde existe una renta fija, en los contratos parciarios el beneficio no está garantizado.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: Examina las incoherencias del régimen normativo de la aparcería y su impacto en la regulación de los contratos parciarios.
+Respuesta Correcta: El régimen normativo es disperso, regulándose en el Código Civil y la Ley de Arrendamientos Rústicos, lo que genera incoherencias al intentar abarcar diferentes objetos. Esta dispersión dificulta la aplicación uniforme de la normativa.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: Discute cómo se determina la duración de un contrato de aparcería y sus implicaciones prácticas.
+Respuesta Correcta: La duración se establece por la voluntad de las partes y, en su defecto, por un año agrícola. Esto implica que el cómputo de tiempo se ajuste a ciclos naturales de producción, no al calendario civil.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: ¿Cuáles son las características distintivas de una parcería asociativa y cuál es su relevancia en el tráfico mercantil?
+Respuesta Correcta: La parcería asociativa implica compartir recursos para explotar una finca y repartir beneficios proporcionalmente. Es relevante en el tráfico mercantil porque permite maximizar recursos y beneficios mediante la colaboración.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: Argumenta sobre la importancia de los contratos parciarios en el tráfico jurídico y su impacto en la actividad económica.
+Respuesta Correcta: Son cruciales por permitir el acceso a recursos sin una inversión inicial significativa, facilitando la explotación de bienes y el reparto del riesgo. Impactan positivamente al dinamizar la economía agrícola y forestal.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 4: Los Contratos Parciarios
+
+Pregunta: Analice el carácter subsidiario de la fianza y explique cómo se relaciona con el beneficio de excusión.
+Respuesta Correcta: La fianza es subsidiaria porque el fiador responde solo si el deudor incumple. El beneficio de excusión permite al fiador exigir que el acreedor persiga primero los bienes del deudor, manteniendo la subsidiariedad.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Explique la naturaleza accesoria de la fianza y cómo se vincula a la obligación principal.
+Respuesta Correcta: La fianza es accesoria porque depende de una obligación principal válida. Sin esta, la fianza no existe, asegurando al acreedor el cumplimiento de la prestación debida por el deudor original.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Discuta la capacidad requerida para ser fiador según el artículo 1823 del Código Civil.
+Respuesta Correcta: El fiador debe tener capacidad jurídica para obligarse. Esto incluye la posibilidad de que una mujer casada afiance a su marido, en consonancia con el artículo 1323 CC, permitiendo contratos entre cónyuges.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Analice las fuentes de la fianza y compare la fianza convencional con la legal o judicial.
+Respuesta Correcta: La fianza convencional surge de un acuerdo entre las partes, mientras que la legal o judicial es impuesta por ley o juez. La primera se basa en la libre voluntad, la segunda en un mandato legal.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Explique cómo se limita cuantitativamente la fianza y qué implica para el fiador.
+Respuesta Correcta: El artículo 1826 CC establece que el fiador no puede obligarse a más de lo que debe el deudor. Puede garantizar menos, pero nunca más, asegurando que su responsabilidad no exceda la deuda original.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Examine las acciones de reembolso del fiador contra el deudor tras el pago y las excepciones del deudor.
+Respuesta Correcta: El fiador puede reclamar al deudor la deuda pagada, intereses y gastos, tras subrogarse en la posición del acreedor. El deudor puede oponerse si no fue comunicado del pago o si hubo un pago adelantado.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 5: La Fianza I
+
+Pregunta: Analiza la diferencia entre el régimen de responsabilidad en la cofianza ordinaria y la cofianza solidaria.
+Respuesta Correcta: En la cofianza ordinaria, cada cofiador es responsable solo de su parte de la deuda, mientras que en la cofianza solidaria, cualquiera de los cofiadores puede ser requerido para pagar la totalidad de la deuda, eliminando el beneficio de división.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: Explique el beneficio de división y su aplicación en la cofianza.
+Respuesta Correcta: El beneficio de división permite a cada cofiador limitar su responsabilidad al pago de su parte de la deuda, impidiendo que el acreedor exija la totalidad a un solo cofiador, excepto en casos de solidaridad pactada entre los cofiadores.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: Discuta la posibilidad y efectos de nombrar un subfiador en una cofianza.
+Respuesta Correcta: Un subfiador puede garantizar las obligaciones de un cofiador, gozando del beneficio de excusión frente al fiador principal y al deudor, lo que le permite exigir el cobro de otros bienes antes de ser responsable del pago.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: Compare el régimen de acción de reembolso en la cofianza y en la cofianza solidaria.
+Respuesta Correcta: En la cofianza, el reembolso se limita a la parte pagada por el cofiador, mientras que en la cofianza solidaria, el cofiador que paga la totalidad puede reclamar a los otros la parte correspondiente, debido a la responsabilidad solidaria.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: Analice cómo afecta la insolvencia de un cofiador al resto de los cofiadores.
+Respuesta Correcta: Si un cofiador es insolvente, su parte impagada se prorratea entre los demás cofiadores, aumentando su carga, mientras que en la cofianza solidaria, el acreedor puede exigir la totalidad a cualquier cofiador solvente.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: Evalúe las excepciones que un cofiador demandado puede oponer al cofiador que ha pagado la totalidad de la deuda.
+Respuesta Correcta: Los cofiadores demandados pueden oponer las mismas excepciones que el deudor principal tenía contra el acreedor, ya que el cofiador que paga se convierte en acreedor de los otros cofiadores, trasladando las defensas del deudor original.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 6: La Fianza II
+
+Pregunta: ¿Cuál es la diferencia entre un cuasicontrato y un contrato, según el Código Civil español?
+Respuesta Correcta: Un contrato requiere el acuerdo de voluntades para su existencia, mientras que un cuasicontrato surge de hechos lícitos y voluntarios sin acuerdo previo, generando obligaciones entre las partes involucradas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: Analiza la legitimidad de la gestión de negocios ajenos sin mandato en el contexto del Código Civil.
+Respuesta Correcta: La legitimidad radica en la ausencia de mandato y la falta de obligación previa, donde un tercero actúa en beneficio del dominus siguiendo sus intereses, pero sin su autorización inicial.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: Evalúa la responsabilidad del gestor en la gestión de negocios ajenos sin mandato.
+Respuesta Correcta: El gestor debe actuar con diligencia, similar a un padre de familia, y es responsable de daños causados por negligencia. La responsabilidad persiste incluso si delega funciones a terceros.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: ¿Cómo afecta la ratificación del dominus a la gestión de negocios ajenos sin mandato?
+Respuesta Correcta: La ratificación convierte la gestión en un mandato expreso, con lo cual el dominus asume la responsabilidad por las obligaciones contraídas por el gestor.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: ¿En qué supuestos el gestor puede realizar operaciones de riesgo según el Código Civil?
+Respuesta Correcta: El gestor puede realizar operaciones de riesgo si es costumbre del dominus realizarlas, siempre y cuando actúe conforme al interés del dominus y con la diligencia debida.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: Discute las obligaciones del dominus respecto al reembolso e indemnización al gestor.
+Respuesta Correcta: El dominus debe reembolsar e indemnizar al gestor por los gastos y perjuicios sufridos durante la gestión, independientemente de la ratificación, si estos fueron en beneficio del negocio.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 7: Cuasicontratos
+
+Pregunta: ¿Cómo se define el enriquecimiento injusto y cuál es su finalidad principal en el Derecho de Obligaciones?
+Respuesta Correcta: El enriquecimiento injusto ocurre cuando alguien aumenta su patrimonio a costa de otro sin causa legal. Su finalidad es restaurar el equilibrio patrimonial entre las partes afectadas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: Analiza el origen histórico del principio de enriquecimiento injusto y su reconocimiento en el Derecho español actual.
+Respuesta Correcta: Originado en el Derecho Romano, el principio del enriquecimiento injusto se considera un Principio General del Derecho en España, pese a no estar explícitamente codificado, debido a su aplicación frecuente en la jurisprudencia.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: Explica los requisitos que el Tribunal Supremo establece para que se configure un supuesto de enriquecimiento injusto.
+Respuesta Correcta: Los requisitos incluyen: enriquecimiento de un sujeto, empobrecimiento correlativo, carencia de causa justificada, inexistencia de norma exceptuatoria, subsidiariedad de la acción, e irrelevancia de la mala fe.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: Diferencia entre la acción de enriquecimiento injusto y la acción indemnizatoria en cuanto a su naturaleza y objetivos.
+Respuesta Correcta: La acción de enriquecimiento injusto es recuperadora, basada en el desplazamiento patrimonial injustificado, mientras que la acción indemnizatoria es reparatoria, fundamentada en culpa o negligencia.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: Discute la importancia del carácter subsidiario de la acción de enriquecimiento injusto.
+Respuesta Correcta: La acción es subsidiaria porque solo se recurre a ella si no se pueden hacer valer otros derechos mediante acciones distintas, asegurando que no se abuse de esta figura jurídica.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: Analiza el impacto del cambio en el plazo de prescripción de la acción de enriquecimiento injusto de quince a cinco años.
+Respuesta Correcta: Reducir el plazo a cinco años limita el tiempo para reclamar la restitución, incentivando a las partes a actuar con mayor diligencia para corregir desplazamientos patrimoniales injustificados.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 8: Enriquecimiento Injusto
+
+Pregunta: ¿Cuál es el elemento característico del contrato de juego y por qué es esencial en su definición?
+Respuesta Correcta: El elemento característico es la aleatoriedad, que es esencial porque implica que el resultado no depende únicamente de las habilidades de las partes, sino de factores imprevisibles, diferenciándolo de otros contratos.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: Analiza cómo el Código Civil español trata las deudas derivadas de juegos de azar y su exigibilidad judicial.
+Respuesta Correcta: El Código Civil establece que, en general, las deudas de juegos no son exigibles, excepto si el juego está expresamente autorizado por la ley. Esto refleja la cautela histórica hacia el juego y limita la reclamación judicial de deudas no autorizadas.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: Discute los objetivos clave de la Ley del Juego y su impacto en la regulación del sector en España.
+Respuesta Correcta: La Ley del Juego busca proteger a los consumidores, prevenir la adicción, garantizar la recaudación fiscal y controlar el mercado. Estos objetivos aseguran transparencia, equidad y legalidad en las actividades de juego, protegiendo el interés público.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: Evalúa el papel de la Dirección General de Ordenación del Juego en la supervisión del contrato de juego.
+Respuesta Correcta: La Dirección General de Ordenación del Juego supervisa el cumplimiento normativo, concede licencias y sanciona incumplimientos, asegurando que solo operen legalmente los que cumplen con los requisitos, protegiendo así al consumidor y garantizando la legalidad.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: Explica cómo la jurisprudencia ha influido en la interpretación de los contratos de juego, especialmente en el ámbito online.
+Respuesta Correcta: La jurisprudencia ha reforzado que las deudas de juegos no autorizados no son exigibles, asegurando que los operadores online cumplan la normativa. Protege a los consumidores en casos de falta de transparencia, siempre que el operador esté autorizado.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: Analiza el impacto del auge del juego online en la regulación del contrato de juego en España.
+Respuesta Correcta: El auge del juego online evidenció un vacío legal que la Ley del Juego de 2011 subsanó al introducir regulaciones específicas y un sistema de licencias, asegurando que los operadores online cumplan con estándares similares a los físicos.
+Manual: Manual Civil 3
+Bloque: Bloque 6
+Tema: Tema 9: Contrato De Juego
+
+Pregunta: ¿Cómo ha evolucionado la percepción legal del contrato de juego en el Derecho Privado español?
+Respuesta Correcta: El contrato de juego ha pasado de ser considerado moralmente reprochable a una industria legalmente reconocida y regulada, reflejando un cambio en su percepción dentro del Derecho Privado.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: Analiza el papel de la aleatoriedad en la definición del contrato de juego según el Código Civil español.
+Respuesta Correcta: La aleatoriedad es esencial en el contrato de juego, ya que el resultado depende de la suerte más que de las habilidades de las partes, lo que lo distingue de otros contratos.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: Evalúa las implicaciones jurídicas de la ausencia de acción en derecho para los contratos de juego no autorizados.
+Respuesta Correcta: Los contratos de juego no autorizados no generan acciones legales para reclamar deudas, protegiendo a las partes de obligaciones no reconocidas jurídicamente.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: ¿Qué objetivos persigue la Ley 13/2011 en la regulación del juego y cómo impactan en la licitud de los contratos de juego?
+Respuesta Correcta: La Ley 13/2011 busca proteger al consumidor, prevenir la adicción, asegurar la recaudación fiscal y controlar el mercado, garantizando la licitud de los contratos de juego si se cumplen estos objetivos.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: Discute el rol de la Dirección General de Ordenación del Juego en la supervisión del cumplimiento normativo de la Ley del Juego.
+Respuesta Correcta: La DGOJ supervisa el cumplimiento de la normativa, concede licencias y sanciona incumplimientos, asegurando que los operadores cumplan con las exigencias legales.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: ¿Cómo ha influido el juego online en la regulación jurídica del contrato de juego en España?
+Respuesta Correcta: El auge del juego online requirió adaptar la normativa, con la Ley 13/2011 estableciendo un sistema de licencias para asegurar estándares de calidad y seguridad, cubriendo vacíos legales anteriores.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 1: Consumidores Y Usuarios (I)
+
+Pregunta: ¿Cómo afecta la naturaleza del contrato en masa al poder de negociación del consumidor?
+Respuesta Correcta: La naturaleza del contrato en masa restringe el poder de negociación del consumidor, ya que el empresario impone el clausulado sin posibilidad de modificación. Para equilibrar esta relación, el ordenamiento establece garantías legales.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: Explique el deber precontractual de información en los contratos de consumo.
+Respuesta Correcta: El deber precontractual de información obliga al empresario a proporcionar al consumidor información clara, comprensible y accesible sobre las características del contrato, de forma gratuita y antes de su perfección.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: Analice la importancia de las garantías legales en los contratos de consumo.
+Respuesta Correcta: Las garantías legales son cruciales para equilibrar la relación entre empresarios y consumidores, protegiendo a estos últimos de posibles desequilibrios debido a la imposición empresarial del clausulado en contratos en masa.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: ¿Cuál es el contenido mínimo de información que debe proporcionar el empresario al consumidor?
+Respuesta Correcta: El empresario debe informar sobre las características del bien o servicio, su identidad, el precio total, procedimientos de pago y entrega, garantías legales, duración del contrato, derecho de desistimiento y procedimientos de reclamación.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: Discuta el derecho de desistimiento en los contratos de consumo.
+Respuesta Correcta: El derecho de desistimiento permite al consumidor dejar sin efecto el contrato sin penalización dentro de un plazo mínimo de 14 días. Si el empresario no informa de este derecho, el plazo se amplía a 12 meses.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: Analice los efectos del incumplimiento del plazo de reembolso tras el ejercicio del desistimiento.
+Respuesta Correcta: Si el empresario no reembolsa al consumidor dentro de los 14 días naturales tras el desistimiento, el consumidor puede reclamar el doble de la cantidad más una indemnización por daños y perjuicios.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 2: Consumidores y Usuarios (II) 1. Ámbito de Aplicación y Noción Dogmática
+
+Pregunta: ¿Cuál es la importancia de las condiciones generales de contratación en los contratos de consumo?
+Respuesta Correcta: Las condiciones generales de contratación permiten la igualdad de trato y facilitan la rapidez y eficiencia del tráfico jurídico, al evitar redacciones ad hoc para cada contrato, promoviendo así la utilidad social y económica en contratos en masa.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: ¿Qué rol juega el principio de buena fe en la redacción de cláusulas contractuales?
+Respuesta Correcta: El principio de buena fe exige que las cláusulas respeten un equilibrio justo entre los derechos y obligaciones de las partes, evitando así cláusulas abusivas que puedan perjudicar al consumidor.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: ¿Cómo se define una cláusula abusiva y cuál es su consecuencia jurídica?
+Respuesta Correcta: Una cláusula es abusiva si vulnera el principio de buena fe y el equilibrio contractual, causando perjuicio al consumidor. Su consecuencia es la nulidad de pleno derecho, aunque requiere declaración judicial para ser efectiva.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: Explique la relación entre la accesibilidad y legibilidad de las cláusulas y la protección del consumidor.
+Respuesta Correcta: La accesibilidad y legibilidad garantizan que el consumidor pueda conocer y comprender las cláusulas antes de contratar, protegiéndolo de estipulaciones que podrían ser abusivas o desequilibradas.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: Analice el impacto de la intervención jurisprudencial en contratos bancarios con cláusulas abusivas.
+Respuesta Correcta: La jurisprudencia, especialmente del Tribunal Supremo, ha definido y declarado nulas cláusulas bancarias abusivas, como las cláusulas suelo y los intereses de demora desproporcionados, promoviendo la transparencia y protección del consumidor.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: ¿Qué avances ha aportado el Tribunal de Justicia de la Unión Europea en materia de cláusulas abusivas?
+Respuesta Correcta: El TJUE ha reforzado la protección del consumidor, garantizando derechos como el reembolso pleno de pagos indebidos y la reparación post-ejecución, incluso si el contrato ya fue ejecutado, asegurando una reparación completa.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 3: Consumidores Y Usuarios (III)
+
+Pregunta: Analiza las diferencias en la protección del consumidor entre contratos a distancia y contratos fuera del establecimiento mercantil.
+Respuesta Correcta: La protección varía principalmente en la presencialidad: los contratos a distancia carecen de ella, lo que exige un deber de información reforzado. Mientras tanto, en contratos fuera del establecimiento, aunque hay presencialidad, las ofertas se realizan extramuros, requiriendo también garantías específicas.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: Explica las razones jurídicas detrás de las excepciones al derecho de desistimiento en ciertos contratos.
+Respuesta Correcta: Las excepciones al desistimiento se justifican por la naturaleza del bien o servicio, como su personalización o rápida caducidad, lo que impide la reventa. Esto protege al empresario de pérdidas irreversibles y asegura la viabilidad económica de la transacción.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: Evalúa la importancia del deber de información precontractual en la contratación a distancia.
+Respuesta Correcta: El deber precontractual es crucial para equilibrar la falta de presencialidad, garantizando que el consumidor reciba información suficiente sobre el producto, su precio, y el derecho de desistimiento, lo cual fomenta decisiones de compra informadas y seguras.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: Discute el impacto de las comunicaciones comerciales en la protección del consumidor según el TRLGDCyU.
+Respuesta Correcta: Las comunicaciones comerciales deben ser claras en su carácter publicitario y respetar el derecho de oposición del consumidor. Estas medidas limitan prácticas agresivas y evitan la invasión de la privacidad, asegurando un entorno de consumo más respetuoso y transparente.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: Analiza cómo los requisitos formales establecidos en el art. 98 del TRLGDCyU afectan la validez de los contratos a distancia.
+Respuesta Correcta: Los requisitos de consentimiento expreso y entrega de copia son esenciales para la validez contractual. Su incumplimiento permite al consumidor anular el contrato, protegiendo su voluntad e integridad contractual frente a posibles abusos empresariales.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: Explora las consecuencias para el empresario ante incidencias en la ejecución de contratos a distancia.
+Respuesta Correcta: Las incidencias obligan al empresario a reembolsar el pago de inmediato. La demora en el reembolso puede derivar en sanciones económicas, enfatizando la responsabilidad del empresario de cumplir eficazmente sus compromisos contractuales.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 4: Consumidores y Usuarios (IV)
+
+Pregunta: ¿Cómo se fundamenta la obligación de servicios post-venta según la TRLGDCyU y qué excepciones existen?
+Respuesta Correcta: La obligación de ofrecer servicios post-venta se fundamenta en el art. 127 bis de la TRLGDCyU. Las excepciones incluyen servicios de comunicaciones electrónicas, financieros y apuestas, según el art. 114.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: Analiza la importancia de los requisitos de conformidad subjetivos y objetivos en un contrato de consumo.
+Respuesta Correcta: Los requisitos de conformidad subjetivos aseguran que el bien o servicio cumpla con lo pactado contractualmente. Los objetivos garantizan estándares generales de calidad, durabilidad y seguridad, esenciales para la protección del consumidor.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: Diferencia entre garantía legal y garantía comercial en el contexto de la falta de conformidad.
+Respuesta Correcta: La garantía legal es obligatoria y protege al consumidor ante defectos de fabricación. La garantía comercial es voluntaria, ofrecida por el empresario como valor añadido, nunca inferior a la legal y debe estar documentada.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: Explora las opciones disponibles para el consumidor ante la falta de conformidad de un producto.
+Respuesta Correcta: El consumidor puede optar por la reparación, sustitución, rebaja del precio o resolución del contrato. La elección depende de la posibilidad y proporcionalidad, y varía si la falta de conformidad es leve.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: Discute los cambios introducidos por el RDL 7/2021 respecto a la obligación de mantener repuestos.
+Respuesta Correcta: El RDL 7/2021 extiende la obligación de mantener repuestos a diez años para productos comprados desde enero de 2022, frente a los cinco años anteriores, mejorando así la protección del consumidor.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: Evalúa cómo la carga de la prueba afecta al consumidor y al empresario en casos de falta de conformidad.
+Respuesta Correcta: Para compras posteriores a 2022, se presume que el defecto es de origen durante los primeros dos años, liberando al consumidor de probarlo. Anteriormente, esta presunción era solo por seis meses, obligando al consumidor a demostrar el defecto tras ese periodo.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 5: Consumidores Y Usuarios (V)
+
+Pregunta: ¿Por qué se considera nula de pleno derecho una cláusula que limita la responsabilidad civil del empresario ante productos defectuosos?
+Respuesta Correcta: Se considera nula porque la Ley de Consumidores establece que cualquier cláusula que limite el derecho del consumidor a la indemnización es abusiva. Esto protege el carácter imperativo de la responsabilidad civil, asegurando que el consumidor reciba compensación por los daños sufridos.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+
+Pregunta: Analiza la importancia de la carga de la prueba en la responsabilidad civil por productos defectuosos.
+Respuesta Correcta: La carga de la prueba recae en el perjudicado, quien debe demostrar el defecto, el daño y la relación de causalidad. Esto es crucial, ya que garantiza que la responsabilidad del empresario no sea asumida sin justificación, equilibrando los derechos del consumidor y la defensa del empresario.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+
+Pregunta: Examina las diferencias en la responsabilidad por defectos en bienes y servicios.
+Respuesta Correcta: Para bienes, la responsabilidad se basa en la falta de condiciones de seguridad esperadas. En servicios, la responsabilidad es más amplia, considerando la necesidad de seguridad, controles técnicos y de calidad, especialmente en sectores críticos como la sanidad y el gas, reflejando una mayor exigencia de diligencia.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+
+Pregunta: ¿En qué casos un empresario puede quedar exento de responsabilidad por un producto defectuoso?
+Respuesta Correcta: El empresario está exento si no puso el producto en circulación, el defecto no existía al salir, no fue fabricado para venta, cumplía normas imperativas, siguió instrucciones de un productor principal, o el defecto era inadvertible con el conocimiento científico disponible, salvo en alimentos y medicamentos.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+
+Pregunta: Compara la responsabilidad penal y administrativa del empresario en el contexto de los productos defectuosos.
+Respuesta Correcta: La responsabilidad penal surge cuando el daño constituye un delito, y es la más grave, pudiendo incluir a la empresa como sujeto activo. La administrativa es preventiva, aplicada por infracciones a la normativa de defensa del consumidor, resultando en multas. Ambas buscan proteger al consumidor, pero con enfoques distintos.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+
+Pregunta: Reflexiona sobre la figura del proveedor en la cadena de responsabilidad solidaria por productos defectuosos.
+Respuesta Correcta: El proveedor es responsable solidario si desconoce al productor, pero puede eximirse identificándolo en tres meses. Esta medida protege al consumidor, facilitando el reclamo, mientras permite al proveedor transferir la responsabilidad adecuada, promoviendo transparencia y diligencia en la cadena de suministro.
+Manual: Manual Civil 3
+Bloque: Bloque 7
+Tema: Tema 6: Consumidores Y Usuarios (VI)
+

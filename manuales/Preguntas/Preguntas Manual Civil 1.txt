@@ -1,0 +1,1584 @@
+Pregunta: ¿Cómo se distingue el Derecho Civil del Derecho Mercantil dentro del ámbito del Derecho Privado?
+Respuesta Correcta: El Derecho Civil actúa como el derecho privado común, regulando aspectos esenciales de la persona y sus relaciones patrimoniales. En cambio, el Derecho Mercantil se especializa en actos de comercio y en las relaciones entre empresarios y sociedades mercantiles.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: Explique la función supletoria del Derecho Civil en relación con otras ramas del Derecho Privado.
+Respuesta Correcta: El Derecho Civil ostenta un carácter supletorio, aplicándose para colmar lagunas en los ordenamientos privados especiales, como el Derecho Mercantil o Laboral, cuando estos no ofrecen regulación específica para un caso concreto.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: Analice la importancia de la clasificación sistemática del Derecho Civil en cuatro bloques principales.
+Respuesta Correcta: La clasificación en Derecho de la Persona, Obligaciones y Contratos, Derechos Reales e Hipotecario, y Derecho de Familia y Sucesiones permite un estudio ordenado de la disciplina, facilitando la comprensión de las múltiples facetas del Derecho Civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: Discuta la relación entre el Derecho Civil y el Derecho Público, y su ubicación dentro del ordenamiento jurídico.
+Respuesta Correcta: El Derecho Civil se encuadra en el Derecho Privado, regulando relaciones entre particulares. A diferencia del Derecho Público, donde el Estado actúa con potestad pública, el Derecho Civil se centra en el plano de igualdad entre sujetos privados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: En el contexto del Derecho Civil, ¿cuál es la relevancia de la Parte General y el Derecho de la Persona?
+Respuesta Correcta: La Parte General sienta los fundamentos del ordenamiento jurídico, como la tipología de normas, mientras que el Derecho de la Persona regula aspectos inherentes al ser humano, como la capacidad jurídica y la nacionalidad, esenciales para el reconocimiento de derechos y obligaciones.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: Reflexione sobre el impacto del Derecho Civil en los actos cotidianos de la vida. Proporcione ejemplos.
+Respuesta Correcta: El Derecho Civil impregna la vida diaria, regulando desde la compraventa de bienes hasta la distribución del patrimonio hereditario. Ejemplos incluyen el pago de una renta arrendaticia o la constitución de una hipoteca, todas realidades jurídicas bajo normativa civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 1: Introducción 1.1 Concepto y contenido del derecho civil
+
+Pregunta: ¿Por qué el Código Civil se considera el pilar del Derecho Privado en España?
+Respuesta Correcta: El Código Civil es fundamental porque sistematiza las normas que regulan instituciones clave como el matrimonio y las obligaciones, asegurando coherencia y seguridad jurídica en el Derecho Privado.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: Analiza la importancia del proceso de codificación en el contexto histórico del siglo XIX en España.
+Respuesta Correcta: La codificación en el siglo XIX fue crucial para superar la dispersión normativa y el caos legislativo, inspirándose en el modelo francés para unificar y dar coherencia al Derecho Civil español.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: ¿Cómo ha evolucionado el Código Civil desde su aprobación en 1888?
+Respuesta Correcta: El Código Civil ha sido objeto de constantes reformas para adaptarse a la evolución social y constitucional, reflejando nuevos valores como la igualdad de género y el matrimonio igualitario.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: Explica la relación entre el Código Civil y la legislación especial en el ordenamiento jurídico español.
+Respuesta Correcta: El Código Civil establece principios generales, mientras que la legislación especial regula detalladamente sectores específicos, complementando así el sistema normativo civil español.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: ¿Cuál es la función del Código Civil en la jerarquía de normas civiles?
+Respuesta Correcta: El Código Civil actúa como Derecho Común y supletorio, proporcionando la regulación básica y principios fundamentales aplicables en ausencia de legislación especial.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: Reflexiona sobre el impacto de la Constitución de 1978 en el Código Civil.
+Respuesta Correcta: La Constitución de 1978 marcó un punto de inflexión, obligando a modificar preceptos del Código Civil para alinearlos con los nuevos principios constitucionales, como la igualdad y los derechos fundamentales.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 2: Código Civil
+
+Pregunta: ¿Cuál es la relevancia de la 'cuestión foral' en el ordenamiento civil español?
+Respuesta Correcta: La 'cuestión foral' es crucial porque determina el ámbito de aplicación territorial de la legislación civil estatal, permitiendo que ciertos territorios apliquen su propio Derecho civil, como en el ejemplo de la legítima hereditaria en Cataluña versus Madrid.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: Analice el fundamento histórico de los Derechos civiles forales en España.
+Respuesta Correcta: Los Derechos civiles forales tienen su origen en la Edad Media con los fueros otorgados por los reinos, respetados durante el proceso codificador del siglo XIX y consolidados en el franquismo, lo que permite su coexistencia con el Código Civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: Explique cómo la Constitución Española de 1978 afecta a los Derechos forales.
+Respuesta Correcta: El artículo 149.1.8 CE permite a las Comunidades Autónomas conservar, modificar y desarrollar sus Derechos forales, siempre que estos existieran históricamente, estableciendo una excepción a la competencia exclusiva del Estado en legislación civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: ¿Cuáles son las limitaciones constitucionales para las Comunidades Autónomas en materia de legislación civil foral?
+Respuesta Correcta: Las Comunidades Autónomas no pueden contravenir la Constitución, por lo que sus leyes civiles no pueden violar principios como la igualdad, ejemplo de ello es que no pueden establecer regímenes sucesorios discriminatorios por razón de sexo.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: Discuta la distribución territorial del Derecho civil en España y su justificación histórica.
+Respuesta Correcta: La distribución territorial distingue entre territorios con Derecho Civil Foral, que pueden legislar en materia civil, y otros donde rige el Código Civil estatal. Esta división responde a razones históricas y está consolidada constitucionalmente.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: ¿Cómo se articula el sistema de distribución competencial en materia civil según el artículo 149.1.8 CE?
+Respuesta Correcta: El sistema se basa en la competencia exclusiva del Estado en legislación civil, salvo en territorios con Derechos forales históricos, donde las Comunidades Autónomas pueden conservar, modificar y desarrollar su propio Derecho civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 3: Derechos forales 1. La cuestión foral: Concepto y trascendencia
+
+Pregunta: ¿Cuál es la diferencia entre norma jurídica y disposición normativa, y por qué es importante esta distinción en el Derecho?
+Respuesta Correcta: La norma jurídica es el contenido que regula conductas, mientras que la disposición normativa es el texto formal que la enuncia. Esta distinción es crucial porque una disposición puede contener múltiples normas y requiere interpretación para su aplicación efectiva.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: Analiza cómo la coercibilidad diferencia a las normas jurídicas de otras reglas de conducta social.
+Respuesta Correcta: La coercibilidad permite que el cumplimiento de las normas jurídicas sea impuesto por el poder público, con sanciones para el infractor, lo que no ocurre con otras reglas sociales que carecen de este mecanismo de imposición.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: Discute la importancia de la generalidad y abstracción en la formulación de normas jurídicas.
+Respuesta Correcta: La generalidad permite que las normas se apliquen a colectivos indeterminados, y la abstracción regula supuestos hipotéticos, lo que garantiza que las normas sean aplicables a múltiples casos y no a situaciones específicas, facilitando su adaptación por los jueces.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: Compara las normas de derecho común con las de derecho especial, incluyendo ejemplos de cada una.
+Respuesta Correcta: Las normas de derecho común, como el Código Civil, tienen aplicación general, mientras que las de derecho especial, como el Derecho deportivo, se aplican a sectores específicos. Esto permite regular adecuadamente diferentes ámbitos de la sociedad.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: Evalúa el papel de la costumbre en el sistema de fuentes del Derecho español.
+Respuesta Correcta: La costumbre es una fuente subsidiaria que solo se aplica en ausencia de ley. Aunque históricamente relevante, hoy tiene un papel secundario debido a la extensa legislación escrita, siendo crucial entender su carácter supletorio.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: Explica la importancia de los principios generales del Derecho como fuente subsidiaria en el ordenamiento jurídico.
+Respuesta Correcta: Los principios generales, aunque no siempre escritos, son fundamentales porque orientan la interpretación y aplicación del Derecho, asegurando coherencia y justicia, especialmente cuando las leyes y la costumbre no ofrecen soluciones claras.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 4: Ordenamiento jurídico 1. La Norma Jurídica: Concepto y Caracteres
+
+Pregunta: ¿Cuál es la función de la jurisprudencia en el ordenamiento jurídico español y cómo se diferencia de las fuentes formales del Derecho?
+Respuesta Correcta: La jurisprudencia complementa el ordenamiento jurídico interpretando y fijando el sentido de las normas, asegurando su aplicación uniforme. A diferencia de las fuentes formales (ley, costumbre, principios generales) que crean Derecho, la jurisprudencia no lo crea, pero es esencial para su correcta interpretación.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: Analiza el impacto de la jurisprudencia del Tribunal Supremo en la unificación del Derecho en España.
+Respuesta Correcta: La jurisprudencia del Tribunal Supremo unifica la interpretación del Derecho en todo el territorio nacional, actuando como guía para otros tribunales. Su función es crucial para mantener la coherencia y uniformidad en la aplicación del Derecho, aunque no tiene valor vinculante como las fuentes formales.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: Discute la relevancia económica de la jurisprudencia en el ámbito de las cláusulas hipotecarias abusivas.
+Respuesta Correcta: La jurisprudencia en este ámbito ha obligado a los bancos a realizar devoluciones masivas, reflejando su impacto económico significativo. Este cambio interpretativo judicial ha modificado la aplicación de la ley, demostrando la influencia práctica de la jurisprudencia en la economía.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: Explica el principio de primacía del Derecho de la Unión Europea y su relación con el ordenamiento jurídico interno español.
+Respuesta Correcta: El principio de primacía establece que las normas comunitarias prevalecen sobre las normas internas, incluida la Constitución, en materias de competencia europea. Esto implica que España debe adaptar su ordenamiento jurídico para cumplir con el Derecho de la UE.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: Compara las características y efectos jurídicos de un reglamento comunitario y una directiva dentro del Derecho de la Unión Europea.
+Respuesta Correcta: El reglamento tiene alcance general, es obligatorio en todos sus elementos y de aplicabilidad directa. En cambio, la directiva obliga solo en cuanto al resultado, dejando a los Estados la elección de los medios para su transposición, lo que le otorga mayor flexibilidad.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: Analiza el papel de las decisiones dentro del Derecho derivado de la Unión Europea y su diferencia respecto a los reglamentos.
+Respuesta Correcta: Las decisiones son obligatorias en todos sus elementos pero tienen destinatarios específicos (Estados, empresas, etc.), a diferencia de los reglamentos que tienen alcance general. Esta especificidad permite un enfoque más dirigido en la aplicación del Derecho comunitario.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 5: Ordenamiento jurídico II. La jurisprudencia y otras fuentes 1. El papel de la jurisprudencia en el sistema de fuentes
+
+Pregunta: ¿Cómo influye la jurisprudencia en la interpretación y aplicación de las normas jurídicas ante casos concretos?
+Respuesta Correcta: La jurisprudencia guía a los jueces aplicando criterios establecidos por tribunales superiores, asegurando coherencia y orientación en decisiones futuras, especialmente en situaciones similares.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: Explique el papel de la analogía legis y la analogía iuris en la integración del ordenamiento jurídico.
+Respuesta Correcta: La analogía legis aplica una norma existente a un caso no regulado pero con identidad de razón. La analogía iuris extrae principios generales del Derecho de varias disposiciones para aplicarlos a casos no regulados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: Analice la prohibición de la aplicación analógica en el ámbito penal y sus implicaciones.
+Respuesta Correcta: En Derecho penal, la analogía está prohibida in malam partem para proteger al reo, impidiendo crear delitos o agravar penas mediante analogía, aunque se permite en bonam partem para favorecer al acusado.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: Discuta las limitaciones de la aplicación analógica en normas excepcionales y temporales.
+Respuesta Correcta: Las normas excepcionales y temporales no pueden extenderse por analogía a otros supuestos, dado su carácter restrictivo y limitación temporal, garantizando así la seguridad jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: ¿Por qué es esencial la interpretación de las normas y qué criterios hermenéuticos establece el Código Civil?
+Respuesta Correcta: La interpretación es fundamental para desentrañar el sentido de las normas. El Código Civil establece criterios literal, sistemático, histórico, sociológico y teleológico, ponderados sin jerarquía.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: ¿Cómo afectan las lagunas legales a la aplicación del Derecho y qué herramientas se utilizan para resolverlas?
+Respuesta Correcta: Las lagunas legales requieren que el aplicador del Derecho use la analogía y las fuentes subsidiarias, apoyándose en la jurisprudencia para integrar el ordenamiento y resolver casos no regulados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 6: Aplicación de las normas 1. La Aplicación del Derecho y el Problema de las Lagunas Legales
+
+Pregunta: ¿Por qué la interpretación de las normas jurídicas no puede considerarse un ejercicio de opinión subjetiva?
+Respuesta Correcta: La interpretación de las normas es una actividad técnica y reglada, basada en criterios hermenéuticos como los literales, históricos, sistémicos, sociológicos y teleológicos, que buscan desentrañar el verdadero sentido de la norma, garantizando una aplicación racional y previsible del Derecho.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: ¿Cómo se aplica el criterio literal en la interpretación de las normas y cuándo es suficiente por sí mismo?
+Respuesta Correcta: El criterio literal analiza el significado semántico de las palabras de la norma. Es suficiente cuando el texto es claro y preciso, sin generar dudas, permitiendo una interpretación declarativa que coincide plenamente con la letra de la norma.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: Explique cómo el criterio sistemático ayuda a resolver contradicciones entre normas.
+Respuesta Correcta: El criterio sistemático examina las normas como parte de un sistema coherente, poniendo en relación un precepto con otras normas sobre la misma materia y los principios generales del ordenamiento, ayudando a resolver antinomias mediante la ponderación de la ratio de las normas.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: Analice la función del criterio histórico en la interpretación normativa.
+Respuesta Correcta: El criterio histórico enriquece la comprensión de una norma mediante el análisis de sus antecedentes normativos y contextuales, considerando regulaciones anteriores y el proceso de elaboración legislativa, lo que ayuda a entender la intención original del legislador.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: Discuta cómo el criterio sociológico puede influir en la aplicación del Derecho en contextos sociales cambiantes.
+Respuesta Correcta: El criterio sociológico adapta la aplicación de la ley a las realidades sociales contemporáneas, evitando interpretaciones anacrónicas al considerar la evolución de las convicciones sociales, especialmente relevante en áreas como el derecho de familia.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: ¿Qué papel juega la jurisprudencia en la aplicación del Derecho y cómo se diferencia de las fuentes del Derecho?
+Respuesta Correcta: La jurisprudencia complementa el ordenamiento jurídico, proporcionando interpretaciones consistentes y uniformes de las normas, pero no constituye una fuente del Derecho en sí misma, a diferencia de la ley, la costumbre y los principios generales.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 7: Aplicación e interpretación de las normas 1. Interpretación y jurisprudencia
+
+Pregunta: ¿Cómo se diferencia la analogía de la interpretación extensiva en la aplicación de las normas jurídicas?
+Respuesta Correcta: La analogía actúa fuera del tenor literal de la norma, creando una nueva regla para casos no previstos, mientras que la interpretación extensiva expande el significado dentro del límite semántico de la norma existente.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: ¿En qué casos está prohibida la aplicación de la analogía según el ordenamiento jurídico español?
+Respuesta Correcta: La analogía está prohibida en leyes penales desfavorables, normas excepcionales, normas temporales y normas restrictivas de derechos, para evitar la creación de obligaciones o restricciones no previstas explícitamente por el legislador.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: Explique cómo opera la analogía iuris y en qué se diferencia de la analogía legis.
+Respuesta Correcta: La analogía iuris parte de principios generales derivados de múltiples normas para integrar lagunas legales, mientras que la analogía legis aplica una norma específica a un caso no regulado pero similar, operando de lo particular a lo particular.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: ¿Cuál es el papel de la equidad en la aplicación de las normas jurídicas según el Código Civil español?
+Respuesta Correcta: La equidad permite al juez matizar la aplicación de la ley para evitar resultados injustos, actuando como criterio de ponderación, aunque solo puede fundamentar resoluciones si una ley lo permite expresamente.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: ¿Cuáles son los presupuestos necesarios para la aplicación de la analogía en el Derecho español?
+Respuesta Correcta: Para aplicar la analogía es necesaria la existencia de una laguna legal, una norma que regule un supuesto semejante y una identidad de razón entre los casos regulado y no regulado.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: Analice por qué la analogía es fundamental para mantener la coherencia del ordenamiento jurídico.
+Respuesta Correcta: La analogía permite que situaciones similares reciban el mismo tratamiento jurídico aunque no estén explícitamente contempladas, garantizando la coherencia y continuidad del ordenamiento jurídico.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 8: Analogía y equidad 1. La Analogía como Mecanismo de Integración Normativa
+
+Pregunta: ¿Por qué es esencial que una norma sea publicada en el BOE antes de que entre en vigor?
+Respuesta Correcta: La publicación en el BOE garantiza el principio de publicidad de las normas, asegurando que todos los ciudadanos puedan acceder al contenido de las leyes, cumpliendo así con el mandato constitucional que proscribe las normas secretas.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: Analiza la utilidad de la vacatio legis en el proceso de entrada en vigor de las normas.
+Respuesta Correcta: La vacatio legis, el periodo entre la publicación y la entrada en vigor de una norma, permite a los destinatarios adaptarse a las nuevas disposiciones, garantizando una transición ordenada y evitando sorpresas legislativas.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: Explica la diferencia entre derogación expresa y tácita en el marco del ordenamiento jurídico español.
+Respuesta Correcta: La derogación expresa identifica explícitamente las disposiciones derogadas, mientras que la tácita ocurre cuando el contenido de una nueva ley es incompatible con la anterior, prevaleciendo la primera sin mención expresa.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: ¿Qué implicaciones tiene el principio de irretroactividad de las leyes en el ordenamiento jurídico?
+Respuesta Correcta: El principio de irretroactividad asegura que las leyes no afecten situaciones anteriores a su vigencia, salvo disposición expresa en contrario, protegiendo la seguridad jurídica y evitando sorpresas legales para los ciudadanos.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: Discute el papel de las normas dispositivas en el Derecho Privado.
+Respuesta Correcta: Las normas dispositivas permiten a las partes excluir su aplicación mediante acuerdos, reflejando el principio de autonomía de la voluntad, siempre que no contravengan normas imperativas del ordenamiento jurídico.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: Analiza cómo el ordenamiento jurídico responde a las infracciones de las normas.
+Respuesta Correcta: Las infracciones pueden conllevar sanciones punitivas, resarcitorias o neutralizantes, dependiendo del tipo de norma violada y el bien jurídico protegido, garantizando la reparación del daño y la disuasión de futuras transgresiones.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 9: Vigencia y eficacia de las normas 1. Vigencia Temporal de las Normas:
+
+Pregunta: ¿Por qué es fundamental para el Estado de Derecho que la ignorancia de las leyes no excuse su cumplimiento?
+Respuesta Correcta: Si se permitiera alegar desconocimiento para evitar obligaciones legales, se socavarían la cohesión social y la seguridad jurídica, pilares del Estado de Derecho, al permitir que las normas dependen del conocimiento subjetivo de cada individuo.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: Analiza cómo el error de derecho puede tener relevancia jurídica según el Código Civil.
+Respuesta Correcta: El error de derecho es relevante si una norma específica lo prevé, como el art. 1266 del Código Civil, que permite la anulación de contratos por error en el consentimiento, siempre que el error fuera excusable y esencial.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: Evalúa la importancia del principio iura novit curia en el contexto del deber de cumplimiento de las normas.
+Respuesta Correcta: Este principio asegura que los jueces apliquen el Derecho pertinente al caso, independientemente de si las partes lo invocaron adecuadamente, fortaleciendo así la eficacia y la aplicación uniforme del ordenamiento jurídico.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: ¿Qué límites establece el artículo 6 del Código Civil a la exclusión voluntaria de la ley aplicable?
+Respuesta Correcta: El artículo 6 impone que la exclusión no puede contravenir el interés o el orden público ni perjudicar a terceros, garantizando que la autonomía de la voluntad no afecte negativamente a la sociedad o a personas ajenas al contrato.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: Diferencia entre normas imperativas y dispositivas y su impacto en la autonomía de la voluntad.
+Respuesta Correcta: Las normas imperativas son de obligado cumplimiento y protegen intereses públicos, mientras que las dispositivas son supletorias y permiten que las partes acuerden algo diferente, siempre que no se contravengan los límites del artículo 6.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: Explica cómo el carácter excusable del error afecta su consideración jurídica.
+Respuesta Correcta: Un error es excusable si, a pesar de actuar con diligencia, no se pudo evitar. Tal error puede tener efectos jurídicos, a diferencia del inexcusable, que deriva de negligencia y no produce efectos legales.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 10: Eficacia de las normas I 1. Introducción a la Eficacia
+
+Pregunta: ¿Cómo se diferencia la nulidad de pleno derecho del fraude de ley en cuanto a la naturaleza de la infracción?
+Respuesta Correcta: La nulidad de pleno derecho implica una infracción directa a una norma imperativa, mientras que el fraude de ley es una infracción indirecta, utilizando una norma de cobertura para eludir otra norma defraudada.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: ¿Qué relevancia tiene la intencionalidad del sujeto en los casos de nulidad de pleno derecho y fraude de ley?
+Respuesta Correcta: La intencionalidad del sujeto es irrelevante en ambos casos. Tanto la nulidad como el fraude de ley son conceptos objetivos, independientemente del conocimiento o intención del sujeto.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: Explique cómo puede una norma prever una sanción distinta a la nulidad y proporcione un ejemplo.
+Respuesta Correcta: Una norma puede establecer una sanción distinta a la nulidad, como la conversión del acto nulo. Por ejemplo, un testamento cerrado nulo por defectos formales puede ser válido como testamento ológrafo si cumple con los requisitos.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: Analice la imprescriptibilidad de la acción de nulidad de un acto jurídico.
+Respuesta Correcta: La acción para solicitar la nulidad de un acto es imprescriptible, pudiendo ejercitarse en cualquier momento sin estar sujeta a un plazo, lo que garantiza la protección continua de la legalidad.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: ¿Qué efectos tiene la realización de un acto en fraude de ley según el artículo 6.4 del Código Civil?
+Respuesta Correcta: El acto realizado en fraude de ley no impide la aplicación de la norma que se intentó eludir. Por ejemplo, en una compraventa simulada para eludir impuestos, se aplicará la normativa fiscal de donaciones.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: Explique el concepto de vacatio legis y su función en la vigencia de las normas jurídicas.
+Respuesta Correcta: La vacatio legis es el período entre la publicación de una norma y su entrada en vigor, generalmente de 20 días, permitiendo que los destinatarios conozcan su contenido antes de su exigibilidad.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 11: Eficacia de las normas jurídicas II 1. Introducción a la Eficacia Normativa
+
+Pregunta: Analice las razones por las cuales el plazo para optar a la nacionalidad española por adopción es de dos años desde la adopción.
+Respuesta Correcta: El plazo de dos años busca equilibrar el derecho del adoptado a valorar su vinculación con España y la necesidad de definir su situación jurídica en un tiempo razonable.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Justifique por qué la nacionalidad por carta de naturaleza es discrecional y excepcional.
+Respuesta Correcta: La discrecionalidad permite al Gobierno evaluar casos únicos donde existen circunstancias excepcionales, asegurando que la concesión atienda necesidades humanitarias o de especial interés.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Explique cómo el requisito de residencia legal y continuada favorece la integración del solicitante en la sociedad española.
+Respuesta Correcta: La residencia continuada demuestra una convivencia prolongada que facilita la adaptación cultural y social del solicitante, garantizando su integración efectiva en España.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Argumente por qué se establecen plazos de residencia reducidos para ciertos países y colectivos.
+Respuesta Correcta: Los plazos reducidos reflejan vínculos históricos y culturales con España, como en el caso de países iberoamericanos, o situaciones especiales de vulnerabilidad, como los refugiados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Evalúe la importancia del juramento de fidelidad al Rey y la Constitución en el proceso de adquisición de la nacionalidad.
+Respuesta Correcta: El juramento simboliza el compromiso del solicitante con los valores y el marco legal español, reforzando su integración cívica y lealtad a la nación.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Discuta la justificación para eximir a ciertos países de la renuncia a la nacionalidad anterior en el proceso de naturalización.
+Respuesta Correcta: La exención responde a la reciprocidad y relaciones especiales con países latinoamericanos, Andorra y Portugal, facilitando una doble ciudadanía compatible con la identidad cultural compartida.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Analiza la diferencia entre la pérdida forzosa de la nacionalidad para los españoles de origen y los que la adquirieron de manera derivativa.
+Respuesta Correcta: La pérdida forzosa solo afecta a quienes adquirieron la nacionalidad derivativamente. Españoles de origen están exentos de esta pérdida, incluso en casos de delitos comunes. Las causas involucran servir en fuerzas enemigas o adquisición fraudulenta.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: ¿Por qué la comisión de delitos comunes no provoca la pérdida forzosa de la nacionalidad española?
+Respuesta Correcta: El legislador no considera delitos comunes como razón para la pérdida forzosa, enfocándose en proteger la nacionalidad salvo en situaciones que comprometen la seguridad nacional, como el servicio en un ejército enemigo.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Argumenta sobre la lógica detrás de permitir un período de tres años antes de la pérdida de la nacionalidad por adquisición voluntaria de otra nacionalidad.
+Respuesta Correcta: El período de tres años permite al ciudadano reconsiderar su decisión y adaptarse a su nueva situación legal, además de tramitar la posible conservación de su nacionalidad mediante convenios bilaterales de doble nacionalidad.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: ¿Qué implicaciones jurídicas tiene la renuncia expresa a la nacionalidad española?
+Respuesta Correcta: La renuncia expresa requiere tener otra nacionalidad para evitar el estatus de apátrida, lo que refleja la protección al individuo y el cumplimiento de derechos humanos al garantizar una nacionalidad vigente.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Examina las circunstancias en las que es imposible recuperar la nacionalidad española una vez perdida.
+Respuesta Correcta: No se permite la recuperación si la pérdida ocurrió por unirse a un grupo armado enemigo, reforzando la gravedad de actos que comprometen la seguridad nacional y la lealtad al Estado.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Evalúa la necesidad de inscribir la recuperación de la nacionalidad en el Registro Civil como parte del proceso de recuperación.
+Respuesta Correcta: La inscripción en el Registro Civil formaliza el proceso, asegurando el reconocimiento legal de la nacionalidad recuperada y facilitando los derechos y deberes asociados a la ciudadanía.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: ¿Cuál es la diferencia fundamental entre prescripción y caducidad en cuanto a la interrupción del plazo?
+Respuesta Correcta: La prescripción permite la interrupción del plazo por acciones como la reclamación judicial, mientras que la caducidad no admite interrupciones y su plazo es fatal.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: Explique cómo el principio de seguridad jurídica justifica la existencia de la prescripción y la caducidad.
+Respuesta Correcta: La seguridad jurídica busca evitar la incertidumbre indefinida de situaciones jurídicas, por lo que establece plazos temporales para ejercer derechos, consolidando situaciones de hecho y evitando perpetuidad de reclamaciones.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: Analice el papel del juez en la apreciación de la prescripción y la caducidad.
+Respuesta Correcta: El juez no puede apreciar la prescripción de oficio, debe ser alegada por la parte interesada. En cambio, la caducidad afecta al orden público y el juez debe apreciarla de oficio.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: Discuta la renunciabilidad de la prescripción frente a la caducidad y su implicación jurídica.
+Respuesta Correcta: La prescripción ganada es renunciable, lo que permite al beneficiario ratificar el derecho del deudor. La caducidad, en cambio, no admite renuncia, siendo sus plazos de orden público.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: ¿Cuáles son los requisitos esenciales para que opere la prescripción extintiva?
+Respuesta Correcta: Para la prescripción extintiva deben concurrir: prescriptibilidad del derecho, inacción del titular, y transcurso del plazo legalmente establecido.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: Compare la duración típica de los plazos de prescripción y caducidad y su origen.
+Respuesta Correcta: Los plazos de prescripción son largos y de origen legal, mientras que los de caducidad son generalmente breves y pueden ser legales o pactados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 14: Prescripción y caducidad 1. Los Límites Temporales al Ejercicio de los Derechos:
+
+Pregunta: ¿Cuál es la función principal del Derecho Transitorio en el contexto de un cambio legislativo?
+Respuesta Correcta: El Derecho Transitorio ofrece soluciones a la colisión de normas en el tiempo, asegurando qué norma aplicar a situaciones jurídicas existentes cuando entra en vigor una nueva ley.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: Explique la diferencia fundamental entre el Derecho Transitorio y la retroactividad.
+Respuesta Correcta: La retroactividad aplica una ley nueva a situaciones pasadas por su carácter favorable o disposición expresa. El Derecho Transitorio resuelve qué norma (antigua o nueva) rige situaciones en curso.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: ¿Qué principios y fuentes conforman el Derecho Transitorio común en ausencia de disposiciones específicas?
+Respuesta Correcta: El Derecho Transitorio común se basa en el art. 2.3 del Código Civil, art. 9.3 de la Constitución y las trece Disposiciones Transitorias del Código Civil, respetando los derechos adquiridos.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: ¿Cómo se agrupan temáticamente las trece reglas de las disposiciones transitorias del Código Civil?
+Respuesta Correcta: Las reglas 1ª a 4ª tratan sobre derechos nacidos bajo legislación anterior; las reglas 5ª a 12ª sobre situaciones específicas; y la regla 13ª introduce una cláusula de cierre para casos no contemplados.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: Analice la importancia histórica y actual de las disposiciones transitorias del Código Civil de 1889.
+Respuesta Correcta: Pese a su antigüedad, las disposiciones transitorias de 1889 aún se aplican como derecho supletorio ante la falta o insuficiencia de disposiciones transitorias específicas en leyes nuevas.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: Explique cómo el principio rector del respeto a los derechos adquiridos se refleja en las disposiciones transitorias del Código Civil.
+Respuesta Correcta: El respeto a los derechos adquiridos significa que modificaciones legales perjudiciales para derechos adquiridos bajo leyes anteriores no aplican retroactivamente, protegiendo así la seguridad jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 15: Derecho transitorio I
+
+Pregunta: ¿Cuál es el principio fundamental que vertebra el sistema de Disposiciones Transitorias del Código Civil y cómo se manifiesta en las disposiciones 1ª a 4ª?
+Respuesta Correcta: El principio fundamental es el respeto a los derechos adquiridos. Las disposiciones 1ª a 4ª consagran la pervivencia de derechos bajo la legislación anterior, asegurando que los derechos válidamente constituidos se rijan por la normativa que los vio nacer.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: ¿Cómo establece la Disposición Transitoria Cuarta el régimen aplicable para derechos nacidos pero no ejercitados, y qué implica esto para el ejercicio de estos derechos?
+Respuesta Correcta: La Disposición Transitoria Cuarta matiza que aunque el derecho nazca bajo la ley anterior, su ejercicio se rige por la nueva ley. Esto implica que los procedimientos y plazos se ajustarán a la normativa vigente en el momento del ejercicio.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: Explique cómo la Disposición Transitoria Tercera aplica el principio de favorabilidad en materia sancionadora civil.
+Respuesta Correcta: La Disposición Transitoria Tercera establece que se aplicará la disposición más beneficiosa para el infractor, evitando la retroactividad de sanciones más severas y permitiendo la despenalización si la nueva ley suprime sanciones.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: Analice el papel de la Disposición Transitoria Duodécima respecto a la adaptación de testamentos otorgados bajo la ley antigua.
+Respuesta Correcta: La Disposición Transitoria Duodécima busca equilibrar la voluntad testamentaria con las nuevas normas imperativas, adaptando los testamentos antiguos a las nuevas legítimas sin perjudicar los derechos adquiridos del testador.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: ¿Qué función cumple la Disposición Transitoria Décimotercera en el sistema de Derecho Transitorio, y cómo se aplica la analogía según esta disposición?
+Respuesta Correcta: La Disposición Transitoria Décimotercera funciona como cláusula de cierre, permitiendo aplicar la analogía cuando no hay regulación específica, basándose en los principios de las doce disposiciones anteriores para resolver casos no previstos.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: Discuta la aplicación del sistema de Disposiciones Transitorias del Código Civil más allá del Derecho Civil.
+Respuesta Correcta: Las Disposiciones Transitorias del Código Civil constituyen el Derecho Transitorio Común, aplicándose supletoriamente a todo el ordenamiento jurídico en ausencia de disposiciones específicas, no limitándose solo al ámbito civil.
+Manual: Manual Civil 1
+Bloque: Bloque 1
+Tema: Tema 16: Derecho transitorio II 1. Las Disposiciones Transitorias del Código Civil como Sistema General
+
+Pregunta: ¿Cuál es la diferencia fundamental entre capacidad jurídica y capacidad de obrar, y cómo se manifiesta esta diferencia en un recién nacido?
+Respuesta Correcta: La capacidad jurídica es la aptitud para ser titular de derechos y obligaciones, inherente a la persona desde su nacimiento. El recién nacido tiene capacidad jurídica para heredar, pero carece de capacidad de obrar para gestionar esos bienes.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: Analiza cómo el concepto de persona jurídica permite a entidades no humanas ser titulares de derechos y obligaciones, según el Derecho Civil.
+Respuesta Correcta: El concepto de persona jurídica reconoce a entidades como sociedades o fundaciones personalidad propia distinta a la de sus miembros, permitiéndoles tener derechos como contratar o comparecer en juicio, reflejando su capacidad de actuar en el ámbito legal.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: ¿Cómo afecta la mayoría de edad a la capacidad de obrar y qué limitaciones pueden persistir a pesar de alcanzarla?
+Respuesta Correcta: La mayoría de edad otorga plena capacidad de obrar, permitiendo realizar actos jurídicos libremente. Sin embargo, esta capacidad puede verse limitada por circunstancias especiales, como la discapacidad, que requieren medidas de apoyo.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: Explica el cambio de paradigma en el tratamiento jurídico de la discapacidad tras la Ley 8/2021.
+Respuesta Correcta: La Ley 8/2021 elimina la incapacitación judicial, introduciendo un sistema de apoyo que respeta la capacidad de obrar de las personas con discapacidad, promoviendo su autonomía y asistencia mediante curadores, en lugar de sustitución.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: ¿Qué impacto tiene la capacidad jurídica en la dignidad humana y cómo se relaciona con la abolición histórica de la esclavitud?
+Respuesta Correcta: La capacidad jurídica, al ser inherente a toda persona, fundamenta la dignidad humana al reconocer universalmente derechos y obligaciones, contrarrestando sistemas opresivos como la esclavitud, que negaban esta capacidad.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: Discute el papel de la curatela en el nuevo sistema de apoyo para personas con discapacidad y su diferencia con la tutela del sistema anterior.
+Respuesta Correcta: La curatela, en el nuevo sistema, asiste a las personas con discapacidad en la toma de decisiones, respetando su capacidad de obrar, a diferencia de la tutela anterior que sustituía la voluntad del incapacitado, limitando su autonomía.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 1: Derechos de la persona parte I 1. La Persona y la Personalidad en el Derecho Civil
+
+Pregunta: Explique cómo se adquiere la personalidad jurídica según el ordenamiento jurídico español actual.
+Respuesta Correcta: La personalidad jurídica se adquiere al nacer con vida y estar completamente desprendido del seno materno. Se han eliminado requisitos históricos como la viabilidad o la figura humana, simplificando el criterio a simplemente nacer con vida.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: Analice la protección jurídica otorgada al nasciturus y cómo se condiciona su adquisición de derechos.
+Respuesta Correcta: El nasciturus, aunque sin personalidad jurídica, es considerado nacido para efectos favorables, como herencias o donaciones. Sin embargo, estos derechos están sujetos a la condición suspensiva de que nazca con vida, asegurando su protección patrimonial.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: Compare la situación jurídica del nasciturus con la del concepturus.
+Respuesta Correcta: El nasciturus es ya concebido y goza de protección para efectos favorables, mientras que el concepturus, aún no concebido, carece de protección directa. La tutela del concepturus se limita a mecanismos indirectos, como la sustitución fideicomisaria.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: Describa cómo el Código Civil actual resuelve los casos de conmoriencia y su impacto en la sucesión.
+Respuesta Correcta: En casos de conmoriencia, donde no se puede determinar quién falleció primero, el Código Civil presume muerte simultánea. Esto impide la transmisión de derechos entre los fallecidos, tratando su patrimonio de manera independiente.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: Evalúe la relevancia de la primogenitura en partos múltiples según el actual Código Civil.
+Respuesta Correcta: La primogenitura en partos múltiples se determina por prioridad temporal, afectando principalmente ámbitos sucesorios. Si no es posible establecer el orden, se considera que todos nacieron simultáneamente, eliminando ventajas entre ellos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: Analice el impacto de la muerte en la extinción de la personalidad jurídica y las relaciones jurídicas personales.
+Respuesta Correcta: La muerte extingue la personalidad jurídica y las relaciones personalísimas, como la responsabilidad penal. Sin embargo, las deudas del fallecido no se extinguen y pasan a formar parte del pasivo de la herencia, afectando a los herederos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 2: Derechos de la persona parte II
+
+Pregunta: ¿Cuál es la diferencia jurídica entre el derecho a la vida y el derecho a la integridad física según el ordenamiento español?
+Respuesta Correcta: El derecho a la vida protege la existencia biológica, mientras que el derecho a la integridad física se centra en la incolumidad corporal y la salud. Ambos son derechos de la personalidad, pero el primero es el presupuesto para todos los demás derechos, y el segundo asegura la plenitud física.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: ¿Por qué los derechos de la personalidad se consideran extrapatrimoniales e intransmisibles?
+Respuesta Correcta: Son extrapatrimoniales porque carecen de valor económico directo, lo que impide su tráfico comercial. Son intransmisibles ya que están indisolublemente unidos a la persona y no pueden cederse ni venderse, preservando su carácter personalísimo.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: Analiza la importancia del artículo 15 de la Constitución Española respecto a la pena de muerte.
+Respuesta Correcta: El artículo 15 CE abolió la pena de muerte en tiempos de paz, y una Ley Orgánica posterior (Ley Orgánica 11/1995) la eliminó totalmente, asegurando la máxima protección a la vida e integridad de la persona, incluso para delincuentes condenados.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: ¿Cómo se garantiza el derecho a la integridad física en situaciones como la donación de órganos?
+Respuesta Correcta: La donación de órganos se permite solo de manera altruista y bajo estrictos requisitos médicos y legales, garantizando la salud del donante. Esto refleja la regulación cuidadosa del derecho a la integridad física, prohibiendo su mercantilización.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: Explora la relación entre el derecho a la libertad y los derechos de la personalidad en el contexto español.
+Respuesta Correcta: El derecho a la libertad amplía la esfera de actuación personal, permitiendo el desarrollo autónomo del individuo. Se concreta en libertades específicas, como la de expresión y de culto, todas ellas protegidas y desarrolladas por legislaciones específicas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: ¿Qué implica la irrenunciabilidad de los derechos de la personalidad según el marco normativo español?
+Respuesta Correcta: La irrenunciabilidad significa que el titular no puede abdicar válidamente de estos derechos, asegurando su protección continua y su carácter esencial e inseparable de la dignidad humana, como consagra la Constitución Española y la Ley Orgánica 1/1982.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 3: Derechos de la personalidad
+
+Pregunta: ¿Cómo se diferencia la capacidad de obrar de un menor de 16 años respecto a un adulto en términos de administración de bienes?
+Respuesta Correcta: Un menor de 16 años puede administrar bienes adquiridos por su trabajo, pero no tiene plena capacidad de obrar como un adulto. La administración está limitada a lo que haya ganado personalmente.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: Explique la importancia de la inscripción en el Registro Civil para la emancipación por concesión paterna.
+Respuesta Correcta: La inscripción en el Registro Civil es crucial para que la emancipación tenga efectos legales. Sin ella, el acuerdo entre padres e hijo carece de validez jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: Analice el impacto de la Ley 8/2021 en la capacidad de obrar de las personas con discapacidad.
+Respuesta Correcta: La Ley 8/2021 elimina la incapacitación judicial, otorgando plena capacidad de obrar a las personas con discapacidad. Establece medidas de apoyo, como el curador, para asistir sin limitar la capacidad.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: ¿Qué argumentos justifican que un menor de 15 años puede realizar ciertos contratos acorde a los usos sociales?
+Respuesta Correcta: La ley reconoce la capacidad de obrar gradual, considerando usos sociales. Un menor de 15 años puede realizar contratos cotidianos como comprar comida, reflejando la evolución de su autonomía.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: Compare los requisitos de emancipación por concesión paterna y por concesión judicial.
+Respuesta Correcta: La concesión paterna requiere solo la autorización de los padres e inscripción en el Registro Civil. La judicial procede ante oposición parental, y el juez decide, generalmente en situaciones familiares conflictivas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: Discuta la relación entre la escolarización obligatoria y la capacidad de obrar de los menores.
+Respuesta Correcta: La escolarización obligatoria hasta los 16 años limita ciertas decisiones autónomas de los menores. Sin embargo, a partir de esa edad, coincidiendo con el fin de la obligatoriedad, aumenta su capacidad para actos como trabajar.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 4: Capacidad de obrar 1. Capacidad de obrar del menor de edad
+
+Pregunta: ¿Cuál es el cambio más significativo en el tratamiento legal de las personas con discapacidad tras la Ley 8/2021?
+Respuesta Correcta: El cambio más significativo es que las personas con discapacidad conservan su plena capacidad de obrar, eliminando la incapacitación judicial y estableciendo un sistema de apoyo que respeta su autonomía.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: Analiza la función del curador en el nuevo sistema legal y cómo se diferencia de la tutela para adultos.
+Respuesta Correcta: El curador tiene una función asistencial, no representativa, ayudando en actividades diarias. A diferencia de la tutela, no puede tomar decisiones por la persona, salvo en casos excepcionales autorizados por un juez.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: Explica en qué situaciones puede un curador asumir la representación de una persona con discapacidad según la nueva ley.
+Respuesta Correcta: El curador puede asumir la representación solo en casos muy graves donde la persona no pueda tomar decisiones, y siempre bajo una resolución judicial motivada que detalle los actos específicos autorizados.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: ¿Qué papel desempeña el defensor judicial en el nuevo sistema de apoyo a personas con discapacidad?
+Respuesta Correcta: El defensor judicial interviene temporalmente en casos de conflicto de intereses entre la persona con discapacidad y su curador, siendo designado por el juez para salvaguardar los derechos de la persona.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: Compara las figuras del curador y el guardador de hecho en el contexto del nuevo marco legal.
+Respuesta Correcta: El curador es una figura formal nombrada por el juez para asistencia continuada, mientras que el guardador de hecho es informal, sin necesidad de autorización judicial, y actúa con el consentimiento de la persona.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: ¿Cómo asegura la nueva legislación el respeto a la voluntad de las personas con discapacidad?
+Respuesta Correcta: La legislación prioriza la autonomía mediante un sistema de apoyos personalizados y limita la representación a casos excepcionales, siempre garantizando el respeto a la voluntad y derechos de la persona.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 5: Personas con discapacidad 1. Definición y nuevo enfoque
+
+Pregunta: ¿Cuál es la principal diferencia entre la tutela y la curatela en términos de representación legal?
+Respuesta Correcta: La tutela implica representación legal del menor en actos que no pueda realizar, mientras que la curatela no suele incluir representación, salvo por decisión judicial en casos graves.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: Analiza cómo el conflicto de intereses afecta el nombramiento de un tutor o curador.
+Respuesta Correcta: Un conflicto de intereses impide el nombramiento de un tutor o curador, ya que podría comprometer la imparcialidad y el bienestar de la persona tutelada o curada.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: Discute la importancia de la rendición de cuentas del tutor a la autoridad judicial.
+Respuesta Correcta: La rendición de cuentas es crucial para asegurar que el tutor actúe en beneficio del menor y cumpla con sus obligaciones legales, garantizando transparencia y responsabilidad.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: Explica cómo se formula la propuesta de nombramiento de un curador en el caso de personas con discapacidad.
+Respuesta Correcta: La persona con discapacidad puede proponer su curador, promoviendo así su autonomía y participación en el proceso, aunque el juez decide en última instancia.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: Evalúa las razones por las cuales una persona puede ser excluida del cargo de tutor.
+Respuesta Correcta: Exclusiones incluyen antecedentes penales que afecten la capacidad para el cargo, conflictos de intereses, exclusiones testamentarias y antecedentes de remoción de cargos similares.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: Compara las condiciones de extinción de la tutela y la curatela.
+Respuesta Correcta: Ambas se extinguen por fallecimiento o innecesariedad del apoyo; la tutela también finaliza al cumplir 18 años o emanciparse el menor.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 6: Los cargos tuitivos
+
+Pregunta: ¿La ausencia debe considerarse un estado civil según la doctrina, y por qué?
+Respuesta Correcta: Algunos autores sostienen que sí, porque requiere una institución supletoria para gestionar los asuntos del ausente, mientras que otros lo ven solo como un sistema de administración de bienes y derechos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: ¿Qué medidas se toman para proteger los intereses de un desaparecido en la fase de ausencia de hecho?
+Respuesta Correcta: Se nombra un defensor judicial para representar al desaparecido en juicios o asuntos urgentes, siempre que no tenga un representante legal o voluntario.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: Explique el orden de preferencia para el nombramiento de un defensor en caso de ausencia de hecho.
+Respuesta Correcta: El orden es: cónyuge presente y mayor de edad no separado legalmente, luego el pariente más cercano hasta el cuarto grado, y finalmente una persona solvente designada por el Letrado de Justicia.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: Analice los efectos de la ausencia de hecho en la patria potestad.
+Respuesta Correcta: El progenitor ausente no pierde la patria potestad; esta se ejerce exclusivamente por el otro progenitor, quien puede tomar decisiones como autorizar una operación quirúrgica.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: ¿Cómo afecta la ausencia de hecho a la administración de los bienes en una sociedad de gananciales?
+Respuesta Correcta: La administración de los bienes comunes del matrimonio se transfiere por completo al cónyuge presente, permitiéndole gestionar el patrimonio sin el consentimiento del ausente.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: Compare los tipos de ausencia y su relevancia jurídica.
+Respuesta Correcta: La ausencia de hecho es no declarada judicialmente, la legal requiere declaración judicial, y la social solo es relevante para prescripción, cada una con implicaciones legales distintas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 7: Ausencia y fallecimiento de la persona
+
+Pregunta: Analice la importancia de la solicitud por parte de personas legitimadas para la declaración de ausencia legal.
+Respuesta Correcta: La solicitud por parte de personas legitimadas es fundamental, ya que garantiza que quienes tienen un interés legítimo en la protección de los bienes actúen. Esto asegura que la administración de los bienes del desaparecido sea realizada en beneficio de todos los interesados y conforme a derecho.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: Explique por qué es relevante el plazo transcurrido desde la desaparición para la declaración de ausencia legal.
+Respuesta Correcta: El plazo garantiza un tiempo razonable para confirmar la desaparición y verificar la necesidad de proteger los bienes. Diferentes plazos (1 o 3 años) reflejan la existencia de un apoderado, asegurando que las medidas se adopten proporcionalmente al riesgo de dilapidación de los bienes.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: Discuta la función del Ministerio Fiscal en el proceso de declaración de ausencia legal.
+Respuesta Correcta: El Ministerio Fiscal actúa como garante del interés público, pudiendo solicitar la declaración de ausencia de oficio o a raíz de una denuncia. Su intervención asegura que se tomen medidas adecuadas para la protección de los bienes en ausencia de otras personas legitimadas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: Evalúe la necesidad de una situación de ausencia de hecho para declarar la ausencia legal.
+Respuesta Correcta: No es necesaria una situación de ausencia de hecho para declarar la ausencia legal, ya que la declaración se basa en la protección de los bienes y no en la certeza de la desaparición. Esto permite actuar con celeridad en la administración de los bienes, evitando posibles perjuicios.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: Analice cómo afecta la presencia de un apoderado en la declaración de ausencia legal.
+Respuesta Correcta: Un apoderado con facultades para administrar los bienes extiende el plazo a tres años, presumiendo que los bienes están protegidos bajo su gestión. Si renuncia antes de los tres años, el plazo se reduce a un año para evitar la desprotección de los bienes.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: Reflexione sobre el carácter provisional de la ausencia legal y su importancia en el sistema jurídico.
+Respuesta Correcta: La provisionalidad de la ausencia legal permite adaptarse a cambios en la situación del desaparecido, garantizando la protección de los bienes mientras se mantiene abierta la posibilidad de su regreso. Este enfoque flexible protege los intereses de todas las partes involucradas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 8: Ausencia y fallecimiento de la persona II
+
+Pregunta: ¿Cuáles son las consecuencias jurídicas inmediatas tras la declaración de ausencia legal de una persona?
+Respuesta Correcta: La declaración de ausencia revoca mandatos, otorga representación al Ministerio Fiscal en ciertos procesos, permite al cónyuge solicitar separación de bienes y modifica la patria potestad sobre los hijos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: ¿Cómo se determina el representante de un ausente según el Código Civil y qué factores pueden alterar este orden?
+Respuesta Correcta: El Código Civil establece un orden de preferencia: cónyuge, hijos, ascendientes y hermanos. Este orden puede alterarse si el Letrado de la Administración de Justicia encuentra motivos graves que desaconsejen el nombramiento preferente.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: Explique las funciones y obligaciones del representante de un ausente en términos de administración de bienes.
+Respuesta Correcta: El representante debe realizar un inventario de bienes, conservar y administrar el patrimonio del ausente, ajustándose a las normas de la Ley Procesal Civil, obteniendo rendimientos normales y defendiendo el patrimonio.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: ¿Qué facultades tienen los representantes en relación con el patrimonio del ausente y qué límites existen?
+Respuesta Correcta: Los representantes pueden poseer temporalmente el patrimonio y hacerse con los productos líquidos, pero no pueden vender o gravar los bienes salvo por necesidad evidente reconocida por el Letrado de la Administración de Justicia.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: ¿Cuáles son los dos eventos que pueden poner fin a la situación de ausencia legal y cuáles son sus consecuencias?
+Respuesta Correcta: La situación de ausencia legal concluye con la aparición del ausente, quien recupera su patrimonio, o con su fallecimiento, iniciándose los trámites sucesorios.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: Analice la importancia de la figura del representante en la protección de los intereses del ausente.
+Respuesta Correcta: El representante garantiza la integridad patrimonial del ausente durante su ausencia, asegurando su preservación para su retorno o para sus herederos, actuando como garante de sus derechos e intereses.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 9: Ausencia y fallecimiento de la persona III 1. Efectos inmediatos de la declaración
+
+Pregunta: ¿Cuál es la diferencia en la legitimación para solicitar la declaración de fallecimiento en comparación con la ausencia legal?
+Respuesta Correcta: La declaración de fallecimiento permite una legitimación más amplia, ya que cualquier interesado, como un beneficiario de seguro de vida, y el Ministerio Fiscal pueden solicitarla, a diferencia de la ausencia legal.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: Analiza por qué los plazos de declaración de fallecimiento son más cortos en situaciones de riesgo inminente de muerte.
+Respuesta Correcta: Los plazos son más cortos debido a la alta probabilidad de fallecimiento en situaciones de riesgo inminente, como violencia o guerra, lo que justifica una pronta resolución judicial.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: Explica los efectos jurídicos que tiene la declaración de fallecimiento sobre el vínculo matrimonial del desaparecido.
+Respuesta Correcta: La declaración de fallecimiento extingue el vínculo matrimonial, permitiendo al cónyuge supérstite contraer nuevo matrimonio, ya que se presume la muerte legal del desaparecido.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: ¿Qué sucede con la patria potestad y la tutela tras la declaración de fallecimiento de una persona?
+Respuesta Correcta: La declaración de fallecimiento provoca la extinción de la patria potestad y las responsabilidades tutelares del declarado fallecido, cesando así sus obligaciones legales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: Discute las consecuencias legales de la reaparición de una persona previamente declarada fallecida.
+Respuesta Correcta: La reaparición revoca la declaración de fallecimiento y permite al reaparecido recuperar sus bienes, pero no restituye automáticamente el vínculo matrimonial, que requeriría un nuevo matrimonio.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: ¿Cómo afecta la declaración de fallecimiento a la apertura de la sucesión y la eficacia del testamento?
+Respuesta Correcta: La declaración de fallecimiento abre la sucesión, activando el testamento y permitiendo la distribución de los bienes a los herederos, suponiendo la muerte legal del desaparecido.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 10: Ausencia y fallecimiento de la persona IV
+
+Pregunta: Analiza la importancia del ius sanguinis en la adquisición de la nacionalidad española y cómo se aplica a los nacidos fuera de España.
+Respuesta Correcta: El ius sanguinis es crucial ya que permite adquirir la nacionalidad española por descendencia, sin importar el lugar de nacimiento. Por ejemplo, un niño nacido en Argentina de padres españoles obtiene la nacionalidad española automáticamente, asegurando la conexión del individuo con el Estado español a través de lazos familiares.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Examina las excepciones al principio del ius soli en la legislación española y su impacto en evitar la apatridia.
+Respuesta Correcta: Aunque España no concede nacionalidad por ius soli de forma general, las excepciones incluyen casos donde los padres son apátridas o donde la filiación es desconocida. Estas excepciones son esenciales para prevenir la apatridia y garantizar que los nacidos en España tengan una nacionalidad, protegiendo así sus derechos fundamentales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Discute la relevancia de la nacionalidad por adopción y cómo se diferencia según la edad del adoptado.
+Respuesta Correcta: La nacionalidad por adopción asegura que menores de 18 años adoptados por españoles adquieran la nacionalidad de origen automáticamente, fortaleciendo su integración. Para mayores de 18 años, se requiere un proceso derivativo, reflejando un enfoque distinto para adultos que ya tienen una formación cultural previa.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Analiza la adquisición de la nacionalidad por ascendencia histórica y su importancia en el contexto de los exiliados españoles.
+Respuesta Correcta: La adquisición por ascendencia histórica permite a descendientes de exiliados recuperar la nacionalidad española, como los nietos de quienes huyeron durante la Guerra Civil. Esta vía reconoce el vínculo histórico y cultural con España, reparando injusticias del pasado y fortaleciendo la identidad nacional de sus descendientes.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Evalúa la relación entre la adquisición derivativa de la nacionalidad y los requisitos que deben cumplirse.
+Respuesta Correcta: La adquisición derivativa requiere cumplir requisitos específicos y superar pruebas, reflejando un proceso más riguroso que garantiza que los solicitantes tengan un vínculo efectivo con España. Este enfoque asegura que quienes adquieren la nacionalidad por esta vía estén integrados y comprometidos con los valores y leyes del país.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Reflexiona sobre el papel de la nacionalidad como derecho fundamental en el acceso a derechos políticos en España.
+Respuesta Correcta: La nacionalidad es fundamental, ya que habilita derechos políticos como el derecho a voto y acceso a cargos públicos. Este vínculo jurídico con el Estado garantiza la participación democrática y la posibilidad de influir en la vida política, asegurando que los ciudadanos puedan ejercer sus derechos plenamente en el ámbito español.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 11: La nacionalidad de origen
+
+Pregunta: Analiza la diferencia entre la adquisición de la nacionalidad española por opción y por carta de naturaleza.
+Respuesta Correcta: La nacionalidad por opción está basada en vínculos familiares específicos con España y tiene un plazo de dos años para ejercitarse. En contraste, la nacionalidad por carta de naturaleza es discrecional, otorgada por el Gobierno en circunstancias excepcionales mediante Real Decreto, sin un plazo específico.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Evalúa la importancia de los plazos de residencia para la adquisición de la nacionalidad española por residencia.
+Respuesta Correcta: Los plazos de residencia reflejan el grado de vinculación del solicitante con España. El plazo general es de 10 años, pero se reduce en casos específicos como refugiados (5 años) y nacionales de países iberoamericanos (2 años), promoviendo la integración de aquellos con lazos históricos o especiales con España.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Discute los requisitos adicionales necesarios para la adquisición de la nacionalidad española y su relevancia.
+Respuesta Correcta: Además de la residencia, se requiere buena conducta cívica y prueba de integración en la sociedad española. Estos requisitos aseguran que el solicitante esté adaptado cultural y socialmente, lo que se verifica mediante antecedentes penales y conocimiento del idioma y costumbres.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: ¿Por qué se requiere el juramento de fidelidad al Rey y a la Constitución en el proceso de nacionalidad?
+Respuesta Correcta: El juramento de fidelidad al Rey y a la Constitución es un acto simbólico que formaliza el compromiso del solicitante con los valores y el orden constitucional de España, asegurando su lealtad al país y su marco legal.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Examina la excepción de renuncia a la nacionalidad anterior para ciertos solicitantes al adquirir la nacionalidad española.
+Respuesta Correcta: La renuncia a la nacionalidad anterior busca la exclusividad de la lealtad nacional. Sin embargo, los nacionales de países latinoamericanos, Andorra y Portugal están exentos, reflejando la proximidad cultural e histórica que España mantiene con estos países.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Justifica la necesidad de inscribir la adquisición de la nacionalidad española en el Registro Civil.
+Respuesta Correcta: La inscripción en el Registro Civil es esencial para la formalización y reconocimiento legal de la nacionalidad adquirida. Este paso finaliza el proceso administrativo y garantiza que el cambio de estatus sea oficial y público, permitiendo el acceso a derechos como ciudadano español.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 12: La nacionalidad derivada 1. Nacionalidad por Opción
+
+Pregunta: Analiza las diferencias entre la pérdida forzosa de la nacionalidad española y la pérdida voluntaria, destacando sus causas principales.
+Respuesta Correcta: La pérdida forzosa se aplica solo a quienes adquirieron la nacionalidad derivativamente y ocurre por servicio en un ejército enemigo o por adquisición fraudulenta. La pérdida voluntaria puede suceder por adquirir otra nacionalidad sin convenio, usar exclusivamente otra nacionalidad o renunciar expresamente, siempre que no se convierta en apátrida.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Discute cómo la legislación española actual protege a los españoles de origen frente a la pérdida forzosa de su nacionalidad.
+Respuesta Correcta: La legislación protege a los españoles de origen al no permitir la pérdida forzosa de su nacionalidad, independientemente de las acciones cometidas, como la comisión de delitos. Esto asegura que solo quienes adquirieron la nacionalidad de forma derivativa estén sujetos a esta pérdida bajo circunstancias específicas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: ¿Por qué la adquisición fraudulenta de la nacionalidad española es una causa de pérdida forzosa? Argumenta basándote en el principio de buena fe.
+Respuesta Correcta: La adquisición fraudulenta contraviene el principio de buena fe, esencial en los procesos administrativos. Obtener la nacionalidad mediante engaño desvirtúa la legitimidad de su adquisición, justificando así su revocación para mantener la integridad del sistema de nacionalidad.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Examina la posibilidad de recuperar la nacionalidad española tras haberla perdido por unirse a un grupo armado enemigo.
+Respuesta Correcta: La recuperación de la nacionalidad tras perderla por unirse a un grupo armado enemigo no es posible. Esta exclusión subraya la gravedad de tal acto, considerado una traición al país, y establece una sanción definitiva para quienes actúan en contra de los intereses nacionales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Si un español derivativo reside en el extranjero y utiliza exclusivamente su nacionalidad de origen, ¿cómo afecta esto a su nacionalidad española?
+Respuesta Correcta: Si un español derivativo reside en el extranjero y usa exclusivamente su nacionalidad de origen durante tres años, pierde la nacionalidad española. Esto refleja el principio de mantener un vínculo activo con España, demostrando lealtad al país adoptado frente al país de origen.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: Evalúa los requisitos necesarios para la recuperación de la nacionalidad española y su lógica en el contexto de la legislación vigente.
+Respuesta Correcta: Los requisitos de residencia legal, declaración de voluntad y registro civil aseguran que el individuo mantiene un vínculo real con España y desea formalmente su reintegración. Este proceso garantiza la seriedad y compromiso de quienes buscan recuperar su nacionalidad, protegiendo así los intereses nacionales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 13: Pérdida de la nacionalidad
+
+Pregunta: ¿Cómo se justifica la importancia del principio de publicidad en el Registro Civil?
+Respuesta Correcta: El principio de publicidad permite que cualquier ciudadano consulte su propia hoja registral, asegurando transparencia y facilitando el acceso a la información personal, lo cual es esencial para la seguridad jurídica y la protección de derechos individuales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: Analiza la relevancia del principio de exactitud dentro del Registro Civil.
+Respuesta Correcta: El principio de exactitud confiere eficacia probatoria a los hechos inscritos, presumiendo su validez hasta que se rectifiquen. Esto otorga seguridad jurídica al garantizar que la información registrada es confiable y oponible frente a terceros.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: Discute la función de la Oficina Central del Registro Civil en comparación con las Oficinas Generales.
+Respuesta Correcta: La Oficina Central se encarga de inscripciones específicas, como actos relativos a extranjeros, mientras que las Oficinas Generales atienden al público general en cada partido judicial, gestionando solicitudes y expedientes comunes.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: ¿Qué implicaciones tiene la transformación del Registro Civil en un sistema electrónico según la Ley 20/2011?
+Respuesta Correcta: La digitalización del Registro Civil, promovida por la Ley 20/2011, mejora la accesibilidad y eficiencia del sistema, permitiendo un acceso universal y simplificando los trámites administrativos para los ciudadanos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: Evalúa la importancia del principio de gratuidad en el funcionamiento del Registro Civil.
+Respuesta Correcta: El principio de gratuidad garantiza que los servicios del Registro Civil sean accesibles a todos los ciudadanos sin coste alguno, promoviendo la igualdad de acceso y evitando barreras económicas en la obtención de documentos esenciales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: ¿Por qué es crucial el principio de legalidad en la gestión de las inscripciones del Registro Civil?
+Respuesta Correcta: El principio de legalidad asegura que solo se inscriban actos conformes a la ley, protegiendo la integridad del sistema registral y evitando inscripciones fraudulentas o ilegales que podrían comprometer la seguridad jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 14: Registro Civil I 1. Definición y hechos inscribibles
+
+Pregunta: Analiza la diferencia entre una inscripción declarativa y una constitutiva en el Registro Civil y su impacto jurídico.
+Respuesta Correcta: Las inscripciones declarativas constatan hechos que ya han producido efectos jurídicos por sí mismos, como el nacimiento. En cambio, las inscripciones constitutivas, como la de nacionalidad, no producen efectos hasta ser inscritas, lo que resalta su impacto en la adquisición de derechos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: Discute el valor probatorio de las inscripciones en el Registro Civil y su relevancia para la seguridad jurídica.
+Respuesta Correcta: El valor probatorio de las inscripciones es crucial, ya que establece una presunción de veracidad que protege la seguridad jurídica. Esta presunción puede ser rebatida solo con prueba en contrario, otorgando estabilidad y certeza a las relaciones jurídicas.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: Evalúa la función de la publicidad del Registro Civil y los límites impuestos a esta publicidad.
+Respuesta Correcta: La publicidad del Registro Civil garantiza el acceso ciudadano a información relevante, pero se limita para proteger datos íntimos, como la filiación adoptiva. Este equilibrio es esencial para salvaguardar la privacidad y el interés legítimo de los ciudadanos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: Explica cómo las notas marginales complementan las inscripciones en el Registro Civil y su función específica.
+Respuesta Correcta: Las notas marginales son asientos de apoyo que proporcionan detalles adicionales a inscripciones o anotaciones. Por ejemplo, pueden indicar el lugar de entierro asociado a una inscripción de fallecimiento, enriqueciendo la información registrada sin alterar el hecho principal.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: Argumenta sobre la importancia de la cancelación de asientos en el contexto del Registro Civil.
+Respuesta Correcta: La cancelación de asientos, como la de un matrimonio tras un divorcio, es vital para reflejar con precisión la realidad jurídica actual de las personas. Asegura que el Registro Civil permanezca actualizado y relevante para la correcta aplicación del derecho.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: Analiza los requisitos necesarios para acceder a información restringida en el Registro Civil y su justificación legal.
+Respuesta Correcta: El acceso a información restringida, como el cambio de sexo, está limitado a interesados directos para proteger la intimidad. Esta restricción legalmente justificada asegura que solo quienes tienen un interés legítimo puedan acceder a datos sensibles.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 15: Registro Civil II 1. Tipos de asientos registrales (Entradas en el registro)
+
+Pregunta: ¿Por qué es fundamental el domicilio en el derecho constitucional español?
+Respuesta Correcta: El domicilio es crucial porque el artículo 19 de la Constitución garantiza la libertad de residencia y el artículo 18.2 protege su inviolabilidad, asegurando así derechos fundamentales de los ciudadanos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: ¿Cómo determina el domicilio la competencia territorial en el derecho procesal civil?
+Respuesta Correcta: En derecho procesal civil, el artículo 50 de la Ley de Enjuiciamiento Civil establece que el domicilio del demandado determina el juzgado competente territorialmente para conocer el caso.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: Analiza la importancia del domicilio en la protección penal contra el allanamiento de morada.
+Respuesta Correcta: El domicilio es protegido penalmente contra el allanamiento de morada, lo que preserva el derecho a la intimidad y seguridad personal, reflejando su relevancia como espacio inviolable por el Código Penal.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: Explica el papel del domicilio en el derecho administrativo respecto al padrón municipal.
+Respuesta Correcta: El domicilio es fundamental en derecho administrativo, ya que la inscripción en el padrón municipal, basada en la residencia habitual, acredita la residencia y es necesaria para varios derechos y obligaciones.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: Distingue entre domicilio real, conyugal, electivo y legal según el Código Civil.
+Respuesta Correcta: El domicilio real es la residencia habitual; el conyugal es donde una pareja casada vive; el electivo es designado para recibir notificaciones; y el legal es fijado por ley, como el de diplomáticos.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: ¿Cómo afecta la elección del domicilio electivo a la recepción de notificaciones legales?
+Respuesta Correcta: El domicilio electivo permite recibir notificaciones en una dirección designada, facilitando la comunicación legal en actos o contratos específicos, sin alterar la residencia habitual de la persona.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 16: El domicilio
+
+Pregunta: ¿Por qué el concepto de domicilio es fundamental para las relaciones jurídicas de una persona?
+Respuesta Correcta: El domicilio localiza a una persona para sus relaciones jurídicas con terceros y la administración. Es esencial para ejercer derechos y cumplir obligaciones, como el derecho a voto y deberes tributarios.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: Explique la diferencia entre residencia y domicilio con un ejemplo.
+Respuesta Correcta: Residencia es el lugar donde alguien se encuentra circunstancialmente, mientras que domicilio es donde vive de forma estable. Ejemplo: Tizio vive en Madrid (domicilio) y está de vacaciones en Málaga (residencia).
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: Analice la importancia del domicilio en el ámbito judicial.
+Respuesta Correcta: Tener un domicilio fijado es crucial, ya que sin él, una persona podría no recurrir resoluciones judiciales y ser catalogada como rebelde, enfrentando condenas sin conocimiento.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: Describa qué es un domicilio convencional y su función.
+Respuesta Correcta: El domicilio convencional es una dirección elegida para recibir notificaciones específicas, como cuando Tizio designa el domicilio de sus hijos para encargarse de sus asuntos legales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: ¿Qué implica el concepto de domicilio legal y a quién se aplica en el contexto del ejemplo dado?
+Respuesta Correcta: El domicilio legal es asignado por la ley, como el de un menor de edad, que corresponde al de sus padres. En el ejemplo, el domicilio legal del hijo menor es el de Tizio.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: ¿Por qué es posible que una persona sea considerada rebelde en un proceso judicial debido a la falta de un domicilio fijado?
+Respuesta Correcta: Sin un domicilio, la persona puede no recibir notificaciones judiciales, lo que podría llevar a que no responda a un proceso, siendo catalogada como rebelde y condenada sin su conocimiento.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 17: El domicilio con Ticio 1.1 Concepto y funciones del domicilio
+
+Pregunta: Analiza cómo se determina la vecindad civil de un recién nacido cuando sus padres tienen vecindades civiles distintas.
+Respuesta Correcta: En caso de padres con vecindades distintas, se asigna la del progenitor cuya filiación se determinó primero. Alternativamente, los padres pueden optar por la vecindad de uno de ellos para el hijo en los seis meses siguientes al nacimiento.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: Evalúa la importancia del ius sanguinis en la determinación de la vecindad civil de un recién nacido.
+Respuesta Correcta: El ius sanguinis es fundamental, pues establece que si ambos padres comparten la misma vecindad civil, el hijo automáticamente adquiere esa vecindad, garantizando coherencia familiar en cuestiones legales.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: Explica las diferencias entre la adquisición originaria y derivada de la vecindad civil.
+Respuesta Correcta: La adquisición originaria ocurre al nacimiento o adopción, mientras que la derivada se produce por un cambio voluntario postnatal, como por residencia con o sin declaración de voluntad, o por opción al alcanzar cierta edad.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: Discute el papel del ius soli en la determinación de la vecindad civil.
+Respuesta Correcta: El ius soli actúa como criterio subsidiario cuando no es posible aplicar el ius sanguinis, asignando al nacido la vecindad civil del lugar de nacimiento, asegurando así la asignación de vecindad en ausencia de otros criterios.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: Analiza las opciones disponibles para los padres cuando tienen distintas vecindades civiles tras el nacimiento de su hijo.
+Respuesta Correcta: Los padres pueden optar por asignar al hijo la vecindad de cualquiera de ellos dentro de los seis meses posteriores al nacimiento, permitiendo flexibilidad y una posible alineación con el entorno familiar más conveniente.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: Reflexiona sobre el proceso de adquisición de vecindad civil al obtener la nacionalidad española.
+Respuesta Correcta: Al adquirir la nacionalidad española, el extranjero debe elegir una vecindad civil, generalmente la del lugar de residencia, integrándose así plenamente en el marco jurídico y social del nuevo entorno.
+Manual: Manual Civil 1
+Bloque: Bloque 2
+Tema: Tema 18: La vecindad civil Adquisición originaria y derivada 1. Adquisición originaria
+
+Pregunta: ¿Cuál es la finalidad de reconocer a las personas jurídicas en el ordenamiento jurídico español según el tema estudiado?
+Respuesta Correcta: La finalidad es simplificar el sistema legal, permitiendo que las organizaciones actúen como sujetos de derechos y obligaciones sin atribuir cada acto a sus miembros individuales.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: Analiza la diferencia entre la teoría de la ficción y la teoría orgánica sobre la naturaleza de las personas jurídicas.
+Respuesta Correcta: La teoría de la ficción considera a las personas jurídicas como creaciones legales sin existencia física, mientras que la teoría orgánica las ve como entidades naturales con voluntad propia, reconocidas por el Estado.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: Explica cómo el sistema español de atribución de personalidad jurídica se diferencia del sistema de concesión.
+Respuesta Correcta: El sistema español permite la adquisición automática de personalidad jurídica al cumplir requisitos formales, a diferencia del sistema de concesión donde el Estado otorga la personalidad caso por caso.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: ¿Qué papel juega el artículo 35.1 del Código Civil español en la regulación de las personas jurídicas?
+Respuesta Correcta: El artículo 35.1 establece el sistema de atribución genérica de la personalidad jurídica, permitiendo que las entidades obtengan personalidad con su mera constitución.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: Evalúa la importancia de las teorías del lenguaje jurídico en la comprensión de las personas jurídicas.
+Respuesta Correcta: Las teorías del lenguaje jurídico simplifican la realidad, presentando a las personas jurídicas como una herramienta de economía normativa, esencial para manejar la complejidad legal.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: Discute cómo la Constitución Española contribuye al reconocimiento de las personas jurídicas.
+Respuesta Correcta: La Constitución Española reconoce diferentes formas de personas jurídicas, como asociaciones y partidos políticos, asegurando su derecho a existir y operar dentro del marco legal.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 1: Personas jurídicas I
+
+Pregunta: ¿Cómo se limita el derecho de asociación según el artículo 22 de la Constitución Española?
+Respuesta Correcta: El artículo 22 establece que son ilegales las asociaciones con fines delictivos y prohíbe las asociaciones secretas y paramilitares.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: Analiza cómo la Ley Orgánica 1/2002 regula el proceso de constitución de una asociación.
+Respuesta Correcta: La LODA exige un acta fundacional con identificación de promotores y estatutos, y la inscripción en registros autonómicos o nacionales, según su ámbito de operación.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: Examina los requisitos esenciales para la constitución de una asociación según la LODA.
+Respuesta Correcta: Se requiere un mínimo de tres asociados, un objetivo común y un fin no lucrativo. Además, debe cumplir requisitos de capacidad para asociarse.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: Discute las capacidades necesarias para formar parte de una asociación según el artículo 3 de la LODA.
+Respuesta Correcta: Personas físicas con plena capacidad de obrar, menores de más de 14 años con autorización, extranjeros con residencia autorizada y personas jurídicas válidas.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: ¿Qué obligaciones contables deben cumplir las asociaciones según la LODA?
+Respuesta Correcta: Deben mantener una relación actualizada de asociados, un inventario de bienes y una contabilidad ordenada, según el artículo 14 de la LODA.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: Analiza las causas de disolución de una asociación según la LODA.
+Respuesta Correcta: Las asociaciones pueden disolverse por resolución judicial por actividades ilegales o por causas internas como la voluntad de los miembros o cumplimiento de su objetivo.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 2: Personas jurídicas II 1. Marco constitucional y legal
+
+Pregunta: ¿Cuáles son los límites constitucionales al derecho de asociación según la Constitución Española?
+Respuesta Correcta: El artículo 22 prohíbe asociaciones con fines o medios delictivos, secretas y paramilitares.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: ¿Cómo se articula la regulación legal del derecho de asociación en España?
+Respuesta Correcta: La Ley Orgánica 1/2002 regula este derecho, pudiendo las CCAA tener leyes propias sin afectar el núcleo del derecho fundamental.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: ¿Qué requisitos son necesarios para constituir una asociación según la LODA?
+Respuesta Correcta: Se requiere un mínimo de tres asociados, un objetivo común, y ser sin ánimo de lucro, formalizándose mediante acta y estatutos.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: Explique el proceso de inscripción de una asociación y sus implicaciones legales.
+Respuesta Correcta: La inscripción es obligatoria para publicidad; falta de esta puede implicar responsabilidad personal de los promotores por deudas.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: Analice las estructuras y obligaciones contables de una asociación según la LODA.
+Respuesta Correcta: Deben tener una Asamblea General y Junta Directiva, además de llevar una contabilidad ordenada y actualizar sus registros.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: ¿Cuáles son las formas en que una asociación puede ser disuelta según la LODA?
+Respuesta Correcta: Puede disolverse judicialmente por ilegalidades, por voluntad de los miembros en Asamblea, o según causas legales o estatutarias.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 3: Personas jurídicas III
+
+Pregunta: ¿Cuál es la diferencia fundamental entre el derecho a constituir fundaciones y el derecho de asociación según la Constitución Española?
+Respuesta Correcta: El derecho a constituir fundaciones, reconocido en el artículo 34 de la Constitución Española, no es un derecho fundamental, a diferencia del derecho de asociación que sí tiene esta consideración. Esto implica diferencias en su protección jurídica y en los procedimientos legales aplicables.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: Analice la importancia del acto de dotación en el proceso de constitución de una fundación.
+Respuesta Correcta: El acto de dotación es esencial porque asegura que la fundación cuente con los recursos necesarios para cumplir sus fines de interés general. La dotación debe ser real y efectiva, con un mínimo de 30.000 euros, y no se permiten promesas de aportaciones futuras, garantizando así la viabilidad financiera desde el inicio.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: Explique cómo se garantiza el control y la supervisión de las fundaciones en el marco legal español.
+Respuesta Correcta: El control y supervisión de las fundaciones se garantiza mediante el Protectorado, un órgano de la Administración Pública que asesora y controla el cumplimiento de la ley y los fines fundacionales. Además, el Patronato actúa como órgano de gobierno interno, asegurando el uso adecuado del patrimonio.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: Discuta las circunstancias bajo las cuales una fundación puede modificar sus estatutos y la implicación de tal modificación.
+Respuesta Correcta: Una fundación puede modificar sus estatutos si el fin fundacional se vuelve imposible de cumplir. Esta modificación requiere la aprobación del Protectorado y su inscripción en el registro, lo que implica un proceso formal y controlado para adaptar la fundación a nuevas realidades sin desvirtuar su propósito inicial.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: Analice las diferencias entre la fusión y la extinción de una fundación.
+Respuesta Correcta: La fusión implica que una fundación se une con otra que tiene fines similares, previa aprobación del Protectorado, para potenciar sus recursos y fines. La extinción, en cambio, ocurre por causas como el cumplimiento del fin fundacional o imposibilidad de realizarlo, y da lugar a un proceso de liquidación de sus bienes.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: Evalúe el impacto que tiene la personalidad jurídica en las operaciones de una fundación.
+Respuesta Correcta: La personalidad jurídica, adquirida tras la inscripción de la escritura de constitución, permite a la fundación actuar legalmente como sujeto autónomo, gestionar su patrimonio y cumplir sus fines de manera independiente, asegurando así su operatividad y reconocimiento legal en el ámbito jurídico y económico.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 4: Personas jurídicas IV 1. Definición y marco legal
+
+Pregunta: ¿Cómo se determina la capacidad de una persona jurídica según el Código Civil español?
+Respuesta Correcta: La capacidad se determina por las leyes que la crearon, sus estatutos en asociaciones, y las reglas de su institución en fundaciones, según el artículo 37 del Código Civil.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: Analiza la limitación de las actividades de una persona jurídica en relación con su objeto social.
+Respuesta Correcta: Una persona jurídica, como una sociedad, no puede realizar actividades ajenas a su objeto social, conforme a la Ley de Sociedades de Capital, limitando su capacidad a lo establecido en sus normas constitutivas.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: ¿En qué medida las personas jurídicas son titulares de derechos fundamentales?
+Respuesta Correcta: Gozan de derechos como la inviolabilidad del domicilio. No tienen derechos exclusivos de personas físicas, como el derecho a la vida. El derecho al honor es limitado a su reputación externa.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: Discute las reglas que determinan el domicilio de una persona jurídica.
+Respuesta Correcta: El domicilio se fija por la ley o estatutos. Subsidiariamente, si no está fijado, será donde se encuentre su representación legal o ejerza sus funciones principales, según el artículo 41 del Código Civil.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: Explica cómo se determina la nacionalidad de una persona jurídica en España.
+Respuesta Correcta: La nacionalidad se otorga a corporaciones, fundaciones y asociaciones reconocidas por ley y domiciliadas en España. Para sociedades, el domicilio en territorio español es determinante según la Ley de Sociedades de Capital.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: Reflexiona sobre la protección del derecho al honor de las personas jurídicas privadas.
+Respuesta Correcta: El derecho al honor se aplica limitadamente a personas jurídicas privadas, centrándose en su reputación externa. La lesión debe ser más intensa que en personas físicas para recibir tutela judicial.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 5: Personas jurídicas V 1. Capacidad de las personas jurídicas
+
+Pregunta: ¿Cuál es la finalidad principal de la doctrina del levantamiento del velo en el derecho español?
+Respuesta Correcta: La finalidad de la doctrina del levantamiento del velo es evitar el abuso de la personalidad jurídica al exigir el cumplimiento de obligaciones eludidas mediante la forma legal de una sociedad, especialmente en casos de fraude.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: Discute las condiciones necesarias para que los tribunales puedan aplicar la doctrina del levantamiento del velo.
+Respuesta Correcta: Se requiere un carácter excepcional y prudente, con prueba suficiente de que la persona jurídica es utilizada para eludir obligaciones legales, contractuales o extracontractuales, demostrando su uso fraudulento.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: Analiza por qué la doctrina del levantamiento del velo debe aplicarse con prudencia.
+Respuesta Correcta: Debe aplicarse con prudencia porque supone intervenir en la separación legal entre la persona jurídica y sus controladores, lo que puede afectar la seguridad jurídica y el uso legítimo de sociedades mercantiles.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: ¿Cómo puede un tribunal determinar que una sociedad está siendo utilizada fraudulentamente según el ejemplo de Laura e Ingenio SL?
+Respuesta Correcta: El tribunal evaluaría si Laura utiliza Ingenio SL para proteger su patrimonio personal mientras acumula deudas con proveedores, demostrando que se eluden obligaciones a través de la forma social.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: Explica cómo la doctrina del levantamiento del velo protege intereses públicos y privados.
+Respuesta Correcta: Protege intereses al impedir que las sociedades sean usadas para cometer fraudes o perjudicar derechos de terceros, garantizando que las responsabilidades no se evadan mediante estructuras societarias.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: ¿Por qué es importante probar el uso fraudulento de una persona jurídica para aplicar el levantamiento del velo?
+Respuesta Correcta: Es crucial porque asegura que la intervención judicial no se base en meras sospechas, sino en evidencia clara de que la sociedad sirve para eludir obligaciones, protegiendo así la integridad jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 3
+Tema: Tema 6: Levantamiento del velo
+
+Pregunta: ¿Cómo se determina el sujeto activo y pasivo en una relación jurídica, y cuál es su importancia?
+Respuesta Correcta: El sujeto activo es el titular de un derecho, mientras que el sujeto pasivo tiene un deber u obligación correlativa. Su determinación es esencial para identificar quién está obligado a qué, como en un contrato de compraventa, donde el vendedor y comprador tienen roles específicos.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: Analiza cómo el contenido obligacional de una relación jurídica puede variar en función del tipo de contrato involucrado.
+Respuesta Correcta: El contenido obligacional incluye derechos y obligaciones. En un contrato de compraventa, el vendedor debe entregar el bien y el comprador pagar el precio. El tipo de contrato define las obligaciones específicas de cada parte, como en arrendamientos o servicios.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: Explica la relevancia de los requisitos de posibilidad, licitud y determinación del objeto en una relación jurídica.
+Respuesta Correcta: Un objeto debe ser posible, lícito y determinado. La posibilidad garantiza su existencia, la licitud asegura conformidad con la ley, y la determinación especifica su naturaleza. Estos requisitos evitan la nulidad del contrato por falta de un elemento esencial.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: Discute el papel del interés protegido en la constitución de una relación jurídica.
+Respuesta Correcta: Toda relación jurídica busca satisfacer un interés protegido, que puede ser económico, familiar o personal. Este interés justifica la protección jurídica, asegurando que las relaciones persigan fines legítimos y dignos de protección por el ordenamiento.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: ¿Cómo interactúan los elementos subjetivo, objetivo y de contenido en la estructura de una relación jurídica?
+Respuesta Correcta: La relación jurídica se estructura en torno a elementos subjetivos (sujetos), objetivos (objeto) y de contenido (derechos y obligaciones). Juntos, estos elementos articulan el vínculo jurídico, determinando las prestaciones y deberes de cada parte.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: Analiza cómo las normas morales y de orden público limitan la autonomía de las partes en la configuración del objeto de una relación jurídica.
+Respuesta Correcta: Las normas morales y de orden público establecen límites a la autonomía, prohibiendo objetos ilícitos o inmorales. Esto asegura que las relaciones jurídicas no contravengan principios fundamentales, como la dignidad humana, garantizando su validez y protección legal.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 1: Objeto del derecho
+
+Pregunta: ¿Cómo se distingue el negocio jurídico del acto jurídico en cuanto a la autonomía de la voluntad?
+Respuesta Correcta: El negocio jurídico permite a los sujetos determinar libremente las consecuencias de su declaración de voluntad, mientras que en el acto jurídico, los efectos están predeterminados por la ley, limitando la autonomía del sujeto.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: Analice el papel de los elementos esenciales en la validez de un negocio jurídico.
+Respuesta Correcta: Los elementos esenciales (consentimiento, objeto y causa) son fundamentales para la validez de un negocio jurídico. Su ausencia provoca la nulidad radical del negocio, ya que son indispensables para su formación y eficacia.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: Explique cómo la clasificación de los negocios jurídicos en unilaterales, bilaterales y plurilaterales afecta su régimen jurídico.
+Respuesta Correcta: La clasificación determina la cantidad de voluntades necesarias para perfeccionar el negocio, afectando su régimen jurídico. Unilaterales requieren una sola voluntad, bilaterales dos, y plurilaterales tres o más, influyendo en cómo se aplican las normas y se resuelven conflictos.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: Discuta la relación entre los negocios jurídicos patrimoniales y personales, y su impacto en la esfera jurídica de los individuos.
+Respuesta Correcta: Los negocios patrimoniales afectan relaciones económicas, mientras que los personales inciden en el estado civil y relaciones extrapatrimoniales. Ambos impactan significativamente la esfera jurídica, regulando derechos y obligaciones en diferentes ámbitos.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: ¿Cómo influye la exigencia de formalidad en la validez de los negocios jurídicos formales o solemnes?
+Respuesta Correcta: La exigencia de formalidad es crucial para la validez de negocios solemnes. El incumplimiento de la forma prescrita puede resultar en la nulidad del negocio, ya que la forma es un requisito ad solemnitatem indispensable para su eficacia.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: Analice la importancia de los elementos accidentales en la configuración de los efectos de un negocio jurídico.
+Respuesta Correcta: Los elementos accidentales, como la condición, el término y el modo, permiten a las partes modular los efectos del negocio. Aunque no son necesarios para su validez, una vez incorporados, se convierten en requisitos de eficacia, enriqueciendo la autonomía privada.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 2: El negocio jurídico
+
+Pregunta: ¿Por qué se considera el consentimiento un elemento esencial en la constitución del negocio jurídico?
+Respuesta Correcta: El consentimiento es fundamental porque garantiza la voluntad libre, consciente y deliberada de las partes, sin coacción ni error, asegurando así la validez del negocio jurídico.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: Analiza la importancia de la licitud de la causa en un negocio jurídico.
+Respuesta Correcta: La licitud de la causa es crucial porque determina la validez del negocio. Si la causa es ilícita, contraria a la ley o la moral, el negocio es nulo de pleno derecho, como en el tráfico de sustancias prohibidas.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: Explora las diferencias entre los elementos naturales y accidentales de un negocio jurídico.
+Respuesta Correcta: Los elementos naturales se integran automáticamente por ley, salvo pacto en contrario, mientras que los accidentales son añadidos por las partes para personalizar el negocio, como condiciones o plazos.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: ¿Cuál es el papel de la forma en los negocios jurídicos y cuándo se considera esencial?
+Respuesta Correcta: La forma exterioriza la voluntad, siendo esencial solo en negocios solemnes. En los demás, prevalece la libertad de forma, permitiendo verbal o escrita, según convenga a las partes.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: Discute el impacto de la falta de un elemento esencial en un negocio jurídico.
+Respuesta Correcta: La ausencia de un elemento esencial, como el consentimiento o la causa, provoca la nulidad del negocio, impidiendo que produzca efectos jurídicos válidos en el ordenamiento.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: Evalúa el concepto de causa en el contexto de un contrato de arrendamiento.
+Respuesta Correcta: En un arrendamiento, la causa para el arrendatario es el uso de la vivienda, y para el arrendador, la renta periódica. Esta causa justifica el negocio y su protección jurídica.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 4: Elementos del negocio jurídico 1. Concepto y estructura
+
+Pregunta: Analice la diferencia entre nulidad absoluta y anulabilidad en el contexto de la ineficacia negocial.
+Respuesta Correcta: La nulidad absoluta implica que el negocio nunca fue válido, carece de efectos desde el origen y es imprescriptible. La anulabilidad, en cambio, permite que el negocio produzca efectos hasta que sea impugnado y solo puede ser solicitada dentro de un plazo de cuatro años por la persona afectada.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+
+Pregunta: Explique cómo opera la acción de nulidad en comparación con la acción de anulabilidad.
+Respuesta Correcta: La acción de nulidad puede ser ejercida por cualquier persona con un interés legítimo y es imprescriptible, mientras que la anulabilidad tiene un plazo de cuatro años y solo puede ser ejercida por la persona cuyo interés se protege. La nulidad requiere declaración judicial, al igual que la anulabilidad.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+
+Pregunta: Discuta las consecuencias jurídicas de declarar nulo un negocio jurídico bajo el supuesto de causa ilícita.
+Respuesta Correcta: Si un negocio es nulo por causa ilícita, las partes no pueden reclamar restitución si ambas participaron en el ilícito. Esto se ve en los casos de ilícito penal y causa torpe, donde el derecho no protege a quienes actúan de mala fe. Así, la nulidad no otorga derechos de restitución.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+
+Pregunta: Evalúe el papel de la rescisión en la ineficacia en sentido estricto de los negocios jurídicos.
+Respuesta Correcta: La rescisión actúa sobre negocios válidos que, sin vicios estructurales, causan un perjuicio injusto. Puede ser solicitada en casos de lesión patrimonial o fraude de acreedores, buscando equilibrar las consecuencias económicas del negocio sin invalidar su constitución original.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+
+Pregunta: Analice cómo funciona la nulidad parcial y su relación con el principio de conservación del negocio jurídico.
+Respuesta Correcta: La nulidad parcial permite que solo las cláusulas viciadas de un negocio sean consideradas inexistentes, manteniendo válidos los elementos esenciales del contrato. Esto refleja el principio de conservación, que busca preservar la eficacia del negocio en la mayor medida posible.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+
+Pregunta: Explique las diferencias entre ineficacia en sentido estricto e invalidez en el contexto del negocio jurídico.
+Respuesta Correcta: La ineficacia en sentido estricto se da en negocios válidos pero sin efectos por causas externas, como la rescisión. La invalidez afecta la estructura esencial desde el inicio, abarcando nulidad y anulabilidad, y responde a vicios internos del negocio, como falta de consentimiento o causa ilícita.
+Manual: Manual Civil 1
+Bloque: Bloque 4
+Tema: Tema 5: Ineficacia el negocio jurídico
+

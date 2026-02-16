@@ -1,0 +1,936 @@
+Pregunta: ¿Cómo se diferencia el arbitraje de la jurisdicción ordinaria en cuanto a la resolución de conflictos?
+Respuesta Correcta: El arbitraje, a diferencia de la jurisdicción ordinaria, permite a las partes elegir un tercero imparcial (árbitro) para resolver sus controversias de forma privada. Este método es más ágil y menos costoso, fundamentado en la autonomía de la voluntad, mientras que la jurisdicción ordinaria es de carácter público y estatal.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: Analice las principales diferencias entre el arbitraje y la mediación como métodos de resolución de conflictos.
+Respuesta Correcta: La diferencia fundamental radica en el papel del tercero: en arbitraje, el árbitro decide y su laudo es vinculante; en mediación, el mediador facilita el diálogo, pero no decide, dejando que las partes lleguen a un acuerdo voluntario. Así, el arbitraje es heterocompositivo y la mediación autocompositiva.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: Explique cómo la teoría ecléctica define la naturaleza jurídica del arbitraje.
+Respuesta Correcta: La teoría ecléctica considera al arbitraje como híbrido: contractual en origen, ya que surge del convenio arbitral basado en la autonomía de la voluntad, y jurisdiccional en sus efectos, pues el laudo arbitral tiene efectos análogos a una sentencia y es ejecutable, reflejando el espíritu de la Ley 60/2003.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: ¿Qué distingue al arbitraje ad hoc del arbitraje institucional y cuáles son sus implicancias prácticas?
+Respuesta Correcta: En el arbitraje ad hoc, las partes gestionan directamente el proceso, eligiendo árbitros y reglas, lo que les otorga flexibilidad y control, pero requiere mayor organización. El arbitraje institucional, en cambio, delega estas funciones a una entidad especializada, que aporta reglamentos y logística, profesionalizando el proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: Analice las implicaciones de elegir un arbitraje de equidad sobre uno de derecho.
+Respuesta Correcta: El arbitraje de equidad permite al árbitro resolver según su leal saber y entender, buscando una solución justa sin estar atado estrictamente a las normas jurídicas, adecuado para casos donde las partes buscan justicia material. En cambio, el arbitraje de derecho se rige por el ordenamiento jurídico, como un juez estándar.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: Discuta cómo la elección entre arbitraje nacional e internacional puede afectar el proceso y el resultado del arbitraje.
+Respuesta Correcta: El arbitraje nacional se desarrolla bajo la legislación española, facilitando el proceso a partes locales. En contraste, el arbitraje internacional involucra múltiples jurisdicciones y puede requerir adaptaciones a diferentes ordenamientos jurídicos, influyendo en la logística, costos y ejecución del laudo final.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 1: Introducción al arbitraje como medio de solución extrajudicial
+
+Pregunta: ¿Cómo influyó la Ley 36/1988 en la evolución del arbitraje en España y qué cambios significativos introdujo respecto a la Ley de 1953?
+Respuesta Correcta: La Ley 36/1988 modernizó el arbitraje en España, superando la limitación patrimonial de la Ley de 1953. Propició un aumento de convenios arbitrales, consolidó el arbitraje institucional y adoptó prácticas uniformes, especialmente en el ámbito internacional, lo que fortaleció la expansión del arbitraje en el país.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: Analice el principio Competenz-Competenz en el contexto de la Ley 60/2003 y su importancia en el proceso arbitral.
+Respuesta Correcta: El principio Competenz-Competenz, recogido en la Ley 60/2003, otorga a los árbitros la potestad de decidir sobre su propia competencia. Este principio es crucial para garantizar la autonomía del proceso arbitral y evitar la intervención prematura de los tribunales ordinarios, fortaleciendo así la eficacia del arbitraje.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: Explique la regla de territorialidad y sus excepciones en la aplicación de la Ley 60/2003 de Arbitraje.
+Respuesta Correcta: La Ley 60/2003 se aplica a arbitrajes en territorio español, independientemente de su carácter nacional o internacional. Excepciones incluyen arbitrajes especiales, donde la ley actúa supletoriamente, y la exclusión de arbitrajes laborales. En arbitrajes internacionales, tratados ratificados por España tienen prelación.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: ¿Cuáles son las limitaciones del principio de autonomía de la voluntad en las actuaciones arbitrales según la Ley 60/2003?
+Respuesta Correcta: La autonomía de la voluntad en el arbitraje, según la Ley 60/2003, está limitada por el respeto al derecho de defensa y al principio de igualdad. Estas restricciones aseguran que los procedimientos arbitrales sean justos y equitativos, protegiendo derechos fundamentales de las partes involucradas.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: Discuta la razón por la cual la Ley 60/2003 evita el término 'recurso' al referirse a la anulación del laudo.
+Respuesta Correcta: La Ley 60/2003 evita el término 'recurso' para referirse a la anulación del laudo, porque, técnicamente, los recursos se interponen contra resoluciones judiciales, y el laudo arbitral no es tal. Esto subraya la independencia del arbitraje respecto al sistema judicial tradicional y acota los motivos de anulación.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: Analice el concepto de materias de libre disposición en el arbitraje y su relevancia conforme al artículo 2 de la Ley 60/2003.
+Respuesta Correcta: El artículo 2 de la Ley 60/2003 establece que solo las materias de libre disposición pueden someterse a arbitraje, es decir, aquellas sobre las que las partes pueden acordar libremente. Esto excluye asuntos prohibidos por ley o que afectan derechos indisponibles, asegurando que el arbitraje no contravenga normas de orden público.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 2: Ley 60/2003, de Arbitraje al descubierto 1. Características y Ámbito de Aplicación
+
+Pregunta: ¿Qué ventajas ofrece el arbitraje institucional frente al arbitraje ad hoc según la Ley 60/2003?
+Respuesta Correcta: El arbitraje institucional proporciona reglas procedimentales claras, profesionalización mediante listas de árbitros cualificados, supervisión y transparencia en el proceso, y efectividad en la ejecución del laudo, garantizando seguridad jurídica y agilidad en la resolución de controversias.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: Analiza la importancia de la mayoría reforzada en el arbitraje societario y su impacto en la sociedad de capital.
+Respuesta Correcta: La exigencia de una mayoría de dos tercios para incluir una cláusula arbitral en los estatutos sociales asegura que una decisión tan crucial como someter conflictos internos a arbitraje tenga un respaldo significativo, evitando imposiciones arbitrarias y garantizando el consenso entre los socios.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: Evalúa las limitaciones materiales del arbitraje según el artículo 2 de la Ley 60/2003.
+Respuesta Correcta: El arbitraje está limitado a materias de libre disposición, excluyendo aquellas de orden público o penales. Esto asegura que el arbitraje no se use para resolver cuestiones que afecten al interés general o que requieran una intervención judicial por su naturaleza.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: ¿Cómo se justifica la imposición unilateral del arbitraje sucesorio por parte del testador?
+Respuesta Correcta: El arbitraje sucesorio se impone por el testador para prevenir litigios judiciales entre herederos, buscando una solución menos perjudicial para relaciones familiares. Al ser una decisión testamentaria, no puede ser rechazada, garantizando así su efectividad en la resolución de disputas.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: Discute las implicaciones del coste en el arbitraje comparado con la vía judicial.
+Respuesta Correcta: Aunque el arbitraje permite prever el coste total del proceso, su cuantía puede ser superior a la judicial debido a honorarios de árbitros e instituciones arbitrales. Sin embargo, esta previsibilidad evita sorpresas en las costas, un problema común en procesos judiciales.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: Analiza la función del Tribunal Español de Arbitraje Deportivo y su relevancia en el contexto deportivo.
+Respuesta Correcta: El Tribunal Español de Arbitraje Deportivo resuelve controversias jurídicas en el ámbito deportivo, tales como contratos de patrocinio o conflictos federativos. Su composición mixta de juristas y expertos deportivos garantiza decisiones informadas y adecuadas al contexto del deporte profesional.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 3: Los Arbitrajes Especiales
+
+Pregunta: ¿Cuál es la importancia del principio de autonomía del convenio arbitral respecto al contrato principal?
+Respuesta Correcta: El principio de autonomía garantiza que el convenio arbitral sea considerado independiente del contrato principal. Esto implica que la nulidad del contrato no afecta automáticamente al convenio arbitral, permitiendo que las controversias se resuelvan por arbitraje incluso si el contrato principal es inválido.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: Analiza cómo el criterio antiformalista influye en la forma del convenio arbitral según la Ley de Arbitraje.
+Respuesta Correcta: El criterio antiformalista permite que el convenio arbitral sea válido sin requerir formalidades complejas, siempre que conste por escrito. Esto puede lograrse mediante documentos firmados, intercambios de comunicaciones electrónicas o cualquier soporte que permita su consulta posterior, facilitando así su implementación práctica.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: Discute la eficacia negativa del convenio arbitral y su impacto en la jurisdicción de los tribunales ordinarios.
+Respuesta Correcta: La eficacia negativa impide que los tribunales ordinarios conozcan de las controversias sometidas a arbitraje. Si una parte intenta litigar en tribunales civiles, la otra puede alegar la existencia del convenio arbitral mediante la declinatoria, obligando al juez a abstenerse de conocer el caso.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: ¿Qué requisitos de contenido mínimo debe cumplir un convenio arbitral y por qué son importantes?
+Respuesta Correcta: El convenio debe expresar claramente la voluntad de someter la controversia a arbitraje e identificar la materia concreta sujeta a arbitraje. Estos requisitos aseguran que las partes estén de acuerdo sobre el alcance del arbitraje y que solo se arbitren materias de libre disposición, garantizando la claridad y eficacia del acuerdo.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: ¿Cómo asegura la Ley de Arbitraje la presunción de existencia del convenio arbitral en el ámbito procesal?
+Respuesta Correcta: La presunción de existencia se da cuando una parte alega el convenio en un escrito procesal y la otra no lo niega expresamente. Esto evita que las partes eludan el arbitraje por omisión, reforzando la seguridad jurídica y la eficacia del convenio en el procedimiento judicial.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: Examina las causas de nulidad y anulabilidad del convenio arbitral y su relación con el principio de autonomía.
+Respuesta Correcta: El convenio arbitral puede ser nulo si infringe normas imperativas o versa sobre materias no disponibles. La anulabilidad surge por vicios del consentimiento o falta de capacidad. El principio de autonomía asegura que estas causas no afecten la validez del convenio si el contrato principal es nulo, preservando su independencia.
+Manual: Manual Arbitraje
+Bloque: Bloque 1
+Tema: Tema 4: El Convenio Arbitral y Su Eficacia entre las Partes
+
+Pregunta: ¿Por qué es importante que el número de árbitros sea impar según el Art. 12 de la Ley 60/2003?
+Respuesta Correcta: El número impar de árbitros es crucial para evitar empates en la toma de decisiones y asegurar la eficacia del proceso arbitral. Esto garantiza que siempre haya una mayoría en las deliberaciones, permitiendo emitir un laudo sin bloqueos, lo cual es esencial para la agilidad y economía procesal.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: Analiza el principio de autonomía de la voluntad en la designación de árbitros y su límite según el Art. 15 de la Ley 60/2003.
+Respuesta Correcta: El principio de autonomía de la voluntad permite a las partes determinar libremente el método de designación de árbitros. Sin embargo, este principio está limitado por el imperativo de no vulnerar la igualdad de las partes, asegurando un proceso justo donde ninguna parte tenga ventaja indebida en la elección.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: Explica el procedimiento judicial de nombramiento de árbitros cuando no hay acuerdo entre las partes.
+Respuesta Correcta: En ausencia de acuerdo, el tribunal competente interviene para nombrar árbitros mediante un sistema de listas y sorteo. Esto garantiza la neutralidad y evita la discrecionalidad en la elección, asegurando que el proceso se mantenga imparcial y equitativo para ambas partes involucradas.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: ¿Cuál es la función de las reglas supletorias en el proceso de designación de árbitros?
+Respuesta Correcta: Las reglas supletorias actúan como un mecanismo de respaldo cuando las partes no logran un acuerdo sobre la designación de árbitros. Establecen procedimientos específicos, como la intervención del tribunal competente, para asegurar que el proceso arbitral pueda proseguir de manera justa y ordenada.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: Discute cómo el arbitraje institucional modifica las reglas de designación de árbitros establecidas en el Art. 15 de la LA.
+Respuesta Correcta: El arbitraje institucional permite que una entidad especializada gestione el nombramiento de árbitros siguiendo su propio reglamento, sustituyendo las reglas supletorias del Art. 15. Esta modalidad puede ofrecer mayor eficiencia y especialización, al delegar en instituciones con experiencia en la materia.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: Evalúa la importancia de la imparcialidad, experiencia y competencia técnica de los árbitros en el proceso arbitral.
+Respuesta Correcta: La imparcialidad, experiencia y competencia técnica de los árbitros son esenciales para un proceso justo y eficiente. Estas cualidades aseguran que las decisiones se basen en un análisis riguroso y objetivo de las pruebas, fortaleciendo la legitimidad y aceptación del laudo arbitral por las partes.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 1: Los árbitros y su designación Iniciamos el estudio del Tema 3, centrado en la figura clave del arbitraje: los árbitros. El análisis abarcará su concepto, naturaleza y, fundamentalmente, el régimen jurídico de su designación. Se recomienda tener como referencia la Ley 60/2003, de Arbitraje (LA), en particular su Título
+
+Pregunta: ¿Por qué es fundamental para el arbitraje que los árbitros sean imparciales e independientes?
+Respuesta Correcta: La imparcialidad e independencia son esenciales para garantizar que los árbitros no tengan intereses personales que comprometan su objetividad, asegurando así un laudo justo y legítimo. Este principio es crucial para mantener la confianza de las partes en el proceso arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: Analiza las consecuencias de que un árbitro no cumpla con el deber de revelación según el art. 17 de la LA.
+Respuesta Correcta: El incumplimiento del deber de revelación puede llevar a la abstención voluntaria del árbitro o a su recusación por las partes. Esto asegura que ningún laudo sea afectado por la falta de transparencia, protegiendo la imparcialidad e independencia del procedimiento.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: Explora la diferencia entre abstención y recusación en el contexto del arbitraje.
+Respuesta Correcta: La abstención es una acción voluntaria del árbitro al detectar un conflicto de interés, mientras que la recusación es iniciada por una de las partes que percibe un compromiso en la neutralidad del árbitro. Ambos mecanismos garantizan la integridad del proceso arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: ¿Cómo se regula la capacidad para ser árbitro según el art. 13 de la LA, y cuáles son las principales exclusiones?
+Respuesta Correcta: El art. 13 de la LA establece que solo personas naturales en pleno ejercicio de sus derechos civiles pueden ser árbitros. Esto excluye a menores, personas con capacidad modificada judicialmente y personas jurídicas, además de ciertas profesiones incompatibles como jueces en activo.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: Explica por qué es importante que los árbitros tengan competencia y experiencia en arbitraje.
+Respuesta Correcta: La competencia y experiencia garantizan que los árbitros puedan resolver eficazmente la disputa, aplicando correctamente el derecho y entendiendo la materia específica. Esto es vital para la calidad del laudo y la confianza de las partes en el proceso arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: Discute la importancia del régimen de incompatibilidades laborales en el arbitraje.
+Respuesta Correcta: El régimen de incompatibilidades asegura que ciertos profesionales, como jueces y fiscales en activo, no ejerzan como árbitros, evitando conflictos de interés y preservando la imparcialidad e independencia del arbitraje, fundamentales para su legitimidad.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos y Condiciones para ser y trabajar como árbitro
+
+Pregunta: Analiza la importancia de la nacionalidad en la designación de árbitros según el Art. 13.
+Respuesta Correcta: El Art. 13 permite que cualquier persona, independientemente de su nacionalidad, pueda ser árbitro, lo que fomenta la diversidad y elección amplia de expertos. Sin embargo, prevalece la autonomía de las partes al permitir acuerdos contrarios, garantizando flexibilidad en el proceso arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: Evalúa la exigencia de cualificación para árbitros en arbitrajes de Derecho bajo el Art. 15.1.
+Respuesta Correcta: El Art. 15.1 establece que, salvo pacto en contrario, en arbitrajes de Derecho, los árbitros deben ser juristas, pero si hay más de tres, basta que uno lo sea. Esto asegura un nivel mínimo de conocimiento jurídico, respetando a la vez la autonomía de las partes para pactar lo contrario.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: Discute las implicaciones del silencio del árbitro ante la aceptación del cargo según el Art. 16.
+Respuesta Correcta: El Art. 16 estipula que el silencio del árbitro tras 15 días se interpreta como no aceptación, lo que protege la celeridad del procedimiento arbitral, obligando a los árbitros a manifestarse explícitamente, evitando incertidumbres y retrasos en la constitución del tribunal arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: Analiza el deber de los árbitros de revelar circunstancias que afecten a su imparcialidad según el Art. 17.
+Respuesta Correcta: El Art. 17 impone a los árbitros la obligación de revelar cualquier circunstancia que pueda comprometer su imparcialidad o independencia, lo que es crucial para asegurar un proceso arbitral justo y transparente, protegiendo la confianza de las partes en el tribunal.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: Examina el procedimiento y las consecuencias de la recusación según el Art. 18.
+Respuesta Correcta: El Art. 18 establece un plazo de 15 días para la recusación desde la aceptación del árbitro o el conocimiento de los hechos. Si la recusación es desestimada, solo puede alegarse en la impugnación del laudo, lo que subraya la seriedad del procedimiento y limita su uso indebido.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: Reflexiona sobre la relación entre abstención voluntaria y recusación a instancia de parte en el arbitraje.
+Respuesta Correcta: La abstención y la recusación son mecanismos que garantizan la neutralidad del árbitro. La abstención es voluntaria, mientras que la recusación es solicitada por las partes. Ambos mecanismos aseguran la imparcialidad del proceso, pero la recusación tiene un procedimiento formal con consecuencias específicas.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: Aspecto Regulació n (LA) Detalle Clave
+
+Pregunta: ¿Cuáles son los principales requisitos subjetivos para ser árbitro según la Ley de Arbitraje y cómo se justifican desde la perspectiva de la imparcialidad e independencia?
+Respuesta Correcta: Para ser árbitro, se requiere ser una persona natural en pleno ejercicio de sus derechos civiles, sin restricciones de nacionalidad salvo pacto en contrario, y ser jurista en arbitrajes de Derecho. Estos requisitos garantizan la imparcialidad e independencia, asegurando que el árbitro actúe sin influencias indebidas y con competencia técnica adecuada.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Analiza el procedimiento de aceptación del nombramiento de un árbitro y explica su relevancia práctica en el proceso arbitral.
+Respuesta Correcta: El árbitro debe comunicar su aceptación del nombramiento dentro de 15 días, lo cual formaliza su compromiso y activa sus deberes y responsabilidades. La aceptación tácita negativa, si no se comunica en el plazo, evita dilaciones y asegura que solo árbitros dispuestos y conscientes de sus obligaciones asuman el cargo.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Compara y contrasta los mecanismos de abstención y recusación en el arbitraje, subrayando sus diferencias y consecuencias prácticas.
+Respuesta Correcta: La abstención es voluntaria del árbitro al identificarse un conflicto de interés, mientras que la recusación es solicitada por una parte ante dudas justificadas sobre la imparcialidad. La abstención evita conflictos anticipadamente, mientras que la recusación puede llevar a la remoción del árbitro, aunque si no prospera, podrá ser impugnada en el laudo.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Examina las obligaciones y responsabilidades de los árbitros en el contexto de los arbitrajes institucionales y ad hoc.
+Respuesta Correcta: En arbitrajes ad hoc, los árbitros son responsables directos por daños y perjuicios derivados de su incumplimiento. En arbitrajes institucionales, tanto los árbitros como la institución pueden ser demandados, permitiendo al perjudicado una acción directa contra la institución, reflejando una responsabilidad compartida que asegura mayor diligencia.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Discute la importancia del seguro de responsabilidad civil para los árbitros y las instituciones arbitrales, así como sus excepciones.
+Respuesta Correcta: El seguro de responsabilidad civil es esencial para cubrir eventuales daños y asegurar la confianza en el arbitraje. Sin embargo, no se exige a entidades públicas o sistemas arbitrales de administraciones públicas, dada su naturaleza y presunción de solvencia, aunque esta excepción podría poner en riesgo la protección de los perjudicados.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Evalúa las implicaciones de la provisión de fondos en el arbitraje y las consecuencias de su impago por las partes.
+Respuesta Correcta: La provisión de fondos garantiza el financiamiento del proceso arbitral, cubriendo honorarios y gastos. Si las partes no pagan, los árbitros pueden suspender o concluir el procedimiento, lo que subraya la necesidad de previsión financiera de las partes y otorga a los árbitros un mecanismo para asegurar su retribución y la viabilidad del arbitraje.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 3: La Responsabilidad de los Árbitros
+
+Pregunta: Explique cómo se manifiesta la autonomía de la voluntad de las partes en el nombramiento de árbitros según la Ley 60/2003 de Arbitraje.
+Respuesta Correcta: La autonomía de la voluntad se manifiesta en que las partes pueden elegir libremente el procedimiento para nombrar árbitros, siempre que respeten el principio de igualdad. Sin embargo, la ley prevé intervención judicial si las partes no logran un acuerdo, garantizando así la eficacia del convenio arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: Analice los supuestos en los que es necesaria la intervención judicial para el nombramiento de árbitros.
+Respuesta Correcta: La intervención judicial es necesaria cuando las partes no logran acordar la persona concreta para ser árbitro o cuando se requiere un árbitro de urgencia y no hay acuerdo. En estos casos, el tribunal competente designará al árbitro para evitar el bloqueo del arbitraje.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: ¿Qué criterios utiliza el tribunal para designar árbitros cuando interviene judicialmente según la Ley de Arbitraje?
+Respuesta Correcta: El tribunal utiliza criterios de idoneidad técnica, conocimientos especializados e imparcialidad para elaborar una lista de candidatos idóneos. El nombramiento final de los árbitros se realiza mediante sorteo entre estos candidatos, asegurando imparcialidad y adecuación al caso.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: ¿Cómo se determina el tribunal competente para el nombramiento de árbitros en caso de intervención judicial?
+Respuesta Correcta: El tribunal competente es la Sala de lo Civil y de lo Penal del TSJ del lugar del arbitraje. Si el lugar no está determinado, se aplican fueros subsidiarios, como el TSJ del domicilio del demandado o del actor, según lo dispuesto en el artículo 8 de la Ley de Arbitraje.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: Discuta la importancia de la irrecurribilidad de las decisiones sobre el nombramiento de árbitros.
+Respuesta Correcta: La irrecurribilidad de las decisiones sobre el nombramiento de árbitros garantiza celeridad y firmeza en el proceso arbitral, evitando dilaciones que podrían surgir de procesos de apelación. Esto fortalece la eficacia del arbitraje como mecanismo de resolución de disputas.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: En qué situaciones no procede la intervención judicial en el nombramiento de árbitros según la Ley de Arbitraje.
+Respuesta Correcta: La intervención judicial no procede si las partes han acordado previamente una lista cerrada de árbitros, han establecido un procedimiento de selección propio o cuando las disputas están fuera de la jurisdicción española, como excluidas por ley o acuerdo válido.
+Manual: Manual Arbitraje
+Bloque: Bloque 2
+Tema: Tema 4: Nombramiento Judicial de los Árbitros
+
+Pregunta: Argumente sobre la importancia de la autonomía de la voluntad en la determinación del procedimiento arbitral según el Art. 25 de la LA.
+Respuesta Correcta: La autonomía de la voluntad permite a las partes adaptar el procedimiento arbitral a sus necesidades específicas, garantizando flexibilidad y eficiencia. Según el Art. 25 de la LA, esta primacía significa que las partes pueden acordar las reglas del procedimiento, otorgando control sobre aspectos como elección de árbitros y plazos, lo que distingue al arbitraje de la jurisdicción ordinaria.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: Analice el rol de los árbitros en la dirección del procedimiento arbitral en ausencia de un pacto entre las partes.
+Respuesta Correcta: En ausencia de pacto, los árbitros tienen la potestad de dirigir el arbitraje según consideren apropiado, siempre dentro de los límites de la LA. Esta autoridad incluye decisiones sobre admisibilidad, práctica y valoración de pruebas, lo cual asegura que el proceso avance de manera justa y eficiente, respetando los principios de igualdad, audiencia y contradicción.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: Explique cómo el principio de confidencialidad influye en la percepción del arbitraje como un método alternativo de resolución de conflictos.
+Respuesta Correcta: La confidencialidad, regulada en el Art. 24.2 de la LA, es fundamental para el arbitraje, ya que contrasta con la publicidad de los procedimientos judiciales. Protege la privacidad de las partes y la información sensible, lo cual es atractivo para quienes buscan resolver disputas de manera discreta, manteniendo la integridad del proceso y la confianza entre las partes involucradas.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: Discuta cómo los principios de igualdad, audiencia y contradicción garantizan la neutralidad en el procedimiento arbitral.
+Respuesta Correcta: Estos principios, establecidos en el Art. 24 de la LA, son esenciales para asegurar la equidad del proceso arbitral. La igualdad evita discriminación, la audiencia asegura que todas las partes puedan presentar sus argumentos, y la contradicción permite refutar pruebas y argumentos adversos, garantizando así un trato justo y neutral por parte de los árbitros.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: Evalúe la efectividad del arbitraje como método de resolución de conflictos en comparación con la jurisdicción ordinaria.
+Respuesta Correcta: El arbitraje es efectivo por su flexibilidad, autonomía de las partes, y confidencialidad, permitiendo una resolución más rápida y económica de disputas. A diferencia de la jurisdicción ordinaria, ofrece un procedimiento menos formal y más adaptado a las necesidades de las partes, aunque debe respetar principios procesales fundamentales para mantener su legitimidad y equidad.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: Analice cómo la potestad de los árbitros para decidir sobre la admisibilidad y valoración de pruebas contribuye a la flexibilidad del procedimiento arbitral.
+Respuesta Correcta: Los árbitros tienen la facultad de decidir sobre la pertinencia, práctica y valoración de pruebas, lo que permite adaptar el proceso a las circunstancias específicas de cada caso. Esta flexibilidad garantiza que el procedimiento sea eficiente y justo, respetando siempre los principios de igualdad, audiencia y contradicción, y facilitando una resolución adecuada y personalizada del conflicto.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 1: El Procedimiento Arbitral y sus Principios
+
+Pregunta: ¿Cómo articula la Ley 60/2003 la relación entre el arbitraje y la jurisdicción ordinaria en materia de prueba?
+Respuesta Correcta: La Ley 60/2003 establece que, aunque el arbitraje opera al margen de los tribunales, se permite la intervención judicial en materia de prueba mediante asistencia o dirección exclusiva del tribunal para suplir la falta de imperium de los árbitros. Esto asegura que las partes puedan obtener pruebas necesarias mediante la coerción estatal.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: Analice la razón por la cual los árbitros carecen de imperium y cómo se suple esta carencia según la Ley 60/2003.
+Respuesta Correcta: Los árbitros carecen de imperium porque no poseen poder coercitivo estatal, lo que les impide obligar a terceros a comparecer o aportar documentos. La Ley 60/2003 suple esta carencia permitiendo que los árbitros soliciten asistencia judicial para la obtención de pruebas, garantizando así un procedimiento justo y completo.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: Explique las modalidades de intervención judicial en la prueba durante un arbitraje según el artículo 33 de la LA.
+Respuesta Correcta: El artículo 33 de la LA prevé dos modalidades de intervención judicial: la asistencia en la obtención de pruebas, donde el tribunal facilita la coerción necesaria, y la dirección exclusiva, donde el tribunal asume la supervisión total de la prueba a petición de las partes. Ambas modalidades aseguran el acceso a pruebas relevantes.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: Discuta la importancia de la intervención judicial en medidas cautelares antes y durante el procedimiento arbitral.
+Respuesta Correcta: La intervención judicial en medidas cautelares es crucial para asegurar la efectividad del laudo arbitral y proteger derechos amenazados. Antes de constituirse el tribunal arbitral, sólo los jueces pueden adoptar medidas cautelares. Durante el arbitraje, la intervención judicial permite ejecutar forzosamente las medidas, si las partes no las cumplen voluntariamente.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: ¿Qué rol juegan los tribunales en la revisión y anulación del laudo arbitral según la Ley 60/2003?
+Respuesta Correcta: Los tribunales tienen un rol de control a posteriori del laudo arbitral. Pueden anularlo si se demuestra que es contrario al orden público o contiene errores procesales fundamentales, según el artículo 41 de la LA. Esto garantiza que el arbitraje respete las garantías legales básicas y el ordenamiento jurídico.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: Argumente sobre la necesidad de intervención judicial en el nombramiento y remoción de árbitros en el arbitraje.
+Respuesta Correcta: La intervención judicial en el nombramiento y remoción de árbitros es necesaria para desbloquear situaciones donde las partes no alcanzan acuerdos, garantizando la constitución del tribunal arbitral. El Tribunal Superior de Justicia interviene, asegurando la imparcialidad y adecuada composición del tribunal, conforme al artículo 15 de la LA.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 2: La Intervención Judicial en el Procedimiento Arbitral
+
+Pregunta: ¿Por qué es relevante la elección del lugar del arbitraje según el artículo 26 de la LA?
+Respuesta Correcta: El lugar del arbitraje es crucial ya que determina la competencia judicial para funciones de apoyo y control, como el nombramiento de árbitros o la anulación del laudo. Además, el principio de autonomía de la voluntad permite a las partes elegir este lugar, y en su ausencia, los árbitros deben considerar las circunstancias del caso.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: Analice las implicaciones de no acordar un idioma para el arbitraje según el artículo 28 de la LA.
+Respuesta Correcta: Si no se acuerda un idioma, los árbitros decidirán, generalmente utilizando una lengua oficial del lugar donde se desarrollan las actuaciones. Sin embargo, deben garantizar el derecho de defensa, permitiendo a cada parte ser escuchada en su idioma mediante intérpretes si es necesario, según los principios de audiencia y contradicción.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: Explique cómo el principio de autonomía de la voluntad se refleja en la elección del lugar e idioma del arbitraje.
+Respuesta Correcta: La autonomía de la voluntad se refleja en la libertad de las partes para elegir tanto el lugar como el idioma del arbitraje. Este principio permite adaptar el proceso a las necesidades específicas de las partes. En ausencia de acuerdo, los árbitros deben decidir, siempre considerando las circunstancias y conveniencia de las partes.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: Describa el contenido mínimo supletorio que deben tener la demanda y la contestación en el arbitraje.
+Respuesta Correcta: El contenido mínimo supletorio para la demanda y contestación incluye los hechos que fundamentan la pretensión, la naturaleza y las circunstancias de la controversia, y las pretensiones específicas. Este contenido asegura una base común para el procedimiento en ausencia de acuerdos específicos entre las partes.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: Discuta la flexibilidad en la fase de alegaciones en el procedimiento arbitral según el artículo 29 de la LA.
+Respuesta Correcta: La fase de alegaciones en el arbitraje es flexible, permitiendo a las partes acordar el contenido de la demanda y contestación. En ausencia de acuerdo, la ley establece un contenido mínimo, y permite la modificación de estos escritos durante el proceso, salvo que cause retrasos injustificados según el criterio de los árbitros.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: Analice el papel de los árbitros en la determinación del lugar del arbitraje en ausencia de acuerdo entre las partes.
+Respuesta Correcta: En ausencia de acuerdo, los árbitros deben determinar el lugar del arbitraje considerando las circunstancias del caso y la conveniencia de las partes. Esta decisión no puede ser arbitraria y debe garantizar que el proceso se desarrolle en un lugar apropiado, evitando decisiones que carezcan de sentido práctico.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 3: La Tramitación del Procedimiento Arbitral (I)
+
+Pregunta: ¿Qué papel juega la autonomía de la voluntad en la decisión de celebrar audiencias orales dentro del arbitraje según el Art. 30 LA?
+Respuesta Correcta: La autonomía de la voluntad permite a las partes decidir si desean realizar audiencias orales. En su defecto, los árbitros pueden decidir según las circunstancias del caso. Sin embargo, si una parte solicita audiencia, esta se convierte en obligatoria, respetando siempre el principio de contradicción y garantizando a la otra parte el acceso a documentos y alegatos presentados.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: Analiza las consecuencias de la inactividad del demandante en el procedimiento arbitral según el Art. 31.1 LA.
+Respuesta Correcta: Si el demandante no presenta la demanda en el plazo estipulado, las actuaciones pueden terminar, salvo que el demandado quiera continuar con una reconvención. Este principio refleja el carácter dispositivo del arbitraje, donde la inactividad del demandante puede, sin causa justificada, finalizar el proceso, salvo interés del demandado en ejercer sus pretensiones.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: Explica cómo se garantiza el principio de contradicción en el procedimiento arbitral, según el análisis del Art. 30 LA.
+Respuesta Correcta: El principio de contradicción se garantiza mediante la obligación de trasladar todos los documentos y escritos aportados a los árbitros a la otra parte. Esto asegura que ambas partes tengan conocimiento de las pruebas y alegatos presentados, permitiéndoles preparar adecuadamente su defensa y mantener la igualdad de armas en el procedimiento.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: Discute las implicaciones de la incomparecencia del demandado para el desarrollo del arbitraje, conforme al Art. 31.2 LA.
+Respuesta Correcta: La incomparecencia del demandado, al no presentar contestación en plazo, no detiene el arbitraje, ni implica allanamiento o admisión de hechos. El arbitraje continúa, obligando al demandante a probar sus alegaciones. Esto refleja el principio de que el silencio del demandado no afecta la carga de la prueba que recae sobre el demandante.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: Evalúa cómo el régimen supletorio de notificaciones garantiza la comunicación efectiva en el arbitraje según el Art. 5 LA.
+Respuesta Correcta: El régimen supletorio asegura que las notificaciones se consideren recibidas mediante entrega efectiva al destinatario o en su domicilio. También admite medios electrónicos que aseguren constancia del envío y recepción. Si no se logra, se recurre a intentos en la última dirección conocida, garantizando así la comunicación efectiva y el cumplimiento de plazos.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: Reflexiona sobre cómo el sistema de cómputo de plazos se asemeja al ámbito procesal civil, según el Art. 5.2 LA.
+Respuesta Correcta: El sistema de cómputo de plazos en el arbitraje comienza al día siguiente de la notificación, computándose por días naturales. Si el último día es festivo, se prorroga al siguiente laborable, similar al ámbito procesal civil. Este método asegura un cómputo justo y equitativo, alineado con principios procesales comunes, garantizando claridad temporal en el procedimiento.
+Manual: Manual Arbitraje
+Bloque: Bloque 3
+Tema: Tema 4: La Tramitación del Procedimiento Arbitral (II)
+
+Pregunta: ¿Qué diferencias existen entre la terminación normal y anormal del procedimiento arbitral según la Ley 60/2003?
+Respuesta Correcta: La terminación normal del procedimiento arbitral se realiza mediante un laudo, que es una decisión motivada del árbitro. Las formas de terminación anormal incluyen el desistimiento del demandante, el acuerdo de las partes, y la imposibilidad o innecesariedad sobrevenida, todas reguladas en el artículo 38 de la LA, sin requerir un laudo sobre el fondo.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: Analiza la importancia de la motivación en el laudo arbitral y sus excepciones.
+Respuesta Correcta: La motivación en el laudo es fundamental para garantizar la transparencia y el entendimiento de las decisiones del árbitro. Sin embargo, la única excepción a esta regla es el laudo por acuerdo de partes, donde no se requiere motivación, ya que las partes han llegado a un acuerdo transaccional que el árbitro formaliza como laudo.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: Discute el papel del árbitro en la conservación de la documentación post-terminación del arbitraje.
+Respuesta Correcta: El artículo 38 de la LA impone a los árbitros la obligación de conservar la documentación del procedimiento durante el plazo pactado por las partes o, en su defecto, dos meses. Las partes pueden solicitar la remisión de los documentos que presentaron, sin comprometer el secreto de la deliberación arbitral, y los costos de envío corren por cuenta del solicitante.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: Explora cómo la autonomía de la voluntad de las partes influye en la notificación del laudo arbitral.
+Respuesta Correcta: La notificación del laudo se realiza según lo pactado por las partes, reflejando el principio de autonomía de la voluntad. En ausencia de pacto, se entrega un ejemplar firmado a cada parte. Este enfoque flexible permite a las partes adaptar el proceso a sus necesidades específicas, garantizando eficacia y claridad en la comunicación del laudo.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: Examina las consecuencias del incumplimiento del plazo para dictar el laudo arbitral.
+Respuesta Correcta: La Ley 60/2003 establece un plazo supletorio de seis meses para dictar el laudo desde la contestación a la demanda, prorrogable por dos meses en casos complejos. El incumplimiento del plazo puede afectar la validez del laudo y generar insatisfacción entre las partes, subrayando la importancia de gestionar con eficacia el tiempo del procedimiento arbitral.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: Reflexiona sobre el impacto de las decisiones por mayoría en tribunales colegiados dentro del arbitraje.
+Respuesta Correcta: En tribunales colegiados, las decisiones se toman por mayoría, lo que facilita la resolución de discrepancias entre árbitros y asegura la emisión del laudo, incluso cuando no hay unanimidad. Este mecanismo promueve la celeridad y eficacia del proceso arbitral, garantizando que las partes reciban una resolución oportuna, respetando siempre la autonomía de las partes si han pactado otra cosa.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 1: La Terminación
+
+Pregunta: ¿En qué casos pueden los árbitros corregir de oficio un laudo, y cuál es el plazo para realizarlo?
+Respuesta Correcta: Los árbitros pueden corregir de oficio errores materiales evidentes, como errores de cálculo, tipográficos o de copia. El plazo para realizar esta corrección es de 10 días desde la notificación del laudo, salvo que las partes pacten un plazo diferente.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: Explique cómo el procedimiento arbitral asegura el principio de contradicción al solicitar remedios post-laudo.
+Respuesta Correcta: Cuando una parte solicita un remedio post-laudo, los árbitros deben dar traslado y audiencia a la contraparte para que formule alegaciones. Esto garantiza el principio de contradicción, permitiendo que ambas partes participen en el proceso de subsanación antes de que los árbitros resuelvan.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: Analice la diferencia entre los efectos jurídicos del arbitraje y la mediación, según el contenido del tema.
+Respuesta Correcta: El arbitraje produce un laudo vinculante con efectos de cosa juzgada, similar a una sentencia judicial, lo que impide reabrir la controversia en tribunales. En cambio, la mediación resulta en acuerdos voluntarios sin efectos vinculantes, permitiendo a las partes recurrir a la jurisdicción ordinaria si no se alcanza un acuerdo.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: Discuta la importancia del plazo de 10 días para solicitar remedios post-laudo y las consecuencias de no respetarlo.
+Respuesta Correcta: El plazo de 10 días es crucial para garantizar la celeridad y seguridad jurídica en el arbitraje. Si las partes no solicitan los remedios dentro de este plazo, pierden la oportunidad de corregir errores formales o incongruencias, quedando el laudo firme y produciendo efectos de cosa juzgada.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: ¿Qué implica el efecto de cosa juzgada del laudo arbitral y cómo limita la actuación futura de las partes?
+Respuesta Correcta: El efecto de cosa juzgada del laudo arbitral implica que la controversia resuelta no puede ser reexaminada por tribunales ordinarios, confiriendo al laudo la misma autoridad que una sentencia judicial firme. Esto limita a las partes, pues no pueden someter la misma disputa a otra instancia judicial.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: Analice las ventajas y desventajas del arbitraje en comparación con la jurisdicción civil desde la perspectiva del laudo firme.
+Respuesta Correcta: El arbitraje favorece la celeridad y firmeza, evitando recursos interminables, lo que es ventajoso para resolver disputas rápidamente. Sin embargo, la desventaja es que las partes tienen poco margen para impugnar el laudo si no están de acuerdo con la decisión sobre el fondo, dado que la anulación no es una apelación.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 2: El Laudo Arbitral y sus efectos
+
+Pregunta: ¿Cuál es la principal diferencia entre el laudo arbitral y una sentencia judicial en cuanto a la posibilidad de revisión?
+Respuesta Correcta: El laudo arbitral, una vez firme, no puede ser revisado mediante recursos ordinarios o extraordinarios como la apelación o la casación. La única vía es la acción de anulación, limitada a motivos tasados. En cambio, una sentencia judicial puede ser objeto de recursos ordinarios dentro del sistema judicial.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: Analice por qué la acción de anulación es considerada un mecanismo de control externo y formal del proceso arbitral.
+Respuesta Correcta: La acción de anulación se centra en verificar si el arbitraje cumplió con las garantías fundamentales y los límites pactados, sin revisar el fondo del asunto. Esto asegura que el proceso arbitral respete la legalidad sin interferir en la autonomía de las partes y la eficacia del arbitraje, buscando un equilibrio entre celeridad y tutela judicial.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: Explique cómo el motivo de 'indefensión procesal' puede llevar a la anulación de un laudo arbitral.
+Respuesta Correcta: La indefensión procesal implica la violación de garantías procesales básicas, como el principio de contradicción. Si una parte no es notificada adecuadamente o se le impide hacer valer sus derechos, se genera un vicio anulable del laudo, protegiendo así el derecho de defensa y el debido proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: Discuta la importancia del principio de arbitrabilidad en la acción de anulación del laudo arbitral.
+Respuesta Correcta: El principio de arbitrabilidad delimita las materias que pueden ser sometidas a arbitraje. Si un laudo aborda cuestiones no arbitrables, como penales o laborales, es impugnable. Este principio asegura que solo se arbitren disputas sobre las que las partes tienen poder de disposición, protegiendo el orden jurídico.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: ¿En qué casos puede un tribunal apreciar de oficio los motivos de anulación de un laudo arbitral?
+Respuesta Correcta: Un tribunal puede apreciar de oficio los motivos de indefensión, inarbitrabilidad y contrariedad al orden público, ya que afectan intereses trascendentes. Esta capacidad de apreciación busca proteger principios fundamentales del ordenamiento jurídico, incluso si no son alegados por las partes.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: Analice la aplicación del principio de separabilidad en el contexto de la anulación parcial de un laudo arbitral.
+Respuesta Correcta: El principio de separabilidad permite que, si un vicio afecta solo parte del laudo, la anulación se limite a esa parte, manteniendo el resto válido. Esto aplica a motivos de extralimitación e inarbitrabilidad, asegurando que la parte no viciada del laudo siga siendo ejecutable si las cuestiones pueden separarse lógicamente.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 3: La Anulación del Laudo Arbitral (I)
+
+Pregunta: ¿Cuál es la naturaleza jurídica de la acción de anulación del laudo arbitral según la LA y cuál es su finalidad?
+Respuesta Correcta: La acción de anulación no es una segunda instancia ni una apelación sobre el fondo, sino un mecanismo extraordinario de control judicial para verificar la validez del laudo. Su finalidad es asegurar que el laudo cumpla con los requisitos legales establecidos en el artículo 41 de la LA.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: Analiza el rol del Letrado de la Administración de Justicia en el proceso de anulación del laudo arbitral.
+Respuesta Correcta: El Letrado de la Administración de Justicia tiene un papel crucial en la ordenación e impulso del procedimiento, especialmente en la fase de admisión, traslado de la demanda, contestación y citación a la vista, asegurando así que el proceso se desarrolle conforme a las normas procesales.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: Explica cómo se determina el plazo para ejercer la acción de anulación del laudo y los escenarios en los que este plazo puede variar.
+Respuesta Correcta: El plazo general es de dos meses desde la notificación del laudo. Sin embargo, si se ha solicitado corrección, aclaración o complemento del laudo, el plazo se cuenta desde la notificación de la resolución que atienda dicha solicitud, según el artículo 41.4 de la LA.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: Comenta las especialidades procesales del juicio verbal aplicadas en el procedimiento de anulación del laudo arbitral.
+Respuesta Correcta: Aunque se sigue el cauce del juicio verbal, existen especialidades como el plazo ampliado de 20 días para contestar la demanda, en contraste con los 10 días del juicio verbal ordinario según la LEC, permitiendo un mayor tiempo para preparar la defensa.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: Discute las condiciones bajo las cuales se puede celebrar una vista en el procedimiento de anulación del laudo.
+Respuesta Correcta: La vista se celebra si alguna de las partes lo solicita en sus escritos de demanda o contestación, o si la prueba propuesta lo requiere. De no cumplirse estas condiciones, el tribunal puede dictar sentencia sin vista, especialmente si solo hay prueba documental no impugnada.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: ¿Por qué es significativa la irrecurribilidad de la sentencia que resuelve la acción de anulación del laudo arbitral?
+Respuesta Correcta: La irrecurribilidad de la sentencia significa que no hay recurso posible, lo que otorga firmeza y certeza jurídica a la resolución del Tribunal Superior de Justicia, finalizando de manera definitiva la controversia sobre la validez del laudo.
+Manual: Manual Arbitraje
+Bloque: Bloque 4
+Tema: Tema 4: La Anulación del Laudo Arbitral (II)
+
+Pregunta: ¿Por qué es esencial la ejecución forzosa del laudo arbitral dentro del marco jurídico del arbitraje?
+Respuesta Correcta: La ejecución forzosa es esencial porque garantiza que el laudo tenga eficacia material, asegurando que las obligaciones impuestas se cumplan, incluso si el deudor no lo hace voluntariamente. Sin esta ejecución, el laudo carecería de valor práctico, ya que no se podría obligar al cumplimiento de lo decidido.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: Analiza la relación entre la Ley de Arbitraje y la Ley de Enjuiciamiento Civil en el proceso de ejecución forzosa.
+Respuesta Correcta: La Ley de Arbitraje establece las bases para la ejecución forzosa, pero es la Ley de Enjuiciamiento Civil la que regula el procedimiento específico. Este marco normativo dual permite que los laudos se ejecuten como títulos no judiciales, aprovechando el procedimiento establecido en la LEC para darles efectividad.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: ¿Cómo se garantiza la protección del ejecutado ante una acción de anulación del laudo?
+Respuesta Correcta: Aunque la acción de anulación no suspende automáticamente la ejecución, el ejecutado puede solicitar al Juzgado de Primera Instancia la suspensión de la ejecución hasta que el Tribunal Superior de Justicia resuelva sobre la anulación. Esto protege al deudor mientras se decide la validez del laudo.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: Examina la competencia del Juzgado de Primera Instancia en la ejecución forzosa de un laudo arbitral.
+Respuesta Correcta: La competencia objetiva y territorial para la ejecución forzosa de un laudo corresponde al Juzgado de Primera Instancia del lugar donde se dictó el laudo. Los árbitros, al haber concluido su función, no tienen competencia en esta fase, que queda en manos del poder judicial estatal.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: ¿Qué requisitos debe cumplir un laudo arbitral para ser ejecutable forzosamente?
+Respuesta Correcta: Para ser ejecutable, el laudo debe ser válido, cumplir con los requisitos formales establecidos en la Ley de Arbitraje y no estar afectado por causas de nulidad. Esto garantiza que el laudo sea firme y pueda ser ejecutado por el órgano competente, asegurando su legitimidad y eficacia.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: Discute la intervención de terceros en el proceso de ejecución forzosa del laudo arbitral.
+Respuesta Correcta: Terceros, como instituciones financieras y autoridades gubernamentales, pueden intervenir en el proceso de ejecución para facilitar el cumplimiento de las decisiones judiciales. Su intervención es crucial para la práctica de embargos o para garantizar el cumplimiento de obligaciones de hacer o no hacer, asegurando la efectividad del proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 1: La Ejecución Forzosa del Laudo (I)
+
+Pregunta: ¿Por qué es indispensable la ejecución forzosa del laudo arbitral según la LA y LEC?
+Respuesta Correcta: La ejecución forzosa del laudo arbitral es indispensable para asegurar la eficacia material del arbitraje, garantizando que el condenado cumpla lo dispuesto en el laudo cuando no lo hace voluntariamente, según la LA y, supletoriamente, la LEC.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: Analiza la importancia del artículo 45.1 de la LA en la ejecución del laudo arbitral.
+Respuesta Correcta: El artículo 45.1 de la LA es crucial ya que permite la ejecución del laudo incluso si se ha interpuesto una acción de anulación, asegurando que la ejecución no se suspenda injustificadamente, salvo que el tribunal la suspenda expresamente.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: ¿Cómo se diferencia un motivo material de un motivo procesal de oposición en la ejecución de un laudo?
+Respuesta Correcta: Los motivos materiales atacan la existencia o subsistencia de la obligación del laudo, como el pago o la caducidad, mientras que los procesales se refieren a defectos formales en la tramitación de la ejecución, como la falta de capacidad o nulidad del despacho.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: Argumenta sobre la exigencia de documentación en la oposición por pago o cumplimiento.
+Respuesta Correcta: La exigencia de justificación documental en la oposición por pago o cumplimiento, como un justificante bancario, es fundamental para evitar alegaciones infundadas y garantizar que el ejecutado efectivamente ha satisfecho la obligación impuesta.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: ¿Qué relevancia tiene la caducidad de la acción ejecutiva en el proceso de ejecución?
+Respuesta Correcta: La caducidad de la acción ejecutiva, con un plazo de cinco años según el artículo 518 de la LEC, es relevante porque limita temporalmente el derecho del ejecutante a solicitar la ejecución del laudo, protegiendo al ejecutado de obligaciones perpetuas.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: ¿Por qué los pactos o transacciones deben constar en documento público para oponerse a un laudo?
+Respuesta Correcta: Exigir que los pactos o transacciones consten en documento público asegura su autenticidad y evita fraudes, garantizando que realmente sustituyen la obligación del laudo antes de impedir su ejecución.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 2: La Ejecución Forzosa del Laudo (II)
+
+Pregunta: Analiza cómo el criterio del 'locus arbitri' influye en la aplicación de la Ley 60/2003 al arbitraje internacional.
+Respuesta Correcta: El 'locus arbitri', o lugar del arbitraje, es determinante para la aplicación de la Ley 60/2003. Si el arbitraje se sustancia en España, se aplicará esta ley, independientemente de la nacionalidad de las partes o naturaleza del conflicto, garantizando un marco normativo unificado para arbitrajes internos e internacionales.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: Discute la importancia de la Convención de Nueva York de 1958 en el arbitraje internacional.
+Respuesta Correcta: La Convención de Nueva York de 1958 es crucial porque establece normas globales para el reconocimiento y ejecución de laudos arbitrales extranjeros. Esto facilita la resolución de disputas transfronterizas, promoviendo la seguridad jurídica y la confianza en el arbitraje como mecanismo internacional de resolución de conflictos.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: Explica la diferencia entre un arbitraje internacional y un laudo extranjero.
+Respuesta Correcta: Un arbitraje es internacional si cumple criterios del art. 3 LA (domicilio de partes, lugar, intereses comerciales). Un laudo es extranjero si se dicta fuera del territorio donde se busca su reconocimiento y ejecución. Un arbitraje internacional puede producir un laudo nacional y viceversa, dependiendo del lugar del arbitraje.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: Evalúa el impacto de las prácticas y costumbres comerciales en el arbitraje internacional.
+Respuesta Correcta: Las prácticas y costumbres comerciales influyen significativamente en el arbitraje internacional al moldear cláusulas arbitrales y disposiciones de resolución de disputas. Estas costumbres forman parte de la Lex Mercatoria, aportando flexibilidad y adaptabilidad al proceso arbitral, reflejando las expectativas comerciales internacionales.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: Analiza la decisión legislativa de aplicar un régimen unitario al arbitraje interno e internacional en la Ley 60/2003.
+Respuesta Correcta: La decisión de un régimen unitario en la Ley 60/2003 simplifica el marco legal, reduciendo complejidades y potenciando la previsibilidad y eficiencia. Al aplicar las mismas normas a arbitrajes internos e internacionales, se facilita la comprensión y aplicación de la normativa, beneficiando a las partes involucradas en disputas arbitrales.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: Discute el papel de la jurisprudencia en la práctica del arbitraje internacional.
+Respuesta Correcta: Aunque la jurisprudencia en arbitraje no es vinculante, las decisiones judiciales sobre anulación o ejecución de laudos y laudos previos actúan como precedentes persuasivos. Esto ayuda a interpretar y aplicar normas y principios del arbitraje internacional, contribuyendo al desarrollo coherente y uniforme de esta área del Derecho.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 3: El Arbitraje Internacional y El Laudo Extranjero
+
+Pregunta: ¿Por qué se aplica la Ley 60/2003 al arbitraje internacional con sede en España, independientemente de la nacionalidad de las partes?
+Respuesta Correcta: La Ley 60/2003 se aplica porque el arbitraje se sustancia en España, y la normativa local prevalece en la regulación de procedimientos arbitrales internos, asegurando un marco jurídico homogéneo y predecible, sin importar la nacionalidad de las partes implicadas.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: Analiza la importancia del Convenio de Nueva York de 1958 en el procedimiento de exequatur de laudos arbitrales extranjeros.
+Respuesta Correcta: El Convenio de Nueva York es crucial porque establece el marco internacional para el reconocimiento y ejecución de laudos extranjeros, asegurando que dichos laudos tengan efectos prácticos en diferentes jurisdicciones, incluidos los procedimientos de exequatur en España.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: Discute el papel del Ministerio Fiscal en el procedimiento de exequatur de laudos extranjeros en España.
+Respuesta Correcta: El Ministerio Fiscal interviene preceptivamente para garantizar la legalidad del procedimiento y proteger el interés público, asegurando que el laudo no vulnere derechos fundamentales ni el orden público español.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: Evalúa los motivos por los cuales se podría denegar un exequatur en el contexto de la normativa española.
+Respuesta Correcta: El exequatur puede denegarse por falta de capacidad de las partes, defectos formales del laudo, falta de notificación, extralimitación del laudo y, especialmente, si el laudo es contrario al orden público español, asegurando así la integridad del sistema jurídico nacional.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: Explica cómo se determina el tribunal competente para el procedimiento de exequatur en España.
+Respuesta Correcta: El tribunal competente es el Juzgado de Primera Instancia del domicilio del demandado, siguiendo el criterio territorial que facilita la ejecución del laudo en el lugar donde se pretende hacer valer, simplificando la aplicación práctica del exequatur.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: Compara las diferencias entre un arbitraje internacional y un laudo extranjero en términos de jurisdicción y ley aplicable.
+Respuesta Correcta: Un arbitraje internacional se centra en el proceso, aplicando la Ley 60/2003 si se realiza en España, mientras que un laudo extranjero se refiere al resultado, requiriendo un exequatur para su ejecución en España, guiado por el Convenio de Nueva York y la Ley de Cooperación Jurídica Internacional.
+Manual: Manual Arbitraje
+Bloque: Bloque 5
+Tema: Tema 4: El Exequatur de los Laudos Arbitrales Extranjeros Continuando con el estudio del arbitraje, y tras haber analizado en profundidad el régimen general del laudo, su anulación y ejecución, nos adentramos en una materia de creciente importancia práctica en un contexto globalizado: el arbitraje
+
+Pregunta: ¿Cómo se diferencia conceptualmente el rol del tercero en la mediación frente al arbitraje?
+Respuesta Correcta: En la mediación, el mediador actúa como facilitador del diálogo sin poder decisorio, permitiendo que las propias partes lleguen a un acuerdo. En cambio, en el arbitraje, el árbitro tiene un rol decisorio similar al de un juez, emitiendo un laudo vinculante que las partes deben acatar.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Analice la importancia de la voluntariedad en el proceso de mediación y compárela con el arbitraje.
+Respuesta Correcta: La voluntariedad es esencial en la mediación, permitiendo a las partes iniciar y abandonar el proceso libremente. A diferencia del arbitraje, donde el convenio arbitral obliga a seguir el proceso hasta el laudo, la mediación se basa en la decisión continua de las partes de participar, garantizando así un proceso consensuado y flexible.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Explique la relevancia de la confidencialidad en la mediación y sus implicaciones legales.
+Respuesta Correcta: La confidencialidad asegura que lo discutido en la mediación no pueda ser revelado, protegiendo la información y fomentando un diálogo franco. Legalmente, esta confidencialidad vincula a mediadores y partes, salvo excepciones legales, garantizando un entorno seguro y privado para la negociación.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Compare la flexibilidad del proceso de mediación con los procedimientos judiciales y el arbitraje.
+Respuesta Correcta: La mediación es altamente flexible, permitiendo adaptar el proceso a las necesidades específicas de las partes, a diferencia de la rigidez procedimental de los tribunales y el arbitraje. Esta flexibilidad facilita soluciones creativas más allá del marco jurídico estricto, promoviendo acuerdos mutuamente beneficiosos.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Discuta las ventajas económicas y de celeridad de la mediación frente al arbitraje.
+Respuesta Correcta: La mediación es generalmente más económica y rápida que el arbitraje, debido a menores costes en tasas y honorarios, y a la agilidad del proceso. Esta eficiencia convierte a la mediación en una opción atractiva para resolver disputas de forma rápida y menos onerosa, en comparación con otros métodos de resolución de conflictos.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Analice las tres escuelas de pensamiento en mediación y su enfoque en el proceso.
+Respuesta Correcta: El método tradicional se centra en alcanzar un acuerdo basado en intereses comunes. El método transformativo busca mejorar la relación entre las partes mediante comunicación y reconocimiento mutuo. Por último, el método circular narrativo trabaja en la deconstrucción de relatos conflictivos para crear una narrativa compartida, enfocándose en la comprensión común del conflicto.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 1: Introducción a la Mediación
+
+Pregunta: Analiza los requisitos que debe cumplir una persona para ser mediador según la Ley 5/2012.
+Respuesta Correcta: Para ser mediador, se debe ser persona natural en pleno ejercicio de derechos civiles, tener un título universitario o formación profesional superior, y contar con formación específica en mediación. Estos requisitos buscan asegurar la profesionalidad e idoneidad del mediador.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: ¿Por qué es esencial que un mediador mantenga la imparcialidad durante el proceso de mediación?
+Respuesta Correcta: La imparcialidad es crucial para garantizar que el mediador no influya en las partes ni favorezca a ninguna. La falta de imparcialidad compromete la confianza en el proceso y puede resultar en responsabilidad civil por daños y perjuicios.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: Discute las obligaciones del mediador en caso de existir un conflicto de interés.
+Respuesta Correcta: El mediador debe revelar cualquier circunstancia que pueda afectar su imparcialidad, como relaciones personales o intereses económicos. Si el conflicto es significativo, debe abstenerse de aceptar el encargo para proteger la integridad del proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: Explica el papel del seguro de responsabilidad civil en la actuación del mediador.
+Respuesta Correcta: El seguro de responsabilidad civil cubre los posibles daños y perjuicios derivados de la actuación del mediador, como errores profesionales o violaciones a la imparcialidad. Es obligatorio para asegurar que las partes estén protegidas ante posibles negligencias.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: Evalúa la importancia del Registro de Mediadores e Instituciones de Mediación.
+Respuesta Correcta: Este registro, de carácter público e informativo, permite dar transparencia y publicidad a los mediadores. Aunque generalmente la inscripción es voluntaria, para mediadores concursales es obligatoria, reflejando su relevancia en procedimientos concursales.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: ¿Cómo se diferencia el rol del mediador del de un árbitro en un proceso de resolución de conflictos?
+Respuesta Correcta: El mediador facilita la comunicación y ayuda a las partes a alcanzar un acuerdo por sí mismas, sin imponer una solución. En contraste, el árbitro tiene la autoridad para dictar una decisión vinculante, similar a un juez en un litigio.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 2: La Figura del Mediador Una vez analizados los aspectos teóricos de la mediación (características, naturaleza y sujetos intervinientes), procede centrarse en la figura clave del proceso: el mediador. A diferencia del arbitraje, donde el árbitro ejerce una función decisoria (heterocompositiva), el mediador actúa como un facilitador (método
+
+Pregunta: ¿Qué diferencias fundamentales existen entre el inicio de un procedimiento de mediación por solicitud de mutuo acuerdo y por solicitud unilateral?
+Respuesta Correcta: La solicitud de mutuo acuerdo es ideal ya que ambas partes presentan conjuntamente la solicitud y consensúan elementos esenciales del proceso. En cambio, la solicitud unilateral se basa en un pacto previo de sumisión a mediación, permitiendo a una parte iniciar el proceso pese a la ausencia de acuerdo conjunto.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: Analice la importancia de la sesión informativa en el procedimiento de mediación y sus implicaciones para el consentimiento informado.
+Respuesta Correcta: La sesión informativa es crucial para el consentimiento informado, pues el mediador debe explicar a las partes aspectos esenciales como imparcialidad, características de la mediación y consecuencias jurídicas. La inasistencia injustificada implica desistimiento, subrayando el carácter voluntario del proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: Explique el significado de la sesión constitutiva en la mediación y su relevancia para el procedimiento.
+Respuesta Correcta: La sesión constitutiva formaliza el inicio del procedimiento, estableciendo las reglas mediante un acta que recoge identidad de las partes, mediador, objeto del conflicto y cronograma, siendo esencial para el desarrollo ordenado y consensuado de la mediación.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: ¿Qué rol juega la confidencialidad en las sesiones de mediación, tanto conjuntas como individuales?
+Respuesta Correcta: La confidencialidad es fundamental, protegiendo todo lo tratado en las sesiones. Permite a las partes y al mediador abordar el conflicto de manera abierta y segura, promoviendo la expresión de intereses privados y facilitando la búsqueda de soluciones efectivas.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: Discuta las posibles causas de terminación de un procedimiento de mediación sin acuerdo.
+Respuesta Correcta: El procedimiento puede terminar sin acuerdo por decisión de las partes, transcurso del plazo máximo pactado o decisión justificada del mediador debido a la irreconciliabilidad de posiciones. Estas causas reflejan la voluntariedad y flexibilidad del proceso.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: Analice cómo se convierte un acuerdo de mediación en un título ejecutivo y su importancia.
+Respuesta Correcta: Para que el acuerdo de mediación, aunque vinculante, sea ejecutable forzosamente, debe elevarse a escritura pública ante notario. Este paso otorga al acuerdo la fuerza de una sentencia, permitiendo la ejecución judicial en caso de incumplimiento, asegurando así su eficacia.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 3: El Procedimiento de Mediación
+
+Pregunta: ¿Cuál es la diferencia fundamental en la ejecutabilidad entre un laudo arbitral y un acuerdo de mediación?
+Respuesta Correcta: El laudo arbitral es directamente ejecutable como un título ejecutivo equiparable a una sentencia firme, mientras que el acuerdo de mediación, por sí mismo, carece de ejecutabilidad directa y requiere una formalización adicional, ya sea a través de la homologación judicial o su elevación a escritura pública para convertirse en un título ejecutivo.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: Explique el proceso de formalización de un acuerdo de mediación para su ejecución forzosa.
+Respuesta Correcta: Para formalizar un acuerdo de mediación como título ejecutivo, si es extrajudicial, las partes deben acudir a un notario para elevarlo a escritura pública. Si es intra-judicial, deben solicitar su homologación al juez o tribunal correspondiente. Esta formalización es necesaria para que el acuerdo tenga fuerza ejecutiva y pueda ser ejecutado forzosamente.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: Analice la competencia judicial para la ejecución de un acuerdo de mediación formalizado.
+Respuesta Correcta: La competencia judicial depende del tipo de mediación: si es intra-judicial, el tribunal que homologó el acuerdo es el competente; si es extrajudicial, la ejecución corresponde al Juzgado de Primera Instancia del lugar donde se firmó el acuerdo. Esta distinción garantiza que la ejecución sea gestionada por el tribunal con mayor contexto sobre el acuerdo.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: Discuta las ventajas y limitaciones del procedimiento simplificado de mediación por medios electrónicos.
+Respuesta Correcta: Este procedimiento es ventajoso por su celeridad, con una duración máxima de un mes, y su desarrollo íntegramente electrónico, lo que puede facilitar el acceso y reducir costos. Sin embargo, se limita a reclamaciones de hasta 600 euros y no es aplicable si las partes deciden otro procedimiento o alguna no puede usar medios electrónicos, lo que puede restringir su aplicabilidad.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: ¿Qué garantías deben asegurarse en el procedimiento simplificado de mediación por medios electrónicos?
+Respuesta Correcta: El procedimiento debe garantizar la seguridad y privacidad de las comunicaciones, la integridad y el secreto de los documentos, la confidencialidad del proceso, y el cumplimiento de la normativa de protección de datos. Estas garantías aseguran que el procedimiento sea seguro y confiable para las partes involucradas.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: Argumente sobre la importancia de la formalización del acuerdo de mediación para su eficacia ejecutiva.
+Respuesta Correcta: La formalización del acuerdo de mediación es crucial porque transforma un acuerdo que, por su naturaleza, es solo vinculante entre las partes, en un título ejecutivo que puede ser exigido forzosamente. Sin esta formalización, el acuerdo carecería de efectividad jurídica en caso de incumplimiento, limitando su utilidad como mecanismo de resolución de conflictos.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 4: La Ejecución del Acuerdo de Mediación Tras haber analizado el procedimiento de mediación en lecciones anteriores, y constatado que este puede concluir con acuerdo o sin él, procede centrarse en los efectos, la formalización y la ejecución de
+
+Pregunta: ¿Qué implica la eficacia del acuerdo de sumisión a mediación en el ámbito procesal y cómo afecta la competencia de los tribunales?
+Respuesta Correcta: El acuerdo de sumisión a mediación implica que, si no se ha intentado la mediación, los tribunales no son competentes para conocer del asunto. Esto obliga a las partes a intentar la mediación antes de acudir a la vía judicial, garantizando así el cumplimiento de la cláusula contractual que las partes acordaron previamente.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+
+Pregunta: Analiza el papel de la declinatoria en el contexto de un acuerdo de sumisión a mediación no cumplido.
+Respuesta Correcta: La declinatoria permite al demandado denunciar la falta de competencia del tribunal debido a la existencia de un acuerdo de sumisión a mediación no cumplido. Si prospera, el tribunal archiva el procedimiento, obligando a las partes a intentar la mediación, protegiendo así el pacto inicial y promoviendo la resolución extrajudicial de conflictos.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+
+Pregunta: Discute las condiciones necesarias para que un acuerdo de mediación transfronterizo sea ejecutable en España.
+Respuesta Correcta: Para que un acuerdo de mediación transfronterizo sea ejecutable en España, debe ser considerado ejecutable en origen o elevado a escritura pública en España. Cumplir con convenios internacionales, normas de la UE o la LCJI es esencial para obtener reconocimiento y ejecución mediante exequatur, asegurando su validez y fuerza ejecutiva.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+
+Pregunta: ¿Por qué el pacto de sumisión a mediación no obliga a alcanzar un acuerdo, y qué significa intentar la mediación de buena fe?
+Respuesta Correcta: El pacto no obliga a alcanzar un acuerdo porque la mediación es voluntaria por naturaleza. Intentar la mediación de buena fe significa que las partes deben participar sinceramente en el proceso, como asistir a la sesión informativa, sin la obligación de llegar a un consenso, pero mostrando disposición al diálogo.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+
+Pregunta: Examina el impacto de un acuerdo de mediación no ejecutable en origen sobre su ejecución en España.
+Respuesta Correcta: Si un acuerdo de mediación no es ejecutable en origen, debe ser elevado a escritura pública por un notario español para obtener título ejecutivo. Esto implica que, sin dicha elevación, el acuerdo carece de fuerza ejecutiva en España, impidiendo su ejecución judicial directa hasta cumplir este requisito formal.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+
+Pregunta: ¿Cómo interactúan las normas internacionales, de la UE y nacionales en la ejecución de acuerdos de mediación transfronterizos?
+Respuesta Correcta: Las normas internacionales y de la UE, junto con la LCJI, proporcionan el marco legal para el reconocimiento y ejecución de acuerdos de mediación transfronterizos en España. Estas normas aseguran que los acuerdos tengan la fuerza ejecutiva necesaria y facilitan su ejecución judicial mediante el procedimiento de exequatur, armonizando prácticas y requisitos.
+Manual: Manual Arbitraje
+Bloque: Bloque 6
+Tema: Tema 5: La Eficacia del Acuerdo de Mediación En las lecciones previas de este módulo dedicado a la mediación, se han analizado sus fundamentos teóricos, características, la figura del mediador y el desarrollo del procedimiento. Se ha establecido que la mediación, a diferencia del arbitraje, es un método autocompositivo, voluntario y confidencial, donde las partes alcanzan su propia solución
+

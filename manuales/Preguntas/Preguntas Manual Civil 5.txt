@@ -1,0 +1,396 @@
+Pregunta: ¿Cómo se justifica constitucionalmente la protección de las parejas de hecho en el Derecho de Familia?
+Respuesta Correcta: La Constitución Española, en su artículo 39, ordena proteger la familia sin distinción del vínculo matrimonial, lo que incluye a las parejas de hecho, garantizando su protección social, económica y jurídica.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: ¿Por qué el Tribunal Constitucional rechaza la equiparación de las parejas de hecho al matrimonio?
+Respuesta Correcta: El Tribunal Constitucional establece que las parejas de hecho no son similares al matrimonio, basándose en el principio de libertad de elección, permitiendo a las personas decidir entre un vínculo formal o una convivencia no formalizada.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: Analice la regulación autonómica de las parejas de hecho frente a la ausencia de normativa estatal.
+Respuesta Correcta: La ausencia de una ley estatal ha llevado a las Comunidades Autónomas a legislar sobre las parejas de hecho, estableciendo requisitos diversos para su constitución, como la convivencia continuada o la inscripción registral, variando significativamente entre autonomías.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: Examine la aplicación analógica de las normas de ruptura matrimonial a las parejas de hecho por parte del Tribunal Supremo.
+Respuesta Correcta: El Tribunal Supremo aplica por analogía normas de la ruptura matrimonial a las parejas de hecho en temas de medidas paterno-filiales y uso del hogar, pero rechaza esta analogía para la pensión compensatoria, optando por la teoría del enriquecimiento injusto.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: ¿Qué criterios sigue el Tribunal Supremo para negar la pensión compensatoria a las parejas de hecho?
+Respuesta Correcta: El Tribunal Supremo no aplica la pensión compensatoria de forma analógica a las parejas de hecho, recurriendo a la teoría del enriquecimiento injusto, donde se debe probar un enriquecimiento de un miembro a costa del empobrecimiento del otro durante la convivencia.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: Discuta las implicaciones jurídicas de una ruptura de pareja de hecho con hijos según el Tribunal Supremo.
+Respuesta Correcta: En caso de ruptura de una pareja de hecho con hijos, el Tribunal Supremo aplica normas análogas al divorcio en cuanto a guarda y custodia, régimen de visitas y pensión de alimentos, aunque no en cuanto a la pensión compensatoria.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 2: Parejas De Hecho
+
+Pregunta: Analice cómo se determina la cuantía del derecho de alimentos en función de las circunstancias del alimentista y el alimentante.
+Respuesta Correcta: La cuantía del derecho de alimentos se determina ponderando la necesidad del alimentista y los medios del alimentante, según el art. 146 CC. La cuantía será mayor si el alimentante tiene un alto nivel económico, y menor si sus recursos son limitados.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: Explique las diferencias en el contenido de la obligación de alimentos entre cónyuges, ascendientes y descendientes, y hermanos.
+Respuesta Correcta: El contenido es amplio para cónyuges, ascendientes y descendientes, incluyendo sustento, habitación, vestido y asistencia médica (art. 142 CC). Para hermanos, es estricto, limitándose a los auxilios necesarios para la vida, según el art. 143 CC.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: ¿Cómo afecta la situación de necesidad provocada por el propio alimentista al derecho de alimentos?
+Respuesta Correcta: Si la necesidad es provocada por el alimentista, como no querer trabajar, el derecho a percibir alimentos no nace, ya que falta la incapacidad para procurárselos. La necesidad debe ser valorada por un juez según la jurisprudencia del Tribunal Supremo.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: Discuta la posibilidad de que los padres de Juan ofrezcan cumplir la obligación de alimentos recibiéndolo en su domicilio.
+Respuesta Correcta: El art. 149 CC permite al alimentante optar por recibir y mantener al alimentista en su casa en lugar de pagar una pensión. Esta modalidad es válida si los padres de Juan eligen esta opción para cumplir su obligación.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: ¿Qué ocurre con las pensiones alimenticias vencidas o atrasadas en términos de prescripción?
+Respuesta Correcta: Las pensiones alimenticias vencidas se convierten en créditos ordinarios que pueden ser objeto de renuncia, transmisión y prescripción, según el art. 151.2 CC. Sin embargo, el derecho a reclamar alimentos futuros es imprescriptible.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: Analice cómo la reciprocidad influye en la relación alimentista-alimentante según el art. 143 CC.
+Respuesta Correcta: La reciprocidad implica que los roles entre alimentista y alimentante pueden invertirse. Si los padres de Juan se ven en necesidad y Juan mejora económicamente, él podría estar obligado a proveerles alimentos, garantizando un equilibrio justo.
+Manual: Manual Civil 5
+Bloque: Bloque 1
+Tema: Tema 3: Derecho De Alimentos
+
+Pregunta: ¿Cuál es la función primordial del Derecho Penal y cómo contribuye a la pacificación social?
+Respuesta Correcta: La función primordial del Derecho Penal es proteger bienes jurídicos esenciales para la convivencia social, como la vida y la propiedad. Al hacerlo, elimina la venganza privada y consolida las expectativas sobre la vigencia de normas esenciales, contribuyendo así a la pacificación social.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: Analiza el principio de legalidad y sus garantías en el contexto del Derecho Penal.
+Respuesta Correcta: El principio de legalidad, nullum crimen, nulla poena sine previa lege, asegura que solo las conductas definidas por ley pueden ser delitos. Sus garantías incluyen la reserva de ley (lex scripta), la irretroactividad de leyes desfavorables (lex praevia), la tipicidad (lex stricta/certa), y la jurisdiccionalidad para la ejecución de penas.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: Diferencia entre el carácter fragmentario y de ultima ratio del Derecho Penal.
+Respuesta Correcta: El carácter fragmentario implica que el Derecho Penal solo protege bienes jurídicos frente a agresiones graves, mientras que el carácter de ultima ratio significa que interviene solo cuando otros mecanismos legales, como el Derecho Administrativo, son insuficientes.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: Explica cómo el principio de territorialidad y los principios de ultraterritorialidad rigen la vigencia espacial de la ley penal española.
+Respuesta Correcta: El principio de territorialidad aplica la ley penal española a delitos en su territorio, incluyendo tierra firme, mar territorial y buques. Los principios de ultraterritorialidad permiten su aplicación a delitos fuera de España, basados en criterios personales, reales y de justicia universal.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: Discute la diferencia entre pena y medida de seguridad en el Derecho Penal.
+Respuesta Correcta: La pena es un castigo grave impuesto judicialmente por hechos pasados, fundamentado en la culpabilidad. La medida de seguridad es un tratamiento preventivo basado en la peligrosidad futura del sujeto, no en la culpabilidad.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: Evalúa las teorías absolutas y relativas sobre los fines de la pena, y su relevancia en el Derecho Penal actual.
+Respuesta Correcta: Las teorías absolutas ven la pena como retribución justa por el mal causado. Las relativas buscan prevenir futuros delitos mediante intimidación o resocialización. Las teorías mixtas, dominantes hoy, combinan retribución y prevención, asegurando proporcionalidad y utilidad social.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 1: El Matrimonio
+
+Pregunta: ¿Por qué es fundamental que el consentimiento matrimonial sea libre y consciente para la validez del matrimonio según el Código Civil español?
+Respuesta Correcta: El consentimiento libre y consciente es esencial porque garantiza que ambos contrayentes están de acuerdo en contraer matrimonio voluntariamente. Según el artículo 45.1 del Código Civil, cualquier vicio en el consentimiento, como coacción o error, puede llevar a la nulidad del matrimonio.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: Analiza las diferencias entre un matrimonio nulo por error en las cualidades personales de un contrayente y un matrimonio nulo por simulación.
+Respuesta Correcta: Un matrimonio es nulo por error si el consentimiento se basa en cualidades personales falsas que son determinantes, como en el caso de un estafador. La simulación, sin embargo, ocurre cuando ambos contrayentes excluyen deliberadamente los fines matrimoniales, como en matrimonios de conveniencia para obtener beneficios legales.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: ¿En qué circunstancias el Código Civil permite el matrimonio por poder y cuáles son los requisitos esenciales para su validez?
+Respuesta Correcta: El matrimonio por poder está permitido cuando un contrayente no puede estar presente físicamente, por ejemplo, en el caso de un militar. Los requisitos incluyen asistencia personal de al menos uno de los contrayentes, un poder especial y auténtico, y la posibilidad de revocar dicho poder antes de la boda.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: Explica cómo el matrimonio en peligro de muerte difiere de un matrimonio civil estándar en términos de requisitos formales.
+Respuesta Correcta: El matrimonio en peligro de muerte permite omitir el expediente matrimonial previo y puede ser autorizado por oficiales militares o comandantes, con solo dos testigos presentes. Esto contrasta con el matrimonio civil estándar que requiere un expediente previo y la intervención de una autoridad competente.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: ¿Qué condiciones deben cumplirse para que un matrimonio religioso tenga plenos efectos civiles en España?
+Respuesta Correcta: Para que un matrimonio religioso tenga efectos civiles, debe tramitarse un expediente matrimonial previo ante el Registro Civil, igual que un matrimonio civil, y el consentimiento debe manifestarse ante un ministro de culto competente, conforme al artículo 60 del Código Civil.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: Discute las opciones que tiene un español para casarse en el extranjero según el artículo 49 del Código Civil.
+Respuesta Correcta: Un español puede casarse en el extranjero siguiendo la ley del lugar de celebración o conforme a la ley española, eligiendo entre una forma civil o religiosa. Esto permite flexibilidad para adaptarse a las normativas locales mientras se asegura el reconocimiento del matrimonio en España.
+Manual: Manual Civil 5
+Bloque: Bloque 2
+Tema: Tema 2: Requisitos Del Matrimonio
+
+Pregunta: Analice cómo la naturaleza germánica de la sociedad de gananciales afecta a la titularidad de los bienes adquiridos durante el matrimonio.
+Respuesta Correcta: La naturaleza germánica implica que los cónyuges son cotitulares de la totalidad del patrimonio común sin cuotas individuales, lo que impide dividir los bienes en porcentajes, diferenciándola de la copropiedad ordinaria.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: Explique por qué la sociedad de gananciales no permite la venta de la participación de un cónyuge a un tercero.
+Respuesta Correcta: La sociedad de gananciales es personalísima e intransmisible, vinculada al matrimonio, lo que impide a un cónyuge vender su participación a terceros, a diferencia de las acciones en una sociedad mercantil.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: Discuta la importancia de la presunción de ganancialidad establecida en el artículo 1361 del Código Civil.
+Respuesta Correcta: La presunción de ganancialidad facilita considerar bienes adquiridos durante el matrimonio como gananciales, invirtiendo la carga de prueba para demostrar su carácter privativo, requiriendo pruebas rigurosas como facturas o escrituras.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: ¿Cómo afecta el principio de autonomía de la voluntad a la clasificación de bienes durante el matrimonio?
+Respuesta Correcta: Permite a los cónyuges pactar que bienes adquiridos a título oneroso sean gananciales, independientemente del origen de los fondos, generando posibles derechos de crédito en la liquidación del régimen.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: Evalúe la posibilidad de desvirtuar una confesión de ganancialidad de un bien durante el divorcio.
+Respuesta Correcta: Desvirtuar una confesión requiere el consentimiento del otro cónyuge o una resolución judicial que pruebe la naturaleza privativa del bien, dado que la confesión crea una presunción de ganancialidad.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: Analice las diferencias entre bienes privativos, gananciales y pro-indiviso en el contexto de la sociedad de gananciales.
+Respuesta Correcta: Bienes privativos pertenecen a un cónyuge individualmente, bienes gananciales a la sociedad, y bienes pro-indiviso son compartidos por cuotas entre el patrimonio privativo y el común, afectando su administración y disposición.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 1: Sociedad De Gananciales I 1. La Sociedad De Gananciales: Concepto Y Naturaleza Jurídica 1.1 Concepto
+
+Pregunta: Analice cómo se determina si un bien es privativo o ganancial cuando se adquiere por subrogación real según el artículo 1346 del Código Civil.
+Respuesta Correcta: Un bien es privativo por subrogación real si se adquiere con fondos privativos, sustituyendo un bien privativo anterior. El principio de subrogación asegura que el nuevo bien mantenga el carácter privativo.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Explique las implicaciones legales de utilizar fondos gananciales para adquirir un bien privativo, como en el caso de la moto de Elena.
+Respuesta Correcta: Cuando se usan fondos gananciales para pagar un bien privativo, surge un derecho de reembolso a favor de la sociedad de gananciales. La deuda se anota y se liquida al disolverse la sociedad.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Discuta cómo el derecho de retracto puede afectar la titularidad de un bien adquirido durante el matrimonio.
+Respuesta Correcta: Un bien adquirido por derecho de retracto es privativo si el derecho es anterior al matrimonio. Si se usa capital ganancial para la compra, la sociedad tiene derecho de reembolso.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Evalúe el impacto de las herencias y donaciones en la sociedad de gananciales según el artículo 1346 del Código Civil.
+Respuesta Correcta: Las herencias y donaciones son bienes privativos aunque se reciban durante el matrimonio, no afectando la sociedad de gananciales. No se consideran parte del patrimonio común.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Justifique por qué los instrumentos necesarios para la profesión de un cónyuge son considerados bienes privativos.
+Respuesta Correcta: Son privativos porque están destinados al ejercicio personal de una profesión u oficio. Si se compran con dinero ganancial, surge un derecho de reembolso para la sociedad.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Analice cómo la atribución voluntaria de privaticidad puede ser utilizada por los cónyuges y sus limitaciones legales.
+Respuesta Correcta: Los cónyuges pueden pactar que un bien ganancial sea privativo, pero no debe perjudicar a terceros de buena fe. En caso de fraude de acreedores, el acto puede ser rescindido.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 2: Sociedad De Gananciales II
+
+Pregunta: Analiza la naturaleza ganancial o privativa de los ingresos obtenidos por el alquiler de un bien privativo durante el matrimonio.
+Respuesta Correcta: Los ingresos por el alquiler de un bien privativo son gananciales, conforme al art. 1347.2 del CC, ya que los frutos, rentas o intereses generados por bienes privativos se consideran parte del patrimonio común de la sociedad de gananciales.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: Explica cómo se determina la ganancialidad de una indemnización por despido cuando el matrimonio se constituye después del inicio del contrato laboral.
+Respuesta Correcta: La indemnización por despido es ganancial solo en la proporción correspondiente al tiempo trabajado durante la vigencia del matrimonio. La parte anterior al matrimonio es privativa, según el ejemplo del tema y el art. 1347.1 del CC.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: Discute el carácter ganancial de las mejoras realizadas sobre un bien privativo utilizando fondos gananciales.
+Respuesta Correcta: Una mejora sobre un bien privativo es privativa. Sin embargo, si se financia con dinero ganancial, la sociedad tiene derecho a reintegro, conforme al art. 1358 del CC, protegiendo así los intereses del patrimonio común.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: Evalúa la aplicación del principio de subrogación real en la adquisición de bienes a título oneroso con fondos gananciales.
+Respuesta Correcta: La subrogación real implica que bienes adquiridos a título oneroso con dinero ganancial se consideran gananciales, como establece el art. 1347.3 del CC. Esto refleja el uso del caudal común para obtener nuevos activos.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: Considera el impacto de un primer pago ganancial en la adquisición de un bien a plazos, seguido de pagos privativos.
+Respuesta Correcta: Si el primer pago de un bien comprado a plazos es con dinero ganancial, el bien se considera ganancial. Sin embargo, el cónyuge que efectúe pagos privativos posteriores tiene derecho a reintegro, según el art. 1358 del CC.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: Analiza la naturaleza de las donaciones recibidas conjuntamente por los cónyuges y su inclusión en el patrimonio ganancial.
+Respuesta Correcta: Las donaciones a ambos cónyuges son gananciales, salvo disposición contraria del donante, según el tema. Esto asegura que el regalo se integre en el patrimonio común, reforzando la unidad de la sociedad de gananciales.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 3: Sociedad De Gananciales III
+
+Pregunta: ¿En qué casos puede un cónyuge actuar individualmente en la administración de bienes gananciales según el Código Civil?
+Respuesta Correcta: Un cónyuge puede actuar solo en actos de potestad doméstica, disposición testamentaria, administración de frutos privativos, ejercicio de la profesión, defensa del patrimonio y gastos urgentes.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: Explique cómo el artículo 1384 CC afecta la validez de los actos de disposición de dinero dentro de una sociedad de gananciales.
+Respuesta Correcta: El artículo 1384 CC establece que los actos de disposición de dinero son válidos si los realiza el cónyuge que tiene el dinero en su poder, protegiendo así al tercero adquirente.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: Analice las consecuencias jurídicas internas en caso de que un cónyuge realice una compra significativa con dinero ganancial sin consultar al otro.
+Respuesta Correcta: El cónyuge perjudicado puede exigir un derecho de reintegro, obligando al otro a devolver el valor al patrimonio común, aunque el acto frente a terceros sea válido.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: Compare las sanciones aplicables a un acto oneroso y a un acto gratuito realizados sin consentimiento en una sociedad de gananciales.
+Respuesta Correcta: Un acto oneroso es anulable, permitiendo impugnarlo, mientras que un acto gratuito es nulo de pleno derecho, careciendo de efectos legales.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: Discuta la posibilidad de transferir judicialmente la gestión de la sociedad de gananciales a un solo cónyuge.
+Respuesta Correcta: La transferencia es posible en casos de incapacidad, abandono o separación, otorgando la gestión a un cónyuge para proteger los intereses familiares.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: ¿Qué remedios tiene un cónyuge si un tercero adquirente actúa en fraude de sus derechos en la disposición de bienes gananciales?
+Respuesta Correcta: El cónyuge puede ejercitar una acción rescisoria si el tercero conocía el fraude, buscando anular el acto dispositivo perjudicial para la sociedad.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 4: Sociedad de Gananciales IV 1. Introducción a la Gestión de la Sociedad de Gananciales
+
+Pregunta: ¿Qué sucede con el patrimonio común cuando se disuelve automáticamente la sociedad de gananciales por la muerte de uno de los cónyuges?
+Respuesta Correcta: El patrimonio común se transforma en una comunidad post-ganancial, donde el cónyuge supérstite y los herederos del fallecido comparten cuotas del 50%, preparándose para su liquidación y partición.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: Analiza si Elena puede solicitar la disolución de la sociedad de gananciales de forma unilateral y discrecional debido al despilfarro de Juan.
+Respuesta Correcta: Elena no puede disolver unilateralmente, pero puede solicitar la disolución judicial si el despilfarro de Juan constituye una gestión fraudulenta o dañosa, según el Art. 1393.4º del Código Civil.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: Explique cómo el embargo por deudas privativas puede llevar a la disolución de la sociedad de gananciales.
+Respuesta Correcta: Si un bien ganancial es embargado por una deuda privativa, el cónyuge no deudor puede solicitar la disolución para proteger su cuota, concretando el embargo solo sobre la parte del cónyuge deudor, según el Art. 1373 CC.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: Discute el papel de las medidas de apoyo en la disolución judicial de la sociedad de gananciales.
+Respuesta Correcta: Si un cónyuge recibe medidas de apoyo que otorgan representación plena patrimonial, el otro cónyuge puede solicitar la disolución judicial del régimen, protegiendo así su patrimonio personal.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: Compara la disolución automática por divorcio con la disolución por mutuo acuerdo de los cónyuges.
+Respuesta Correcta: La disolución automática por divorcio ocurre de pleno derecho, mientras que el mutuo acuerdo requiere capitulaciones matrimoniales para cambiar el régimen económico, sin necesidad de una intervención judicial.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: Evalúe los efectos de la separación de hecho mantenida durante más de un año en la disolución del régimen de gananciales.
+Respuesta Correcta: La separación de hecho prolongada permite solicitar la disolución judicial, ya que se considera que la convivencia económica se ha vuelto inviable, según el Art. 1393.2º del Código Civil.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 6: Sociedad De Gananciales VI 1. La Disolución De La Sociedad De Gananciales: Concepto Y Causas
+
+Pregunta: ¿Qué diferencias existen entre una disolución automática y una disolución judicial de la sociedad de gananciales?
+Respuesta Correcta: La disolución automática ocurre por eventos como divorcio o muerte, mientras que la judicial requiere la petición de uno de los cónyuges por causas tasadas, como gestión fraudulenta o deudas privativas.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: Analice el impacto de los bienes enajenados fraudulentamente en la formación del activo de la sociedad de gananciales.
+Respuesta Correcta: Los bienes enajenados fraudulentamente se incluyen en el activo con su valor actualizado, perjudicando al cónyuge responsable en el reparto final al recibir menos.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: Explique el papel del inventario en el proceso de liquidación de la sociedad de gananciales.
+Respuesta Correcta: El inventario es crucial, pues detalla el activo y pasivo de la sociedad, sirviendo de base para determinar qué corresponde a cada cónyuge y el saldo a repartir.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: Discuta la importancia de la prelación de deudas en el proceso de liquidación de la sociedad de gananciales.
+Respuesta Correcta: La prelación de deudas establece un orden de pago, asegurando que créditos gananciales se paguen antes de repartir el activo, protegiendo así a los acreedores.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: ¿En qué situaciones puede resultar necesaria la intervención judicial en la liquidación de la sociedad de gananciales?
+Respuesta Correcta: La intervención judicial es necesaria cuando los cónyuges no logran un acuerdo mutuo sobre la valoración o reparto de bienes y deudas, requiriendo resolución judicial.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: ¿Por qué es relevante la distinción entre acreedores gananciales y acreedores privativos en la liquidación de la sociedad de gananciales?
+Respuesta Correcta: Es relevante porque los acreedores gananciales tienen prioridad para cobrar antes del reparto de bienes, mientras que los privativos deben esperar al reparto para actuar sobre la parte del cónyuge deudor.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 7: Gananciales VII - La Liquidación De La Sociedad De Gananciales
+
+Pregunta: ¿Por qué el régimen de separación de bienes es considerado más sencillo de liquidar en caso de divorcio en comparación con la sociedad de gananciales?
+Respuesta Correcta: El régimen de separación de bienes simplifica la liquidación en caso de divorcio al evitar la necesidad de inventariar y probar la titularidad de cada bien, ya que cada cónyuge administra y dispone de sus propios bienes y rentas, a diferencia de la sociedad de gananciales donde los bienes son comunes.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+
+Pregunta: Explique cómo la vía judicial puede llevar a la imposición de un régimen de separación de bienes.
+Respuesta Correcta: La vía judicial impone la separación de bienes cuando un juez disuelve la sociedad de gananciales, por ejemplo, debido a una gestión fraudulenta o un embargo por deudas privativas. Al extinguirse la sociedad de gananciales, automáticamente se aplica el régimen de separación de bienes.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+
+Pregunta: Analice la importancia de la publicidad registral en el régimen de separación de bienes.
+Respuesta Correcta: La publicidad registral es crucial para que el acuerdo de separación de bienes tenga efectos frente a terceros de buena fe. Sin inscripción en el Registro Civil, un acreedor podría presumir la existencia de una sociedad de gananciales, afectando la seguridad jurídica en las transacciones.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+
+Pregunta: Discuta la relevancia del artículo 1441 del Código Civil en el régimen de separación de bienes.
+Respuesta Correcta: El artículo 1441 CC es relevante porque establece una presunción de copropiedad al 50% en caso de que no sea posible acreditar la titularidad de un bien. Esto simplifica la resolución de conflictos sobre la propiedad de bienes en casos de divorcio contencioso.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+
+Pregunta: Analice el principio de autonomía de gestión en el régimen de separación de bienes y sus implicaciones.
+Respuesta Correcta: El principio de autonomía de gestión permite a cada cónyuge conservar el dominio, administración y disposición de sus propios bienes. Esto significa que un cónyuge no puede usar ni disponer de los bienes del otro sin permiso, preservando la independencia económica de cada uno.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+
+Pregunta: Evalúe cómo se determina la responsabilidad por deudas en el régimen de separación de bienes.
+Respuesta Correcta: En el régimen de separación de bienes, cada cónyuge asume la responsabilidad exclusiva por sus deudas, excepto en deudas domésticas donde ambos responden. Esto evita que las deudas de un cónyuge puedan afectar el patrimonio del otro, salvo pacto expreso contrario.
+Manual: Manual Civil 5
+Bloque: Bloque 3
+Tema: Tema 8: Separación De Bienes
+

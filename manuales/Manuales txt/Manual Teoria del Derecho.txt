@@ -1,0 +1,3086 @@
+Teoría Del
+Derecho
+Última actualización: 12/10/2025
+Aviso legal
+Este libro es propiedad exclusiva de Derecho Virtual y ha sido elaborado
+únicamente para el uso de los alumnos inscritos en la academia. Su contenido
+está protegido por las leyes de propiedad intelectual y derechos de autor. Queda
+estrictamente prohibida cualquier forma de reproducción, distribución,
+comercialización, comunicación pública, transformación o cualquier otro uso no
+autorizado total o parcial del contenido de esta obra, en cualquier formato o por
+cualquier medio, sin el consentimiento previo y por escrito de Derecho Virtual. El
+incumplimiento de esta prohibición podrá dar lugar a las responsabilidades
+legales correspondientes. Todos los derechos reservados
+2
+3
+ÍNDICE - TEORÍA DEL DERECHO Pág.
+BLOQUE 1 – INTRODUCCIÓN AL DERECHO: las bases de la carrera ................................................... 6
+¿Qué es la Teoría del Derecho? ........................................................................................................................................... 7
+¿Qué es el Derecho? (Parte 1) ............................................................................................................................................ 13
+¿Qué es el Derecho? (Parte 2) ............................................................................................................................................ 18
+Derecho objetivo y subjetivo ............................................................................................................................................. 23
+Iusnaturalismo y positivismo ............................................................................................................................................. 28
+Concepciones sociologistas del Derecho ........................................................................................................................... 31
+BLOQUE 2 – EL DERECHO Y OTROS SISTEMAS NORMATIVOS ...................................................... 35
+Relaciones entre Derecho y Moral (Parte 1) ...................................................................................................................... 36
+Relaciones entre Derecho y Moral (Parte 2) ...................................................................................................................... 40
+Los usos sociales ................................................................................................................................................................ 44
+El Derecho y la Fuerza ....................................................................................................................................................... 48
+BLOQUE 3 – JUSTICIA Y DERECHOS HUMANOS: los pilares de nuestra sociedad ............................ 52
+La Teoría de la Justicia (Parte I) ........................................................................................................................................ 53
+Las concepciones de la Justicia (Parte II) .......................................................................................................................... 57
+Derechos Humanos ............................................................................................................................................................ 62
+Derechos Humanos (Parte 2) ............................................................................................................................................. 65
+BLOQUE 4 – BIEN COMÚN, DESOBEDIENCIA Y MEDIO DE CONTROL ......................................... 69
+El Bien Común ................................................................................................................................................................... 70
+Tipos de normas en nuestro ordenamiento ........................................................................................................................ 73
+La desobediencia civil ........................................................................................................................................................ 75
+El Derecho como medio de control ................................................................................................................................... 79
+La interpretación del Derecho y sus criterios .................................................................................................................... 82
+BLOQUE 5 – TIPOS DE NORMAS E INTERPRETACIÓN ....................................................................... 86
+Ordenamiento jurídico ....................................................................................................................................................... 87
+Ordenamiento jurídico (Segunda parte) ............................................................................................................................. 90
+Aplicación de las normas ................................................................................................................................................... 93
+Relaciones jurídicas ........................................................................................................................................................... 96
+El ejercicio de los derechos ................................................................................................................................................ 98
+4
+5
+BLOQUE 1
+INTRODUCCIÓN AL DERECHO:
+las bases de la carrera
+6
+Tema 1: ¿Qué Es La Teoría
+Del Derecho?
+Nótese, con carácter preliminar, que el estudio de la Teoría del Derecho se
+configura como un sistema conceptual en desarrollo progresivo, similar a un
+puzle, donde la comprensión plena de los términos y las conexiones entre las
+lecciones se garantiza al final del curso, a pesar de la eventual presentación inicial
+de conceptos que, en su momento, puedan resultar desconocidos o anticipados.
+El rigor expositivo exige, no obstante, una definición precisa de la materia.
+1. La Delimitación Conceptual De La Teoría Del Derecho
+1.1. Evolución Histórica De La Denominación
+Conviene precisar que el actual conjunto de contenidos que integran la Teoría del
+Derecho no siempre ha ostentado tal rúbrica. Históricamente, la materia fue
+conocida inicialmente como Derecho Natural. Posteriormente, el nombre
+evolucionó hacia la Filosofía del Derecho. No será hasta la década de los años
+setenta del siglo XX cuando se adopte la actual denominación de Teoría del
+Derecho.
+1.2. El Tránsito A La "Teoría Del Derecho": Origen Y Criterio De La
+Cientificidad
+El cambio terminológico responde a la intención de superar las estériles
+controversias doctrinales entre quienes defendían la denominación de Derecho
+Natural y quienes propugnaban la de Filosofía del Derecho. Se buscó, en
+consecuencia, establecer una tabula rasa, un "borrón y cuenta nueva", que
+permitiera un nuevo enfoque.
+CLAVE PARA EL EXAMEN: La denominación actual tiene su origen en la obra La teoría pura
+del derecho del jurista austríaco Hans Kelsen, de cuyo título se copió el término, si bien
+suprimiendo el adjetivo "pura".
+7
+A mayor abundamiento, debe destacarse que la adopción del concepto Teoría del
+Derecho perseguía un un objetivo epistemológico trascendental: hacer científico
+el estudio del Derecho. Esta corriente se inspira en el principio de cientificidad,
+cuya pervivencia se constata en las actuales denominaciones de algunas áreas
+departamentales en las Facultades de Derecho (v. gr., ciencias jurídicas básicas).
+2. El Sentido Y La Ubicación Del
+Fenómeno Jurídico
+A efectos sistemáticos, procede abordar la cuestión relativa al sentido, función y
+lugar que ocupa el Derecho en la vida social. Al respecto, cabe distinguir dos
+caracteres esenciales.
+2.1. El Carácter Social Del Derecho (Ubi
+Societas Ibi Ius)
+El Derecho posee un carácter social ineludible. Este postulado se condensa en el
+célebre aforismo romano: ubi societas ibi ius, esto es, donde hay sociedad, hay
+Derecho. Nótese que resulta conceptualmente imposible entender una sociedad
+sin algún tipo de ordenamiento jurídico, del mismo modo que el Derecho carece
+de sentido sin un sustrato social.
+Incluso en las civilizaciones de corte más primitivo, es posible detectar la
+presencia de una estructura normativa, la cual, aun confundiéndose en ocasiones
+con reglas morales o religiosas, cumple la función inexcusable de regular la
+convivencia.
+8
+Esquema I: Naturaleza Y Componentes Del Fenómeno Jurídico
+Elemento/Carácter Definición/Postulado Advertencia/Matiz
+Carácter Social Ubi societas ibi ius
+(Interdependencia entre Sociedad
+y Derecho).
+Regulación de la convivencia,
+incluso en formas primitivas (a
+veces confuso con
+Moral/Religión).
+Carácter Ubicuo El Derecho está en "todos lados"
+(omnipresencia). Regula la vida
+completa.
+Desde el Registro Civil
+(nacimiento) hasta la lectura del
+testamento (fallecimiento).
+Carácter Científico Búsqueda de la cientificidad del
+estudio del Derecho.
+Origen: Kelsen, Teoría Pura del
+Derecho.
+Carácter Bifronte Dominio/Coerción (Ley-Castigo) vs.
+Garantía/Libertad (Ley-Peligro).
+No existen verdades absolutas
+(zona de colores grises).
+En segundo término, debe considerarse la ubicidad o carácter omnipresente del
+Derecho. En efecto, el ordenamiento jurídico regula la práctica totalidad de
+nuestra existencia, abarcando desde el momento del nacimiento, mediante el
+Registro Civil, hasta el deceso, mediante, por ejemplo, la lectura del testamento.
+Con todo, este carácter social y omnipresente no se percibe de forma obvia por
+la ciudadanía. La falta de consciencia social respecto a la presencia del Derecho
+determina que este solo sea advertido o se haga patente en situaciones de
+conflicto social (v. gr., un asesinato que activa el Derecho Penal). Asimismo, la idea
+de Derecho se asocia comúnmente con las instituciones visibles que lo aplican
+(policía, tribunales, abogados, notarios, etc.).
+Por tanto, conviene recalcar que, pese a regular la vida íntegra de los individuos, la
+presencia del Derecho suele pasar inadvertida en la cotidianidad.
+9
+2.2. El Sentimiento Jurídico Popular
+Y La Justicia
+No obstante la mencionada falta de consciencia plena, existe un sentimiento
+jurídico popular que se manifiesta en la noción instintiva de justicia o injusticia.
+Un ejemplo paradigmático de esta reacción se produce ante la inejecución de
+una prestación debida (v. gr., la negativa de un conductor de metro a realizar un
+viaje ya contratado), provocando la inmediata exclamación "yo tengo derecho"
+(en este caso, a la prestación o a la devolución de su importe).
+Respecto al origen de este sentimiento jurídico popular, la doctrina ha
+identificado dos corrientes relevantes:
+Corriente Innata
+Postula que el sentimiento de
+justicia/injusticia es inherente a la
+naturaleza humana.
+Corriente Educativa
+Considera que dicho sentimiento es
+un producto de la educación de la
+conducta y la socialización.
+Dejando a un lado el origen preciso, se erige como postulado ideal que la
+participación común en la idea de la justicia sea el origen material del que
+deben derivarse las leyes. Ello implica que las normas jurídicas han de ser el
+producto de la deliberación de la totalidad de los ciudadanos. En consecuencia,
+cuando una ley no secunda o no da la razón a un sentimiento popular
+ampliamente compartido 4como el derecho a una contraprestación en el
+ejemplo del transporte público4, la ley es percibida como errónea o generadora
+de una injusticia. Ello se justifica en la medida en que una sensibilidad común no
+puede reducirse a un "sentimiento jurídico sensible" de una única persona.
+10
+2.3. La Naturaleza Bifronte Del Derecho:
+Dominio Y Garantía
+Finalmente, debe analizarse la posibilidad de entender el Derecho como un
+instrumento de dominio o, por el contrario, como un instrumento garantizador de
+la libertad y la seguridad. Conviene señalar que ambas perspectivas ostentan
+una parte de razón, lo que sitúa al Derecho en un espectro de colores grises,
+donde las verdades absolutas se diluyen.
+La visión del Derecho como instrumento de dominio se manifiesta en el poder
+político que impone la ley y la subsiguiente coerción. Los romanos, nuevamente
+precursores, enunciaron esta faz con la máxima: donde hay ley existe castigo. En
+este sentido, la ley implica sometimiento y punición.
+Por contrapartida, el Derecho opera también como garantía de seguridad y
+libertad. Este aspecto amable del Derecho surge en respuesta al peligro. En esta
+línea, el ordenamiento jurídico proporciona una garantía de seguridad mínima,
+como la tranquilidad que deviene de la convicción de que el propio vehículo no
+será objeto de un acto ilícito (incendio) a la mañana siguiente.
+La función del Derecho como garante de la libertad fue perfectamente
+ejemplificada por Cicerón con la siguiente sentencia: todo deviene incierto
+cuando se aleja del Derecho.
+CLAVE PARA EL EXAMEN: El Derecho es una moneda con dos caras: la del
+dominio (castigo, coerción) y la de la garantía (seguridad, libertad).
+11
+3. Síntesis De Los Postulados Básicos
+3.1 El Derecho Como Instrumento Y Sus Dos Dimensiones (Cara Y Cruz)
+Dimensión Función Principal Postulado Jurídico
+(Ejemplo)
+Efecto Instrumental
+Cara del
+Dominio
+Imposición de la norma
+y el poder político.
+"Donde hay ley existe
+castigo" (Visión
+punitiva/coactiva).
+Dominio / Sometimiento
+Cruz de la
+Garantía
+Protección de la
+seguridad y la libertad
+individual.
+"Donde existe peligro,
+aparece la ley" (Visión
+protectora/tutelar).
+Libertad / Seguridad
+4. Síntesis De Los Postulados Básicos
+A modo de recapitulación sistemática, se destacan los siguientes puntos
+esenciales que vertebran la lección introductoria:
+4.1. El Concepto De Teoría Del Derecho:
+Es un concepto de acuñación relativamente nueva.
+Su título se copia del libro de Kelsen (La teoría pura del derecho).
+Su propósito es la búsqueda de la cientificidad del estudio del fenómeno jurídico.
+4.2. La Relación Bipolar Derecho-Sociedad:
+Los términos Derecho y Sociedad están íntimamente relacionados y son interdependientes.
+Recuérdese el aforismo romano: ubi societas ibi ius.
+El Derecho ostenta un ineludible carácter social y de ubicidad (omnipresencia).
+4.3. La Consciencia Jurídica Social:
+Se constata una falta de consciencia generalizada de la presencia del Derecho en la mayoría de
+los casos.
+A pesar de ello, se manifiesta un sentimiento popular instintivo de justicia e injusticia (v. gr., el
+caso del conductor de metro).
+12
+Tema 2: ¿Qué Es El
+Derecho? (Parte 1)
+La pregunta acerca de la esencia del Derecho (quid ius) constituye, desde
+antiguo, la principal aporía de la Teoría General. Nótese que la complejidad de la
+cuestión fue brillantemente sintetizada por Immanuel Kant, el filósofo de
+Königsberg, al señalar que los juristas todavía buscaban una definición para el
+Derecho.
+Dicha constatación implica que la definición del concepto no es unívoca, sino que
+presenta tantas variantes como autores y enfoques ideológicos. En este sentido,
+conviene precisar la fundamental distinción entre dos planos de indagación que
+afectan a la respuesta:
+El Derecho en un Momento Histórico-Concreto (Derecho Positivo): La
+respuesta es técnica y sencilla, pues remite a la fuente normativa. Se resuelve
+acudiendo, v. gr., al articulado del Código Civil o del Código Penal, que determinan
+un contenido específico.
+El Derecho en Sentido Universal (Quid Ius): La respuesta es filosófico-doctrinal
+y, como se ha expuesto, sumamente problemática.
+A mayor abundamiento, debe reseñarse la necesidad doctrinal de contar con un
+concepto definido de Derecho: solo la posesión de una noción universal y clara
+permite al jurista juzgar críticamente las leyes positivas del momento. Así, si el
+Código Penal define una conducta como delito, únicamente la aplicación de
+nuestro concepto universal de Derecho permitirá discernir si ese precepto
+concreto resulta "acorde a Derecho" o no.
+13
+1. Pluralidad De Conceptos Y
+Condicionamiento Ideológico
+La ideología influye enormemente en la configuración de las definiciones del
+Derecho. El alumno debe encontrar una definición que considere acertada y
+hacerla propia para plasmarla en el examen. A continuación, se exponen diversas
+perspectivas que resaltan un elemento esencial distinto:
+El Derecho Como
+Instrumento De
+Integración Social
+Entiende la norma como un
+factor cohesionador. En
+este marco, se define como:
+Un instrumento de
+integración social.
+Un conjunto de reglas
+que garantizan la
+convivencia ordenada y
+pacífica entre los
+hombres.
+El Derecho Como
+Garantía De
+Seguridad Y
+Desarrollo Personal
+Prioriza la esfera individual y
+la autorrealización de la
+persona. Desde esta óptica,
+el Derecho es:
+Un conjunto de
+mandatos que
+posibilitan una
+adecuada convivencia y
+el libre desarrollo de la
+personalidad humana.
+Esto se traduce en la
+capacidad de realizar
+acciones sociales
+básicas (convivencia,
+interacción, seguridad
+personal, etc.).
+El Derecho Como
+Mandato Coactivo Y
+Poder
+El elemento central es la
+fuerza y la imposición. Así,
+se entiende como:
+Un conjunto de
+mandatos coactivos que
+proceden de quien
+posee el poder en la
+sociedad.
+Conviene precisar que
+esta es una definición
+particularmente apta
+para describir el
+Derecho en el contexto
+de ciertas dictaduras o
+regímenes autoritarios,
+donde lo coactivo es lo
+relevante.
+Cada concepción porta una esencia de verdad en mayúsculas, si bien enfatizan
+distintos ángulos de la realidad jurídica.
+14
+2. Definición Canónica Y El Fundamento Del
+Ordenamiento Jurídico
+Definición Canónica (a proponer): Para concluir este apartado, se puede
+definir el Derecho de forma sistemática como: Conjunto de acciones
+sociales creadoras de o reguladas por normas que deben establecer
+un orden justo en un determinado contexto histórico.
+2.1 Esquema I: Tipología Conceptual De Derecho (Clave Para El Examen)
+Perspectiva Dominante Énfasis Conceptual Finalidad / Objetivo
+Integración Social Reglas de convivencia
+ordenada
+Cohesión y paz social
+Seguridad Personal Mandatos para el desarrollo
+libre
+Autorrealización humana
+Coactiva/Poder Mandatos que emanan del
+poder
+Mantenimiento del statu quo
+Doctrinal (Propuesta) Acciones sociales y
+normas
+Establecimiento de un orden
+justo
+2.2 El Fundamento Del Ordenamiento Jurídico: La Justificación De La
+Existencia Del Derecho
+La cuestión sobre la necesidad del Derecho y su papel en la sociedad no puede
+desvincularse del eterno debate filosófico sobre la bondad o la maldad intrínseca
+de la naturaleza humana. Nótese que el Derecho, como manifestación social,
+acompaña al individuo en cada paso, incluso antes de su existencia (ej. la
+regulación del Registro Civil).
+La justificación de la norma se articula, pues, en función de la concepción
+antropológica que se sostenga:
+15
+La Tesis De La Malignidad
+Intrínseca (Thomas Hobbes)
+Esta postura defiende que los ingredientes
+básicos de la naturaleza humana son los
+instintos naturales más perniciosos: el
+egoísmo, la agresividad, la violencia y otras
+pasiones nocivas. Es el Homo homini lupus
+(el hombre es un lobo para el hombre).
+Consecuencia para el Derecho (Clave de
+Examen): Si la naturaleza humana es
+esencialmente mala, la convivencia social
+ordenada requiere, de forma inexcusable, de
+un sistema punitivo de leyes. Este sistema
+tiene el objetivo de castigar y coartar los
+instintos naturales nocivos del hombre
+(violencia, agresividad), posibilitando in
+extremis la vida en sociedad.
+La Tesis De La Bondad Radical
+(Jean-Jacques Rousseau)
+Contrariamente, esta teoría sostiene que el
+ser humano es un ser racional y bueno por
+naturaleza.
+Consecuencia para el Derecho (Clave de
+Examen): Si la naturaleza es buena, los
+males sociales y las desviaciones no
+provienen de la propia naturaleza humana,
+sino que se derivan de las instituciones
+sociales que la corrompen. En este
+escenario, el Derecho se revela como un
+instrumento necesario para:
+Evitar la contaminación de las
+tendencias que la propia sociedad crea.
+Corregir las distorsiones que la
+estructura social impone a la bondad
+innata del ser humano.
+3. Consecuencias Criminológicas Y
+Síntesis Final
+El debate sobre la justificación del Derecho tiene una vigencia absoluta y amplias
+repercusiones en disciplinas auxiliares como la Criminología. Un ejemplo
+paradigmático es el estudio del delincuente habitual, donde las causas de su
+conducta determinan la respuesta institucional:
+Causa Genética / Natural
+Si la tendencia al delito obedece a razones
+genéticas o intrínsecas a su naturaleza, el sujeto
+debería ser tratado, conforme a esta visión,
+como un enfermo.
+Causa Social / Ambiental
+Si la corrupción y el delito se explican por el
+entorno social que lo ha corrompido, la
+sociedad tiene el deber de buscar su
+reinserción y de corregir las instituciones.
+16
+A la luz de lo expuesto, el fundamento del Derecho depende necesariamente
+del juicio que el jurista o la corriente doctrinal emita sobre el origen de la
+bondad o la maldad humana.
+3.1 Esquema II: El Flujo Causal De La Justificación Del Derecho
+Postura
+Filosófica
+Postulado
+Antropológico
+Origen de los
+Males Sociales
+Función
+Primordial del
+Derecho
+HOBBES Hombre malo por
+naturaleza
+Instintos y
+pasiones nocivas
+Función Punitiva:
+Represión y
+castigo.
+ROUSSEAU Hombre bueno
+por naturaleza
+Instituciones y
+sociedad
+Función
+Preventiva:
+Protección de la
+bondad.
+Resumen Y Claves Para El Examen:
+Definición: No existe una definición única. La ideología (integración, seguridad,
+coacción) juega un papel esencial en su configuración. Memorice la definición
+canónica propuesta.
+Justificación: El fundamento del Derecho se justifica en función del postulado
+sobre la naturaleza humana: si se cree en la maldad (Hobbes), el Derecho es un
+sistema punitivo; si se cree en la bondad (Rousseau), es un mecanismo de
+protección y reorientación contra la contaminación social.
+17
+Tema 3: ¿Qué Es El
+Derecho? (Parte 2)
+Conviene comenzar recordando que toda sociedad, con independencia de su
+magnitud o grado de evolución, se articula sobre una regulación normativa. Esta
+puede manifestarse como Derecho positivo o como usos sociales, normas
+religiosas o preceptos morales.
+El término Derecho alude simultáneamente a tres esferas que, a pesar de su
+autonomía conceptual, se encuentran inescindiblemente conectadas,
+conformando la clásica Teoría Tridimensional del Derecho:
+1.-Dimensión del Hecho Social (Facticidad): Se refiere a las conductas y
+acciones dirigidas tanto a la creación normativa (por el legislador) como a su
+aplicación (por el juez) o a su cumplimiento efectivo.
+2. Dimensión Normativa (Norma): Es el resultado de la actividad formalizada,
+consistente en el conjunto de reglas o preceptos plasmados en un texto legal
+o código (Derecho puesto o positum).
+3. Dimensión Valorativa (Valor): Agrupa los valores (p. ej., Justicia, Seguridad)
+que sirven de inspiración al ordenamiento jurídico o a cuyo logro se orientan
+las conductas y normas.
+Ejemplo Sistemático: El proceso penal por homicidio derivado de un accidente
+de tráfico ilustra esta tríada. El hecho social es la muerte de una persona (vida
+humana truncada). La norma es la regulación del supuesto en el Código Penal. El
+valor es la vida humana, que el ordenamiento jurídico tiene el deber de proteger.
+Definición Doctrinal Propuesta (Recordatorio): El Derecho se sintetiza como un
+conjunto de acciones sociales creadoras de, o reguladas por, normas que deben
+establecer un orden justo en un determinado contexto histórico. Es imperativo, a
+nivel doctrinal, comprender que no es posible aislar estas dimensiones, pues la
+comunicación entre ellas es constante.
+18
+1. La Cuarta Dimensión: El Contexto Histórico
+Hecho Social
+Conductas y
+acciones del
+legislador, juez y
+ciudadano
+Norma
+Reglas
+formalizadas en
+códigos y leyes
+Valor
+Justicia, Seguridad
+e Igualdad
+Historia
+Contexto temporal
+y evolución social
+A las tres dimensiones canónicas (Hecho, Norma, Valor) es obligatorio añadir una
+cuarta: la Dimensión Histórica. Esta dimensión cumple la función esencial de
+temporalizar y contextualizar a las tres anteriores.
+A mayor abundamiento, debe reseñarse la vinculación de la historia con la técnica
+interpretativa. El art. 3.1 del Código Civil (CC) prescribe taxativamente que la
+interpretación de las normas ha de tener presente sus antecedentes históricos y
+la realidad social del tiempo en que han de ser aplicadas. Esto subraya la
+necesidad de interpretar la norma en función del momento histórico vigente.
+Nótese que el contexto temporal influye decisivamente en conceptos jurídicos esenciales como: la
+Capacidad (v. gr., la determinación de la mayoría de edad para la realización de actos jurídicos), o la
+Validez (v. gr., la fijación de un plazo de prescripción).
+Podríamos afirmar que el Derecho es Historia y que la Historia es Derecho.
+Cada sistema jurídico representa una fase determinada de la historia de la
+humanidad (ej. el Derecho español actual frente al de hace cuarenta años). A cada
+época le corresponde una sensibilidad y unos intereses distintos (ej. la
+sensibilidad hacia los derechos de la mujer hoy, frente a hace cincuenta años).
+Con todo, parece coherente que los problemas actuales del Derecho deben ser
+estudiados desde una perspectiva de totalidad que abarque estas cuatro
+dimensiones.
+Lo contrario a la búsqueda de esa totalidad son ciertas corrientes doctrinales
+reduccionistas que se dedican al estudio unilateral y parcial del Derecho,
+centrándose exclusivamente en una de las dimensiones y olvidando el resto. Un
+ejemplo paradigmático (que será objeto de estudio posterior) es la Teoría Pura
+del Derecho de Kelsen, cuyo autor enfocaba su estudio solamente en la norma.
+19
+2. Estructura Y Componentes Del
+Derecho
+Dimensión Enfoque
+Primario
+Elemento
+Constitutiv
+o
+Rol en el Ordenamiento
+Jurídico
+I. Hecho
+Social
+Conducta y
+aplicación
+Legislador /
+Juez /
+Ciudadano
+Creación y ejecución
+(Eficacia)
+II. Norma Resultado
+formalizado
+Reglas, leyes,
+códigos
+Imperatividad (Validez)
+III. Valor Fines y
+principios
+Justicia,
+Seguridad,
+Igualdad
+Legitimación y Crítica
+(Justicia)
+IV. Historia Contexto y
+evolución
+Tiempo,
+antecedente
+s, sociedad
+Interpretación y
+Contextualización
+20
+2.1 Las Formas De Reflexión Doctrinal Sobre El Derecho
+(Clave De Examen)
+Se hace necesaria la exposición de las principales escuelas de reflexión, puesto
+que cada una de ellas pone el acento en una de las dimensiones del Derecho,
+llegando a olvidar o minusvalorar las restantes.
+1
+La Escuela Histórica (Savigny)
+Énfasis: La Dimensión del Hecho Social y la
+Historia.
+Postulado: El Derecho es creado por el
+espíritu popular (Volksgeist) o el sentimiento
+del pueblo. Lo que interesa a la colectividad
+se transforma en ley.
+Autor Destacado: Savigny.
+2
+El Realismo Americano
+Énfasis: La Dimensión del Hecho Social
+(Eficacia).
+Postulado: El Derecho es creado por las
+sentencias judiciales. El juez, al dictar
+sentencia, se apoya en la jurisprudencia
+previa, rara vez creando Derecho ex novo.
+Este movimiento de origen anglosajón, con
+clara influencia en el Derecho de los EE. UU.,
+ilustra la primacía de la efectividad judicial.
+3
+El Positivismo Jurídico
+Énfasis: La Dimensión Normativa (La Norma).
+Postulado: El Derecho se identifica con las
+normas en cuanto a reglas establecidas o
+puestas (positum), provenientes de quien
+ejerce el poder.
+Rasgo Caracterizador (Clave de Examen):
+La validez. El Derecho será tal cuando haya
+sido creado siguiendo los procedimientos
+establecidos en una norma superior (ej.
+plazos, tramitación parlamentaria). Si cumple
+los requisitos formales, la norma es válida y,
+por lo tanto, es Derecho.
+4
+El Iusnaturalismo (Teorías Del
+Derecho Natural)
+Énfasis: La Dimensión Valorativa (El Valor).
+Postulado: El Derecho se identifica con
+valores universales (Justicia, Moral) que
+deben fundamentar y legitimar el Derecho
+positivo.
+Función: Sirve de crítica a las normas que el
+legislador pone.
+21
+3. Claves Finales Para El Examen
+Es fundamental recordar y distinguir las concepciones positivista e
+iusnaturalista, pues la distinción será analizada en una clase posterior.
+Asimismo, se debe retener que el Derecho, en su conjunto, presenta
+cuatro dimensiones básicas (Hecho, Norma, Valor e Historia) que se
+relacionan y no pueden ser entendidas por separado, a pesar de que
+algunas corrientes apuesten por su estudio unilateral.
+ESQUEMA II: ESCUELAS DE REFLEXIÓN JURÍDICA (ANÁLISIS COMPARATIVO)
+Escuela
+Doctrinal
+Autor
+Referente
+Dimensión
+Central
+Concepto de Derecho
+Escuela
+Histórica
+Savigny Hecho
+Social/Historia
+Expresión del Espíritu Popular
+(Volksgeist).
+Realismo
+Americano
+[Juristas/J
+ueces]
+Hecho Social
+(Eficacia)
+Creado por las sentencias judiciales
+(Jurisprudencia).
+Positivismo
+Jurídico
+Kelsen (T.
+Pura)
+Norma (Validez) Regla puesta por el poder, siguiendo el
+procedimiento.
+Iusnaturalismo [Doctrina
+Natural]
+Valor
+(Legitimación)
+Valores universales que fundamentan y
+critican la norma.
+Memorizar Escuelas
+Histórica, Realismo,
+Positivismo, Iusnaturalismo
+Cuatro
+Dimensiones
+Hecho, Norma, Valor,
+Historia
+Distinción Clave
+Positivismo vs.
+Iusnaturalismo
+22
+Tema 4: Derecho Objetivo
+y Subjetivo
+El estudio técnico del Derecho exige la distinción conceptual entre el
+Derecho Objetivo y el Derecho Subjetivo, términos que, si bien relacionados,
+responden a planos distintos de la realidad jurídica.
+1. Derecho Objetivo
+Se define como la norma imperativa o el conjunto de reglas que componen el
+ordenamiento jurídico en su totalidad (ej. el Derecho Civil o el Derecho Penal).
+En definitiva, aparece como un precepto que permite o prohíbe una conducta.
+2. Derecho Subjetivo
+Se entiende como la facultad o el poder atribuido a un sujeto para realizar o
+abstenerse de realizar algo, o bien para exigir de otro un comportamiento
+determinado (ej. el derecho a opinar, a disfrutar de una propiedad, etc.). Es el
+permiso o la potestad que se deriva de la norma objetiva.
+Con todo, debe afirmarse que ambos conceptos son complementarios y no
+antagónicos. Nótese que no hay Derecho Objetivo que no conceda facultades, ni
+Derechos Subjetivos que no se encuentren respaldados o dependan de una
+norma objetiva. Además, la existencia de un Derecho Subjetivo implica,
+necesariamente, la existencia de un deber jurídico correlativo por parte de otro
+sujeto (ej. la relación entre el acreedor, titular del derecho de crédito, y el deudor,
+titular del deber jurídico de pago).
+23
+3. Debate Doctrinal sobre la Prioridad (Clave
+de Examen)
+En el plano teórico, la doctrina discute qué derecho tiene prioridad, si bien la
+conclusión suele ser personal:
+Prioridad del Derecho Subjetivo
+Sus defensores entienden que el ser humano
+adquiere primero la noción de facultad (la
+percepción de la integridad física o la
+convicción de una injusticia) antes de que la
+norma lo regule formalmente.
+Prioridad del Derecho Objetivo
+Se argumenta que el Derecho Subjetivo es
+una creación del Derecho Objetivo y que, por
+tanto, no sería posible la existencia de la
+facultad o el poder sin la previa norma que lo
+ampara y concede.
+4. Clasificación de los Derechos Subjetivos
+El Derecho Subjetivo se clasifica tradicionalmente en Derechos de la
+Personalidad y Derechos Patrimoniales.
+4.1 Derechos de la Personalidad
+Poseen carácter innato y son intrínsecos a la persona humana. Reconocen una
+serie de facultades o poderes a todo individuo, siendo por su esencia universales
+(ej. derecho a la vida).
+4.2 Derechos Patrimoniales
+Se dividen, a su vez, en dos categorías:
+Derechos Reales (res): Conjunto de facultades o poderes otorgados por el
+ordenamiento que permiten la disposición sobre una cosa (ej. vender la
+propiedad).
+Derechos de Obligaciones: Facultad para exigir a otros un determinado
+comportamiento (ej. exigir el pago al deudor).
+24
+5. Criterios Diferenciadores entre
+Personalidad y Patrimoniales (Clave de
+Examen)
+Se hace necesario precisar la distinción entre los Derechos de la
+Personalidad y los Derechos Patrimoniales, atendiendo a cinco criterios
+fundamentales que definen su régimen jurídico:
+01
+Titularidad
+Los de la Personalidad son universales, afectando a todos sin distinción. Los Patrimoniales son
+particulares, afectando solo a aquellas personas a las que la norma tutela expresamente (ej. acreedor
+de un contrato).
+02
+Origen
+Los de la Personalidad son originarios (se nace con ellos). Los Patrimoniales son escritos, los
+concede la norma, señalando condiciones y requisitos específicos.
+03
+Transmisibilidad
+Los de la Personalidad son irrenunciables y no se pueden vender ni transmitir. Los Patrimoniales son
+transmisibles (ej. venta de una propiedad).
+04
+Prescripción o Caducidad
+Los de la Personalidad son imprescriptibles y no caducan. Los Patrimoniales suelen ser
+prescriptibles (ej. la prescripción de una deuda por inacción en el plazo legal).
+05
+Validez o Exigencia (Eficacia)
+Los de la Personalidad se consideran absolutos y pueden hacerse valer erga omnes (frente a todos).
+Los Patrimoniales, con la salvedad de los derechos reales, se suelen considerar relativos, pues solo se
+pueden hacer valer ante determinadas personas (ej. solo al deudor se le exige la deuda).
+25
+6. Esquema I: Distinción entre
+Derechos Subjetivos (Clave
+Comparativa)
+Criterio Derechos de la Personalidad Derechos Patrimoniales
+Titularidad Universal (Erga Omnes) Particular (Limitado a sujetos
+concretos)
+Origen Innatos / Originarios Adquiridos / Concedidos por la
+Norma
+Transmisibilidad Irrenunciables / Intransmisibles Transmisibles
+Prescripción Imprescriptibles / No Caducan Prescriptibles (Sujetos a plazos)
+Eficacia Absolutos (Erga Omnes) Relativos (Salvo Derechos Reales)
+7. Derecho Público Frente a Derecho Privado
+Conviene reseñar la distinción, esencial en la Dogmática, entre las grandes
+ramas del Derecho, la cual se establece en función de los sujetos y los
+intereses que regulan.
+Derecho Público
+Conjunto de normas que regulan la organización y
+actividad del Estado y de otros entes públicos, así como
+sus relaciones con los particulares. Aquí el Estado actúa con
+imperium (ej. Derecho Administrativo o Derecho Penal, que
+serán objeto de estudio en otras asignaturas).
+Derecho Privado
+Conjunto de normas que regulan
+las relaciones entre particulares
+que actúan en un plano de
+igualdad jurídica (ej. Derecho Civil o
+Derecho Mercantil).
+Con todo, debe adelantarse que la distinción entre ambas esferas es cada
+vez menos nítida debido a la creciente intervención estatal en ámbitos
+tradicionalmente privados.
+26
+8. Esquema II: Estructura y
+Complementariedad de la Norma Jurídica
+Concepto Naturaleza Carácter Ramas que lo componen
+Derecho
+Objetivo
+Norma /
+Regla
+Imperativo /
+Prescriptivo
+Derecho Civil, Penal,
+Administrativo, etc.
+Derecho
+Subjetivo
+Facultad /
+Poder
+Permisivo /
+Exigible
+De la Personalidad, Reales,
+Obligaciones
+9. Resumen Final (Clave de Examen)
+Objetivo vs. Subjetivo
+El Derecho Objetivo es el conjunto
+de normas (el código); el Subjetivo
+es el poder o la facultad que
+emana o se fundamenta en dicha
+norma.
+Clasificación
+La distinción entre Derechos
+Personales y Patrimoniales se basa
+en la Titularidad, Origen,
+Transmisibilidad y Prescripción.
+Público vs. Privado
+La distinción se basa en los
+sujetos: El Público regula al Estado
+con poder; el Privado regula las
+relaciones entre particulares.
+27
+Tema 5: Iusnaturalismo y
+Positivismo
+La distinción entre Derecho Natural (Ius Naturalismo) y Derecho Positivo
+constituye la base sobre la que se articula la Teoría y la Filosofía del Derecho. Se
+recomienda al alumno prestar especial atención a esta dualidad por su carácter
+fundacional.
+1. Concepto y Alcance del Derecho Natural
+(Ius Naturalismo)
+El Derecho Natural es una expresión amplia, que engloba una variada gama de
+sentidos y teorías, si bien se puede establecer una definición doctrinal común.
+El Derecho Natural se define como el conjunto de principios derivados de la
+naturaleza humana que sirven de criterio inspirador y límite crítico a todo
+Derecho Positivo.
+1.1 Características Esenciales (Clave de Examen):
+Origen en la Naturaleza Humana: Sus principios son inherentes a la
+condición humana.
+Supraordenación al Positivo: No dependen de la voluntad del legislador, sino
+que se encuentran supra (por encima) del Derecho Positivo.
+Doble Función: Inspiran (como guía para la creación normativa) y limitan
+(sirven de crítica al Derecho puesto).
+Ejemplo Doctrinal: El derecho a la integridad física o a la vida es un
+principio de Derecho Natural. Si una ley positiva (ej. una Ley de la Purga)
+atentase claramente contra este principio, sería considerada contraria al
+Derecho Natural y, por tanto, no válida desde la perspectiva iusnaturalista.
+28
+1.2 Versiones Históricas del Ius Naturalismo:
+Iusnaturalismo
+Antiguo (Escolástico
+Medieval)
+Hasta el s. XIX Derecho y Derecho
+Natural son
+equivalentes.
+La ley humana solo es ley
+en la medida en que
+derive de la ley natural. Si
+se aparta, es corrupción
+de la ley (Santo Tomás de
+Aquino, Suma Teológica).
+Iusnaturalismo
+Moderno (Liberal y
+Racionalista)
+Desde el s. XIX Menos estricto,
+sometido a constante
+evolución y revisión.
+Es la fuente de la que
+emanan los actuales
+Derechos Humanos,
+alejándose de las
+cuestiones teológicas.
+2. Concepto y Alcance del Derecho Positivo
+El Derecho Positivo (Positum) es aquel que designa el derecho puesto o impuesto
+por quien ejerce el poder en una determinada sociedad, y por ello, válido
+únicamente en su ámbito espacial y temporal (ej. el derecho español en España).
+La expresión apareció doctrinalmente en el siglo XII, empleada por el autor
+Abelardo.
+El Derecho Positivo se define, en palabras llanas, como las normas prescritas
+y codificadas, es decir, las leyes que serán objeto de estudio en las distintas
+asignaturas (Civil, Penal, Mercantil, etc.).
+2.1 Doble Interpretación del Derecho Positivo:
+Para los Iusnaturalistas
+El Derecho Positivo es necesario para
+concretar y garantizar los principios
+abstractos del Derecho Natural. Se necesita
+que esos principios se inscriban en un código
+para hacerse efectivos.
+Para los Positivistas
+El Derecho Positivo es considerado el único
+derecho existente. Esta postura se denomina
+monismo jurídico, y rechaza la existencia de
+cualquier derecho natural o supralegal.
+29
+3. Síntesis Final: El Debate Positivismo vs.
+Iusnaturalismo (Clave de Examen)
+El posicionamiento ante la existencia o no de un Derecho Natural superior al
+Derecho Positivo es lo que permite clasificar las grandes corrientes de
+pensamiento jurídico:
+Iusnaturalistas
+Reconocen que existen principios
+superiores (Natural) que sirven de crítica al
+derecho puesto (Positivo).
+Positivistas
+Consideran que el único derecho válido es
+el que emana del legislador y que ha
+cumplido con los procedimientos formales
+(Derecho Positivo).
+La pregunta clave que resume el debate es: ¿Se tiene derecho a la integridad física porque
+lo establece la ley, o porque existe un Derecho Natural que lo reconoce, sirviendo este último
+para juzgar si el Derecho Positivo (ej. el derecho alemán nazi) es o no verdadero Derecho?
+4. Esquema Único: El Paradigma Dual del
+Derecho
+Definición Principios universales derivados
+de la naturaleza humana.
+Normas puestas o impuestas por
+el poder en una sociedad
+concreta.
+Fuente La Razón / La Naturaleza / Dios. El Legislador / El Estado (Acto de
+voluntad).
+Eficacia y Validez Intrínsecamente válido y Justo
+(Moral).
+Válido por seguir el procedimiento
+(Formal).
+Posición Jerárquica Supraordenado (Límite y Crítica
+al Positivo).
+Infraordenado (Necesita ser justo
+para ser ley, según T. Aquino).
+Concepto Asociado Dualismo Jurídico. Monismo Jurídico (Para los
+positivistas).
+30
+Tema 6: Concepciones
+Sociologistas del Derecho
+La distinción esencial entre el Positivismo (preocupado por la validez formal del
+ordenamiento jurídico) y el Iusnaturalismo (preocupado por la justicia material) es
+complementada por otras corrientes que centran su interés en la eficacia o
+efectividad social de las normas. Nótese que, para estas escuelas, el Derecho
+auténtico no es meramente el enunciado en un código o en una Constitución,
+sino aquel que los hombres efectivamente aplican en sus relaciones
+cotidianas, reduciendo la validez jurídica a su mera eficacia social.
+A continuación, se analizan sistemáticamente las principales escuelas que
+abrazan esta visión.
+1. La Jurisprudencia de Intereses (Alemania)
+Esta escuela, de origen alemán, cuyo autor principal es Hecht, postula que las
+normas jurídicas son fundamentalmente pronunciamientos acerca de cuál de
+los intereses contrapuestos en una controversia debe prevalecer. En esencia,
+el Derecho sirve para resolver conflictos de intereses. El jurista debe interpretar o
+averiguar cuál es el interés que el legislador intenta proteger mediante la norma
+en cada caso concreto. Conviene precisar que Hecht insiste en la sumisión del
+juez a lo dicho en la ley, buscando la voluntad del legislador. Por tanto, esta
+corriente no otorga al juez libertad interpretativa.
+2. El Movimiento del Derecho Libre
+Iniciado en Francia y Alemania a comienzos del siglo XX, esta corriente reclama la
+libertad del juez para dictar sentencias en caso de lagunas, apartándose del
+Derecho codificado o jurisprudencial. El fundamento de la decisión debe ser el
+sentido de justicia predominante en la comunidad, lo cual obliga al juez a
+investigar las convicciones morales o sentimientos de justicia dominantes.
+31
+Valoración (Clave para el examen): Entre sus aspectos positivos, destaca que abre el Derecho a la
+realidad social y se preocupa más por la justicia material que por la legalidad formal. Sin embargo, en
+su contra, comporta el riesgo de que el juez imponga sus propios sentimientos o los del partido
+dominante, como sucedió con el famoso "sano sentimiento del pueblo" en la Alemania nazi.
+3. La Concepción Marxista del Derecho
+La doctrina marxista defiende una visión del Derecho que rechaza cualquier
+consideración iusnaturalista, negando la existencia de verdades eternas o
+principios universales (la libertad, la cultura o el propio Derecho son considerados
+"nociones burguesas").
+El Derecho, en esta concepción, es considerado exclusivamente un
+instrumento al servicio de la clase económica gobernante con un doble
+objetivo: perpetuar su poder y mantener sometida a la clase oprimida. La función
+del Derecho, por ende, es intrínsecamente instrumental y política, siendo una
+mera superestructura que legitima la base económica.
+4. El Realismo Jurídico (Norteamericano y
+Escandinavo)
+Esta corriente, de origen anglosajón, cuenta con Holmes como autor insigne,
+quien definió el Derecho como "unas profecías acerca de lo que van a hacer en
+realidad los tribunales". Para el realismo, una obligación legal no es el texto
+normativo en sí, sino la predicción de que, si un sujeto incumple la norma, "tendrá
+que sufrir de esta o aquella manera por la sentencia de un tribunal".
+Postulado Central (Clave de Examen): El Derecho auténtico no son las normas
+puestas por el legislador, sino las normas que, con toda probabilidad, van a
+ser aplicadas por los jueces. Esto implica que el juez es el verdadero creador de
+la norma, basándose para su decisión en los precedentes judiciales
+(jurisprudencia). La ley escrita tiene un papel muy pequeño, lo que genera una
+alta inseguridad jurídica y socava el principio de primacía de la norma.
+32
+5. El Uso Alternativo del Derecho
+(Movimiento)
+Este movimiento es el ala más extrema de las corrientes críticas. Postula que el
+Derecho siempre cumple una función política y denuncia la politización de la
+interpretación y aplicación del denominado "Derecho burgués" en favor de los
+intereses de la clase dominante. El Uso Alternativo defiende, consecuentemente,
+una interpretación y aplicación del Derecho que se ponga al servicio de los
+intereses de las clases populares ("quítate tú para ponerme yo").
+6. Esquema I: Corrientes del Derecho Basadas
+en la Eficacia (Clave Comparativa)
+Corriente Énfasis / Principio
+Rector
+Fuente Real del
+Derecho
+Rol del Juez
+Jurisprudencia
+de Intereses
+Voluntad del
+Legislador
+(Resolución de
+Intereses).
+La Ley Escrita
+(Interpretación
+Teleológica).
+Sometido a la norma
+/ Sin libertad.
+Derecho Libre Sentimiento de
+Justicia Comunal
+(Antiformalismo).
+Convicciones
+Morales/Comunales
+(En caso de lagunas).
+Libertad creadora
+(Riesgo de
+subjetivismo).
+Concepción
+Marxista
+Lucha de Clases
+(Dominación).
+La Voluntad de la
+Clase Económica
+Gobernante.
+Mero instrumento de
+la clase dominante.
+Realismo Jurídico Predicción Judicial
+(Eficacia).
+Jurisprudencia
+(Precedentes
+Judiciales).
+Verdadero creador
+de la norma.
+Uso Alternativo Intereses de las
+Clases Populares
+(Función Política).
+Los Intereses
+Populares (Uso
+"progresista" del
+Derecho).
+Instrumento al
+servicio de la clase
+oprimida.
+33
+7. Esquema II: El Flujo de la Validez Vs. la
+Eficacia (Resumen Conceptual)
+Paradigma ¿Qué es Derecho? ¿Qué es lo esencial?
+Positivismo La norma válida (procedimiento
+formal).
+VALIDEZ (Existe si es puesto por
+el legislador).
+Iusnaturalismo La norma justa (principios
+superiores).
+JUSTICIA (Existe si es acorde a la
+Naturaleza).
+Corrientes
+Realistas/Críticas
+La norma aplicada
+(predicción/hecho).
+EFICACIA (Existe si es aplicado en
+la calle/tribunales).
+RESUMEN FINAL (CLAVE DE EXAMEN): Los cinco movimientos estudiados
+acentúan un elemento distinto: la voluntad del legislador (Jurisprudencia de
+Intereses), el sano sentimiento del pueblo (Derecho Libre), el carácter
+instrumental opresivo (Marxismo), la creación judicial (Realismo Jurídico) o el uso
+alternativo con miras progresistas (Uso Alternativo). Todos ellos, sin embargo, se
+reúnen en el interés común por la efectividad social del Derecho, reduciendo la
+validez jurídica a la eficacia.
+34
+BLOQUE 2
+EL DERECHO Y OTROS SISTEMAS
+NORMATIVOS
+35
+Tema 1: Relaciones Entre
+Derecho Y Moral (Parte 1)
+Adentrarse en la relación entre el Derecho y la Moral ha sido calificado por la
+doctrina como "el cabo de los naufragios" en alusión al fracaso de las tentativas
+teóricas por trazar una delimitación nítida. Ambos constituyen sistemas
+normativos, pero su distinción se basa tradicionalmente en tres criterios, si bien
+cada uno presenta problemas de aplicación.
+1. Criterios Tradicionales De Distinción (Clave
+De Examen)
+Los criterios más usuales para establecer las diferencias son:
+Foro Interno
+(Moral) vs. Foro
+Externo (Derecho)
+Distinción debida a Kant y
+Tomasio.
+Unilateralidad
+(Moral) vs.
+Bilateralidad
+(Derecho)
+Autonomía (Moral)
+vs. Heteronomía
+(Derecho)
+2. Análisis Crítico De Los Criterios De
+Delimitación
+2.1 Foro Interno Y Foro Externo
+Distinción Clásica: El Derecho regula la conducta externa del sujeto, mientras
+que la Moral se ubica en el foro interno de la conciencia. Históricamente, este
+criterio fue útil para sustraer la injerencia del Estado absoluto de la esfera íntima.
+Problema (Crítica Kantiana): La división nunca fue absoluta en la concepción de
+Kant, quien creía en un derecho éticamente fundamentado. Toda acción externa
+tiene su origen en el foro interno (ej. el dolo en el Derecho Penal o la buena fe en
+el Derecho Civil).
+36
+Relevancia Actual: La distinción ha sido fundamental para la descriminalización
+de conductas que antes atentaban contra la moral sexual o las "buenas
+costumbres" (ej. la homosexualidad). Dicho cambio se fundamenta en el respeto a
+una dimensión privada de la conducta (foro interno) y en el reconocimiento de
+valores internos de la persona (dignidad, intimidad), que se traducen en Derechos
+Fundamentales.
+3. Unilateralidad, Bilateralidad Y
+Autonomía
+3.1 Unilateralidad Y Bilateralidad
+Distinción Clásica: El Derecho es bilateral porque se expresa mediante normas
+dirigidas a regular la sociedad (relaciones con otros). La Moral es unilateral porque
+es un fenómeno esencialmente personal e individual, que queda en la conciencia.
+Problema (Crítica Marxista): La tesis de la moral individual niega el carácter
+social del hombre. La Moral aparece en el seno de la sociedad y tiene por
+objeto comportamientos que, directa o indirectamente, se refieren a otras
+personas.
+Dimensión Social de la Moral: Incluso los deberes del hombre para consigo mismo (ej. la
+prohibición del suicidio) inciden indirectamente en la sociedad, ya que el comportamiento
+cumple o viola intereses sociales (ej. el interés social de preservar la vida de todos los
+miembros de la comunidad). Por lo tanto, la Moral presenta una innegable dimensión social al
+responder a intereses comunitarios.
+3.2 Heteronomía Y Autonomía
+Distinción Clásica: El Derecho es heterónomo y coactivo, siendo un imperativo
+procedente de una voluntad ajena (el legislador). La Moral es autónoma, ya que es
+una norma que el hombre se da a sí mismo en ejercicio de su libertad. La Moral no
+se impone coactivamente a primera vista.
+37
+3.3 Problemas:
+Respecto a la Heteronomía del Derecho: Si bien el Derecho es heterónomo,
+existen distintos grados. En el Derecho Privado (ej. la autonomía de la voluntad
+contractual), existe una gran autonomía de las partes. Aunque el
+intervencionismo público (ej. regulación de contratos colectivos) ha mermado
+esta autonomía en las últimas décadas, el acuerdo de voluntades sigue siendo
+clave en ramas como el Derecho Laboral o el Derecho Internacional Público.
+Respecto a la Autonomía de la Moral: Nadie crea de la nada un sistema
+moral; la autonomía no se refiere a la creación, sino a la posibilidad de
+adherirse a un sistema moral ya existente de forma libre. Una vez aceptadas
+las normas morales, estas se imponen coactivamente de diversos modos
+(escrúpulos de conciencia, presión social).
+4. Esquemas Comparativos Y Resumen Final
+Esquema I: Derecho Vs. Moral (Análisis Comparativo)
+Criterio
+Clásico
+DERECHO MORAL Problemática
+Ubicación Foro Externo (Regula
+actos externos).
+Foro Interno
+(Conciencia).
+La acción externa tiene
+origen en el foro interno
+(Dolo / Buena Fe).
+Relación Bilateral (Regula
+relaciones sociales).
+Unilateral
+(Fenómeno
+personal).
+La Moral siempre tiene
+una dimensión social y
+responde a intereses
+comunitarios.
+Imposición Heterónomo
+(Impuesto por el
+legislador).
+Autónomo (Norma
+dada a sí mismo).
+El Derecho Privado tiene
+gran autonomía; la Moral
+se impone coactivamente
+tras la libre adhesión.
+38
+Esquema II: El Flujo De La Conciencia A La
+Norma (Resumen Conceptual)
+Origen
+(Moral/Autonomía)
+La conciencia del
+individuo formula un
+imperativo (ej. la norma
+contra el suicidio).
+Exteriorización
+(Moral/Bilateralidad)
+El comportamiento
+tiene un impacto
+indirecto en los
+intereses sociales
+(interés comunitario de
+preservar la vida).
+Formalización
+(Derecho/Heterono
+mía)
+El legislador asume el
+interés social y crea
+una norma jurídica que
+lo tutela (ej. la
+tipificación del
+homicidio).
+Resumen Final (Clave De Examen)
+El Derecho y la Moral son sistemas normativos con fronteras difusas.
+La distinción tradicional (interno vs. externo; unilateral vs. bilateral;
+autonomía vs. heteronomía) es esencial para el examen, pero el
+estudiante debe incorporar la crítica doctrinal: la Moral posee una
+dimensión social y el Derecho presenta grados de autonomía (p. ej., el
+Derecho Privado).
+39
+Tema 2: Relaciones Entre
+Derecho Y Moral (Parte 2)
+La articulación de las relaciones entre el Derecho y la Moral se resume en cuatro
+modelos doctrinales esenciales, que van desde la separación absoluta hasta la
+integración total, siendo crucial para comprender la Filosofía del Derecho.
+1. Modelo De Separación Radical (Positivismo
+Jurídico Radical)
+Este planteamiento defiende que el Derecho y la Moral son órdenes normativos
+autónomos entre los que no debe existir ninguna interferencia.
+Tesis: La validez del Derecho es independiente de su contenido moral. La
+Moral se queda en la esfera privada del sujeto.
+Autor Representativo: Hans Kelsen. Su Teoría Pura del Derecho concibe el
+Derecho como una estructura normativa autosuficiente, autorreferente y
+coherente.
+Fundamentación Kelseniana: El Derecho se fundamenta en sí mismo a través del
+concepto de Norma Fundamental (o Grundnorm), entendida como un principio
+de validez que se sitúa en la cúspide del ordenamiento jurídico (como una
+pirámide).
+Puntos de Crítica (Clave de Examen): La teoría kelseniana presenta dos
+debilidades:
+La Norma Fundamental no es real, sino una ficción o hipótesis.
+Al separar tajantemente Derecho y Moral, Kelsen identifica el Derecho con el
+Estado, concibiendo este último meramente como un orden normativo.
+40
+2. Modelo De Separación Relativa
+(Positivismo Moderado)
+Este modelo, defendido por un positivismo matizado, reconoce la autonomía del
+Derecho, pero acepta la existencia de puntos de conexión con la Moral.
+Tesis: El Derecho Positivo posee una mínima fundamentación ética. No se
+debe confundir el derecho que existe (ius positum) del que moralmente aspira a
+existir (ius naturale), pero se admite una influencia.
+Autor Representativo: Herberger.
+Ejemplo Legal (Ius Cogens Español): Esta conexión se traduce en la
+incorporación de conceptos éticos al ordenamiento, como los llamados
+Principios Generales del Derecho (aplicables en España según el art. 1.4 CC),
+que tienen un sustrato moral.
+3. Modelo De Integración Absoluta
+(Iusnaturalismo Neotomista)
+En este sistema, la Moral abarca y subsume las demás normatividades, siendo el
+Derecho un simple reflejo de aquella.
+Tesis: No se admite la existencia de una ley que no sea justa. Se alinea con la
+corriente escolástica medieval (Santo Tomás de Aquino y San Agustín).
+Aforismos Clásicos: "Toda ley humana tendrá carácter de ley en la medida en
+que se derive de la ley de la naturaleza. Y si se aparta en un punto de la ley
+natural, ya no será ley, sino corrupción de la ley" (Santo Tomás de Aquino).
+Contextos Históricos: Se ejemplifica en situaciones donde la Moral
+(generalmente de naturaleza religiosa) y el Derecho son coincidentes y castigan el
+"pecado" (ej. la España de Franco, donde la moral católica era ley, o países
+islámicos actuales con preceptos religiosos en sus leyes).
+41
+4. Modelo De Integración Relativa
+(Iusnaturalismo Moderado)
+Defendido por el iusnaturalismo contemporáneo, este modelo rechaza tanto la
+separación total como la integración total.
+Tesis: Defiende la autonomía e independencia relativa de Derecho y Moral en
+ciertos aspectos, pero postula su coincidencia necesaria en otros. Cada
+sistema normativo se ocupa de su esfera, pero se mezclan en la práctica.
+Autor Representativo: Ronald Dworkin.
+Ejemplo Clásico (Derecho Español): El deber de socorro a un tercero es, prima
+facie, una exigencia ética o moral. Sin embargo, está plasmado como una
+obligación jurídica en el art. 195 del Código Penal (CP), tipificado como delito de
+omisión del deber de socorro.
+5. Reflexión Final Y Peligros
+Doctrinales (Clave De Examen)
+El debate sobre el Derecho nazi (cuyas leyes se crearon siguiendo los
+procedimientos formales) ilustra la necesidad de estos modelos. Un sistema de
+Integración Absoluta (Iusnaturalismo) podría defender que no fue verdadero
+derecho, pues era corrupción de la ley por su injusticia; un Positivismo Radical
+defendería que fue verdadero derecho al cumplir con la forma.
+Peligro de la Marginación Moral:: Tener un "derecho sin alma" es peligroso (ej. La
+Alemania nazi, donde se primó la validez formal sobre la justicia material).
+Peligro de la Moralización Absoluta:: Un derecho totalmente moralizado es
+también peligroso, pues impone una única moral a la sociedad (ej. La España de
+Franco, donde la moral se impuso coactivamente a través del Derecho).
+42
+6. Esquema Único: Modelos De Relación
+Derecho / Moral
+Separación
+Radical
+Positivismo
+Jurídico (Kelsen)
+Autonomía Total
+(No hay
+interferencia)
+El Derecho se
+fundamenta en
+una ficción
+(Norma
+Fundamental)
+Separación
+Relativa
+Positivismo
+Moderado
+(Herberger)
+Autonomía con
+Conexiones
+Mínimas
+Mínima
+fundamentación
+ética (Principios
+Generales del
+Derecho)
+Integración
+Absoluta
+Iusnaturalismo
+Neotomista (S.
+Tomás)
+Subordinación
+Total (Moral
+subsume al
+Derecho)
+La Ley injusta es
+corrupción de la
+ley (Riesgo de
+teocracia)
+Integración
+Relativa
+Iusnaturalismo
+Moderado
+(Dworkin)
+Coincidencia
+Necesaria (Se
+mezclan en la
+práctica)
+Exigencias éticas
+plasmadas en el
+Código Penal (Ej.
+Deber de Socorro,
+art. 195 CP)
+43
+Tema 3: Los Usos Sociales
+En la vida social, el comportamiento de las personas se encuentra regulado por
+una multiplicidad de reglas de conducta. Los usos sociales constituyen una
+categoría normativa residual; son normas que estructuran la acción humana y la
+convivencia en aquellos aspectos no reglados por el Derecho ni la Moral (ej. reglas
+de trato como el saludo, o reglas de decencia como la indumentaria adecuada a
+una situación).
+1. Origen Y Clasificación De Los Usos Sociales
+A. Origen: Su creación se atribuye, por un lado, a una esfera anónima del espíritu
+colectivo ("lo hace la gente"); por otro, se conciben como el producto de la acción
+o el ejemplo de líderes sociales.
+B. Clasificación Doctrinal:
+Criterio Usos Universales/Uniforme Usos Particulares/Diversificados
+Extensión Usos Básicos (ej. el saludo). Usos religiosos, de clases sociales, etc.
+Criterio Usos Irreflexivos
+(Mecánicos)
+Usos Deliberados (Pensados)
+Voluntariedad Actos por inercia. Actos con un sentido original (ej. Saludar
+agarrando el antebrazo para verificar la
+ausencia de armas, convertido hoy en un
+acto irreflexivo).
+Criterio Usos Fuertes (Custom) Usos Débiles (Habits)
+Obligatoriedad Su omisión acarrea una
+consecuencia más grave (ej. la
+omisión del saludo).
+La omisión conlleva una
+consecuencia menor (ej. almorzar a
+una hora determinada).
+44
+2. Relación con el Derecho:
+Contenido, Sanción y Fin (Clave de
+Examen)
+La distinción entre los Usos Sociales y el Derecho se articula en torno a tres
+puntos esenciales, si bien la línea divisoria no siempre es precisa:
+A. Contenido
+Similitudes: Al igual que el Derecho, los Usos existen en la opinión pública del grupo y en un
+sentimiento dominante de su obligatoriedad o conveniencia.
+Diferencias: Los Usos carecen de una formulación precisa y rara vez se recogen en un código. Sin
+embargo, lo que antes era un uso social puede ser hoy objeto de regulación jurídica (ej. la
+indumentaria, hoy reglamentada para el Ejército o la Policía). Los Usos Sociales son, en esencia,
+Derecho en potencia. Aunque los Usos suelen ser imprecisos, existen algunos en forma escrita
+(ej. códigos de honor o manuales de comportamiento social).
+B. Sanción
+Sanción del Derecho: Ya conocida (formal, coercitiva, institucionalizada).
+Sanción del Uso: Lesión que provoca una reacción amorfa del grupo y una desaprobación cuyos
+efectos son difícilmente determinables a priori (ej. desaprobación social, exclusión del grupo de
+amigos por impuntualidad). Es crucial destacar que la sanción del Uso es real y, en ocasiones,
+puede ser más grave que la sanción jurídica (ej. la marginación social tras un divorcio en un
+grupo religioso).
+C. Fin
+Fin del Uso: Se orienta a razones de oportunidad y conveniencia; su objetivo es hacer la vida más
+agradable o llevadera.
+Fin del Derecho: Su carácter es necesario; no nace para hacer la vida llevadera, sino para
+posibilitarla, articulando la convivencia social de forma imprescindible.
+45
+3. Usos Sociales Y La Costumbre
+Jurídica
+La relación entre los Usos Sociales y el Derecho se cristaliza en la costumbre, que
+es una de las fuentes tradicionales de creación del Derecho.
+Relevancia en el Derecho Español: En nuestro ordenamiento, la costumbre
+posee una función supletoria, tal como lo recoge el art. 1.3 del Código Civil (CC),
+solo aplicable en defecto de ley. Tras el movimiento codificador (pasar la
+costumbre a escrito), los usos perdieron relevancia.
+Vigencia Actual: La costumbre sigue siendo una fuente significativa en el
+Derecho Internacional, el Derecho Privado (ej. referencias a los usos del comercio
+o del tráfico para superar lagunas), o el Derecho Laboral.
+Corriente de Reivindicación de la Costumbre (Escuela Histórica)
+En los últimos siglos, han surgido corrientes que intentan reivindicar la prioridad
+de la costumbre sobre la ley, con motivos que se resumen a continuación
+(recordando el énfasis de la Escuela Histórica del Derecho y su autor Savigny):
+01
+Carácter Auténtico
+La costumbre es considerada el
+producto más auténtico de las
+tradiciones jurídicas de cada
+pueblo, frente a la ley, vista
+como excesivamente formalista
+y abstracta, y alejada de la
+realidad popular.
+02
+Instrumento De
+Resistencia
+Proporciona un instrumento de
+resistencia a la ley cuando esta
+es contraria a las convicciones
+populares. El pueblo, como
+señor del Derecho, puede
+"desusar" la ley y darse a sí
+mismo una norma en forma de
+costumbre.
+03
+Eficacia Social
+Cuanto más se aleja la ley de la
+costumbre, menor es su
+eficacia, pues pierde su base
+social y su autoridad ("Yo
+siempre he hecho esto, ¿ahora
+va a venir la ley a decirme qué
+tengo que hacer?"). Esta
+corriente aboga, en definitiva,
+por la costumbre como
+Derecho vivo.
+46
+4. Esquema Único: Usos Sociales Vs.
+Derecho
+Sistema
+Normativo
+Formulación Finalidad Tipo de Sanción
+Usos Sociales Imprecisa,
+Anónima
+(Costumbre
+Social).
+Oportunidad y
+Conveniencia
+(Hacer la vida más
+agradable).
+Amorfa,
+Desaprobación
+Social
+(Consecuencias
+graves).
+Derecho Precisa,
+Escrita (Ley,
+Código).
+Necesidad
+(Posibilitar la
+convivencia).
+Formal, Coactiva,
+Institucionalizada.
+5. Resumen
+Los Usos Sociales son una categoría residual que regula lo no cubierto por la
+Moral y el Derecho. Se clasifican por su extensión, voluntariedad y obligatoriedad.
+Su diferencia con el Derecho se basa en la imprecisión de su contenido, la
+amorfidad de su sanción (que puede ser muy dura) y su fin de conveniencia. Es
+clave recordar que los Usos son Derecho en potencia y que la costumbre
+sigue siendo fuente supletoria, existiendo una corriente que la reivindica como
+Derecho vivo frente a la ley abstracta.
+47
+Tema 4: El Derecho y la
+Fuerza
+La relación entre Derecho y Fuerza es una cuestión medular en el Derecho. La
+corriente del positivismo jurídico, cuya obsesión es la cientificidad del estudio
+del Derecho, concibe este último como un conjunto de normas coactivas
+(puestas o impuestas mediante la fuerza), llegando a identificar Derecho con
+Fuerza.
+1. Subteorías de la Fuerza y su Relación con el
+Derecho
+La comprensión de la fuerza se articula en tres tipos de subteorías, cada una con
+una visión distinta de su rol dentro del ordenamiento:
+Subteoría /
+Corriente
+Concepto
+de Fuerza
+Rol de la Fuerza Implicación (Clave de Examen)
+Positivismo
+del Siglo XIX
+Fuerza como
+Instrumento
+Medio para la
+realización del
+Derecho.
+El Derecho es un conjunto de normas
+respaldadas por la fuerza (ej. la norma
+fiscal se cumple porque el Estado puede
+embargar).
+Realismo
+Jurídico
+Fuerza como
+Objeto
+Objeto de las
+normas
+jurídicas.
+El Derecho son normas que regulan el
+uso de la fuerza (ej. Derecho Penal y sus
+sanciones). El Derecho Civil o Mercantil
+sin normas coercitivas no sería
+"verdadero derecho".
+Positivismo
+Moderno
+(Kelsen)
+Fuerza como
+Identidad
+El Derecho es la
+Fuerza misma.
+El Derecho es un ordenamiento coactivo.
+La norma jurídica no está respaldada por
+la fuerza, sino que es ella misma la que
+impone la sanción (identificación
+Derecho-Coacción).
+48
+Con todo, la tesis de Kelsen presenta el mismo problema que las demás: ¿Qué sucede con las ramas
+del Derecho basadas en el mutuo acuerdo de voluntades (ej. gran parte del Derecho Civil o
+Mercantil) y no en la coacción pura?
+2. Coacción vs. Coercibilidad
+Para abordar la cuestión de las ramas no coactivas, es necesario distinguir dos
+términos fundamentales:
+Concepto Definición Aplicación Corriente
+Predominante
+Coacción La fuerza en acto; acción
+material que se ejerce
+sobre alguien para
+determinar su conducta
+(obligar a hacer algo).
+Elemento esencial que
+integra todas las normas.
+Positivistas
+Coercibilida
+d
+La fuerza en potencia; la
+posibilidad de recurrir a
+la fuerza para que se
+realicen ciertos
+comportamientos, si
+fuera necesario.
+El Derecho se aplica
+coactivamente si es
+necesario (ej. en el Derecho
+Mercantil, las normas se
+basan en el acuerdo, pero si
+hay incumplimiento, se
+recurre a la fuerza).
+Iusnaturalistas
+(en una visión
+más realista)
+La diferencia fundamental entre las normas jurídicas y otros sistemas normativos
+(Moral, Usos Sociales) radica en la impositividad inexorable del Derecho. El
+Derecho impone forzosamente una conducta; no le afecta la opinión o voluntad
+del sujeto (ej. "Matar o violar un viernes sale igual de caro que un lunes").
+3. La Sanción Jurídica y el Mandato de
+Seguridad
+La sanción jurídica es la manifestación más palpable de la coercibilidad del
+Derecho. A diferencia de las sanciones morales o de los usos, la sanción jurídica
+implica la posibilidad de obligar a la ejecución forzosa de las conductas.
+49
+3.1 Formas de Ejecución Forzosa:
+Compulsión sobre las personas: Obligar al deudor a pagar.
+Ejecución subsidiaria: La Administración realiza una acción por el infractor a
+su costa (ej. pintar una fachada y cobrarlo).
+Penas o Sanciones administrativas.
+4. Estructura Formal de la Sanción
+En un Estado de Derecho, el sistema sancionatorio exige hacer pública la sanción
+de forma clara, precisa y previa, conforme al principio de seguridad jurídica. El
+Derecho crea unos escenarios preestablecidos que objetivan y tutelan el trato de
+los infractores.
+4.1 Requisitos del Sistema Sancionatorio
+(Clave de Examen):
+QUÉ se castiga
+Tipificación de las
+conductas objeto de
+sanción (ej. el detalle de los
+delitos en el Código Penal).
+CÓMO se castiga
+Tipo de sanciones previstas
+para la conducta
+antijurídica (ej. penas,
+multas).
+QUIÉN castiga
+Determinación de los
+encargados de imponer
+castigos (ej. la
+Administración en multas, el
+Juez en penas).
+DE QUÉ FORMA se castiga
+Reconocimiento de los procedimientos que
+regulan la imposición de los castigos y los
+recursos que procedan (ej. los recursos que
+figuran al pie de las multas).
+DÓNDE se castiga
+Previsión de las sedes físicas en las que se
+imponen y cumplen las sanciones (ej. un juez
+no puede administrar justicia fuera del
+juzgado).
+50
+RESUMEN FINAL (CLAVE DE EXAMEN)
+El positivismo tiende a identificar Derecho con Coacción, mientras
+que el iusnaturalismo y las visiones más realistas se decantan por la
+Coercibilidad (fuerza en potencia). La sanción jurídica, su manifestación
+más importante, debe cumplir con cinco requisitos de claridad,
+precisión y publicidad derivados del principio de seguridad jurídica.
+51
+BLOQUE 3
+JUSTICIA Y DERECHOS HUMANOS: los
+pilares de nuestra sociedad
+52
+Tema 1: La Teoría De La
+Justicia (Parte I)
+La palabra Justicia posee dos acepciones principales:
+Virtud Universal: Entendida como una virtud suprema que compendia a todas
+las demás.
+Criterio Ideal del Derecho: La acepción que nos interesa; la Justicia es el valor
+jurídico por excelencia, íntimamente relacionado con otros valores básicos que
+utiliza para evaluar un sistema jurídico (a imagen y semejanza de la función de
+crítica que el Derecho Natural ejerce sobre el Derecho Positivo).
+La Justicia Y Los Valores Jurídicos Fundamentales
+La definición y aplicación de la Justicia siempre están imbuidas de otros valores
+esenciales para la convivencia social:
+1. Justicia E Igualdad
+La Justicia suele identificarse con el concepto de igualdad, ejemplificado en la
+máxima romana de "dar a cada uno lo suyo".
+Aristóteles diferenció dos tipos:
+Justicia Distributiva: Regula el reparto de cargas y honores de la comunidad (ej.
+los impuestos según tus ganancias).
+Justicia Conmutativa: Regula las relaciones contractuales entre ciudadanos (ej.
+el precio justo en una compraventa).
+Esta concepción evolucionó hacia la igualdad de trato, que exige que los
+ciudadanos sean tratados de igual manera, si bien el criterio para determinar qué
+constituye "igual trato" sigue siendo un dilema.
+53
+2. Justicia Y Libertad
+El Derecho actúa como regulador y garante de la libertad individual, asegurando
+una esfera de autonomía para el ciudadano.
+Tensión entre valores: Existe una tensión inherente entre ambos principios. Una
+excesiva libertad económica genera frecuentemente desigualdad, mientras que la
+búsqueda de la igualdad debe necesariamente sacrificar una porción de la
+libertad. El individualismo (asociado a la libertad) choca con el colectivismo
+(asociado a la igualdad).
+Libertad
+Autonomía individual
+Riesgo: Desigualdad económica
+Igualdad
+Justicia distributiva
+Riesgo: Limitación de libertades
+3. Justicia Y Seguridad
+La Seguridad es el argumento utilizado para establecer limitaciones a las
+libertades individuales, garantizando un orden social determinado.
+Seguridad Jurídica: Seguridad significa ausencia de dudas y se opone a la
+arbitrariedad. La legalidad engendra seguridad, pues el Derecho delimita el campo
+en el que los ciudadanos pueden sentirse seguros, sabiendo con certeza a qué
+atenerse respecto a sus derechos y deberes (ej. saber la pena máxima de prisión
+que se puede imponer). No obstante, la Seguridad también sirve de excusa para
+restringir libertades (ej. toques de queda).
+4. Justicia Formal Vs. Justicia Material
+La Justicia se enfrenta al dilema de la aplicación práctica, lo que obliga a
+distinguir entre la idea abstracta y los criterios concretos:
+54
+4.1 La Justicia Formal
+Corresponde a la definición romana de "dar a cada uno lo suyo", es decir, la
+igualdad de trato en su sentido más básico.
+Problema: Es imprecisa e indeterminada. Solo define la Justicia, pero no
+suministra el criterio de medida o la pauta de valoración para aplicarla. Es la idea
+sin el método práctico.
+4.2 La Búsqueda De La Justicia Material
+La Justicia Material sería el principio práctico de aplicación, el "cómo" aplicar el
+principio formal. Dado que no existe un criterio único de aplicación, la Justicia
+Material es indefinible de forma única, ya que depende del criterio que se elija.
+El autor Perelman investigó los diversos criterios materiales que se han utilizado
+históricamente para intentar hacer justicia:
+55
+Criterio Material Principio de Aplicación Objeción Principal
+A cada uno lo suyo Igualdad radical y absoluta
+de todos los individuos
+(comunidades primitivas).
+Visión radical desfasada en
+sociedades modernas
+estructuradas.
+A cada uno según sus
+méritos
+Trato proporcional a las
+capacidades y méritos
+(sociedades capitalistas).
+Los méritos están
+condicionados a las
+oportunidades culturales,
+sociales y económicas.
+A cada uno según sus
+obras/trabajo
+Valoración por la cantidad y
+tipo de trabajo o
+conocimiento realizado (ej. el
+salario justo).
+Enfocado solo en el producto
+y el conocimiento, dejando
+fuera otros factores.
+A cada uno según sus
+necesidades
+Clasificación según las
+necesidades esenciales o
+básicas del individuo.
+Dificultad para definir qué es
+una necesidad esencial y
+quién debe decidir cómo
+satisfacerla.
+A cada uno según su rango Actitud diferente según el
+estatus o clase social
+(sociedades
+esclavistas/estamentales).
+Presupone la desigualdad
+social, concepto desfasado.
+A cada uno según lo que la
+ley le atribuye
+Es justo lo que la ley
+establece, dejando la
+aplicación en manos del juez.
+El Derecho no siempre es
+justo, por lo que este criterio
+es insuficiente.
+Conclusión Final: El resultado de la investigación es que ninguno de los criterios
+materiales propuestos es totalmente satisfactorio. No existe una forma única de
+conciliar el criterio formal de la justicia ("dar a cada uno lo suyo") con una regla de
+aplicación material que elimine todas las injusticias y desigualdades. La Justicia
+Material permanece como una aspiración ideal.
+56
+Tema 2: Las Concepciones
+De La Justicia (Parte II)
+La investigación sobre la Justicia se solapa intrínsecamente con la Ética, pues la
+definición de lo que es justo a menudo se fundamenta en la reflexión sobre lo que
+es "bueno" o "moralmente correcto". A continuación, se exponen las principales
+tradiciones y teorías que han intentado determinar el concepto de Justicia.
+1. Las Tradiciones Clásicas De La
+Justicia
+1.1 La Tradición Iusnaturalista (Platón,
+Aristóteles, S. Agustín, S. Tomás)
+Para esta tradición, la idea de justicia se define de acuerdo con postulados o
+principios extraídos de la naturaleza (humana o cósmica) y son de fácil
+conocimiento para el hombre a través de la razón, los sentidos o los sentimientos.
+Fundamento: Estos principios reflejan fielmente la realidad de la naturaleza (ej. en
+la época medieval, esta idea se identificaba con los mandamientos divinos,
+haciendo coincidir ley, moral y mandamiento).
+Críticas:
+Carácter Problemático de la Naturaleza: La idea de "naturaleza" es un
+término indeterminado y ambiguo.
+Método de Conocimiento: Se cuestiona la fiabilidad de la razón o los
+sentidos para extraer principios universales y abstractos, lo que lleva a un
+escepticismo sobre su carácter inmutable.
+Aspecto Positivo: Justifica una gran autonomía moral del individuo frente al
+poder del gobierno o del legislador de turno.
+57
+1.2 La Tradición Kantiana (Kant)
+Kant se inscribe en el iusnaturalismo racionalista, aunque con matices. Su justicia
+se fundamenta en la capacidad autolegisladora de cada ser humano.
+Principios Morales: Las leyes o principios morales son:
+Autónomos: Derivan de la capacidad del hombre para darse la ley a sí mismo.
+Categóricos: Se imponen con independencia de nuestros deseos.
+Universales: Válidos para todos los seres racionales.
+El Imperativo Categórico: Lo justo es actuar de acuerdo con la máxima: "Obra
+de tal modo que una máxima de tu voluntad pueda ser elevada a ley universal"
+(un principio de coherencia y generalización de la conducta).
+1.3 La Tradición Utilitarista (Bentham, Mill,
+Hume)
+Esta tradición utiliza un método empirista para juzgar la moralidad de las
+acciones, basándose en el principio del placer y del dolor.
+Criterio de Juicio: La bondad o maldad de las acciones se mide por el grado de
+placer o dolor (felicidad) que produce.
+Principio Fundamental: El fin del ser humano es perseguir la felicidad. Por lo
+tanto, la acción justa es la que cumple la máxima: "La máxima felicidad para el
+mayor número [de personas] posible."
+Crítica Central: El principal inconveniente es que puede justificar el
+sacrificio de los derechos o la felicidad de una minoría si ello proporciona
+un mayor placer a la mayoría (ej. condenar a un inocente si la mayoría se
+siente más segura).
+58
+2. Tradición Marxista Y El Debate
+Contractualista Moderno
+2.1 Tradición Marxista
+La teoría marxista rechaza la idea de una justicia, unos derechos humanos o una
+moral universal, considerándolos meras creaciones de la sociedad burguesa. El
+Estado y el Derecho son vistos únicamente como un instrumento de opresión al
+servicio de la clase económica dominante, careciendo de valor intrínseco. Por
+tanto, la justicia, como noción, no tiene cabida en una sociedad comunista ideal.
+2.2 El Debate Contractualista Moderno: Rawls
+vs. Nozick
+El debate contemporáneo sobre la justicia se centra en la distribución de bienes
+y libertades, siendo los autores Rawls y Nozick los polos opuestos.
+59
+A. Justicia Como Imparcialidad (Rawls)
+John Rawls, con su obra A Theory of Justice, postula que justicia es sinónimo de
+equidad o imparcialidad (Justice as Fairness).
+Metodología (El Velo de la Ignorancia): Propone una Posición Original en la que
+los individuos eligen los principios de justicia sin saber cuál será su lugar en la
+sociedad (género, clase social, talento, etc.). Este desconocimiento (Velo de la
+Ignorancia) garantiza que la elección de principios sea imparcial.
+Principios de Justicia (Clave de Examen):
+Principio de Igual Libertad: Cada persona debe tener un derecho igual
+al más amplio sistema de libertades básicas, compatible con un sistema
+similar de libertades para todos.
+Principio de la Diferencia (Redistribución): Las desigualdades sociales
+y económicas solo son justas si:
+Proporcionan un mayor beneficio para los menos aventajados
+(políticas enfocadas en colectivos desfavorecidos).
+Las cargas y funciones son asequibles para todos (igualdad de
+oportunidades).
+Visión: El Estado debe desempeñar un papel fundamental e intervencionista para
+conseguir la redistribución y el beneficio de los más débiles (visión de tintes
+socialistas/igualitarias).
+60
+B. Teoría De La Titularidad (Nozick)
+Robert Nozick, en Anarchy, State, and Utopia, es el principal crítico de Rawls,
+defendiendo el liberalismo radical.
+El Estado Mínimo: Defiende un Estado vigilante o policía y no intervencionista. La
+función del Estado debe ser mínima y limitarse a:
+Garantizar los derechos previos de los individuos (los derechos naturales más
+básicos).
+Proteger la esfera de la autonomía privada y el derecho de propiedad.
+Proteger la libre transferencia de bienes.
+Visión: La justicia se basa en la titularidad legítima de la propiedad. Cualquier
+intervención estatal más allá de la protección (ej. la redistribución de Rawls) es
+una violación de los derechos individuales. Es una visión radicalmente liberal e
+individualista.
+3. Esquema Único: El Conflicto Entre Rawls Y
+Nozick
+Criterio John Rawls (Justicia Como
+Imparcialidad)
+Robert Nozick (Teoría De La
+Titularidad)
+Concepto de
+Justicia
+Equidad / Imparcialidad
+(Necesidad de redistribución).
+Titularidad / Protección de derechos
+previos.
+Rol del Estado Intervencionista (Fundamental
+para beneficiar a los menos
+aventajados).
+Estado Mínimo (Solo policía, juez y
+defensa exterior).
+Principio Rector Principio de la Diferencia (Las
+desigualdades benefician a los
+más débiles).
+Derecho de Propiedad Absoluto (La
+redistribución viola derechos).
+Metodología
+Clave
+Velo de la Ignorancia (Garantía
+de Imparcialidad).
+Derechos Naturales (Básicos, no se
+negocian).
+61
+Tema 3: Derechos
+Humanos
+Los Derechos Humanos se definen como el conjunto de facultades e instituciones
+que concretan las exigencias de la dignidad, libertad e igualdad humanas, y que
+deben ser reconocidas positivamente por los Estados.
+1. Naturaleza Dual Y Terminología
+Raíz Ética (Deber
+Ser)
+Dimensión para reivindicar
+su instauración donde no
+existen.
+Sirven para señalar lo que éticamente
+debe recoger el Derecho de un Estado.
+Vocación Jurídica
+(Ser Crítico)
+Actúan como límite y
+crítica al Derecho Positivo.
+Su dimensión crítica es similar a la del
+Derecho Natural.
+Derechos Humanos
+Conjunto de exigencias éticas universales.
+El derecho a la igualdad, en abstracto.
+Derechos Fundamentales
+Derechos Humanos positivizados
+(recogidos en una ley o Constitución).
+El derecho fundamental de igualdad ante la
+ley (Art. 14 de la Constitución Española, CE).
+2. Concretización De Valores
+Los tres valores básicos (Dignidad, Libertad e Igualdad) se concretan
+históricamente en distintos catálogos de derechos:
+Dignidad Derechos de la
+Personalidad.
+Derecho a la vida, al honor, a la intimidad, a la
+propia imagen, a la integridad moral.
+Libertad Derechos de las Libertades. Personales, civiles (garantías procesales/penales)
+y políticas (sufragio, participación).
+Igualdad Derechos Económicos,
+Sociales y Culturales
+(DESC).
+Recogidos en el Art. 9 de la CE.
+62
+3. Análisis Detallado De Dignidad Y
+Libertad
+3.1 La Dignidad Humana
+La Dignidad es el valor intrínseco de la persona y puede verse desde un doble
+enfoque:
+Sentido Negativo
+Garantía de que la persona no será objeto
+de ofensas o humillaciones.
+Sentido Positivo
+Afirmación de la posibilidad del pleno
+desarrollo de la personalidad de cada
+individuo (autodisponibilidad).
+Históricamente, la concepción de la dignidad ha evolucionado:
+Estado Liberal: Se entendía de forma marcadamente individualista (el hombre
+singular encerrado en su esfera).
+Actualidad: Se concibe a partir de la situación básica de relación del hombre
+con otros hombres, es decir, en sociedad.
+63
+3.2 La Libertad
+La Libertad ha sido el principio aglutinante de la lucha por los derechos
+humanos y se especifica en tres acepciones fundamentales que se conjugan en
+la Constitución Española:
+Libertad
+Negativa
+Autonomía o
+Ausencia de
+Vínculos/Coacciones.
+Garantía de no injerencia
+de poderes extraños al
+sujeto. No ser molestado u
+obligado a hacer algo.
+Requiere intervención
+estatal (códigos) para ser
+práctica.
+Art. 16 (Libertad
+ideológica), Art. 19
+(Circulación), Art. 20
+(Expresión).
+Libertad
+Positiva
+Posibilidad de realizar
+determinadas
+actividades.
+Se concreta en facultades
+o poderes de actuación. El
+individuo tiene derecho a
+ser activado por el Estado.
+Requiere apoyo estatal
+(subvenciones,
+exenciones).
+Art. 24 (Tutela judicial
+efectiva), Art. 25
+(Principio de
+legalidad penal).
+Libertad
+Social
+Alude al marco o
+contexto externo de
+su ejercicio.
+Dimensión social y
+comunitaria de la libertad.
+Asegura la participación
+libre de los ciudadanos en
+la formación de la voluntad
+estatal.
+Art. 23 (Sufragio
+activo y pasivo), Art.
+6 (Participación
+política a través de
+partidos).
+Tanto las libertades negativas como las positivas requieren de la
+intervención estatal para ser llevadas a la práctica; de lo contrario, se
+quedarían en libertades abstractas e ideales.
+64
+Tema 4: Derechos
+Humanos (Parte 2)
+El valor de la Igualdad ha sido históricamente, al igual que la Dignidad y la
+Libertad, el foco central de atención en diversas épocas. Para su correcta
+comprensión, es esencial distinguir entre sus dos grandes vertientes.
+Tipo de
+Igualdad
+Definición Reivindicació
+n
+Ejemplo Legal
+Igualdad
+Material
+Idea de
+equiparación y
+equilibrio real de
+bienes y
+situaciones
+económicas/social
+es. (Igualitarismo).
+Busca que
+"casi todos
+tengan de
+casi todo"
+(tesis
+socialistas o
+marxistas).
+Art. 9.2 CE:
+Encarga a los
+poderes
+públicos la tarea
+de promover las
+condiciones
+para que la
+igualdad sea real
+y efectiva.
+Igualdad Formal Principio de
+igualdad ante la
+ley
+(reconocimiento
+del idéntico
+estatuto jurídico).
+Exige
+igualdad de
+trato en la
+legislación y
+en la
+aplicación del
+Derecho.
+Art. 14 CE:
+Prohíbe la
+discriminación y
+garantiza la
+igualdad.
+65
+1. Las Tres Exigencias De La Igualdad
+Formal
+El principio de igualdad ante la ley se traduce en tres exigencias prácticas:
+1. Exigencia De
+Generalidad
+Garantía de que todos
+los ciudadanos están
+sometidos a las mismas
+normas y tribunales.
+La ley es idéntica para
+todos, sin que existan
+estamentos
+dispensados de su
+cumplimiento o sujetos
+a una potestad
+jurisdiccional distinta.
+(Nota de reflexión: La
+existencia de figuras
+como el Rey, los
+aforados o el fuero
+militar plantea el debate
+sobre si se cumple esta
+generalidad.)
+2. Exigencia De
+Equiparación
+Exige un trato igual para
+situaciones y
+circunstancias no
+idénticas que, sin
+embargo, se consideran
+irrelevantes para el
+disfrute de un derecho.
+Se busca evitar la
+discriminación en
+aquellas diferencias que
+deben considerarse
+irrelevantes.
+Para concretar este
+juicio, los tribunales
+utilizan criterios de
+racionalidad y
+proporcionalidad.
+3. Exigencia De
+Diferenciación
+Exige un tratamiento
+diferenciado para
+circunstancias y
+situaciones
+aparentemente
+semejantes, pero que
+requieren un trato
+distinto para evitar la
+desigualdad.
+Se evita el uniformismo
+que, al medirlo todo con
+el mismo rasero, podría
+generar injusticias.
+Ejemplo: Art. 31.1 CE:
+"Todos contribuirán al
+sostenimiento de los
+gastos públicos... de
+acuerdo con su
+capacidad económica".
+(Tratamiento
+diferenciado de la
+contribución en función
+de la capacidad).
+Actualmente, el Derecho tiende a reconocer la igualdad formal (Art. 14 CE) pero
+haciendo penetrar en ella criterios de equiparación y diferenciación (Art. 9.2
+CE), buscando la igualdad real y efectiva.
+66
+2. La Discriminación Inversa (O
+Positiva)
+La discriminación inversa (o positiva) consiste en la aplicación de medidas que
+derogan las garantías de la igualdad formal en nombre de las exigencias de la
+igualdad material, consideradas prioritarias. Estas medidas discriminan, pero
+favorecen a grupos históricamente oprimidos (étnicos, de género, orientación
+sexual) con el fin de compensar injusticias históricas.
+2.1 Objeciones A La Discriminación Inversa
+La doctrina plantea objeciones en tres planos:
+Plano Crítica Argumento De Fondo
+Jurídico Atentado a la
+Igualdad de
+Trato.
+Supone el establecimiento de privilegios en
+favor de determinados grupos, vulnerando el
+principio de igualdad del Art. 14 CE.
+Político Igualdad de
+Oportunidades
+vs. Igualdad de
+Resultados.
+El Estado debe garantizar la igualdad de
+oportunidades (sistema fiscal equitativo,
+servicios públicos); pero, una vez
+establecidas las condiciones básicas, deben
+ser el mérito y la capacidad los que
+definan el éxito social, no las cuotas.
+Moral Justificación
+de un mal
+medio para un
+buen fin.
+Se parte de la premisa de que el mal (la
+discriminación) termina por engendrar
+siempre mal, ya que la medida discrimina a
+otros grupos (ej. el hombre blanco
+heterosexual), siguiendo el aforismo romano
+de que lo que proviene de un mal, a la postre
+desemboca en el mal.
+67
+3. Integración De Los Valores En El
+Estado De Derecho
+Sacrificar o sacrificar un valor de los tres (Dignidad, Libertad, Igualdad) en nombre
+del logro de los otros conduce a situaciones de conflicto y de muerte de los
+derechos humanos:
+Sacrificio de
+Libertad e
+Igualdad:
+En nombre de la dignidad
+nacional (ej. Chile de
+Pinochet).
+Sacrificio de
+Dignidad e
+Igualdad:
+En aras de la libertad de
+un grupo (ej. Apartheid en
+Sudáfrica).
+Sacrificio de
+Dignidad y
+Libertad:
+En defensa de la igualdad
+(ej. Polonia comunista).
+La Constitución Española de 1978 se dirige abiertamente a este ideal
+integrador y de armonización de los valores:
+Art. 1.1 CE: Define la forma política como un "Estado social y democrático de
+Derecho" que propugna como valores superiores la libertad, la justicia, la
+igualdad y el pluralismo político.
+Art. 9.2 CE: Atribuye a los poderes públicos la tarea de promover las
+condiciones para que la libertad y la igualdad del individuo sean reales y
+efectivas.
+Art. 10.1 CE: Consagra la dignidad de la persona humana como fundamento
+del orden político y de la paz social.
+El Tribunal Constitucional ha recordado que el alcance de los derechos y valores
+fundamentales debe interpretarse considerando la Constitución como un todo,
+donde cada precepto encuentra su sentido pleno en relación con los demás. Los
+tres valores deben entenderse como un conjunto armónico para evitar los
+extremos históricos.
+68
+BLOQUE 4
+BIEN COMÚN, DESOBEDIENCIA
+Y MEDIO DE CONTROL
+69
+Tema 1: El Bien Común
+El Bien Común se define como el conjunto de beneficios orientados a la
+satisfacción de necesidades básicas que permiten el pleno desarrollo humano y
+la consecución de la felicidad dentro de una comunidad política.
+Origen Histórico (Aristóteles): Fue el primero en plantearlo, indicando en Política
+que la polis (ciudad-estado) debe proporcionar a sus miembros lo necesario para
+su bienestar y felicidad. Un gobierno es legítimo si promueve el interés colectivo y
+la felicidad de sus ciudadanos.
+Evolución: El concepto evolucionó hasta renovarse en el siglo XIX bajo los
+términos Interés Público o Interés General.
+Santo Tomás de Aquino: Entendía que el bien individual es una proyección del
+bien común, fusionando ambos conceptos.
+70
+1. Críticas Al Bien Común: Marxismo
+Y Liberalismo
+El concepto de bien común es objeto de intensas críticas desde diferentes
+ideologías, las cuales coinciden en atacar su validez en las sociedades modernas:
+Crítica Marxista (Tesis
+Socialistas)
+El marxismo sostiene que el bien común en
+una sociedad burguesa es ilusorio debido a la
+división de clases y la lucha de intereses.
+Argumento: El Estado es el instrumento de la
+clase dominante, y lo que se presenta como
+"bien común" no es más que la ideología que
+legitima los intereses de esa clase.
+Conclusión: El verdadero bien común es algo
+que debe conquistarse a través de un
+proceso revolucionario, existiendo solo en
+una sociedad comunista plenamente
+emancipada y desalienada.
+Crítica Liberal (Von Mises
+Y Hayek)
+Los autores liberales lo critican por su
+imprecisión, amplitud y su disfuncionalidad
+para el libre mercado.
+Von Mises: Afirma que es un término
+excesivamente amplio y confuso que actúa
+como una "palabra mordaza", dejando a salvo
+de la crítica política a quienes lo invocan.
+Hayek: Denuncia que invocar el bien común
+se utiliza para justificar que el gobierno
+distribuya por la fuerza parte de las
+ganancias (redistribución). Sostiene que si se
+aceptan las exigencias de todos los
+ciudadanos desafortunados (prestaciones,
+etc.), la sociedad se vuelve ingobernable. La
+sociedad de libre mercado, aunque genere
+injusticias, es la única viable.
+71
+2. Personalismo Versus Transpersonalismo
+Este es el debate fundamental sobre la relación entre la comunidad y sus
+miembros, y sobre el valor jerárquico del individuo frente al colectivo.
+Tesis Transpersonalismo Personalismo
+Concepto del Bien
+Común
+Realidad sustantiva con existencia
+propia, cualitativamente superior a
+los intereses individuales (ej. el
+Estado, la Nación, la Patria).
+La suma de los bienes de las
+personas concretas que integran
+la sociedad.
+Rol del Individuo El individuo existe gracias al todo
+(Analogía del Organismo). Se
+instrumentaliza la persona al
+servicio de fines superiores (ej. ir a
+la guerra por la Patria).
+El hombre existe como un fin en sí
+mismo. Su origen y fundamento es
+el libre acuerdo para defender sus
+intereses personales (Analogía del
+Contrato).
+Autor
+Representativo
+Hegel: Concibe el Estado como la
+encarnación de Dios en el mundo;
+el cauce para la realización plena
+del individuo.
+Kant: El ser humano no puede ser
+utilizado jamás como medio por
+nadie. El hombre está por encima
+de cualquier idea o entidad.
+2.1 Ventajas Y Riesgos De Cada Postura
+Tesis Ventajas Riesgos
+Personalismo Afirma la dignidad y libertad
+humana como valores
+irrenunciables frente a los ataques
+de entidades colectivas.
+Se puede llegar a considerar a la
+sociedad y al Estado como algo
+accesorio, olvidando que el ser
+humano es social y que su
+realización requiere el entorno
+social y estatal.
+Transpersonalismo Refuerza los deberes de
+solidaridad y los límites a las
+acciones individuales en pro del
+bien de la comunidad (ej.
+convivencia ciudadana, civismo).
+El riesgo de que entidades
+colectivas (Nación, Pueblo)
+absorban los derechos de los
+miembros en nombre del interés
+estatal.
+72
+Tema 2: Tipos de Normas
+en Nuestro Ordenamiento
+Hart propone que todo ordenamiento jurídico moderno se compone de dos tipos
+esenciales de reglas:
+1. Normas Primarias (Reglas de Conducta)
+Estas son las normas que prescriben conductas o regulan comportamientos,
+estableciendo lo que es obligatorio, prohibido o permitido. Se dirigen
+directamente a los ciudadanos, imponiendo deberes.
+Función: Imponer deberes a los miembros de la comunidad.
+Ejemplo: El Art. 138 del Código Penal (prescribe una sanción por el homicidio).
+2. Normas Secundarias (Reglas sobre Reglas)
+Las normas secundarias son metareglas que se refieren a las normas
+primarias. Su existencia es el criterio
+que Hart utiliza para considerar un
+conjunto de reglas como un "derecho
+en sentido moderno", ya que
+resuelven las tres carencias de las
+sociedades primitivas basadas
+únicamente en reglas primarias:
+73
+3. Carencias de la Sociedad Primitiva
+y Soluciones
+Carencia de la Sociedad
+Primitiva
+Tipo de Norma
+Secundaria
+Función de la Norma
+1. Falta de Certeza
+Normativa (Dudas sobre qué
+reglas aplicar)
+Reglas de
+Reconocimiento
+Especifican las condiciones que
+debe cumplir una norma para ser
+considerada válida y jurídica.
+Proporcionan un criterio de validez
+(ej. que la ley haya sido aprobada
+por el Parlamento según el
+procedimiento establecido).
+2. Estaticidad Normativa
+(Las reglas cambian
+lentamente)
+Reglas de Cambio Especifican los procedimientos y
+condiciones para promulgar o
+derogar normas, permitiendo
+adaptar el ordenamiento a la
+realidad social (ej. Art. 2.1 y 2.2 del
+Código Civil sobre la derogación de
+leyes).
+3. Inseguridad en la
+Aplicación (No hay órganos
+que juzguen los
+incumplimientos)
+Reglas de
+Adjudicación
+Adjudican la potestad de aplicar el
+Derecho (jueces y tribunales) y
+definen el procedimiento a seguir
+para decidir cuándo se ha
+transgredido una norma primaria y
+cómo se aplica la sanción (ej. Ley
+de Enjuiciamiento Civil/Criminal).
+En resumen: Para Hart, la creación de las normas secundarias (de
+reconocimiento, cambio y adjudicación) es lo que convierte un conjunto
+desordenado y estático de reglas de conducta en un sistema jurídico
+cohesionado, dinámico y eficaz.
+74
+Tema 3: La Desobediencia
+Civil
+La pregunta fundamental que se plantea es: ¿Por qué debe obedecerse a la
+autoridad política?
+Una respuesta superficial es que el ciudadano está obligado simplemente porque
+el Estado ostenta la autoridad soberana. Sin embargo, a lo largo de la historia, han
+surgido mecanismos para cuestionar esta obediencia basados en razones
+morales y de conciencia, siendo el más relevante la desobediencia civil.
+1. Desobediencia Civil: Definición Y Objetivo
+La desobediencia civil no busca desestabilizar el orden social, sino cambiar
+leyes injustas o la orientación política del gobierno.
+1.1 Definición
+La desobediencia civil se define como un:
+Acto público, no violento, consciente y político, contrario a la ley, cometido
+con el propósito de ocasionar un cambio en la ley o en los programas de
+gobierno.
+Aparece como un mecanismo de
+apelación a los valores dominantes en la
+sociedad, buscando convencer a la
+ciudadanía de que el gobierno no está
+respetando dichos valores.
+75
+1.2 Características Diferenciadoras
+La desobediencia civil se distingue de la revolución o el mero delito por sus
+rasgos esenciales:
+Característica Implicación
+Pública El acto debe ser realizado a la vista de todos para
+que el resto de ciudadanos juzgue la injusticia
+protestada. No cabe la desobediencia en la
+intimidad.
+No Violenta La violencia es inadmisible.
+Consciente y Política El que la realiza es consciente de que rompe una
+regla pública (comete un ilícito) y acepta, desde
+el principio, las consecuencias legales de su
+conducta (la sanción).
+Aceptación de la
+Sanción
+Aceptar el castigo legal demuestra la sinceridad
+del comportamiento y el respeto hacia el
+ordenamiento jurídico y el Estado en su conjunto.
+76
+2. Ejemplos Históricos Y Fenómenos
+Afines
+2.1 Ejemplos Históricos
+Estados Unidos (Guerra de
+Vietnam)
+Mozos que se negaron a incorporarse a filas y
+quemaron públicamente sus cartillas
+militares como protesta.
+Movimiento por los Derechos
+Civiles (EE. UU.)
+Actos reivindicativos de la minoría negra,
+como sentarse en asientos de autobús
+destinados a blancos.
+Henry David Thoreau (S. XIX)
+Autor del libro Desobediencia Civil, fue encarcelado por negarse a pagar impuestos como
+protesta moral.
+2.2 Fenómenos Afines: Objeción De
+Conciencia
+Un fenómeno similar, aunque no idéntico, es la objeción de conciencia.
+Definición
+Es la negativa de ciertos ciudadanos a
+obedecer una ley o deber legal particular
+(ej. la incorporación a filas para el
+servicio militar) por razones de
+conciencia o morales.
+Diferencia
+Mientras la desobediencia civil busca activamente
+cambiar la ley (tiene un fin político y público), la
+objeción de conciencia se centra más en la negativa
+individual a cumplir con un deber que choca con la
+moralidad personal. (Aunque en muchos casos se ha
+utilizado para presionar por cambios legislativos, como
+sucedió con el servicio militar).
+77
+3. El Desfase Clave
+La desobediencia civil se vuelve un método eficaz cuando existe un desfase
+entre:
+El nivel legal (la ley positiva)
+Una norma considerada injusta (ej. una ley que discrimina).
+El nivel popular (los valores dominantes)
+Un sentimiento social generalizado que repudia esa injusticia (ej. el
+sentimiento de respeto y tolerancia que choca con la ley
+discriminatoria).
+Al cometer el acto y aceptar el castigo, el desobediente despierta la
+indignación social sobre la injusticia de la ley, buscando su supresión.
+Este mecanismo funciona porque apela directamente a la conciencia colectiva de
+la sociedad, mostrando la contradicción entre lo que la ley establece y lo que los
+valores sociales dominantes consideran justo. La aceptación voluntaria del
+castigo por parte del desobediente civil refuerza la legitimidad moral de su
+protesta y expone la injusticia de la norma cuestionada.
+La efectividad de la desobediencia civil depende, por tanto, de la existencia de un
+consenso social previo sobre ciertos valores fundamentales que la ley vigente
+contradice. Sin este desfase, el acto de desobediencia no lograría el apoyo
+necesario para impulsar el cambio legislativo o político deseado.
+78
+Tema 4: El Derecho Como
+Medio De Control
+El Derecho opera como un sistema de control social al supervisar el
+funcionamiento de otras instituciones, mantener el equilibrio social, resolver
+conflictos y, fundamentalmente, guiar las conductas de los miembros de la
+sociedad.
+1. Funciones Duales Del Derecho
+El rol del Derecho en la sociedad se ha transformado históricamente,
+especialmente con el cambio de modelo de Estado:
+Modelo de Estado Función del
+Derecho
+Descripción
+Estado Liberal Supervisión y
+Mantenimiento
+El Derecho supervisa el funcionamiento de la
+sociedad, limitándose a intervenir cuando algo
+falla para restaurar el equilibrio (función de
+control).
+Estado Social Dirección y Guía El Derecho asume una función más activa,
+dirigiendo a la sociedad hacia objetivos
+específicos (ej. mayor pluralidad, equidad)
+(función de dirección).
+Es crucial recordar que el Derecho no es el único sistema de control social;
+coexiste con otros sistemas normativos como la moral, los usos sociales y la
+religión, que también imponen pautas de conducta.
+79
+2. Derecho,
+Socialización E
+Integración
+El Derecho cumple un papel integrador,
+actuando como una instancia de control
+formal cuando fallan los mecanismos
+informales:
+01
+Proceso De Socialización
+La integración comienza con la socialización (llevada a
+cabo por la familia y el sistema educativo), donde el
+individuo aprende e interioriza las normas y valores de la
+sociedad.
+02
+Conducta Desviada
+Si este proceso falla, el Derecho interviene ante el
+comportamiento desviado; es decir, toda conducta que
+se aparta de las normas sociales más importantes y que
+requiere una reacción.
+03
+Última Ratio
+El Derecho es el último recurso (última ratio) que tiene la
+sociedad para integrar, mediante sus medios coercitivos,
+a aquellos sujetos que realizan conductas que ponen en
+peligro el sistema social.
+80
+3. Naturaleza Y Modos De Operación
+El Derecho Como Medio Y Fin
+El Derecho presenta una doble cara:
+Medio
+Es una técnica para lograr objetivos
+específicos. Actúa como técnica de
+represión, vigilancia y promoción.
+Fin
+Es el objetivo que se busca lograr con
+esa técnica (ej. orden, seguridad,
+libertad).
+3.1 Operación Temporal (A Priori Vs. A
+Posteriori)
+El Derecho puede actuar temporalmente de dos maneras en relación con la
+conducta:
+A Priori (Antes)
+Se anticipa a la conducta, actuando mediante la prevención y la promoción de ciertos
+comportamientos.
+A Posteriori (Después)
+Espera a que se produzcan ciertas conductas para luego reprimir o sancionar.
+En resumidas cuentas, el Derecho opera sobre la vida social de cuatro
+maneras fundamentales: Previniendo, Reprimiendo, Promocionando y
+Premiando la conducta.
+81
+Tema 5: La Interpretación
+Del Derecho Y Sus
+Criterios
+El Derecho atraviesa tres fases: recreación (legislativo), interpretación y
+aplicación. La interpretación es un paso ineludible debido a la naturaleza de las
+normas.
+¿Qué es Interpretar?
+Interpretar es desentrañar el sentido de una expresión o enunciado normativo
+que resulta ambiguo u oscuro. El objetivo es transformar los términos abstractos
+y generales de las normas en términos concretos y singulares para poder
+aplicarlos a un caso particular.
+¿Quién Interpreta?
+Interpretación Provisional (Doctrina):
+Realizada por abogados, profesores,
+funcionarios, etc. Esta tiene validez solo
+hasta que surge una controversia.
+Interpretación Definitiva (Jurisprudencial): Realizada por jueces y tribunales,
+estableciendo la fijación final del sentido de la norma en un caso.
+82
+1. Teorías Sobre El Sentido De La
+Ley
+Tradicionalmente, dos teorías surgidas en el siglo XIX han intentado determinar
+qué se debe buscar al interpretar una ley:
+Teoría Subjetiva
+Problema: Indagar la voluntad del legislador
+que creó la norma (quid quiso decir).
+Genera problemas cuando la sociedad ha
+cambiado radicalmente y la voluntad pasada
+del legislador es obsoleta (ej. interpretar una
+ley del siglo XIX).
+Teoría Objetiva (Moderna)
+Problema: Indagar la voluntad de la ley o su
+sentido. Buscar el sentido que tiene la norma
+en el momento concreto de la aplicación,
+adaptándola a las circunstancias actuales.
+Es más sensata ante el cambio social
+acelerado, ya que se centra en lo que la ley
+dice hoy, no en lo que se quiso decir ayer.
+Actualmente, la tendencia es hacia una vía intermedia que considera aspectos
+positivos de ambas teorías.
+2. Clases De Interpretación Según Su
+Órgano
+Según quién realice la interpretación, esta se clasifica en:
+Interpretación Auténtica: La realizada por el propio órgano que expidió la norma
+jurídica (el legislador). Hoy es poco común, ya que se critica que la función del
+legislador es crear, no interpretar, emitiendo una nueva norma para aclarar la
+anterior.
+Interpretación Usuales o Jurisprudencial: La realizada por jueces y tribunales.
+Cuando esta interpretación es reiterada en casos similares, cobra la forma de
+precedentes (jurisprudencia) y sirve para dar peso a las pretensiones en futuros
+juicios.
+83
+3. Criterios (Elementos) De
+Interpretación De Savigny
+El jurista Savigny estableció las bases para interpretar la norma, postulando que el
+intérprete debe acudir a diversos criterios que deben operar todos a la vez, y no
+de forma aislada:
+Criterio Descripción Ejemplo (Derecho Penal)
+Gramatical (Literal) Se aplica de acuerdo al sentido
+literal de los términos de la norma.
+Es el punto de partida más sencillo.
+Aplicar el Art. 138 CP
+(Homicidio) por la acción de
+"causar la muerte" a otro.
+Sistemático La norma debe interpretarse en
+relación con otras normas dentro
+del mismo ordenamiento jurídico,
+contextualizando la ley.
+Para un homicidio, también
+deben considerarse normas
+como la legítima defensa (Art.
+24 CP) o el arrebato (Art. 21.3
+CP) para calificar
+correctamente el caso.
+Histórico Se recurre a los antecedentes de la
+norma (cómo era la regulación en el
+pasado y por qué se cambió) para
+entender el objetivo de la ley actual.
+Para el sordomudo que altera
+su conciencia: Recurrir a la
+reforma de 1983 para concluir
+que la voluntad de la reforma
+fue ampliar el supuesto, no
+excluir la sordomudez,
+aplicando así el Art. 23 CP.
+Sociológico La norma debe interpretarse en el
+marco social y cultural presente
+para calibrar su significación
+(Adaptación al momento).
+Para un delito de injurias (Art.
+208 CP), es necesario indagar
+la significación social que tiene
+el honor o la expresión utilizada
+en la sociedad actual, que
+puede ser distinta a la de hace
+décadas.
+84
+4. Criterio Teleológico
+Se busca la finalidad o espíritu de la norma
+(el bien jurídico protegido) para resolver
+problemas que la literalidad no permite.
+En el delito urbanístico (Art. 319 CP), la finalidad
+es la "ordenación racional del territorio". Por
+lo tanto, el promotor o constructor del tipo
+legal no es solo el profesional dado de alta en
+Hacienda (interpretación literal), sino cualquier
+persona que realice un acto constructivo ilegal
+para proteger el bien jurídico.
+01
+Gramatical
+Sentido literal de los términos
+02
+Sistemático
+Relación con otras normas
+03
+Histórico
+Antecedentes normativos
+04
+Sociológico
+Marco social actual
+05
+Teleológico
+Finalidad de la norma
+85
+BLOQUE 5
+TIPOS DE NORMAS E INTERPRETACIÓN
+86
+Tema 1: Ordenamiento
+Jurídico
+El Derecho se estructura en normas jurídicas, que son el modelo de conducta que
+permite la convivencia civilizada. Se distinguen de las normas de casa por sus
+características esenciales:
+Característica Definición
+Generalidad Están dirigidas a un conjunto de personas (todos o una clase), nunca a un
+ciudadano en específico.
+Abstracción Regulan problemas de forma genérica, sin entrar en los detalles de un caso
+concreto. Es el juez quien luego aterriza la norma abstracta al caso particular.
+Coercitividad Su cumplimiento es obligatorio y su incumplimiento puede acarrear
+sanciones o problemas (fuerza o coacción legal).
+1. Norma Jurídica Vs. Disposición Normativa
+No son lo mismo:
+La Disposición Normativa es el texto escrito publicado (el vehículo, ej., un artículo del BOE).
+La Norma Jurídica es el sentido o precepto que se extrae de ese texto. A veces, una sola
+disposición contiene múltiples normas, o varias disposiciones deben combinarse para formar una
+única norma (como sucede con los Derechos Fundamentales). Además, la norma puede no estar
+escrita (ej., la costumbre).
+1.1 Clasificación Básica De Las Normas
+Existen muchas clasificaciones, pero estas son las más importantes:
+Clasificación Aplicación Ejemplo
+Derecho Común Se dirige a todos los ciudadanos con
+carácter general.
+El Código Civil.
+Derecho Especial Se limita a un grupo especial de la
+población.
+El Derecho Deportivo o el
+Derecho Militar. 87
+2. Clasificación Y Fuentes Del Derecho
+Normas Generales Se aplican a todo el territorio
+español.
+Las Leyes aprobadas en el
+Congreso.
+Normas
+Particulares
+Se aplican solo a una parte del
+territorio (una CCAA o provincia).
+Las Leyes autonómicas.
+Normas
+Imperativas
+Deben ser acatadas sin posibilidad
+de modificación por los particulares.
+La prohibición de matar (Art.
+138 CP).
+Normas
+Dispositivas
+Pueden ser modificadas o excluidas
+por la voluntad de las partes.
+El plazo legal de 15 días para
+devolver una compra, que
+puede ser ampliado por una
+empresa (ej. Amazon).
+3. Las Fuentes Del Derecho Y Su Jerarquía
+El Derecho español se organiza jerárquicamente, de modo que una norma inferior
+nunca puede contradecir una superior. Las fuentes del derecho, tal como se
+recogen en el Código Civil, son la Ley, la Costumbre y los Principios Generales
+del Derecho.
+A. La Ley (Fuente Principal)
+La Ley no es un concepto unitario, sino un escalafón jerárquico de normas
+escritas:
+Constitución Española (Carta Magna): La norma suprema, superior a todas.
+Leyes Nacionales:
+Leyes Orgánicas: Regulan materias específicas de máxima importancia, como los Derechos
+Fundamentales (ej., el Código Penal o los Estatutos de Autonomía). Requieren mayoría absoluta
+en el Congreso.
+Leyes Ordinarias: Regulan el resto de aspectos.
+Leyes Autonómicas: Aprobadas por los parlamentos regionales. Se aplican solo a su territorio,
+pero no son inferiores a las nacionales; tienen su ámbito competencial reservado.
+Otras normas con rango de Ley (ej. Decreto Ley): Normas aprobadas por el Gobierno en casos
+de urgencia (ej. crisis del COVID-19). Deben ser ratificadas posteriormente por el Congreso de los
+Diputados.
+88
+B. La Costumbre (Fuente Subsidiaria)
+La Costumbre es un modelo de conducta observado de manera reiterada en una
+comunidad con la convicción de que es obligatorio (el pueblo la aplica como si
+fuera una norma).
+Requisito de Validez: Debe ser reiterada y la comunidad debe creer que es
+una norma obligatoria.
+Carácter Subsidiario: La Costumbre solo se aplica en defecto de Ley. Si
+existe una Ley sobre el tema, la Costumbre queda anulada.
+Usos Normativos: Constituyen el modo habitual de contratar en
+determinados ámbitos y tienen valor normativo, aunque también decaen si
+existe una Ley que los regule.
+C. Los Principios Generales Del Derecho (Fuente Subsidiaria Final)
+Son normas no escritas que representan la base moral, social y política del
+ordenamiento jurídico (los "mandamientos" del Derecho), muchas de las cuales
+están reflejadas en la Constitución.
+Ejemplos: La obligación de probar
+las acusaciones, la irretroactividad
+de las normas sancionadoras no
+favorables o el principio de
+igualdad ante la Ley.
+Carácter Subsidiario Final: Se aplican solo en defecto de Ley y Costumbre.
+Su función es evitar que haya lagunas en el Derecho.
+89
+Tema 2: Ordenamiento
+Jurídico (Segunda Parte)
+La jurisprudencia es la manera en que los jueces y tribunales vienen aplicando el
+Derecho. Consiste en el trabajo de interpretación y estudio de las normas
+abstractas que realizan los tribunales para aplicarlas a un caso concreto.
+1. Características Clave De La Jurisprudencia
+No es Norma Jurídica: La jurisprudencia, como tal, no es una fuente primaria del
+Derecho. Las fuentes son solo la Ley, la Costumbre y los Principios Generales del
+Derecho.
+Fuente de Segundo Orden: Pese a no ser fuente primaria, tiene una gran
+relevancia práctica, considerándose una fuente de segundo orden, pues sirve
+para fijar el sentido de la ley.
+Origen: La jurisprudencia relevante que sienta criterio (y sirve de referencia al
+resto de jueces) emana únicamente del Tribunal Supremo. La que proviene de
+otros tribunales se denomina "jurisprudencia menor".
+Trascendencia: Un cambio o una sentencia del Tribunal Supremo puede tener
+consecuencias "muy bestias" en la vida social y económica (ej. la sentencia del
+procés que zanjó el debate sobre el delito aplicable; la sentencia sobre las
+hipotecas que obligó a los bancos a devolver grandes sumas).
+90
+2. El Derecho De La Unión Europea
+(DUE)
+Al integrarse en la Unión Europea (UE), España cede una serie de competencias,
+aceptando un nuevo ordenamiento jurídico que, en ciertas materias, prima sobre
+el Derecho interno (incluida la Constitución). Este conjunto de normas externas
+se conoce como Derecho de la Unión Europea.
+El DUE se compone de dos tipos fundamentales de normas:
+3. Derecho Comunitario Originario
+(Tratados Europeos)
+Son los acuerdos fundamentales aceptados por todos los países miembros (los
+"constitucionales" de la UE).
+Ejemplos: Los Tratados de Roma, Maastricht, Ámsterdam, o Niza.
+Contenido: Contienen las normas más importantes, los principios, y las reglas
+fundacionales de la Unión.
+91
+4. Actos Legislativos (Derecho Derivado)
+Son las normas emanadas directamente de las instituciones de la UE,
+equivalentes a las leyes internas. Son tres tipos esenciales que deben distinguirse:
+Acto Legislativo Descripción Característica Principal
+Reglamento Es la norma más fuerte.
+Es obligatorio en todos
+sus elementos y se
+aplica directamente en
+los Estados miembros.
+Efecto Inmediato y
+Primacía: Desplaza
+automáticamente la Ley
+interna que lo contradiga (se
+convierte en Derecho
+interno).
+Directiva Es una norma más suave.
+La UE se dirige a los
+Estados, indicando un
+resultado que debe ser
+alcanzado, pero dejando
+a cada país libertad para
+elegir los medios
+legislativos para
+conseguirlo.
+Obliga en el resultado, pero
+no en la forma o los medios.
+Decisión Es obligatoria en todos
+sus aspectos, pero su
+diferencia fundamental
+con el Reglamento es su
+ámbito de aplicación.
+Destinatario Específico: Se
+dirige solo a uno o varios
+Estados miembros
+concretos (o a personas
+físicas/jurídicas), no a todos
+de forma general.
+92
+Tema 3: Aplicación De Las
+Normas
+El problema central que afronta un juez es la existencia de una laguna en el
+derecho: un supuesto de hecho que no está regulado por ninguna norma
+aplicable. Para solucionarlo, el juez recurre principalmente a la analogía y la
+interpretación.
+La Analogía consiste en aplicar una norma jurídica que regula un supuesto
+semejante al caso no regulado, siempre y cuando exista una identidad de razón
+(una razón similar que justifique aplicar el mismo criterio).
+Se distinguen dos tipos de analogía:
+Tipo de
+Analogía
+Concepto Ejemplo
+Analogía Legis
+(De la Ley)
+Se acude a una norma
+jurídica concreta y
+particular que regula un
+caso muy parecido para
+rellenar la laguna del
+caso actual.
+El metro prohíbe perros. Se
+aplica esta norma a un oso,
+bajo la identidad de razón de
+que ambos son mascotas
+que generan riesgos.
+Analogía Iuris
+(Del Derecho)
+Se acude a normas más
+generales, incluso a los
+Principios Generales del
+Derecho (muchas veces
+de rango constitucional),
+para inferir la solución.
+Si no hubiera ninguna norma
+sobre mascotas, se podría
+impedir el oso en el metro
+alegando el derecho
+fundamental a la integridad
+física de los pasajeros.
+93
+1. Excepciones A La Aplicación Analógica
+La analogía no se puede aplicar en cuatro supuestos muy importantes, la mayoría
+buscando proteger las garantías y derechos de los ciudadanos:
+Normas Temporales
+Las leyes que tienen una vigencia limitada en
+el tiempo (ej. estado de alarma) pierden su
+vigor y no pueden aplicarse a supuestos
+posteriores.
+Leyes Penales (Desfavorables)
+Se prohíbe la aplicación de la analogía si esta
+resulta desfavorable para el reo (ej., si
+aumentara la pena). Solo se admite la
+analogía cuando es favorable (ej., si puede
+rebajar la pena).
+Normas Excepcionales
+Las normas que rompen con el principio
+general de la ley (ej. una excepción concreta
+en una ley de tráfico) no pueden aplicarse a
+casos similares.
+Normas Restrictivas De
+Derechos
+Las normas que limitan o restringen los
+derechos fundamentales de las personas no
+pueden aplicarse por analogía a otros
+supuestos, buscando proteger dichos
+derechos.
+2. Jurisprudencia E Interpretación
+2.1 Jurisprudencia
+La jurisprudencia (los criterios y la forma en que los altos tribunales aplican la ley)
+juega un papel clave. Ante la falta de claridad en una norma, los jueces suelen
+seguir los precedentes aplicados por el Tribunal Supremo o el Tribunal
+Constitucional para dar seguridad y uniformidad a sus decisiones.
+2.2 Criterios De Interpretación (Art. 3.1 Del Código Civil)
+La interpretación es el proceso de desentrañar el sentido de la ley, y el Código
+Civil (Art. 3.1) establece que las normas deben ser interpretadas según cinco
+criterios fundamentales, que deben aplicarse conjuntamente:
+94
+Criterio En Qué Consiste Ejemplo Del Caso De Insultos
+Literal Según el sentido propio de las
+palabras que componen la
+norma.
+El Art. 20 CE protege el derecho a
+"expresar y difundir libremente los
+pensamientos, ideas y opiniones
+mediante la palabra" (favorece la
+libertad de expresión, incluso con
+insultos).
+Sistemático Las normas deben interpretarse
+dentro de su contexto o sistema
+(ej. la Constitución como un
+todo).
+La libertad de expresión no es
+absoluta, ya que otros artículos
+constitucionales protegen el honor o la
+intimidad (castiga los insultos si
+vulneran estos derechos).
+Histórico Atender a los antecedentes de la
+norma y buscar por qué fue
+dictada (la voluntad del
+legislador de la época).
+La Constitución de 1978 buscaba
+garantizar que las personas pudieran
+difundir sus ideas libremente, pero no
+necesariamente buscaba proteger el
+insulto.
+Sociológico Las normas deben interpretarse
+teniendo en cuenta la realidad
+social del tiempo en que deben
+ser aplicadas.
+Se debe considerar si en la realidad
+actual los insultos o ciertas
+expresiones son bien vistos o si, por el
+contrario, vulneran derechos por la
+evolución social.
+Teleológico Atender al espíritu y finalidad de
+la norma (télos = fin).
+Preguntarse: ¿La finalidad de la libertad
+de expresión es que las personas
+puedan decir lo que quieran o que
+puedan difundir sus ideas dentro de un
+marco de respeto?
+Nota final: No hay un criterio único que sea el "más adecuado". La
+elección del criterio y el peso que se le dé a cada uno dependerá del
+caso concreto y del tribunal, lo que precisamente alimenta el debate
+político y jurídico sobre la aplicación de la ley.
+95
+Tema 4: Relaciones
+Jurídicas
+La Relación Jurídica es una situación social que está contemplada y regulada
+por el Derecho, a diferencia de otras situaciones sociales que no lo están (ej.
+matrimonio vs. noviazgo; contrato de compra-venta al comprar pan).
+Toda relación jurídica sigue una estructura definida por cuatro elementos:
+Elemento Concepto
+Sujeto Activo La parte que se encuentra en posición de poder
+exigir algo a la otra.
+Sujeto Pasivo La parte que tiene el deber de cumplir con lo
+exigido por el sujeto activo.
+Objeto La realidad social limitada que constituye el núcleo
+de la relación (ej., el contrato de compra-venta, el
+pan).
+Contenido El conjunto de derechos y obligaciones que cada
+parte posee en esa relación (ej. obligación de
+entrega del pan a cambio del dinero).
+Las relaciones jurídicas pueden ser de distintos tipos, como las obligatorias,
+donde se establece un deber de asistencia mutua (ej. deberes conyugales) o de
+intercambio (ej. compra-venta).
+96
+1. Derecho Subjetivo Y Potestad
+El Derecho Subjetivo
+El Derecho Subjetivo es el poder esencial
+que emana de una relación jurídica.
+Se define como la situación de poder
+otorgada por el Estado a una persona para
+que defienda sus propios intereses y tenga
+la facultad de exigir algo a alguien (ej., el
+niño tiene el poder de exigir a sus padres que
+le alimenten y cuiden).
+La Potestad
+La Potestad es un concepto similar al
+derecho subjetivo, pero con una diferencia
+crucial:
+Se concede la facultad de ejercitar ciertos
+derechos a una persona (ej. los padres o
+tutores) para que lo haga en nombre y en
+beneficio de los intereses de otra persona
+(ej., la potestad parental se ejerce en
+beneficio del menor, no de los padres).
+2. Clasificación Y Ciclo De Vida De Los
+Derechos
+Los derechos subjetivos se clasifican de múltiples maneras. Una distinción
+fundamental es:
+Clasificación Valoración Ejemplo
+Patrimoniales Derechos valorados o
+valorables en dinero.
+El derecho de cobro de una renta de
+alquiler.
+Extrapatrimoniales Derechos que son imposibles
+de valorar en dinero.
+El derecho a la nacionalidad o a la
+propia imagen.
+Es importante destacar que todos los derechos subjetivos tienen un ciclo de
+vida: nacen, se modifican y se extinguen. Este ciclo será estudiado en
+profundidad en cursos posteriores, especialmente en Derecho Civil.
+Nacen
+Los derechos se originan
+Se Modifican
+Los derechos evolucionan
+Se Extinguen
+Los derechos terminan
+97
+Tema 5: El Ejercicio De
+Los Derechos
+El ejercicio de un derecho es, sencillamente, hacer uso del poder que confiere ese
+derecho para satisfacer el interés del titular (ej. el propietario de una casa ejerce
+su derecho al organizar una fiesta y decidir cuándo termina).
+Este ejercicio no es absoluto, sino que está limitado por la ley. Hay dos tipos
+principales de límites:
+1. Límites Extrínsecos: Colisión De Derechos
+Ocurren cuando el ejercicio del derecho de una persona choca con los derechos
+de terceros sobre el mismo objeto, haciendo imposible que ambos se ejerzan a la
+vez.
+La solución del ordenamiento jurídico a la colisión es la subordinación de los
+derechos en conflicto:
+Conflicto de Derechos Principio de Solución Ejemplo
+Intereses Generales vs.
+Privados
+Priman siempre los
+Intereses Generales.
+Un propietario debe vender su vivienda al
+Estado (expropiación) para construir una
+vía de AVE, ya que el interés general
+prevalece sobre el derecho de propiedad
+privado.
+Derechos
+Fundamentales vs.
+Ordinarios
+Priman los Derechos
+Fundamentales.
+Una manifestación (ejercicio de un
+derecho fundamental) tiene prevalencia
+temporal sobre el derecho de un
+particular a usar libremente la vía pública
+para ir a su trabajo.
+Derechos Patrimoniales Prevalece el derecho
+más antiguo sobre el
+más reciente.
+En una casa con dos hipotecas
+impagadas, la hipoteca con mayor
+antigüedad tiene preferencia para
+ejecutar la casa y cobrar la deuda.
+98
+2. Límites Intrínsecos: Mal Uso Del
+Derecho
+Los límites intrínsecos operan cuando el titular hace un mal uso de su propio
+derecho, sin necesidad de que haya un tercero limitándolo. Estos límites se
+centran en la ética del ejercicio:
+2.1 La Buena Fe
+La Buena Fe es un Principio General del Derecho que obliga a ejercer los
+derechos con buenas intenciones y de manera conforme a las normas éticas
+del Derecho. Obrar con Mala Fe es actuar con la intención de dañar a otro o de
+manera contraria a las normas.
+Concepto Jurídico
+Indeterminado
+Su aplicación no es concreta y varía según la
+norma y el caso.
+Trascendencia
+Es fundamental en el ámbito procesal, donde
+actuar con mala fe puede acarrear
+sanciones.
+2.2 La Doctrina De Los Propios Actos
+(Incongruencia)
+Se produce cuando el titular de un derecho realiza una primera conducta que
+genera una expectativa legítima en un tercero, y luego realiza una segunda
+conducta totalmente contraria y que perjudica al tercero.
+Fundamento: La confianza depositada por el tercero en la primera conducta del
+titular.
+Ejemplo: El arrendador le comunica al inquilino una rebaja del alquiler
+(primera conducta), pero a los pocos días exige el doble (segunda
+conducta que perjudica y contradice la anterior).
+99
+3. El Abuso Del Derecho
+Ocurre cuando se realiza un acto en ejercicio de un derecho que, aunque
+aparentemente es legal, sobrepasa los límites de la buena fe y la finalidad de la
+norma, causando un daño a un tercero.
+El Código Civil exige dos requisitos para determinar el abuso del derecho:
+01
+Acción U Omisión De Carácter
+Abusivo
+El acto ejercido.
+02
+Consecuencia Dañosa
+El acto debe haber producido un daño a un
+tercero.
+Ejemplo: Utilizar la ventaja de la limitación de responsabilidad de una sociedad
+mercantil (ejercicio de un derecho) para tomar préstamos a sabiendas de que
+no se pagarán, perjudicando a los bancos. Este caso es conocido como la
+Doctrina del Levantamiento del Velo.
+Nota Importante: El abuso del derecho,
+al ser un Principio General del Derecho,
+solo se utiliza cuando no existe una ley
+específica aplicable para castigar la
+conducta (como sucede en el ejemplo
+de fraude empresarial, que ya está
+tipificado como delito). Además, debe
+ser solicitado por la parte perjudicada;
+el juez no lo aplica de oficio.
+100

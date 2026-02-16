@@ -1,0 +1,2100 @@
+Pregunta: ¿En qué norma se encuentra la regulación actual del Derecho Concursal y cuándo entró en vigor?
+Respuesta Correcta: La regulación actual se encuentra en el Texto Refundido de la Ley Concursal (TRLC), que entró en vigor el 1 de septiembre de 2020. Con anterioridad rigió la Ley Concursal (LC), en vigor desde el 1 de enero de 2004.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+
+Pregunta: ¿Cómo define la ley la situación concursal o de insolvencia?
+Respuesta Correcta: La ley define la situación concursal como aquella en la que el sujeto no es capaz de afrontar el pago de sus obligaciones exigibles, lo que implica la falta de liquidez suficiente para hacer frente a los pagos a medida que estos vencen.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+
+Pregunta: ¿Qué diferencia existe entre insolvencia y falta de patrimonio?
+Respuesta Correcta: La insolvencia está vinculada a la falta de liquidez, no a la falta de patrimonio. Un sujeto puede disponer de un vasto patrimonio cuyo valor supere sus deudas, pero si no logra convertirlo en dinero líquido, la incapacidad para pagar determina la situación de insolvencia.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+
+Pregunta: ¿Cuál es la doble finalidad de la declaración de concurso de acreedores?
+Respuesta Correcta: La doble finalidad es: 1) Proteger el patrimonio del deudor, evitando que se dilapide o malutilice; y 2) Buscar un trato paritario a todos los acreedores (par conditio creditorum), impidiendo que unos cobren la totalidad mientras otros no perciben nada.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+
+Pregunta: ¿Cuál es el efecto más importante de la declaración de concurso sobre la deuda anterior?
+Respuesta Correcta: El efecto más importante es la congelación de toda la deuda anterior a la declaración del concurso. Esta deuda no debe pagarse de forma inmediata, permitiendo que la empresa opere únicamente con los flujos de liquidez nuevos que vaya obteniendo.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+
+Pregunta: ¿Cuáles son los dos posibles desenlaces del procedimiento concursal una vez superada la fase inicial?
+Respuesta Correcta: Los dos caminos son: 1) Fase de Convenio, que consiste en una solución pactada con los acreedores para el pago de la deuda congelada; y 2) Fase de Liquidación, que supone la venta de los activos del deudor para pagar a los acreedores. En España, el 90% de las empresas acaban en liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: ¿Qué es el Derecho Concursal?
+Pregunta: ¿Cuáles son las mayorías de aprobación del plan por cada clase de créditos según el art. 628 TRLC?
+Respuesta Correcta: Mayoría ordinaria: más de dos tercios (66,66%) del importe del pasivo de la clase. Mayoría reforzada para créditos con garantía real: tres cuartos (75%) del importe del pasivo. El deudor y los socios no votan; solo elaboran y presentan el plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+
+Pregunta: ¿Cómo se computa el crédito a efectos del voto según el art. 617 TRLC?
+Respuesta Correcta: Se computa el principal más los recargos e intereses vencidos hasta la fecha de formalización del plan. Los créditos contingentes, litigiosos o bajo condición suspensiva se computan por su importe máximo. En créditos de contratos de crédito, solo se computa la parte dispuesta.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+
+Pregunta: ¿Qué regla especial se aplica a los créditos sindicados según el art. 630 TRLC?
+Respuesta Correcta: Se respetan las normas contractuales sobre procedimiento y voto. Se aplica mayoría de dos tercios o tres cuartos dentro del sindicado, salvo mayoría inferior pactada. Si vota a favor la mayoría contractual, se entiende aprobado por la totalidad de los créditos sindicados.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+
+Pregunta: ¿En qué consiste el mecanismo de arrastre horizontal o intraclase?
+Respuesta Correcta: Si se consigue el voto favorable de la mayoría correspondiente a una clase, se considera que el plan ha sido apoyado por toda la clase de acreedores. Si el tribunal homologa el plan, este se aplica a todos los créditos de la clase, incluyendo a los acreedores disidentes que votaron en contra.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+
+Pregunta: ¿Cuáles son las condiciones para el arrastre vertical o interclases?
+Respuesta Correcta: El plan debe cumplir uno de dos requisitos: 1) Ser apoyado por mayoría simple de clases, siempre que al menos una sea de créditos con privilegio general o especial; o 2) Estar respaldado por al menos una clase "in the money" (que hubiera recibido algún pago según valoración de empresa en funcionamiento).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+
+Pregunta: ¿Qué opciones tienen los acreedores garantizados disidentes frente al arrastre?
+Respuesta Correcta: Los acreedores garantizados que votaron en contra y pertenezcan a una clase que votó en contra pueden ejecutar los bienes gravados. El plan puede prever sustituir este derecho por la opción de cobrar la parte garantizada del crédito en efectivo en un plazo no superior a 120 días.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración IV
+Pregunta: ¿Por qué es obligatorio formalizar el Plan de Reestructuración en instrumento público según el art. 634 TRLC?
+Respuesta Correcta: Es exigencia de validez para su posterior homologación. El instrumento público incluirá la certificación del experto o del auditor sobre la suficiencia de las mayorías. La fecha de formalización determina la fecha de cómputo de los créditos a efectos de las mayorías según el art. 617 TRLC.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+
+Pregunta: ¿Debe ser suscrito el plan por todos los acreedores o socios?
+Respuesta Correcta: No, el plan no tiene que ser suscrito por todos. El auto de homologación es el que declara que quedan vinculados por el contenido del plan, incluidos los disidentes o no firmantes, según el art. 649 TRLC.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+
+Pregunta: ¿Cuáles son los tres efectos principales que solo pueden alcanzarse mediante la homologación judicial según el art. 635 TRLC?
+Respuesta Correcta: Los tres efectos son: 1) Arrastre: extensión de efectos a acreedores o clases que no votaron a favor; 2) Resolución contractual: resolución de contratos en interés de la reestructuración si resulta necesario; 3) Blindaje patrimonial: protección del plan y financiación frente a acciones rescisorias.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+
+Pregunta: ¿Qué debe verificar el juez para la homologación de un plan aprobado por las clases según el art. 638 TRLC?
+Respuesta Correcta: Debe verificar: que el deudor está en probabilidad de insolvencia, insolvencia inminente o actual y el plan ofrece perspectiva razonable de viabilidad; que cumple requisitos de contenido y forma; que fue aprobado por las mayorías legales; que hay trato paritario intraclase; y que fue comunicado a los acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+
+Pregunta: ¿Qué ocurre si el deudor es persona natural respecto a la homologación del plan según el art. 640 TRLC?
+Respuesta Correcta: Si el deudor es persona natural, la homologación requerirá que el plan haya sido aprobado por este. El legislador protege a la persona física, considerando desproporcionado forzarle a someterse a la voluntad de los acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+
+Pregunta: ¿Qué requisitos adicionales debe comprobar el juez en caso de arrastre vertical según el art. 639 TRLC?
+Respuesta Correcta: Debe comprobar: mayoría simple de las clases votantes si una de ellas es privilegiada; o, alternativamente, que al menos una clase pueda presumirse que ha recibido un pago (clase "in the money") tras la valoración de la deudora como empresa en funcionamiento.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración V
+Pregunta: ¿Qué juez es competente para la homologación del Plan de Reestructuración según el art. 641 TRLC?
+Respuesta Correcta: Corresponde al Juez de lo Mercantil que fuera competente para la declaración del concurso del deudor. Si se hubiera presentado Comunicación de Apertura de Negociaciones, será competente el mismo juez que hubiera tenido por efectuada esa comunicación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+
+Pregunta: ¿Quiénes están legitimados para presentar la solicitud de homologación y qué documentos deben anexarse?
+Respuesta Correcta: Pueden presentarla el deudor o cualquier acreedor que haya suscrito el Plan. Debe acompañarse: copia íntegra del instrumento público, certificación del auditor sobre mayorías o informe del experto, y si afecta al crédito público, certificaciones de AEAT y TGSS de estar al corriente.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+
+Pregunta: ¿Qué efectos cautelares produce la providencia de admisión a trámite según el art. 644 TRLC?
+Respuesta Correcta: En la misma providencia de admisión, el juez prohibirá iniciar ejecuciones y ordenará que la paralización de las ejecuciones singulares continúe hasta que acuerde o deniegue la homologación. Estas son medidas de protección automáticas.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+
+Pregunta: ¿En qué plazo debe el juez dictar el auto de homologación y cuándo produce efectos?
+Respuesta Correcta: Transcurridos quince días desde la publicación de la providencia, el juez dictará auto homologando el plan que reúna los requisitos legales. Los efectos se extienden inmediatamente a todos los créditos afectados, al deudor y a sus socios, aunque el auto no sea firme (efecto ex nunc).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+
+Pregunta: ¿Qué ocurre si los socios no colaboran en la ejecución del plan homologado según el art. 650.2 TRLC?
+Respuesta Correcta: Los administradores (o persona designada por el juez a propuesta de cualquier acreedor) tendrán las facultades necesarias para llevar a cabo los actos y modificaciones estatutarias necesarias. Bastará el auto de homologación para la inscripción en el Registro Mercantil.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+
+Pregunta: ¿Cómo acceden al Registro de la Propiedad los actos derivados del plan de reestructuración?
+Respuesta Correcta: La Disposición Final Segunda de la Ley 16/2022 modifica la Ley Hipotecaria para permitir el acceso al Registro de la Propiedad a los actos que deriven del plan, simplemente presentando testimonio del auto de homologación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VI
+Pregunta: ¿Ante qué órgano se impugna el auto de homologación del plan y cuál es la finalidad del plan?
+Respuesta Correcta: Se impugna ante la Audiencia Provincial (art. 653 TRLC). La reestructuración solo tiene sentido si genera un excedente de valor respecto de la liquidación y asegura un reparto equitativo entre los acreedores, permitiéndoles recuperar más que en una liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+
+Pregunta: ¿Cuáles son los motivos formales comunes de impugnación según los arts. 654 y 656 TRLC?
+Respuesta Correcta: Los motivos formales comunes son: incumplimiento de requisitos de contenido y forma (art. 633 TRLC), defecto de comunicación del plan a los acreedores (art. 627 TRLC), y defecto en la aprobación por no alcanzar las mayorías adecuadas o seguir las reglas pertinentes.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+
+Pregunta: ¿Qué es la prueba del interés superior de los acreedores según el art. 654.7 TRLC?
+Respuesta Correcta: El plan no supera esta prueba cuando los créditos del impugnante se ven perjudicados en comparación con su situación en caso de liquidación concursal. Se compara el valor recibido conforme al plan con el valor que se hubiera recibido en liquidación, calculada a los dos años de la formalización del plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+
+Pregunta: ¿Qué es el sacrificio desproporcionado como motivo de impugnación según el art. 654.6 TRLC?
+Respuesta Correcta: Los acreedores pueden impugnar si la reducción del valor de sus créditos es evidentemente mayor a la necesaria para garantizar la viabilidad de la empresa. Se penaliza la compra de créditos distress: se presume que no hay perjuicio si el impugnante adquirió el crédito con descuento superior a la reducción que padece.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+
+Pregunta: ¿En qué consiste la Regla de la Prioridad Absoluta (RPA) en planes no consensuales según el art. 655.4º TRLC?
+Respuesta Correcta: Se puede impugnar si una clase de rango inferior (junior) o los socios van a recibir cualquier pago o conservar derechos mientras que la clase del impugnante (senior) no ha sido reembolsada en su totalidad. Principio: antes de pagar a los juniors, los seniors deben haber cobrado todo lo debido.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+
+Pregunta: ¿Cuándo puede confirmarse la homologación aunque no se cumpla estrictamente la Regla de la Prioridad Absoluta?
+Respuesta Correcta: Puede confirmarse cuando: 1) Sea imprescindible para asegurar la viabilidad de la empresa; y 2) Los créditos de los acreedores afectados no se vean perjudicados injustificadamente. Esta es la llamada Regla de Prioridad Absoluta Suavizada.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VII
+Pregunta: ¿Por qué motivo específico puede impugnar el socio el auto de homologación según el art. 656.1.V TRLC?
+Respuesta Correcta: El socio puede impugnar si demuestra que una clase de acreedores afectados va a recibir, como consecuencia del cumplimiento del plan, derechos, acciones o participaciones con un valor superior al importe de sus créditos (principio del enriquecimiento injusto).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+
+Pregunta: ¿Qué motivos específicos tiene la parte contractual afectada para impugnar la resolución de su contrato según el art. 657 TRLC?
+Respuesta Correcta: Puede impugnar por dos motivos: 1) Falta de necesidad, alegando que la resolución no resulta necesaria para asegurar el buen fin de la reestructuración y prevenir el concurso; 2) Indemnización inadecuada, alegando que no es adecuada la indemnización prevista por la resolución anticipada.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+
+Pregunta: ¿Cuál es el plazo y procedimiento de impugnación del auto de homologación según los arts. 658-660 TRLC?
+Respuesta Correcta: El plazo es de quince días desde la publicación del auto. Todas las impugnaciones se tramitan conjuntamente ante la Audiencia Provincial. Hay traslado a los interesados para oponerse en 15 días, y la sentencia se dicta dentro de los 30 días siguientes a la finalización del incidente.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+
+Pregunta: ¿Qué efecto tiene la impugnación sobre la eficacia del plan según el art. 660 TRLC?
+Respuesta Correcta: La impugnación carece de efectos suspensivos. Esto impide que se use el recurso como arma de presión o dilación. Frente a la sentencia que resuelva la impugnación, no cabrá recurso alguno.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+
+Pregunta: ¿Cuándo tiene la sentencia estimatoria efectos absolutos (ineficacia del plan) según el art. 661 TRLC?
+Respuesta Correcta: La sentencia declara la ineficacia total del plan cuando la estimación se base en la falta de concurrencia de las mayorías necesarias o en la formación defectuosa de las clases. Estos son los vicios más graves. En los demás casos, la sentencia solo surte efectos frente al impugnante.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+
+Pregunta: ¿En qué consiste el principio de irreversibilidad del plan según el art. 671 TRLC?
+Respuesta Correcta: Una vez homologado, no se podrá pedir la resolución del plan por incumplimiento ni la desaparición de los efectos extintivos o novatorios de los créditos afectados, salvo que el propio plan previese otra cosa. El plan y los actos ejecutados son irreversibles; el incumplimiento solo desencadena las consecuencias previstas en él.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración VIII
+Pregunta: ¿Qué es el Derecho Preconcursal y cuál es su finalidad primaria?
+Respuesta Correcta: El Derecho Preconcursal es el conjunto de normas cuyo propósito es prevenir la declaración de concurso de acreedores y la insolvencia del deudor. Su finalidad primaria es proporcionar mecanismos para solventar las dificultades económicas antes de que deriven en quiebra, buscando la continuidad de la empresa.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+
+Pregunta: ¿Qué normativa europea ha reformado los institutos preconcursales en España?
+Respuesta Correcta: La Ley 16/2022, que entró en vigor el 26 de septiembre, procede a la transposición de la Directiva Europea 2019/1023 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, denominada Directiva de Reestructuraciones.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+
+Pregunta: ¿Cuál es el presupuesto subjetivo para iniciar la comunicación de apertura de negociaciones según el art. 583 TRLC?
+Respuesta Correcta: La legitimación activa recae sobre cualquier persona física o jurídica que lleve a cabo una actividad empresarial o profesional. Quedan excluidos expresamente: personas jurídico-públicas, entidades financieras en sentido amplio, y microempresas (que se rigen por el Libro Tercero del TRLC).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+
+Pregunta: ¿Cuáles son las tres situaciones que constituyen el presupuesto objetivo según el art. 584 TRLC?
+Respuesta Correcta: Las tres situaciones son: 1) Probabilidad de insolvencia (cuando sea previsible que no podrá cumplir sus obligaciones en los dos próximos años); 2) Insolvencia inminente; y 3) Insolvencia actual. La probabilidad de insolvencia es un concepto innovador que permite iniciar la reestructuración en fase temprana.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+
+Pregunta: ¿Cuáles son los dos instrumentos fundamentales del Derecho Preconcursal?
+Respuesta Correcta: Los dos instrumentos fundamentales son: 1) La Comunicación de Apertura de Negociaciones con los acreedores, configurada como plataforma para llevar a cabo las conversaciones; y 2) Los Planes de Reestructuración, destinados a la ordenación de la deuda y la viabilidad del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+
+Pregunta: ¿Qué efectos produce la comunicación de apertura de negociaciones?
+Respuesta Correcta: Produce efectos legales orientados a la protección temporal del deudor. El acuerdo que se alcance puede ser homologable por la autoridad judicial. Las negociaciones son de carácter extrajudicial, aunque deben comunicarse al juzgado, tienen breve duración y se realizan entre el deudor y sus acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Los Institutos Preconcursales
+Pregunta: ¿Cuál es la función más relevante del Experto en Reestructuraciones?
+Respuesta Correcta: La función más relevante es elaborar un informe sobre el valor en funcionamiento de la empresa. Esta función es especialmente crítica en el contexto de planes de reestructuración no consensuales, aquellos que deben ser impuestos a clases disidentes.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+
+Pregunta: ¿Puede el Experto en Reestructuraciones intervenir o supervisar los poderes de administración del deudor?
+Respuesta Correcta: No, en ningún caso. El experto nunca intervendrá ni supervisará los poderes de administración y disposición del deudor. Su papel se limita a asistir en las negociaciones y elaborar informes preceptivos, actuando como árbitro imparcial.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+
+Pregunta: ¿Cuáles son los informes preceptivos que debe preparar el Experto en Reestructuraciones?
+Respuesta Correcta: Los informes preceptivos son: 1) Informe de mayorías sobre la suficiencia de las mayorías necesarias; 2) Informe de valor para el arrastre vertical o interclase (art. 639.2 TRLC); 3) Informe para solicitar prórroga o suspensión de los efectos de la comunicación de apertura.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+
+Pregunta: ¿Quién designa al Experto en Reestructuraciones y quién paga sus honorarios?
+Respuesta Correcta: El Experto es designado por el juez a solicitud del deudor o de acreedores que ostenten más del 50% de la deuda. Con carácter general, si los acreedores eligen al Experto, serán ellos quienes paguen sus honorarios, aunque puede pactarse en el plan que lo asuma el deudor.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+
+Pregunta: ¿Cuándo es obligatoria la designación del Experto en Reestructuraciones según el art. 672 TRLC?
+Respuesta Correcta: Es obligatoria cuando: 1) El plan de reestructuración vaya a afectar a acreedores o socios que no están de acuerdo (disidentes); 2) Cuando el juez lo considere conveniente para salvaguardar el interés de los posibles afectados por la suspensión general de las ejecuciones.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+
+Pregunta: ¿Cuál es el régimen de incompatibilidades del Experto en Reestructuraciones según el art. 675 TRLC?
+Respuesta Correcta: Los candidatos están sometidos al mismo régimen aplicable a los auditores y no deben haber prestado servicios al deudor durante los dos años anteriores. La única excepción es cuando el experto ya hubiese actuado como tal en una reestructuración previa del mismo deudor o grupo.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: El Experto en Reestructuraciones
+Pregunta: ¿Cuál es el contenido obligatorio de la comunicación de apertura de negociaciones según el art. 586.1 TRLC?
+Respuesta Correcta: Debe incluir: justificación y situación de insolvencia, competencia del juzgado, relación de acreedores y créditos, información económico-financiera, bienes necesarios para la continuidad, contratos esenciales, solicitud de experto (si procede), y carácter reservado (si se solicita).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+
+Pregunta: ¿Qué requisitos especiales exige la comunicación si el plan pretende afectar al crédito público?
+Respuesta Correcta: Debe acreditarse que el deudor se encuentra al corriente en el cumplimiento de las obligaciones tributarias y frente a la Seguridad Social, mediante certificaciones emitidas por la AEAT y la Tesorería General de la Seguridad Social. En caso contrario, declaración del deudor de que no se encuentra en dicha situación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+
+Pregunta: ¿Ante qué órgano se presenta la comunicación y cuál es la presunción sobre el centro de intereses principales?
+Respuesta Correcta: Se presenta ante el Juzgado Mercantil competente, que es aquel donde esté el centro de los intereses principales del deudor. La ley establece la presunción de que este centro se encuentra en el domicilio social del deudor (art. 45.2 TRLC).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+
+Pregunta: ¿Cuál es el procedimiento de admisión y control de la comunicación?
+Respuesta Correcta: El LAJ realiza un control de competencia internacional y territorial. Si hay defectos, se otorga plazo de dos días para subsanarlos; si no se subsanan, se tiene por no realizada. Si todo es correcto, se dicta decreto teniendo por realizada la comunicación, que se remite el mismo día a las autoridades judiciales para suspender ejecuciones.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+
+Pregunta: ¿Cuáles son los tres motivos tasados para impugnar el decreto de admisión mediante recurso de reposición según el art. 590.3 TRLC?
+Respuesta Correcta: Los tres motivos tasados son: 1) Que el deudor hubiese presentado otra comunicación dentro del año anterior; 2) Que los bienes o derechos señalados no son necesarios para la actividad; 3) Que los efectos de la comunicación no se deben extender a garantías prestadas por tercero.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+
+Pregunta: ¿Qué información debe incluirse en la relación de acreedores y créditos de la comunicación?
+Respuesta Correcta: Debe incluirse: identificación de los acreedores, importe de los créditos de cada uno e importe total, acreedores especialmente relacionados con el deudor, fecha de devengo de los créditos, y especificar las garantías (como hipotecas) que aseguren los créditos de derecho público.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones
+Pregunta: ¿Cuál es la duración del período de protección de la comunicación de apertura de negociaciones?
+Respuesta Correcta: El período inicial es de tres meses, más un mes adicional para solicitar concurso si no hay acuerdo. Es prorrogable por otros tres meses con apoyo de acreedores que representen más del 50% del pasivo afectado. La duración máxima total puede ser de siete meses.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+
+Pregunta: ¿Qué efecto tiene la comunicación sobre las facultades de administración del deudor?
+Respuesta Correcta: La presentación de la comunicación no conlleva el desapoderamiento del deudor. El órgano de administración conserva las facultades de administración y disposición de la sociedad, incluso si se procede al nombramiento de un experto en la reestructuración.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+
+Pregunta: ¿Qué son las cláusulas ipso facto y cuál es su efecto tras la comunicación?
+Respuesta Correcta: Son cláusulas contractuales que provocan automáticamente el vencimiento de préstamos u obligaciones ante situación de insolvencia o solicitud de concurso. Tras la comunicación, se desactivan: no producen vencimiento anticipado de créditos ni suspensión, modificación o resolución anticipada de contratos.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+
+Pregunta: ¿Cuál es el efecto de la comunicación sobre las ejecuciones singulares de bienes necesarios?
+Respuesta Correcta: No podrán iniciarse ejecuciones singulares judiciales o extrajudiciales sobre bienes necesarios para la continuidad de la actividad (art. 600 TRLC). Las ejecuciones existentes se suspenden de manera inmediata por tres meses prorrogables (art. 601 TRLC). Es el efecto más relevante y operativo.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+
+Pregunta: ¿Qué ocurre con las garantías intragrupo tras la comunicación de apertura?
+Respuesta Correcta: La ejecución de garantías intragrupo (prestadas por otras sociedades del mismo grupo) podrá suspenderse cuando se solicite la protección, acreditando el riesgo de insolvencia tanto del garante como del deudor principal (art. 596.1 TRLC).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+
+Pregunta: ¿Qué efecto tiene la comunicación sobre el deber de solicitar concurso y sobre la disolución social?
+Respuesta Correcta: Mientras la comunicación mantenga su vigencia, incluida la prórroga, se suspende el deber del deudor de solicitar el concurso. También se suspende el deber de acordar la disolución social por pérdidas que reduzcan el patrimonio neto por debajo del 50% del capital social.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones II
+Pregunta: ¿Cuáles son los requisitos temporales y de legitimación para solicitar la prórroga del plazo de protección?
+Respuesta Correcta: La petición debe efectuarse antes de que finalicen los tres meses iniciales. Puede ser solicitada por el deudor o los acreedores que ostenten más del 50% del pasivo afectado. Para calcular el 50%, no se computa el importe de los créditos que en concurso serían subordinados.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+
+Pregunta: ¿Qué documentación se requiere para justificar la solicitud de prórroga?
+Respuesta Correcta: Con experto nombrado: informe favorable sobre la idoneidad de prorrogar, detallando el estado de las negociaciones y la identidad de acreedores opuestos. Sin experto: acta de conformidad firmada por acreedores del 50% del pasivo, o declaración responsable del órgano de administración afirmando que obtuvo conformidad.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+
+Pregunta: ¿Qué ocurre con las medidas de protección mientras el juez decide sobre la prórroga?
+Respuesta Correcta: Solo con la solicitud de la prórroga, siguen en vigor todas las medidas de protección hasta que el juez se pronuncie (pendente iudicio), incluso si se ha superado el plazo de los tres meses iniciales desde la comunicación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+
+Pregunta: ¿Cuál es el plazo del juez para resolver sobre la prórroga y qué recursos caben?
+Respuesta Correcta: El juez dispone de un plazo de cinco días para emitir el auto resolviendo sobre la prórroga. Si concede la prórroga, el auto es recurrible en reposición. Si deniega la prórroga, el auto no es recurrible.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+
+Pregunta: ¿Quiénes pueden solicitar el levantamiento de la prórroga (finalización anticipada)?
+Respuesta Correcta: Pueden solicitarlo: 1) El deudor o el experto nombrado; 2) Acreedores que representen el 40% del pasivo afectado (sin contar subordinados); 3) Cualquier acreedor que acredite que la prórroga no cumple el objetivo de favorecer la negociación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+
+Pregunta: ¿En qué consiste la solicitud de exclusión de los efectos de la prórroga y quién puede solicitarla?
+Respuesta Correcta: Es una vía menos gravosa que busca excluir bienes o créditos concretos de la suspensión, sin anular la prórroga totalmente. Puede solicitarla cualquier acreedor acreditando: perjuicio injustificado (riesgo de su propia insolvencia o disminución del valor de su garantía), o pérdida del carácter necesario del bien.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Comunicaciones III
+Pregunta: ¿Qué diferencia los Planes de Reestructuración de los antiguos acuerdos de refinanciación?
+Respuesta Correcta: Los Planes de Reestructuración pueden imponerse al deudor ya que su eficacia no siempre requiere el consentimiento de este. De ahí la mutación terminológica de "acuerdos" a "planes". Tienen un objeto y efectos mucho más amplios que los acuerdos de refinanciación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+
+Pregunta: ¿Cuál es el objeto de los Planes de Reestructuración según el art. 614 TRLC?
+Respuesta Correcta: Son aquellos que tienen por objeto: la modificación de la composición, condiciones o estructura del pasivo, activo o fondos propios del deudor; transmisiones de activos, unidades productivas o de la totalidad de la empresa; y cualquier cambio operativo necesario, incluyendo vigencia o resolución de contratos.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+
+Pregunta: ¿Qué créditos se consideran afectados por el Plan de Reestructuración según el art. 616 TRLC?
+Respuesta Correcta: Son créditos afectados aquellos que sufran cambios en sus condiciones: modificación de fecha de vencimiento (principal o intereses), conversión en crédito participativo, subordinado, acciones u otro instrumento de rango diferente, cambio de deudor o ley aplicable, y modificación o cancelación de garantías.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+
+Pregunta: ¿Qué requisitos deben cumplirse para que el plan afecte a créditos de derecho público según el art. 616 bis TRLC?
+Respuesta Correcta: Debe acreditarse estar al corriente en obligaciones tributarias y Seguridad Social, y los créditos públicos deben tener antigüedad inferior a dos años. El pago debe realizarse completamente en 12 meses desde la homologación (6 meses si había acuerdo previo), con máximo de 18 meses desde la Comunicación.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+
+Pregunta: ¿Qué créditos no pueden ser afectados por el plan según el art. 616.2 TRLC?
+Respuesta Correcta: El plan no puede afectar a: créditos por alimentos (relación familiar, parentesco, matrimonio), créditos por responsabilidad extracontractual, créditos derivados de relaciones laborales (distintas del personal de alta dirección), y créditos futuros nacidos de contratos no afectados por el plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+
+Pregunta: ¿Qué restricciones establece la DA 8ª de la Ley 16/2022 para créditos avalados por el Estado?
+Respuesta Correcta: Los bancos solo pueden votar a favor si las modificaciones cumplen los convenios marco y no extienden el vencimiento más de 8-10 años. Para extensiones mayores, carencias superiores a 2 años, quitas o conversiones, se requiere autorización previa del Departamento de Recaudación de la AEAT.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración
+Pregunta: ¿Cuál es el contenido mínimo legal del Plan de Reestructuración según el art. 633 TRLC?
+Respuesta Correcta: Debe incluir: identidad del deudor y experto (si fue nombrado), descripción de la situación económica y causas de las dificultades, acreedores afectados y no afectados con sus importes, medidas de reestructuración propuestas, flujos de caja estimados, y exposición de las razones de viabilidad del plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+
+Pregunta: ¿En qué consiste el test de viabilidad del plan según el art. 633.10 TRLC?
+Respuesta Correcta: El plan debe ofrecer una perspectiva razonable de garantizar la viabilidad de la empresa en el corto y medio plazo y evitar el concurso. No se exige certeza absoluta, sino que la probabilidad de que la empresa salga a flote sea mayor que la de que no suceda (probabilidad > 50%).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+
+Pregunta: ¿Qué efecto tiene la homologación del plan sobre los contratos con obligaciones recíprocas pendientes?
+Respuesta Correcta: La homologación por sí sola no afecta a los contratos sinalagmáticos. Se tendrán por no puestas las cláusulas ipso facto que establezcan suspensión, modificación, resolución o extinción del contrato por la mera solicitud de homologación, admisión a trámite u homologación judicial del plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+
+Pregunta: ¿Puede el deudor modificar o resolver unilateralmente contratos durante la reestructuración?
+Respuesta Correcta: Sí, si estima necesario modificar o resolver contratos con obligaciones recíprocas no cumplidas para la reestructuración, puede hacerlo unilateralmente durante la negociación, indemnizando a la contraparte si no llegan a acuerdo. Este nuevo crédito por indemnización puede quedar afectado por el plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+
+Pregunta: ¿Cómo debe comunicarse la propuesta de reestructuración a los acreedores según el art. 627 TRLC?
+Respuesta Correcta: Puede realizarse mediante: correo postal o electrónico a cada acreedor afectado, anuncios en la página web de la empresa, o publicación de edicto en el Registro Público Concursal. Para acreedores públicos, obligatoriamente por sede electrónica (no válida publicación en prensa).
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+
+Pregunta: ¿Qué ocurre con los contratos de alta dirección en el plan de reestructuración?
+Respuesta Correcta: El plan puede prever la suspensión o extinción de los contratos con consejeros ejecutivos y personal de alta dirección. En caso de extinción, el juez puede moderar la indemnización que corresponda, hasta el límite de la establecida en la legislación laboral para el despido colectivo.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración II
+Pregunta: ¿Cuándo puede homologarse un plan aunque no haya sido aprobado por los socios según el art. 622 TRLC?
+Respuesta Correcta: Cuando concurran dos requisitos: 1) Que el plan contenga medidas como operación acordeón, compensación de créditos o modificaciones estructurales; y 2) Que la sociedad se encuentre en situación de insolvencia actual o inminente. No es aplicable en mera probabilidad de insolvencia.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+
+Pregunta: ¿Qué criterio determina el interés común para la formación de clases de crédito según el art. 623 TRLC?
+Respuesta Correcta: Existe interés común entre los créditos de igual rango determinado por el orden de pago en el concurso. Los créditos del mismo rango pueden separarse en distintas clases cuando haya razones suficientes: naturaleza financiera vs no financiera, conflicto de intereses, o diferente afectación por el plan.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+
+Pregunta: ¿Qué regla especial se aplica a los acreedores PYMES en la formación de clases?
+Respuesta Correcta: Los acreedores que sean PYMES, con un sacrificio superior al 50% de su crédito, deben constituir una clase de acreedores separada. Esta es una regla de protección específica para pequeñas y medianas empresas.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+
+Pregunta: ¿Cómo se tratan los créditos con garantía real a efectos de la clasificación según el art. 624 TRLC?
+Respuesta Correcta: Constituirán una clase única, salvo que la heterogeneidad de los bienes gravados justifique su separación. Solo la parte del crédito cubierta por el valor de la garantía se considera garantizada; el exceso recibe el tratamiento de crédito ordinario.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+
+Pregunta: ¿Quiénes están legitimados para solicitar la confirmación judicial previa de las clases según el art. 625 TRLC?
+Respuesta Correcta: Están legitimados el deudor y los acreedores que representen más del 50% del pasivo que vaya a quedar afectado por el plan. La finalidad es otorgar seguridad jurídica ante la complejidad de la formación de clases.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+
+Pregunta: ¿Qué efecto tiene la confirmación judicial previa de la formación de clases?
+Respuesta Correcta: Una vez confirmada judicialmente, la formación de clases no podrá invocarse como motivo de impugnación a la homologación posterior. El juez resuelve mediante sentencia a los cinco días de la oposición, y los acreedores tienen diez días desde la publicación para oponerse.
+Manual: Derecho Mercantil IV
+Bloque: 1
+Tema: Planes de Reestructuración III
+Pregunta: ¿Qué es el concurso de acreedores y cuáles son sus dos posibles resultados?
+Respuesta Correcta: El concurso es el procedimiento judicial a través del cual se pretende que un deudor en situación de insolvencia alcance un convenio con sus acreedores para el pago de las deudas (con quita y/o espera), o de no ser posible, se proceda a la liquidación ordenada de su patrimonio.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+
+Pregunta: ¿Cuándo se considera un concurso voluntario y cuándo necesario según el art. 29 TRLC?
+Respuesta Correcta: El concurso es voluntario cuando la primera solicitud la presenta el deudor. Es necesario cuando la solicitud la presentan los acreedores o cualquier otro legitimado distinto al deudor.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+
+Pregunta: ¿Cuál es el plazo legal para que el deudor solicite la declaración de concurso según el art. 5 TRLC?
+Respuesta Correcta: El deudor deberá solicitar la declaración de concurso dentro de los dos meses siguientes a la fecha en que hubiera conocido o debido conocer el estado de insolvencia actual de la empresa. La solicitud debe estar debidamente documentada.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+
+Pregunta: ¿Cuáles son los criterios para considerar que existe un Concurso Sin Masa según el art. 37 bis TRLC?
+Respuesta Correcta: Se considera Concurso Sin Masa cuando: 1) El concursado carece de bienes embargables; 2) El coste de realización es desproporcionado respecto al valor; 3) Los bienes libres de cargas tienen valor inferior al coste del procedimiento; 4) Los gravámenes superan el valor de mercado de los bienes.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+
+Pregunta: ¿Qué ocurre si ningún legitimado solicita el nombramiento de administrador concursal en el Concurso Sin Masa?
+Respuesta Correcta: Si ningún legitimado solicita el nombramiento, el deudor que sea persona física podrá presentar solicitud de exoneración del pasivo insatisfecho (EPI), librándose de las deudas. Los acreedores con el 5% del pasivo tienen 15 días desde la publicación del edicto para solicitar el nombramiento.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+
+Pregunta: ¿Qué plazo tiene el administrador concursal para ejercer las acciones rescisorias según el art. 37 quinquies TRLC?
+Respuesta Correcta: El administrador concursal tiene dos meses desde que presentó el informe para ejercer las acciones rescisorias. Si no cumple con su deber, los acreedores que hubieran pedido su nombramiento quedan legitimados subsidiariamente para presentar las acciones rescisorias.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Tipos de Concurso
+Pregunta: ¿Cuáles son las cinco fases del procedimiento concursal según la reforma de la Ley 16/2022?
+Respuesta Correcta: Las cinco fases son: 1) Plan de Reestructuración (fase preconcursal para evitar la insolvencia); 2) Actos Previos (solicitud y documentación inicial); 3) Fase Común (preparación del procedimiento); 4) Fase de Resolución (decisión sobre el concurso); 5) Calificación del Concurso (evaluación final).
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+
+Pregunta: ¿Qué es el Pre-pack concursal y cuáles son sus objetivos?
+Respuesta Correcta: El Pre-pack es una figura de creación jurisprudencial utilizada para vender la unidad productiva de una empresa y evitar el concurso. Sus objetivos son: maximizar el precio de venta, mantener los puestos de trabajo (los compradores deben subrogarse en ellos), y no destruir el tejido empresarial.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+
+Pregunta: ¿Cuáles son los pasos principales de la Fase Común del concurso?
+Respuesta Correcta: Los pasos son: Declaración del Concurso mediante auto, Nombramiento del Administrador Concursal, Comunicación a los Acreedores, Elaboración del Informe por el administrador (con inventario de masa activa y pasiva y lista de acreedores), e Impugnación del informe.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+
+Pregunta: ¿Qué es el arrastre o cram down en el contexto del Plan de Reestructuración?
+Respuesta Correcta: Es la posibilidad de homologación del plan por el juez aun sin la aprobación de todas las clases de acreedores (arrastre intraclase o interclase) o de los socios, cuando se pretenda extender sus efectos a los disidentes o cuando se pretenda proteger la nueva financiación.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+
+Pregunta: ¿Cuál es el plazo para la comunicación de créditos por parte de los acreedores?
+Respuesta Correcta: El plazo para la comunicación de créditos es de un mes desde que se publica el auto de declaración de concurso en el BOE. Este trámite es necesario para determinar la deuda y asegurar el reconocimiento de todos los acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+
+Pregunta: ¿Qué mayorías se requieren para la aprobación del Plan de Reestructuración?
+Respuesta Correcta: El plan se considera aprobado si lo aprueban más de dos tercios del importe del pasivo correspondiente a cada clase. No obstante, los créditos con garantía real requieren la aprobación de tres cuartos del pasivo. Los acreedores deben estar agrupados por clases según criterios objetivos.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (I)
+Pregunta: ¿Cuáles son las dos vías principales de la Fase de Resolución y cuál es su objetivo?
+Respuesta Correcta: Las dos vías son: 1) Convenio, cuya finalidad es que deudor y acreedores lleguen a un acuerdo para evitar la liquidación y permitir la continuidad de la actividad económica; 2) Liquidación, que procede cuando no hay viabilidad del proyecto y supone la extinción de la actividad.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+
+Pregunta: ¿Quiénes están legitimados para proponer un convenio según el art. 315 TRLC y cuál es el contenido mínimo?
+Respuesta Correcta: Pueden proponer convenio el deudor (salvo que haya solicitado liquidación) y los acreedores cuyos créditos superen una quinta parte (20%) del total de la masa pasiva. El contenido mínimo incluye proposiciones de quita, espera (máximo 10 años), o quita y espera, pudiendo incluir fusiones, escisiones o cesión global.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+
+Pregunta: ¿Cuáles son los efectos de la apertura de la fase de liquidación según los arts. 411 ss. TRLC?
+Respuesta Correcta: El deudor pierde todas las facultades de administración y disposición, siendo sustituido por el administrador concursal. Si es persona jurídica, se declara su disolución y cese de administradores. Se pueden suspender los derechos de alimentos. El administrador elabora un plan de liquidación para enajenar bienes.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+
+Pregunta: ¿Cuándo se inicia la Fase de Calificación según el art. 441 TRLC?
+Respuesta Correcta: La Fase de Calificación se inicia en los casos de: liquidación, incumplimiento del convenio, o aprobación de convenios perjudiciales para los acreedores. Se lleva en pieza separada, paralelamente al resto de fases.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+
+Pregunta: ¿Cómo se califica el concurso y quiénes son las personas afectadas según el art. 455.2 TRLC?
+Respuesta Correcta: El concurso se califica como fortuito (regla residual) o culpable (cuando la insolvencia fue provocada por dolo o culpa grave del deudor). Las personas afectadas en persona jurídica son los administradores, liquidadores, directores generales o quienes en los dos años anteriores hubieran tenido estas condiciones.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+
+Pregunta: ¿Cuáles son las sanciones en caso de calificación culpable del concurso?
+Respuesta Correcta: Las sanciones incluyen: inhabilitación de las personas naturales para administrar bienes ajenos de 2 a 15 años, pérdida de cualquier derecho como acreedor concursal, condena a la devolución de bienes indebidamente obtenidos, y condena a indemnizar los daños y perjuicios ocasionados (déficit concursal).
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: El procedimiento del concurso y las fases del concurso (II)
+Pregunta: ¿Quiénes están legitimados para solicitar la declaración de concurso según el art. 3 LC?
+Respuesta Correcta: Están legitimados: el deudor persona física, el deudor persona jurídica (a través de su órgano de administración o de liquidación), y los socios que sean personalmente responsables de las deudas de la sociedad (art. 3.3 TRLC).
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+
+Pregunta: ¿Cuál es el plazo fatal para que el deudor solicite el concurso y cuándo se presume que conoce su insolvencia?
+Respuesta Correcta: El deudor debe presentar la solicitud dentro de los dos meses siguientes a la fecha en que hubiera conocido o debido conocer su estado de insolvencia actual. Se presumirá que conoce su insolvencia cuando cumpla alguno de los presupuestos objetivos establecidos en la ley.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+
+Pregunta: ¿Qué documentos debe acompañar el deudor a la solicitud de concurso según los arts. 6, 7 y 8 LC?
+Respuesta Correcta: Documentos generales: memoria de la historia económica y jurídica, inventario de bienes, lista de acreedores y sus créditos. Si está obligado a contabilidad: cuentas anuales e informes de auditoría de los tres últimos ejercicios, memoria de cambios significativos del patrimonio, y estados financieros intermedios.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+
+Pregunta: ¿Qué debe probar el acreedor para solicitar el concurso necesario según el art. 13 LC?
+Respuesta Correcta: El acreedor debe probar: el detalle de la deuda (origen, naturaleza, importe, fechas de adquisición y vencimiento, situación actual del crédito con documentos acreditativos) y el hecho o hechos externos que revelen el estado de insolvencia del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+
+Pregunta: ¿Qué ocurre si la solicitud del acreedor se basa en un hecho externo que revela la insolvencia?
+Respuesta Correcta: Si el acreedor fundamenta la solicitud en un hecho externo (por ejemplo, ejecución de embargo sin bienes suficientes), el juzgado deberá llamar al deudor para que pueda formular oposición y celebrar una vista. El juez decidirá si declara o no el concurso.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+
+Pregunta: ¿Qué consecuencia tiene la excepción del art. 29.2 TRLC sobre la clasificación del concurso?
+Respuesta Correcta: Si un acreedor presenta solicitud de concurso y luego desiste, no acude a la vista o no ratifica su solicitud, y el deudor presenta una solicitud de concurso durante los tres meses siguientes, este se considerará necesario. Transcurridos cuatro meses, la solicitud del deudor volvería a ser voluntaria.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Competencia en el Concurso
+Pregunta: ¿Cuál es el presupuesto subjetivo del concurso según el art. 1 LC?
+Respuesta Correcta: El concurso puede constituirse en torno a cualquier deudor, ya sea persona natural o persona jurídica. Es imprescindible que haya más de un acreedor; si existe un solo acreedor, la vía adecuada es el proceso civil. Las microempresas siguen un procedimiento distinto. Las entidades públicas están excluidas.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+
+Pregunta: ¿Qué diferencia existe entre insolvencia actual e insolvencia inminente en el concurso voluntario?
+Respuesta Correcta: Insolvencia actual: ocurre cuando el deudor no puede hacer frente a sus gastos corrientes, siendo obligatorio solicitar el concurso. Insolvencia inminente: aparece cuando el deudor prevé que dentro de los tres meses siguientes no podrá cumplir regular y puntualmente sus obligaciones, siendo potestativo solicitarlo.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+
+Pregunta: ¿Cuáles son los hechos externos taxativos por los que los acreedores pueden determinar la insolvencia según el art. 2.4 LC?
+Respuesta Correcta: Son: resolución judicial o administrativa firme previa de insolvencia, ejecución insuficiente (embargo sin bienes bastantes), embargos que afecten al patrimonio del deudor, impago generalizado durante 3 meses (gastos corrientes, Hacienda, Seguridad Social, salarios), y alzamiento de bienes.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+
+Pregunta: ¿Qué entidades están excluidas del concurso de acreedores?
+Respuesta Correcta: Están excluidas las entidades que integran la organización territorial del Estado, los organismos públicos y demás entes de derecho público. Legalmente, el Estado y sus entidades no pueden ser declarados en concurso de acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+
+Pregunta: ¿Qué es el alzamiento de bienes como presupuesto objetivo de insolvencia?
+Respuesta Correcta: El alzamiento de bienes ocurre cuando el deudor oculta o hace desaparecer todos o parte de sus bienes para dificultar el cobro por parte de los acreedores. Es uno de los hechos externos taxativos que permiten a los acreedores determinar la insolvencia del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+
+Pregunta: ¿Por qué es necesaria la pluralidad de acreedores para el concurso?
+Respuesta Correcta: El concurso requiere pluralidad de acreedores porque es esencialmente una pelea entre acreedores para determinar el orden de cobro. Si existe un solo acreedor, aunque el deudor tenga varias deudas con él, la vía adecuada es el proceso civil mediante acción de reclamación de cantidad.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: La declaración del concurso
+Pregunta: ¿Qué es un concurso conexo y dónde se regula?
+Respuesta Correcta: Un concurso conexo es un procedimiento concursal que se establece respecto a una persona que ya está en un proceso concursal. Son concursos de acreedores distintos relacionados por alguna razón que lleva a tramitarlos conjuntamente. Se regulan en los arts. 38 a 43 del TRLC.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+
+Pregunta: ¿Cuáles son las dos modalidades de surgimiento de los concursos conexos?
+Respuesta Correcta: Los concursos conexos pueden surgir de dos formas: 1) Declaración conjunta o conexa, cuando se declaran desde el inicio de manera conjunta; 2) Acumulación posterior, cuando ya declarados por separado (incluso en juzgados distintos), se acumulan si cumplen los requisitos de conexidad.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+
+Pregunta: ¿En qué supuestos pueden los deudores declarar concursos conexos voluntarios según el art. 38 TRLC?
+Respuesta Correcta: Los supuestos son: cónyuges, parejas de hecho con pactos expresos o tácitos de patrimonio conjunto, socios o administradores que respondan de las deudas de una persona jurídica, y sociedades que pertenezcan a un grupo empresarial con los mismos acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+
+Pregunta: ¿En qué casos puede el acreedor declarar concurso conexo necesario según el art. 39 TRLC?
+Respuesta Correcta: El acreedor puede declarar concurso de varios deudores cuando: sean cónyuges o pareja de hecho, sean sociedades pertenecientes a un mismo grupo empresarial, o cuando exista entre los deudores confusión de patrimonio.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+
+Pregunta: ¿Cuál es la regla general sobre la consolidación de masas en los concursos conexos según los arts. 42 y 43 TRLC?
+Respuesta Correcta: La regla general es que los concursos conexos se tramitan conjuntamente pero sin consolidar las masas de cada deudor. Cada deudor conserva su masa activa y pasiva distinta, y cada uno paga lo suyo con su propio patrimonio.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+
+Pregunta: ¿Cuándo procede excepcionalmente la consolidación de las masas en concursos conexos?
+Respuesta Correcta: La consolidación de las masas (unificación del activo y pasivo) solo procede cuando exista confusión de patrimonios y averiguar la titularidad suponga un retraso o un gasto injustificado durante el proceso. Es la única excepción a la regla de no consolidación.
+Manual: Derecho Mercantil IV
+Bloque: 2
+Tema: Concursos Conexos
+Pregunta: ¿Cuáles son los órganos que intervienen en el procedimiento concursal y cómo se determina la competencia territorial?
+Respuesta Correcta: Los órganos son el Juez del Concurso, el Ministerio Fiscal y la Administración Concursal (siendo esenciales el Juez y la AC). La competencia territorial corresponde al juez del lugar donde el deudor tenga el centro de sus intereses principales: domicilio social para personas jurídicas y domicilio para personas físicas. El cambio de domicilio en los seis meses anteriores es ineficaz.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+
+Pregunta: ¿Qué materias son de jurisdicción exclusiva y excluyente del Juez del Concurso según el art. 52 LC?
+Respuesta Correcta: El Juez del Concurso tiene jurisdicción exclusiva sobre: acciones civiles patrimoniales contra el concursado, ejecuciones contra el concursado, determinación del carácter necesario de bienes, declaración de sucesión de empresa y efectos laborales, y medidas cautelares patrimoniales. Se exceptúan procesos de apoyo a personas con discapacidad, filiación, matrimonio o menores.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+
+Pregunta: ¿Cuál es la regla de competencia en los concursos conexos de grupos de sociedades?
+Respuesta Correcta: Si es concurso de la sociedad dominante, el lugar será el domicilio de esta. Si no es concurso de la dominante, será el domicilio de la sociedad con más pasivo. En caso de acumulación de juzgados diferentes, será donde esté el juez del concurso del deudor con mayor pasivo o el de la sociedad dominante; si esta no está en concurso, el del juez que conoció primero.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+
+Pregunta: ¿Qué acciones laborales puede conocer el Juez del Concurso?
+Respuesta Correcta: El Juez del Concurso interviene en materia laboral tratando: despidos, traslados o modificaciones sustanciales de las condiciones colectivas de trabajo por causas económicas, técnicas, organizativas o de producción, así como la suspensión o extinción de contratos de alta dirección.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+
+Pregunta: ¿Cuál es el papel del Ministerio Fiscal en el concurso según el art. 4 LC?
+Respuesta Correcta: Si durante procesos penales por delitos socioeconómicos el presunto responsable muestra indicios de insolvencia, el Ministerio Fiscal debe solicitar al juez penal que comunique estos hechos a los acreedores y al Juez de lo Mercantil. También tiene papel relevante en la fase de calificación del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+
+Pregunta: ¿Qué facultad tiene el Juez del Concurso respecto a las medidas cautelares?
+Respuesta Correcta: El Juez del Concurso puede acordar la suspensión de las medidas cautelares que afecten o pudieran afectar a los bienes y derechos de la masa activa del deudor concursado si considera que pueden perjudicar la tramitación del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los Órganos del Concurso
+Pregunta: ¿Cuáles son los requisitos para ser administrador concursal según los arts. 57 y ss. LC?
+Respuesta Correcta: Debe estar inscrito en la sección cuarta del registro público concursal, tener titulación especialmente que se establezca en el reglamento y superar el examen de aptitud profesional (tres niveles de complejidad). Debe ser independiente (no haber prestado servicios al deudor ni a personas relacionadas en los últimos tres años) y tener seguro de responsabilidad civil.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+
+Pregunta: ¿Cuáles son las tres funciones principales de la Administración Concursal?
+Respuesta Correcta: La AC desempeña un triple rol: 1) Auxilio Judicial al Juez del Concurso; 2) Elaboración del Informe que determina la masa activa y pasiva con inventario de bienes y lista de acreedores (cierra la fase común); 3) Representación y Gestión Procesal del deudor cuando sus facultades quedan limitadas o suspendidas.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+
+Pregunta: ¿Qué diferencia existe entre el régimen de intervención y el de suspensión de facultades del deudor?
+Respuesta Correcta: En Intervención (art. 119 LC): el deudor conserva capacidad de administración pero necesita autorización de la AC para actos que afecten a la masa activa (típico de concurso voluntario). En Suspensión (art. 120 LC): la capacidad queda suspendida y la AC representa directamente al deudor, que queda con capacidad similar a un menor (típico de concurso necesario).
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+
+Pregunta: ¿Qué consecuencia tiene la no aceptación del cargo por el administrador concursal?
+Respuesta Correcta: Una vez comunicado el cargo, el administrador debe acudir al juzgado y aceptarlo. Si no lo hace, no podrá ser administrador durante los tres años siguientes (penalización). La AC está sometida a supervisión del Juez del Concurso, quien puede pedir información sobre el estado del procedimiento en cualquier momento.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+
+Pregunta: ¿Cuándo puede el juez cambiar el régimen de intervención por el de suspensión?
+Respuesta Correcta: El juez puede modificar el régimen de Intervención por Suspensión si sospecha de ocultación de bienes (alzamiento). Esta posibilidad de modificación permite adaptar el nivel de control sobre el deudor en función de las circunstancias que se vayan revelando durante el procedimiento.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+
+Pregunta: ¿Bajo qué condiciones puede el deudor tener representación procesal propia separada de la AC según el art. 121 LC?
+Respuesta Correcta: El deudor puede tener representación propia si el concursado y un tercero garantizan ante el Juez que los gastos derivados de ese proceso no recaerán sobre la masa activa. Sin embargo, aun con representación propia, no podrá realizar acciones que correspondan a la AC con autorización del juez ni impedir o dificultar que se realicen.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Los órganos del Concurso II
+Pregunta: ¿Cuáles son los requisitos para que un deudor pueda acogerse al PEME (Procedimiento Especial para Microempresas)?
+Respuesta Correcta: El deudor debe cumplir en el año anterior, individual o consolidadamente: menos de 10 trabajadores a tiempo completo, volumen anual de negocio inferior a 750.000€, y pasivo inferior a 350.000€. Aplica a personas físicas o jurídicas que desarrollen actividad empresarial o profesional.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+
+Pregunta: ¿Cuáles son los principios rectores del PEME?
+Respuesta Correcta: Los principios son: agilidad y sencillez mediante formularios estandarizados y medios telemáticos; intervención limitada con reducción de la intervención judicial y limitación de profesionales; y flexibilidad favoreciendo la simultaneidad de actuaciones y mayor autonomía para deudor y acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+
+Pregunta: ¿Qué característica tiene el carácter modular del PEME?
+Respuesta Correcta: Por defecto, la apertura produce consecuencias limitadas (no supresión de facultades del deudor, suspensión de ejecuciones limitada, sin profesionales). Las partes pueden solicitar módulos opcionales asumiendo el mayor coste: limitación de facultades en insolvencia actual, extensión de suspensión de ejecuciones, nombramiento de mediador concursal o administrador.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+
+Pregunta: ¿Cuáles son las dos modalidades de resolución del PEME?
+Respuesta Correcta: 1) Procedimiento de Continuación: plan que permite la subsistencia de la empresa bajo la misma propiedad. 2) Procedimiento de Liquidación: mediante continuidad relativa (transmisión de unidades productivas en funcionamiento) o liquidación clásica (enajenación singular de activos).
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+
+Pregunta: ¿Cuándo se considera inexactitud grave en el PEME y qué consecuencia tiene?
+Respuesta Correcta: Se considera inexactitud grave cuando el importe total de pasivo, activo, ingresos o gastos difieran un 20%, siempre que sea al menos 10.000€. La consecuencia es que el procedimiento se califica como culpable, lo que apareja responsabilidad ilimitada de administradores o de los bienes presentes y futuros de la persona física.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+
+Pregunta: ¿Qué ocurre si el 85% de los créditos corresponden a acreedores públicos en el PEME?
+Respuesta Correcta: Si al menos el 85% de los créditos corresponden a acreedores públicos, el PEME solo se admite a trámite como procedimiento de liquidación. Es la regla exclusiva del concurso público: el Estado no da segundas oportunidades en estos casos.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas
+Pregunta: ¿Cuáles son las particularidades especiales del Plan de Continuación del PEME respecto al régimen general?
+Respuesta Correcta: Las particularidades son: posibilidad de establecer quitas sobre determinados créditos públicos (a diferencia del Libro Segundo), el silencio de acreedores se considera apoyo al plan (aceptación tácita), y se introduce la posibilidad de homologación tácita del plan aprobado salvo excepciones relacionadas con créditos públicos.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+
+Pregunta: ¿Cuál es el contenido mínimo del Plan de Continuación según el art. 697 ter LC?
+Respuesta Correcta: Debe incluir: créditos afectados e importe debido, efectos sobre créditos (quitas, esperas, conversión), derechos de socios afectados, trato paritario, plan de pagos por clases, efectos sobre contratos pendientes, memoria de viabilidad a medio plazo, e información laboral sobre medidas adoptadas o previstas.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+
+Pregunta: ¿Cuáles son los plazos y efectos de la admisión del Plan de Continuación?
+Respuesta Correcta: Se presenta con la solicitud o en los 10 días siguientes al auto de apertura (si no se presenta, se convierte en liquidación). El LAJ tiene 3 días para admitirlo (admisión tácita si no responde). Si hay defectos formales, 3 días para subsanar. La falta de notificación a acreedores convierte el procedimiento en liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+
+Pregunta: ¿Qué mayorías se requieren para aprobar el Plan de Continuación y qué efecto tiene el silencio?
+Respuesta Correcta: Para clases ordinarias se requiere voto favorable de la mayoría en cada clase. Para créditos con garantía real, voto favorable de dos tercios. La votación dura 15 días y se realiza por formulario normalizado. La no emisión de voto se entiende como voto favorable al plan.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+
+Pregunta: ¿Qué es el mecanismo Fastpass y qué financiación protege según el art. 698 quinquies LC?
+Respuesta Correcta: El Fastpass protege la financiación otorgada durante el periodo de negociación o en los tres meses previos a la declaración del procedimiento especial. Esta financiación interina o nueva tendrá preferencia sobre los créditos anteriores y se calificará como crédito con privilegio especial, incentivando así a los acreedores a prestar dinero.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+
+Pregunta: ¿Cuándo se entiende cumplido el Plan de Continuación y qué plazo tienen los acreedores para declarar incumplimiento?
+Respuesta Correcta: El plan se entiende cumplido cuando hayan transcurrido 30 días naturales del plazo del último pago previsto y ningún acreedor haya solicitado la declaración de incumplimiento. Los acreedores pueden solicitar la declaración de incumplimiento en el plazo de dos meses desde que se produce el mismo.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas II
+Pregunta: ¿Cuáles son las causas de apertura del procedimiento especial de liquidación en el PEME?
+Respuesta Correcta: El procedimiento de liquidación se puede abrir por: solicitud del deudor o de un acreedor, cuando no se aprueba un plan de continuación, cuando no se homologa un plan aprobado, en caso de incumplimiento del plan homologado, o cuando el deudor no está al corriente en deudas tributarias y de seguridad social.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+
+Pregunta: ¿Cuál es el papel del deudor en el procedimiento de liquidación del PEME y qué plazos tiene?
+Respuesta Correcta: Salvo nombramiento de administrador concursal, el deudor es el protagonista encargado de la elaboración y ejecución del plan de liquidación, contando con un plazo de tres meses prorrogables a un cuarto mes. Las operaciones se llevan a cabo a través de plataforma electrónica.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+
+Pregunta: ¿Qué plazo tienen los acreedores para presentar alegaciones en la liquidación y qué ocurre si no las presentan?
+Respuesta Correcta: Los acreedores tienen 20 días para presentar alegaciones sobre la cuantía y naturaleza de su crédito, el inventario de la masa activa, o la inclusión de créditos. Si no se presentan alegaciones, las partidas no impugnadas se considerarán definitivas.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+
+Pregunta: ¿Cómo se regula la transmisión de empresas o unidades productivas en el PEME?
+Respuesta Correcta: Se aplican las reglas del Libro Primero con especialidades: venta directa a un tercero que ofrezca un mínimo del 15% más del precio acordado, o subasta si la venta directa no es posible. En subasta, el precio de adjudicación no puede ser inferior a la suma del valor de los bienes. Se prioriza la transmisión unitaria.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+
+Pregunta: ¿Quiénes están legitimados para solicitar el nombramiento de administrador concursal en la liquidación del PEME?
+Respuesta Correcta: Pueden solicitarlo: el deudor en cualquier momento, acreedores del 20% del pasivo (o 10% si hay paralización de actividad), o un solo acreedor si el deudor suministró información insuficiente o existe comportamiento que genere dudas sobre su capacidad de liquidar. La retribución corre a cargo del solicitante.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+
+Pregunta: ¿Cuáles son las causas de finalización del procedimiento especial de liquidación según el art. 720 LC?
+Respuesta Correcta: Las causas son: cumplimiento del plan de continuación, liquidación de la masa activa y pago de las deudas (informe final art. 719), insuficiencia de la masa activa para el pago de los créditos contra la masa, o pago/consignación de todos los créditos reconocidos (o desistimiento/renuncia de todos los acreedores).
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas III
+Pregunta: ¿A qué empresas se aplica la calificación abreviada del PEME y cuál es el plazo de solicitud?
+Respuesta Correcta: Se aplica a empresas con menos de 10 trabajadores y facturación anual inferior a 2 millones de euros. La solicitud debe presentarse en formulario normalizado dentro de los 60 días naturales siguientes a la apertura de la liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+
+Pregunta: ¿Quiénes están legitimados para solicitar la calificación abreviada?
+Respuesta Correcta: Están legitimados: la administración concursal (si ha sido nombrada), acreedores con el 10% del pasivo si sospechan conducta culposa o dolosa, cualquier acreedor si el deudor ha cometido inexactitud grave o presentado documentos falsos, y los socios personalmente responsables de las deudas.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+
+Pregunta: ¿Cuándo existe presunción iure et de iure de culpabilidad en el PEME según el art. 688 LC?
+Respuesta Correcta: Existe presunción de culpabilidad sin admitir prueba en contrario cuando se da la provisión de información o documentación inexacta o falsa. Se entiende inexactitud grave cuando el importe total de pasivo, activo, ingresos o gastos difiera un 20%, siempre que sea al menos 10.000€.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+
+Pregunta: ¿Cuál es la tramitación del procedimiento de calificación abreviada?
+Respuesta Correcta: La administración concursal presenta informe razonado con propuesta de resolución en 20 días. Los acreedores públicos y del 10% del pasivo también presentan informe en 20 días. Las personas afectadas tienen 15 días para oponerse (con firma de letrado). Se celebra vista en 5 días y se dicta sentencia.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+
+Pregunta: ¿Cuáles son las consecuencias de la sentencia de calificación culpable en el PEME?
+Respuesta Correcta: La sentencia debe: identificar personas afectadas y cómplices, inhabilitar para administrar bienes ajenos de 2 a 15 años, y condenar a indemnizar daños y perjuicios. Las personas afectadas incluyen administradores o liquidadores de hecho o derecho, directores generales o quienes en los dos años anteriores hubieran tenido estas condiciones.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+
+Pregunta: ¿Qué contenido debe incluir el informe final de liquidación según el art. 719 LC y cuál es el plazo?
+Respuesta Correcta: Debe presentarse dentro de los 10 días siguientes a la conclusión de la liquidación (o transcurridos 3-4 meses desde su comienzo). Contenido: detalle de operaciones realizadas con momento y cantidades, lista de créditos por satisfacer, lista de activos no liquidados, y detalles de pago a acreedores. Los acreedores tienen 10 días para oponerse.
+Manual: Derecho Mercantil IV
+Bloque: 3
+Tema: Procedimiento de Microempresas IV
+Pregunta: ¿Cuál es el marco normativo fundamental del concurso de acreedores y qué reforma clave se produjo en 2022?
+Respuesta Correcta: El marco fundamental es el Texto Refundido de la Ley Concursal (TRLC), aprobado por RD Legislativo 1/2020. Se complementa con el Código de Comercio, la Ley de Enjuiciamiento Civil y la Ley Hipotecaria. En 2022, la Ley 16/2022 realizó una reforma clave incorporando la Directiva UE 2019/2023 sobre marcos de reestructuración preventiva y segunda oportunidad.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+
+Pregunta: ¿Cuáles son los efectos fundamentales de la declaración del concurso sobre el deudor?
+Respuesta Correcta: Los efectos son: Intervención o Suspensión de Facultades (en intervención gestiona con autorización de AC, en suspensión la AC asume plenamente la gestión), Deber de Colaboración (facilitar información y comparecer cuando sea requerido), y Prohibición de Rescisión Unilateral de Contratos bilaterales salvo autorización judicial.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+
+Pregunta: ¿Qué efectos produce la declaración del concurso sobre los acreedores?
+Respuesta Correcta: Los efectos son: Paralización de Ejecuciones Individuales (no pueden iniciar nuevas demandas y las existentes se paralizan y acumulan, por el principio de par conditio creditorum), Prohibición de Compensación unilateral si se produce después de la declaración, y Calificación de Créditos en privilegiados, ordinarios o subordinados.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+
+Pregunta: ¿Cuáles son las fases del procedimiento concursal y qué objetivo tiene cada una?
+Respuesta Correcta: Fase Común (inventario de masa activa y determinación de masa pasiva, nombramiento AC); Fase de Resolución (bifurcación: aprobación de Convenio o apertura de Liquidación); Fase de Calificación (determinar si la insolvencia es Fortuita o Culpable); Fase de Conclusión (fin del procedimiento por pago, insuficiencia de bienes o cumplimiento de convenio).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+
+Pregunta: ¿Cuál es la duración máxima del procedimiento concursal y qué órganos intervienen?
+Respuesta Correcta: La duración se limita a 12 meses, aunque el juez puede acordar ampliación. Los órganos son: Juez del Concurso (dirige el procedimiento), Administración Concursal (gestiona patrimonio, elabora informes, verifica créditos), Deudor (persona en insolvencia), Acreedores (determinan el futuro del concurso), y Ministerio Fiscal (vela por la legalidad en fase de calificación).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+
+Pregunta: ¿Qué efecto tiene la declaración del concurso sobre los contratos en vigor?
+Respuesta Correcta: La declaración del concurso no acaba con la vigencia de los contratos en vigor, incluidos los contratos de trabajo. Los contratos continúan en vigor como regla general, manteniéndose las obligaciones de ambas partes.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos del concurso
+Pregunta: ¿Cómo afecta el régimen de facultades a la continuación de la actividad empresarial?
+Respuesta Correcta: En Régimen de Intervención, el concursado sigue gestionando pero la AC debe autorizar las actividades necesarias para la continuidad empresarial. En Régimen de Suspensión, la AC asume plenamente la gestión y toma las medidas para continuar la actividad de la empresa.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+
+Pregunta: ¿Cuándo puede el juez acordar el cierre de establecimientos según el art. 114 LC?
+Respuesta Correcta: El juez puede acordar mediante auto el cierre de la totalidad o parte de las oficinas o establecimientos del deudor si su funcionamiento resulta antieconómico. Esta medida busca evitar que la actividad continua genere más pérdidas que beneficios para la masa activa.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+
+Pregunta: ¿Quién puede tomar decisiones colectivas laborales durante el concurso y qué tipo de decisiones?
+Respuesta Correcta: La administración concursal es quien puede tomar decisiones que afecten de manera colectiva a los trabajadores. Debe solicitar al Juez del Concurso la adopción de la decisión, que puede incluir: traslado o modificación de condiciones de trabajo, despido o suspensión de contratos, y reducción de jornadas.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+
+Pregunta: ¿Cómo se determina la obligación de formular cuentas anuales y obligaciones tributarias según el régimen de facultades?
+Respuesta Correcta: En Intervención: la obligación es del concursado (o sus administradores si es persona jurídica) bajo supervisión de la AC. En Suspensión: la obligación de formular y someter a auditoría las cuentas anuales y las obligaciones tributarias corresponde directamente a la AC.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+
+Pregunta: ¿Cómo afecta el régimen de facultades a la capacidad procesal del concursado?
+Respuesta Correcta: En Intervención: el concursado puede actuar en juicio pero siempre con autorización de la AC. En Suspensión: la AC presenta demandas y recursos y asume la representación y defensa en juicios. Excepción: en procesos civiles con acciones de índole personal, no se persona la AC pero debe autorizar escritos procesales.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+
+Pregunta: ¿Cuándo pueden los acreedores ejercitar acciones en favor de la masa activa de forma subsidiaria?
+Respuesta Correcta: Los acreedores pueden ejercitar acciones patrimoniales que crean beneficiosas para el concurso cuando observen que ni el concursado ni la AC ejercitan dicha acción. Por ejemplo, una acción de recuperación de un bien donado para incorporarlo a la masa activa.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor
+Pregunta: ¿En qué consiste el derecho de alimentos del concursado persona natural según el art. 123 LC?
+Respuesta Correcta: Cuando la masa activa contenga bienes suficientes, el concursado tiene derecho a percibir alimentos a cargo de la masa activa durante la tramitación del concurso para atender a sus necesidades y las de su cónyuge y descendientes. La pareja de hecho solo puede percibirlos si está inscrita o existen pactos expresos de patrimonio común.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+
+Pregunta: ¿Quién determina la cuantía de los alimentos según el régimen de facultades?
+Respuesta Correcta: Cuando las facultades están Intervenidas, la cuantía y periodicidad las determinará la administración concursal. Cuando están Suspendidas, será el Juez del Concurso quien determine la cantidad. Esta distinción es fundamental para el examen.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+
+Pregunta: ¿Qué ocurre con los alimentos a terceros beneficiarios según el art. 124 LC?
+Respuesta Correcta: Los beneficiarios del deber de alimentos pueden percibirlos a cargo de la masa activa si no pueden percibirlos de otra persona. Si existe resolución judicial previa obligando al concursado, la cuantía la determina el Juez. Lo que exceda de la cuantía fijada judicialmente se considera crédito ordinario en la masa pasiva.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+
+Pregunta: ¿Qué legitimación tiene la administración concursal respecto a las acciones de responsabilidad en persona jurídica?
+Respuesta Correcta: El administrador concursal tiene legitimación exclusiva para ejercer acciones de responsabilidad contra: administradores, liquidadores o personas naturales que realicen funciones propias de administrador (incluido personal de alta dirección), y socios personalmente responsables (para exigirles que se hagan cargo de deudas anteriores a la declaración).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+
+Pregunta: ¿Cuándo puede el juez imponer embargo cautelar sobre bienes de administradores o socios?
+Respuesta Correcta: El juez, de oficio o a solicitud de la AC, puede imponer medida cautelar de embargo sobre bienes de socios o administradores si el concurso cumple requisitos para ser declarado culpable (por ejemplo, alzamiento de bienes). La finalidad es garantizar el pago de las responsabilidades por déficit concursal que se puedan declarar en sentencia de calificación.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+
+Pregunta: ¿Qué derecho tiene el cónyuge del concursado respecto a la sociedad de gananciales?
+Respuesta Correcta: El cónyuge del concursado tiene derecho a solicitar al juez que se disuelva la sociedad de gananciales cuando existan bienes gananciales o comunes en el inventario de la masa activa. Esta disolución permite separar su parte del patrimonio común del procedimiento concursal.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre el deudor II
+Pregunta: ¿Qué establece el art. 136 LC sobre la prohibición de nuevas acciones individuales?
+Respuesta Correcta: Los acreedores no pueden iniciar nuevos procesos en el orden civil o social que sean competencia del Juez del Concurso. Si quisieran iniciar acciones individuales sobre materias patrimoniales, deben esperar a la conclusión del concurso. Las demandas presentadas ante otros jueces serán rechazadas por jurisdicción exclusiva del Juez del Concurso.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+
+Pregunta: ¿Qué ocurre con las acciones ya iniciadas antes de la declaración del concurso según el art. 137 LC?
+Respuesta Correcta: Las acciones ya iniciadas seguirán sustanciándose ante el mismo tribunal que estuviera conociendo del caso hasta que se dicte sentencia firme. Una vez dictada sentencia firme, la ejecución se ocupará el Juez del Concurso a través del procedimiento concursal. Aplica tanto a demandas de acreedores como a las del concursado contra terceros.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+
+Pregunta: ¿Qué excepción establece el art. 138 LC respecto a la regla de mantenimiento de acciones?
+Respuesta Correcta: Las acciones de responsabilidad civil por daños y perjuicios contra los administradores y liquidadores se acumulan de oficio al concurso, siendo tramitadas por el Juez del Concurso aunque se hubieran interpuesto antes. Las cantidades demandadas en estos procedimientos se considerarán créditos contingentes.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+
+Pregunta: ¿Cómo afecta la declaración del concurso a las ejecuciones hipotecarias sobre bienes necesarios iniciadas después del concurso?
+Respuesta Correcta: Si el juez determina que es un bien necesario para la actividad empresarial, los acreedores con garantía real no pueden iniciar la ejecución. Límite temporal: no se pueden ejecutar hasta que se apruebe un convenio que no afecte a ese bien o hasta que pase un año desde la declaración sin liquidación. Si no es necesario, el acreedor puede ejecutar.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+
+Pregunta: ¿Qué ocurre con las ejecuciones hipotecarias iniciadas antes de la declaración del concurso?
+Respuesta Correcta: Las acciones iniciadas se suspenden inmediatamente aunque ya se hubieran publicado anuncios de subasta. Solo se continúa cuando se incorpore testimonio de resolución del Juez del Concurso declarando que los bienes no son necesarios para la continuidad de la actividad. Si el bien es necesario, se paraliza; si no lo es, sigue adelante.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+
+Pregunta: ¿Qué derecho de separación tiene la Administración Concursal según el art. 430 LC?
+Respuesta Correcta: La AC tiene capacidad de sacar el bien si considera que su ejecución es buena para el concurso (por ejemplo, si el bien se devalúa y conviene ejecutar la hipoteca para evitar que falte dinero a otros acreedores). Se tramita como pieza separada.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Los efectos sobre los acreedores
+Pregunta: ¿Cuál es la regla general sobre continuidad contractual según el art. 156 LC?
+Respuesta Correcta: La declaración de concurso o apertura de liquidación no puede ser causa de resolución anticipada o extinción de contratos. Las cláusulas que establezcan resolución por la única causa de declaración del concurso (cláusulas ipso facto) son nulas y se tienen por no puestas. También son nulas las cláusulas que faculten a la otra parte a suspender o modificar obligaciones.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+
+Pregunta: ¿Qué excepción existe a la regla de continuidad contractual según el art. 159 LC?
+Respuesta Correcta: Las partes pueden pactar la extinción del contrato cuando se trate de un contrato que se rija por su legislación específica, como el contrato de agencia, el de seguro o los contratos con la administración pública, siempre y cuando esta legislación concreta lo permita.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+
+Pregunta: ¿Cómo se tratan los contratos bilaterales con obligaciones recíprocas pendientes tras la declaración del concurso?
+Respuesta Correcta: Ambas partes deben llevar a cabo las prestaciones comprometidas, siendo con cargo a la masa las del concursado. La facultad para resolver por incumplimiento posterior puede ejercitarse por cualquiera de las partes. Para incumplimiento anterior, solo puede ejercitarse en contratos de tracto sucesivo.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+
+Pregunta: ¿En qué tres casos puede la AC rehabilitar contratos ya en proceso de extinción?
+Respuesta Correcta: Solo en tres casos: 1) Contratos de adquisición de bienes muebles/inmuebles resueltos en los tres meses anteriores a la declaración; 2) Contratos de crédito, préstamo y financiación vencidos anticipadamente por impago en los tres meses anteriores; 3) Enervar la acción de desahucio ejercitada contra el deudor antes del concurso (rehabilitar arrendamiento hasta el lanzamiento).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+
+Pregunta: ¿Qué competencia tiene el Juez del Concurso en materia laboral?
+Respuesta Correcta: El Juez del Concurso únicamente se ocupa de las solicitudes de modificación sustancial de condiciones de trabajo con carácter colectivo (traslados, despidos, reducción de jornada). Del resto de materias laborales se ocupa el juez de lo social. Los contratos de trabajo siguen vigentes.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+
+Pregunta: ¿Cómo se tramita la solicitud de modificación colectiva laboral en el concurso?
+Respuesta Correcta: Puede plantearse en cualquier momento si la espera afecta gravemente a la viabilidad futura. El juez convoca a las partes a un período de consultas (máximo 30 días, 15 en pequeña empresa), que puede sustituirse por mediación o arbitraje. Si hay acuerdo, el juez lo aprueba si no existe fraude, dolo, coacción o abuso de derecho.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los Contratos y en el Ámbito Laboral y Penal
+Pregunta: ¿Cuál es la regla general sobre el devengo de intereses tras la declaración del concurso según el art. 152 LC?
+Respuesta Correcta: La regla general es la suspensión del devengo de intereses. Desde que se declara el concurso, los créditos no pueden generar más intereses. El acreedor solo puede añadir al crédito los intereses generados antes de la declaración, no los devengados después.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+
+Pregunta: ¿Cuáles son las excepciones a la suspensión del devengo de intereses?
+Respuesta Correcta: Existen dos excepciones: 1) Créditos salariales: devengan intereses conforme al interés legal del dinero; 2) Créditos con garantía real: pueden generar intereses remuneratorios hasta donde alcance el valor de la garantía (límite del valor del bien hipotecado o pignorado).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+
+Pregunta: ¿Qué establece el art. 153 LC sobre la compensación de créditos?
+Respuesta Correcta: Una vez declarado el concurso, no se puede compensar los créditos y deudas del concursado. Excepciones: cuando créditos y deudas vienen de una misma relación jurídica, o cuando así se establece en normas de derecho internacional privado. La compensación previa al concurso produce efectos aunque se declare después.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+
+Pregunta: ¿Qué efecto tiene la declaración del concurso sobre el derecho de retención según el art. 154 LC?
+Respuesta Correcta: Queda suspendido el derecho de retención sobre todos los bienes de la masa activa. El acreedor debe devolver el bien retenido a la masa activa, y lo que le debe el deudor pasa a ser un crédito concursal. El derecho revive si el bien no es vendido en liquidación y no se satisfizo el crédito. No afecta a retenciones de Administraciones Públicas.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+
+Pregunta: ¿Cómo afecta la declaración del concurso a la prescripción de acciones según el art. 155 LC?
+Respuesta Correcta: La prescripción se interrumpe desde la declaración de concurso hasta la terminación de este. La interrupción aplica a las acciones dirigidas contra el deudor y contra las personas que lo formen (socios, administradores, auditores).
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+
+Pregunta: ¿Quién resuelve las controversias sobre compensación de créditos?
+Respuesta Correcta: Las controversias con los importes de los créditos y deudas a compensar serán resueltas por el Juez del Concurso a través del incidente concursal. Este es el cauce procesal para resolver cualquier discrepancia sobre la procedencia o cuantía de la compensación.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Efectos sobre los créditos
+Pregunta: ¿Qué es la EPI y a quién está destinada según los arts. 486 y ss. LC?
+Respuesta Correcta: La EPI (Exoneración del Pasivo Insatisfecho) es el mecanismo de segunda oportunidad (fresh start) para el deudor persona física insolvente. Está destinado al deudor que ya es insolvente, no para quien simplemente tiene sobreendeudamiento. Puede solicitarse mediante Plan de Pagos o mediante liquidación de la masa activa.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+
+Pregunta: ¿Qué requisito esencial debe cumplir el deudor para acceder a la EPI?
+Respuesta Correcta: La EPI solo se concede al deudor de buena fe, concepto jurídico que exige: que haya actuado sin dolo ni culpa grave, que haya colaborado en todo momento con el proceso, y que no haya intentado abusar de esta segunda oportunidad. El juez debe comprobar este triple filtro caso por caso.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+
+Pregunta: ¿Cuáles son las causas de inelegibilidad para la EPI según el art. 487 LC?
+Respuesta Correcta: En los últimos diez años: condenas penales firmes por delitos contra patrimonio, orden socioeconómico, falsedad documental, Hacienda/SS o derechos de trabajadores (prisión ≥3 años); sanciones administrativas firmes muy graves tributarias o de SS; concurso calificado como culpable (salvo si solo fue no solicitar a tiempo); incumplimiento del deber de colaboración; comportamiento temerario.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+
+Pregunta: ¿Cuáles son las deudas imperdonables (pasivo no exonerable) en la EPI?
+Respuesta Correcta: No se perdonan: responsabilidad civil extracontractual por muerte o daños personales, indemnizaciones por accidentes de trabajo y enfermedad profesional, responsabilidad civil derivada de delito, deudas por alimentos, deudas laborales de los últimos 60 días (hasta 3 veces SMI), créditos de derecho público (con límite de 10.000€ flexibilizado jurisprudencialmente), sanciones penales/administrativas, y deudas con garantía real dentro del valor de la garantía.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+
+Pregunta: ¿Cuál es el contenido y duración del Plan de Pagos para la EPI?
+Respuesta Correcta: El deudor presenta propuesta detallada para pagar deudas perdonables, nuevas obligaciones y vencimientos de deudas no perdonables. Debe incluir los recursos disponibles y su evolución, incluyendo cesión de bienes no necesarios para actividad o vivienda. El plazo máximo es de tres años, ampliable a cinco en ciertas situaciones.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+
+Pregunta: ¿Cómo puede obtenerse la exoneración definitiva aunque se incumpla parcialmente el Plan de Pagos?
+Respuesta Correcta: Según el art. 500 LC, el deudor puede obtener exoneración definitiva aunque haya incumplido parcialmente el plan, pero solo en casos de accidente, enfermedad u otros eventos graves e imprevisibles. El art. 499 bis LC también permite adaptar el plan si hay cambio importante en la situación económica del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 4
+Tema: Ley de Segunda Oportunidad
+Pregunta: ¿Qué es la Masa Activa y cuál es su doble vertiente temporal según el art. 192 TRLC?
+Respuesta Correcta: La Masa Activa se configura por el principio de universalidad, integrándose por la totalidad de los bienes y derechos de contenido patrimonial del concursado. Presenta una doble vertiente: bienes existentes al momento de la declaración de concurso, y bienes sobrevenidos que se reintegren o adquieran durante el concurso.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+
+Pregunta: ¿Qué bienes quedan excluidos de la Masa Activa según los arts. 605-607 LEC?
+Respuesta Correcta: Son bienes inembargables: bienes inalienables, derechos accesorios no alienables, bienes sin contenido patrimonial, bienes declarados inembargables por ley, bienes de subsistencia y domésticos (alimentos, ropa, mobiliario), instrumentos de la profesión (herramientas necesarias para el oficio), y bienes sacros dedicados al culto.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+
+Pregunta: ¿Cómo se integra la Masa Activa cuando el concursado está casado en régimen de gananciales?
+Respuesta Correcta: Se integran tanto los bienes privativos como los gananciales. Se incluye únicamente el valor correspondiente al concursado (la mitad del bien). El cónyuge no concursado tiene derecho de adquisición preferente (art. 194 TRLC), pagando al concurso el valor de la parte del concursado. Para vivienda habitual: el valor será el mayor entre tasación o valor de mercado actual.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+
+Pregunta: ¿Qué presunción existe en el régimen de separación de bienes para evitar fraude?
+Respuesta Correcta: Presunción de Donación: si el cónyuge no concursado adquirió un bien durante el año anterior a la declaración, se presume (salvo prueba en contrario) que el concursado le dio dinero para comprar la mitad del bien, incluyéndose ese valor en la Masa Activa. Si se acredita que fue comprado íntegramente con dinero del concursado, se incluye el bien íntegro.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+
+Pregunta: ¿Qué tratamiento tienen las cuentas corrientes indistintas en la Masa Activa?
+Respuesta Correcta: Si el concursado es titular indistinto de una cuenta corriente, el saldo íntegro de dicha cuenta se añadirá a la Masa Activa, salvo prueba en contrario de la titularidad parcial de los otros cotitulares. La carga de la prueba recae sobre los cotitulares que quieran excluir su parte.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+
+Pregunta: ¿Qué modificación introdujo la reforma de 2022 respecto a la valoración de la vivienda habitual en gananciales?
+Respuesta Correcta: Antes de la reforma, el límite de adquisición era el valor de compra original actualizado por IPC. Tras la reforma de 2022, el valor de adquisición es el mayor entre el de tasación o el de mercado actual. Efecto práctico: el cónyuge puede pagar por la mitad de la vivienda más de lo que costó originalmente la casa entera.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: La Determinación de la Masa Activa
+Pregunta: ¿Cuál es la estructura del Informe de la AC según los arts. 289-296 LC?
+Respuesta Correcta: Cinco elementos: 1) Estudio a fondo de la información presentada en la declaración; 2) Explicación de la contabilidad analizando la situación de insolvencia; 3) Memoria de todas las decisiones tomadas por la AC; 4) Resumen y conclusiones razonadas sobre posibilidades de salida (convenio o liquidación); 5) Anejos obligatorios (inventario de masa activa y lista de acreedores).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+
+Pregunta: ¿Qué diferencia existe entre el carácter del inventario de la Masa Activa y la lista de acreedores?
+Respuesta Correcta: El inventario de la Masa Activa es dinámico (vivo): variable, se actualiza, puede aumentar o disminuir durante el concurso. La lista de acreedores es fija: los acreedores no incluidos en el momento de la firmeza del informe no cobrarán nada del concurso. Esta diferencia es clave para el examen.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+
+Pregunta: ¿Cuál es el plazo de presentación del informe y qué prórrogas existen?
+Respuesta Correcta: Plazo base: 2 meses desde que la AC aceptó el cargo. Prórrogas: automática de 5 días si no concluyó el plazo de comunicación de acreedores; máximo 2 meses adicionales por circunstancias excepcionales (fuerza mayor); máximo 4 meses si hay más de 2.000 acreedores. Excepto la primera, las demás requieren solicitud (el Juez no las acuerda de oficio).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+
+Pregunta: ¿Cuál es el proceso de mediación previo a la presentación del informe?
+Respuesta Correcta: La AC elabora un primer proyecto de informe que presenta a los afectados mínimo 10 días antes de darlo al Juez. Si alguien tiene quejas, se transmiten a la AC máximo 3 días antes de la presentación en el Juzgado, para intentar rectificación o complemento. La AC no queda vinculada por estas peticiones. Funciona como una mediación o conciliación.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+
+Pregunta: ¿Qué principio rige tras los textos definitivos y qué excepción existe según el art. 308 LC?
+Respuesta Correcta: Regla general: invariabilidad, los datos fijados no pueden cambiar. Art. 299 LC: transcurrido el plazo, no se admiten nuevas modificaciones. Excepción (art. 308 LC): créditos litigiosos o contingentes pueden modificarse si procedimientos judiciales paralelos se resuelven después, ya que nuevos créditos concursales afectan al patrimonio y deben constar.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+
+Pregunta: ¿Qué consecuencias tiene el incumplimiento de plazos por la AC según el art. 296 LC?
+Respuesta Correcta: Tres consecuencias graves: 1) Pérdida de retribución: pierde el derecho a cobrar y debe devolver lo cobrado; 2) Causa de separación: el Juez puede designar otro AC; 3) Responsabilidad por daños: puede surgir obligación de indemnizar daños y perjuicios causados. El incumplimiento no es cuestión menor.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Informe de la Administración Concursal
+Pregunta: ¿Qué son las acciones de reintegración y cuál es su finalidad?
+Respuesta Correcta: Son un mecanismo de tutela patrimonial regulado en los arts. 226-238 LC que permite devolver a la Masa Activa aquellos bienes y derechos que salieron del patrimonio del deudor de forma perjudicial. La AC examina los actos dispositivos realizados en los dos años anteriores a la declaración de concurso para dejar sin efecto los perjudiciales.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+
+Pregunta: ¿Cuáles son los cinco presupuestos de la acción rescisoria concursal?
+Respuesta Correcta: 1) Acto o negocio válido realizado por el deudor; 2) Perjuicio para el concurso (sacrificio patrimonial injustificado, concepto objetivo); 3) Límite temporal de dos años anteriores al concurso; 4) Ejercicio durante la tramitación del procedimiento concursal; 5) No tratarse de un Plan de Reestructuración homologado judicialmente (blindaje post-2022).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+
+Pregunta: ¿Cómo se computa el límite temporal de dos años para la rescisión?
+Respuesta Correcta: El cómputo se atiende a la fecha en la que se contrae la obligación, no a aquella en la que se hace efectiva. Por ejemplo, si un deudor compra a plazos y el primer plazo se paga en enero de 2021 y el último en enero de 2022, el momento a considerar es enero de 2021 (fecha de contracción de la obligación).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+
+Pregunta: ¿Qué modificación introdujo la reforma de 2022 respecto a los Planes de Reestructuración?
+Respuesta Correcta: Los acuerdos de reestructuración homologados judicialmente quedan blindados contra las acciones de reintegración. Dichos acuerdos no pueden reintegrarse dentro del concurso. Este blindaje supone una ventaja significativa para los acreedores beneficiados, protegiéndolos de las acciones de la AC.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+
+Pregunta: ¿Es necesaria la intención dolosa del deudor para la procedencia de la rescisión?
+Respuesta Correcta: No, la intención dolosa del deudor de perjudicar a la Masa del concurso es irrelevante para la procedencia de la rescisión. El perjuicio es un concepto objetivo que se define como una disminución o quebranto del patrimonio del deudor (sacrificio patrimonial injustificado). La carga de la prueba recae sobre quien alega el perjuicio.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+
+Pregunta: ¿Qué diferencia existe entre las acciones rescisorias concursales y las acciones de reintegración genéricas?
+Respuesta Correcta: Las acciones rescisorias concursales están reguladas específicamente por la LC y constituyen el instrumento principal de reintegración. Las acciones de reintegración genéricas (art. 238 LC) se remiten a la regulación civil, permitiendo a los acreedores subrogarse en la posición del deudor o impugnar actos realizados en fraude de sus derechos.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de reintegración Masa Activa I
+Pregunta: ¿Qué actos están excluidos de la rescisión según el art. 230 LC?
+Respuesta Correcta: Se excluyen: actos ordinarios de la actividad profesional/empresarial en condiciones normales; actos a favor de créditos públicos (constitución de garantías); garantías a favor del FOGASA; operaciones en sistemas de pago y compensación de valores; y operaciones de resolución de entidades de crédito y empresas de servicios de inversión.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+
+Pregunta: ¿Cuándo existe presunción absoluta de perjuicio según el art. 227 LC?
+Respuesta Correcta: Existe presunción absoluta (iuris et de iure, no admite prueba en contrario) cuando el acto consiste en una disposición a título gratuito. Excepción: las liberalidades de uso (regalos de boda, cumpleaños) quedan excluidas por ser actos propios de la costumbre social. Regalar 10.000€ a un amigo sería rescindible; un regalo de 300€ en una boda no lo sería.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+
+Pregunta: ¿Qué actos gozan de presunción relativa de perjuicio según el art. 228 LC?
+Respuesta Correcta: Son presunciones iuris tantum (admiten prueba en contrario): 1) Actos onerosos a favor de persona especialmente relacionada con el concursado; 2) Constitución de garantías reales para obligaciones ya existentes o nuevas en sustitución; 3) Pagos de obligaciones cuyo vencimiento fuera posterior a la declaración del concurso. El deudor puede probar que no fueron perjudiciales.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+
+Pregunta: ¿Quién tiene legitimación activa para ejercer las acciones de reintegración?
+Respuesta Correcta: La legitimación principal corresponde a la Administración Concursal. Los acreedores pueden ejercerla subsidiariamente si: 1) han instado por escrito el ejercicio ante la AC; 2) han transcurrido dos meses desde el requerimiento sin actuación de la AC; 3) notifican la demanda a la AC. El coste corre a cargo del acreedor, pero si la demanda es estimada, los gastos se reembolsan con cargo a la masa activa.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+
+Pregunta: ¿Contra quién se dirige la demanda de rescisión (legitimación pasiva)?
+Respuesta Correcta: Las demandas de rescisión se dirigen de forma obligatoria contra el deudor (concursado) y contra los que son parte del acto que se impugna. Ejemplo: si el concursado Carlos regaló una casa a Javier, la demanda se instará contra Carlos (concursado) y contra Javier (tercero que recibió el bien).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+
+Pregunta: ¿Tiene carácter de numerus clausus la enumeración de actos perjudiciales?
+Respuesta Correcta: No, tiene carácter numerus apertus (lista abierta). Cualquier acto que no esté expresamente previsto en la ley puede ser igualmente rescindible si se prueba que es perjudicial para la masa activa del concurso. En este caso, la carga de la prueba recae sobre quien alega el perjuicio (no en el deudor).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración Masa Activa II
+Pregunta: ¿Qué es el incidente concursal y cuáles son sus características esenciales según el art. 532 LC?
+Respuesta Correcta: Es el procedimiento típico para resolver cuestiones que surgen en el concurso cuando la ley no prevé otro cauce específico. Características: residualidad (se usa cuando no hay otro cauce), sumariedad (procedimiento breve con plazos tasados, sentencia en 10 días), y ausencia de efectos suspensivos (salvo que el Juez los acuerde excepcionalmente).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+
+Pregunta: ¿Cómo se tramita el incidente concursal en sus fases de demanda, contestación y juicio?
+Respuesta Correcta: Demanda: por escrito con documentos y propuesta de prueba. Admisión: providencia si se admite (recurso de reposición), auto si se inadmite (recurso de apelación directo). Contestación: 10 días tras providencia. Se puede acumular incidentes de oficio. Vista: solo si hay hechos controvertidos y prueba pertinente. Sentencia ejecutiva con efectos de cosa juzgada.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+
+Pregunta: ¿Cuáles son los efectos sustantivos de la rescisión en actos de obligaciones recíprocas según el art. 235 LC?
+Respuesta Correcta: Se produce: 1) Restitución de las prestaciones que ya se hubieran realizado; 2) Devolución de frutos e intereses; 3) Los créditos del tercero que se tengan que devolver (ej. precio pagado) se consideran créditos contra la Masa, y el tercero se convierte en acreedor del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+
+Pregunta: ¿Qué ocurre cuando los bienes no se pueden reintegrar físicamente a la Masa Activa?
+Respuesta Correcta: Se aplica la responsabilidad por valor: la sentencia condenará a quien hubiera sido parte en el acto rescindido a entregar el valor del bien que este tenía cuando salió del patrimonio del concursado. Esto ocurre si el tercero poseedor no fue demandado, posee de buena fe o tiene protección registral. El tercero de buena fe queda eximido y conserva el bien.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+
+Pregunta: ¿Qué consecuencias tiene la mala fe del tercero en la rescisión?
+Respuesta Correcta: Si se determina mala fe de quien contrató con el deudor: 1) Obligación de indemnizar daños y perjuicios a la Masa Activa; 2) Además de devolver el bien, debe pagar una indemnización. La mala fe se puede probar, por ejemplo, si el tercero es persona especialmente relacionada con el concursado y se demuestra que planeó una venta ficticia.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+
+Pregunta: ¿Contra qué sentencias del incidente concursal cabe recurso de casación?
+Respuesta Correcta: Contra la sentencia de apelación solo cabe casación o recurso extraordinario por infracción procesal si se apelaron sentencias que: aprobaban o rechazaban un convenio o declaraban su incumplimiento; calificaban el concurso acordando su conclusión; resolvían acciones de la Sección 3ª (Masa Activa) o Sección 4ª (Masa Pasiva).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Acciones de Reintegración III
+Pregunta: ¿Cuáles son los cuatro elementos principales del inventario de la Masa Activa?
+Respuesta Correcta: 1) Relación de bienes y derechos del concursado; 2) Avalúo (valoración de los bienes y derechos); 3) Relación de litigios que puedan afectar a la Masa Activa; 4) Listado de acciones de reintegración que deban ser ejercitadas. El deber de realizar el inventario recae sobre la Administración Concursal.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+
+Pregunta: ¿Qué información debe incluirse de cada bien según el art. 199 LC?
+Respuesta Correcta: Se requiere: 1) Descripción circunstancial: naturaleza, aspecto, ubicación, inscripción en registros, precio, propietario, color, fecha de adquisición, número de serie, etc.; 2) Descripción de la situación jurídica: si tiene cargas o gravámenes (ej. hipoteca) debe indicarse.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+
+Pregunta: ¿Cómo se realiza el avalúo de los bienes según el art. 201 LC?
+Respuesta Correcta: La AC debe atender al valor de mercado de los bienes en el momento de la declaración de concurso. A ese valor deben restarse las cargas y gravámenes que pudieran tener. El valor asignado es indicativo y no tiene que ser real, siendo susceptible de cambiar durante la tramitación según las circunstancias del mercado.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+
+Pregunta: ¿Qué tratamiento especial tiene el contrato de leasing en el inventario?
+Respuesta Correcta: Por excepción a la regla de bienes de uso ajenos, el bien cedido en leasing se incluye en la Masa Activa, considerándose al arrendatario como si fuera propietario y adeudara al arrendador su precio. La jurisprudencia entiende que el concursado ya tiene una parte pagada, y si abonase el resto, el bien sería íntegramente suyo.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+
+Pregunta: ¿Qué es una unidad productiva según el art. 200 LC y por qué debe identificarse?
+Respuesta Correcta: Es el conjunto de medios organizados para el ejercicio de una actividad económica esencial o accesoria, susceptible de funcionar de forma autónoma y ser transmitido de una empresa a otra. Debe identificarse porque su valor como conjunto suele ser superior a la suma de sus elementos por separado.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+
+Pregunta: ¿Qué carácter tiene el listado de acciones de reintegración incluido en el inventario?
+Respuesta Correcta: Tiene carácter meramente informativo y no es vinculante. La AC tiene la obligación de informar sobre la viabilidad, riesgos, costes y posibilidades de éxito de estos juicios. Puede solicitar informe de un experto para evaluar los bienes y litigios, pero la retribución del experto irá a cargo exclusivamente de la propia AC.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: El Inventario del Concurso
+Pregunta: ¿Qué es el Derecho de Separación regulado en los arts. 239-241 LC?
+Respuesta Correcta: Es la facultad que tiene el titular legítimo de un bien o derecho, erróneamente integrado en el inventario de la Masa Activa del concursado, para solicitar y obtener su exclusión. La ley establece que son los dueños de los bienes erróneamente integrados quienes deben solicitar su salida del inventario.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+
+Pregunta: ¿Cuáles son los tres requisitos para ejercer válidamente el Derecho de Separación?
+Respuesta Correcta: 1) Identificación del bien: el solicitante debe identificar qué bien quiere separar; 2) Posesión del concursado: el bien debe estar en posesión del concursado; 3) Prueba de propiedad: el solicitante debe probar que es propietario del bien.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+
+Pregunta: ¿Cuál es el procedimiento para ejercer el Derecho de Separación?
+Respuesta Correcta: Primero vía extrajudicial: solicitar a la AC la devolución del bien. Si la AC deniega la separación, vía judicial subsidiaria: acudir al Incidente Concursal solicitando al Juez que reconozca el derecho de separación. No hay límite temporal para ejercerlo, salvo en buques y aeronaves (1 año).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+
+Pregunta: ¿Qué consecuencias tiene la falta de comunicación oportuna tras sentencia firme de separación?
+Respuesta Correcta: Si el titular no comunica la sentencia a la AC en el plazo de un mes desde la notificación, se producen: 1) Subordinación del crédito: tendrá menos preferencia en el orden de cobro; 2) Crédito concursal no concurrente: puede considerarse el último de la fila, lo más seguro es que no cobre nunca.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+
+Pregunta: ¿Qué ocurre cuando el concursado ya no tiene la posesión del bien porque lo vendió?
+Respuesta Correcta: Si el adquiriente aún no ha pagado: el titular puede solicitar que se le ceda el derecho a recibir la contraprestación. Si ya pagó (dinero ingresado en patrimonio del concursado): la acción se convierte en crédito concursal ordinario, y el titular debe solicitar su reconocimiento y añadirse a la Masa Pasiva como acreedor.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+
+Pregunta: ¿Qué régimen especial tienen los buques y aeronaves según el art. 241 LC?
+Respuesta Correcta: Los acreedores con garantías sobre buques o aeronaves tienen privilegio absoluto de separación. Deben ejercitarlo dentro del año siguiente a la declaración de concurso; después, el bien formará parte de la Masa Activa. Si al realizarse las garantías sobra dinero, ese remanente irá al concurso a formar parte de la Masa Activa.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Reducción de la Masa Activa
+Pregunta: ¿Cuál es la diferencia fundamental entre créditos concursales y créditos contra la Masa?
+Respuesta Correcta: Los créditos concursales son deudas anteriores al concurso (provocaron el concurso), forman parte de la Lista de Acreedores. Los créditos contra la Masa (extraconcursales) nacen del concurso, forman listado separado (art. 242 LC) y tienen preferencia general de cobro. La AC debe deducir de la Masa Activa lo necesario para pagar primero los créditos contra la Masa.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+
+Pregunta: ¿Cuáles son los principales créditos contra la Masa según el art. 242 LC?
+Respuesta Correcta: Responsabilidad civil extracontractual e indemnizaciones por accidente laboral/enfermedad profesional; salarios del último mes anterior (límite: doble del SMI); salarios devengados post-concurso; gastos y costas judiciales del concurso; salario de la AC; alimentos del concursado persona física; créditos por ejercicio de actividad post-concurso; financiación de planes de reestructuración (interina y nueva).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+
+Pregunta: ¿Cuál es el orden de pago de los créditos contra la Masa según el art. 245 LC?
+Respuesta Correcta: Regla especial: los créditos por salarios se pagan de forma inmediata. Regla general: los demás créditos se pagan a sus respectivos vencimientos. Excepción: la AC puede alterar el orden si lo considera bueno para el concurso y hay dinero suficiente. Excepción importante (art. 244): los créditos concursales con privilegio especial pueden cobrar antes.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+
+Pregunta: ¿Qué ocurre cuando la Masa Activa es insuficiente para los créditos contra la Masa según el art. 250 LC?
+Respuesta Correcta: El concurso debe finalizar y entrar en fase de liquidación (art. 465 LC). El pago se hará conforme al orden del art. 250: 1º) Créditos imprescindibles para liquidación; 2º) Créditos salariales; 3º) Alimentos (límite SMI); 4º) Costas y gastos judiciales; 5º) Resto de créditos contra la Masa. Si no alcanza, reparto a prorrata dentro de cada categoría.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+
+Pregunta: ¿Qué financiación de los planes de reestructuración se considera crédito contra la Masa?
+Respuesta Correcta: Financiación interina: la que hace cualquier acreedor por altruismo para asegurar la continuidad de la actividad o preservar/mejorar el valor de las unidades productivas. Nueva financiación: la concedida por cualquier acreedor, prevista en el plan de reestructuración y necesaria para su cumplimiento. Ambas tienen preferencia de pago.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+
+Pregunta: ¿Tiene la enumeración de créditos contra la Masa carácter de lista cerrada?
+Respuesta Correcta: No, tiene carácter numerus apertus (lista abierta). En función de lo que decidan la doctrina y la jurisprudencia, se pueden encontrar más deudas con esta consideración de créditos contra la Masa, más allá de las enumeradas expresamente en el artículo 242 LC.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Créditos contra la Masa
+Pregunta: ¿Cómo se configura la Masa Pasiva y qué exclusiones establece el art. 251 LC?
+Respuesta Correcta: La Masa Pasiva comprende todas las obligaciones anteriores a la declaración de concurso. Se excluyen: créditos contra la Masa (no sujetos a reglas del concurso), créditos del cónyuge cuando el matrimonio está en régimen de gananciales, y créditos no reconocidos como tales. Las obligaciones posteriores son créditos contra la Masa.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+
+Pregunta: ¿Cuál es el plazo y forma para comunicar créditos a la Administración Concursal?
+Respuesta Correcta: Plazo: un mes desde la publicación del concurso en el BOE. Forma: escrito dirigido a la AC (no al juzgado), firmado por el acreedor, en la lengua oficial de la sede del juzgado. Contenido obligatorio: identificación del acreedor, referencia al crédito (concepto, cuantía, fechas), y clasificación pretendida del crédito.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+
+Pregunta: ¿Cuáles son las consecuencias de no comunicar el crédito o comunicarlo tardíamente?
+Respuesta Correcta: No comunicado: no se pierde el derecho a cobrar pero no se hará dentro del procedimiento concursal (posibilidades de cobro nulas). Comunicación tardía: el crédito se clasifica como subordinado (últimos en cobrar, art. 268 LC), con preferencia de cobro casi nula. La AC debe pronunciarse sobre créditos que resulten de la contabilidad aunque no se comuniquen.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+
+Pregunta: ¿Qué tres listados debe publicar la Administración Concursal?
+Respuesta Correcta: La AC debe adjuntar al informe tres listados por orden alfabético: 1) Los créditos que se reconocen; 2) Los créditos que no se reconocen; 3) Los créditos contra la Masa. Hay créditos de inclusión forzosa aunque no se comuniquen: reconocidos judicialmente, asegurados con garantía inscrita, con documento ejecutivo o certificación administrativa.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+
+Pregunta: ¿Qué son los créditos contingentes y cómo se tratan según el art. 261 LC?
+Respuesta Correcta: Son créditos en los que no es posible valorar la cuantía porque acreedor y deudor discrepan (ej. juicio declarativo en curso). Se establece un régimen específico de reconocimiento. Si antes de la lista definitiva se resuelve la contingencia, la AC debe incluir las modificaciones necesarias.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+
+Pregunta: ¿Cómo se tratan los créditos sujetos a condición resolutoria y suspensiva?
+Respuesta Correcta: Condición resolutoria (extinción depende de cumplimiento): se tratan como créditos normales con derechos concursales hasta que se cumpla y anule el crédito. Condición suspensiva (nacimiento depende de hecho condicional): se consideran créditos contingentes, se incluyen en masa pasiva sin cuantía determinada hasta que se cumpla la condición.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de la Masa Pasiva
+Pregunta: ¿Cómo se clasifican los créditos concursales según los arts. 269 y ss. LC?
+Respuesta Correcta: Se clasifican en tres grupos: 1) Créditos Privilegiados (especiales: sobre un bien concreto; generales: sobre todo el patrimonio restante); 2) Créditos Ordinarios (categoría residual: los que no son privilegiados ni subordinados); 3) Créditos Subordinados (última posición de cobro). El orden determina la prelación en el cobro.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+
+Pregunta: ¿Qué son los créditos con privilegio especial según el art. 270 LC?
+Respuesta Correcta: Son créditos donde el acreedor tiene preferencia en el cobro respecto de un bien concreto del patrimonio del concursado. Casos habituales: créditos garantizados con hipoteca, anticresis o prenda; contratos de arrendamiento o compraventa con precio aplazado. Requisito: las garantías deben haberse constituido antes de la declaración de concurso.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+
+Pregunta: ¿Cuál es el límite económico del privilegio especial según el art. 272 LC?
+Respuesta Correcta: El privilegio especial está limitado al valor razonable del bien o derecho sobre el que se hubiera constituido la garantía (valor de mercado). La finalidad es respetar la par conditio creditorum y evitar el absurdo de un pasivo privilegiado que exceda en mucho el valor del bien que garantiza.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+
+Pregunta: ¿Cuáles son los principales créditos con privilegio general según el art. 280 LC?
+Respuesta Correcta: Créditos laborales (salarios sin privilegio especial, indemnizaciones por extinción, recargos por incumplimiento de salud laboral); créditos públicos (Hacienda, SS, hasta 50%, el resto subordinado); responsabilidad civil extracontractual por daños materiales; delitos contra Hacienda Pública; créditos por fresh money (50%); 50% de lo debido al acreedor que pidió la declaración del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+
+Pregunta: ¿Cuáles son los principales créditos subordinados?
+Respuesta Correcta: Créditos comunicados tardíamente (fuera del mes); 50% restante de créditos públicos (Hacienda, SS en concepto de retenciones, intereses, recargos, sanciones); sanciones administrativas o multas; y créditos de personas especialmente relacionadas con el concursado (clasificación automática como subordinados).
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+
+Pregunta: ¿Quiénes son las personas especialmente relacionadas con el concursado?
+Respuesta Correcta: Persona física: cónyuge, hermanos, hijos y padres de ambos (no alimentos), y entidades que controle o donde sea administrador. Persona jurídica: además de la familia de socios/administradores, se incluyen los socios, administradores, liquidadores y directores generales. Sus créditos se clasifican automáticamente como subordinados.
+Manual: Derecho Mercantil IV
+Bloque: 5
+Tema: Determinación de los Créditos Concursales
+Pregunta: ¿Cuáles son los objetivos primordiales que persigue el Juez en la Fase Común del concurso?
+Respuesta Correcta: Dos objetivos: 1) Análisis Patrimonial: determinar la verdadera situación patrimonial del deudor para conocer la deuda real (pasivo) y su capacidad para hacerle frente (activo); 2) Control de Bienes: ejercer un control sobre los bienes del concursado para garantizar el cobro de los acreedores, respetando el principio de par conditio creditorum atenuado por las preferencias legales.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+
+Pregunta: ¿Qué instrumentos debe elaborar el Administrador Concursal en la Fase Común y en qué plazo?
+Respuesta Correcta: Debe elaborar un informe con: 1) Inventario de Bienes y Derechos (recopilar el activo de la masa activa); 2) Lista de Acreedores (determinar las deudas de la masa pasiva). Plazo: dos meses desde la aceptación del cargo, prorrogables por dos meses más (máximo cuatro meses).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+
+Pregunta: ¿Cuáles son las dos posibles formas de finalización de la Fase Común y cuál es la preferente?
+Respuesta Correcta: Convenio (solución preferente) o Liquidación (solución subsidiaria). El convenio es prioritario porque permite la continuación del negocio (principio de conservación de la empresa). La liquidación solo procede si el deudor la solicita o cuando es imposible alcanzar un acuerdo. El deudor tiene la decisión última si opta por la liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+
+Pregunta: ¿Quiénes están legitimados para presentar propuestas de convenio según el art. 315 LC?
+Respuesta Correcta: Solo el Deudor y los Acreedores. El deudor puede presentarla en cualquier momento. Los acreedores deben superar, individual o conjuntamente, la quinta parte (1/5) del pasivo de la lista de acreedores. La AC y el Juez nunca pueden hacer propuestas de convenio.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+
+Pregunta: ¿Cuál es el orden de pago de los créditos en el concurso?
+Respuesta Correcta: El orden es: 1º) Créditos sujetos a garantía real (si hubiere); 2º) Créditos contra la Masa (salarios AC, gastos proceso, créditos de reestructuración); 3º) Acreedores con créditos privilegiados (Administraciones Públicas); 4º) Acreedores con créditos ordinarios (proveedores); 5º) Acreedores con créditos subordinados (comunicados fuera de plazo).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+
+Pregunta: ¿Qué es una pieza separada en el procedimiento concursal según el art. 508 LC?
+Respuesta Correcta: No es una cuestión ajena al concurso, sino un estudio separado de contratiempos que, aunque íntimamente relacionados con el concurso, no se rigen exactamente por la norma concursal. El juez concursal realiza un estudio separado aplicando la normativa específica para acomodarla al procedimiento principal.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Finalización de la Fase Común del Concurso
+Pregunta: ¿Cuál es el orden de pago a los acreedores según los arts. 429-440 LC?
+Respuesta Correcta: 1º) Deducción de créditos contra la masa (siempre tienen preferencia); 2º) Acreedores con privilegio especial (con bienes afectos a la garantía, art. 270 LC); 3º) Acreedores con privilegio general (bienes no afectos y remanentes); 4º) Acreedores ordinarios (remanente tras pagar privilegiados); 5º) Acreedores subordinados (solo si quedan bienes tras cubrir íntegramente los ordinarios).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+
+Pregunta: ¿Cómo se pagan los créditos con privilegio especial según el art. 430 LC?
+Respuesta Correcta: Con los bienes afectos a la garantía (enumerados en art. 270 LC). Si el importe de la realización sobra tras el pago, el remanente se incluye en la masa activa. Si es insuficiente, el acreedor será tratado como crédito privilegiado general por la cantidad restante. Si hay pluralidad de privilegios sobre el mismo bien (art. 431 LC), se atiende a la prioridad temporal de la legislación específica.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+
+Pregunta: ¿Qué opción tiene la AC respecto a ejecuciones de garantías reales paralizadas?
+Respuesta Correcta: La AC puede comunicar a los acreedores privilegiados su opción de pagar sus créditos con cargo a la masa, sin necesidad de realizar los bienes afectos. Si opta por esta vía, debe satisfacer inmediatamente todos los intereses y plazos de amortización vencidos, y los próximos intereses se tratarán como créditos contra la masa.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+
+Pregunta: ¿Qué es el fallido concursal o crédito concursal no satisfecho?
+Respuesta Correcta: Es la parte del crédito que no se paga tras la liquidación concursal por no haberse conseguido dinero suficiente. Una vez terminada la fase de liquidación y realizado el pago a los acreedores concursales, se procede a la cancelación registral del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+
+Pregunta: ¿Qué regla se aplica si el activo es insuficiente para pagar íntegramente a los acreedores de cada categoría?
+Respuesta Correcta: Regla del prorrateo: si el activo no es suficiente para el pago íntegro, el pago a los acreedores con privilegio general, ordinarios y subordinados se realiza a prorrata dentro de cada categoría. Es lo más habitual para créditos ordinarios y subordinados.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+
+Pregunta: ¿Qué ocurre con los pagos realizados si la liquidación se abre por incumplimiento del convenio?
+Respuesta Correcta: Los pagos realizados para intentar cumplir el convenio se presumen legítimos, salvo que se pruebe fraude o alteración de la igualdad de trato. Los acreedores que hubieran cobrado parte de su deuda durante el convenio (cobro no ilegítimo) retienen el pago, pero no seguirán cobrando hasta que los demás acreedores de su misma clasificación hayan recibido pago en porcentaje equivalente (respeto a la par conditio creditorum).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Pago a los acreedores
+Pregunta: ¿Qué es el convenio concursal según la jurisprudencia del Tribunal Supremo?
+Respuesta Correcta: Es una verdadera ley pactada, un negocio jurídico sui generis de naturaleza compleja. Integra elementos contractuales (acuerdo deudor-acreedores por autonomía de la voluntad), procesales (requiere aprobación judicial en sentencia), y de interés público/privado. El juez vela por la par conditio creditorum. Su aprobación implica una novación de los créditos.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+
+Pregunta: ¿Qué principales cambios introdujo la Ley 16/2022 en materia de convenio?
+Respuesta Correcta: Supresión de la distinción entre convenio ordinario y propuesta anticipada (solo existe una modalidad); supresión de la Junta de Acreedores (sustituida por adhesiones escritas con firma holográfica o electrónica); introducción del Best Interest Creators como causa de oposición; posibilidad de modificación de convenios aprobados; ampliación de la Sección 6ª a todos los expedientes concursales.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+
+Pregunta: ¿Qué efecto produce la aprobación del convenio sobre las obligaciones anteriores?
+Respuesta Correcta: Efecto novatorio ("borrón y cuenta nueva"): las deudas, obligaciones y créditos anteriores a la aprobación se extinguen, siendo sustituidas por aquellas que se ajustan a los nuevos pactos de quita o espera alcanzados. Las obligaciones anteriores desaparecen siendo sustituidas por los pactos del convenio.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+
+Pregunta: ¿Qué documentación obligatoria debe acompañar a toda propuesta de convenio?
+Respuesta Correcta: 1) Plan de Pagos: obligatorio siempre (cuantía, plazo y medios para cumplir); 2) Plan de Viabilidad: obligatorio solo si el convenio persigue la continuación de la actividad empresarial o si los créditos dependen de los recursos generados por dicha continuación. El autor del plan de viabilidad es quien presenta la propuesta; la AC lo revisa pero no lo redacta.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+
+Pregunta: ¿Cuáles son las tres fases de tramitación del convenio?
+Respuesta Correcta: 1) Propuesta de Convenio: elaboración con plan de pagos/viabilidad, estudio por la AC y traslado al juez; 2) Aceptación por los Acreedores: mediante adhesiones escritas con firma holográfica o electrónica (ya no hay Junta de Acreedores); 3) Aprobación Judicial: sentencia del juez decidiendo sobre la aprobación, una vez obtenida la aceptación e informe de la AC.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+
+Pregunta: ¿Qué relación existe entre el convenio y la liquidación?
+Respuesta Correcta: Son absolutamente incompatibles y excluyentes: solo puede darse uno u otro. El convenio es la solución prioritaria (fin último del concurso), buscando que el deudor continúe con su actividad económica. La liquidación es solución subsidiaria, que opera únicamente cuando el convenio no se alcanza o, una vez aprobado, se frustra su cumplimiento.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: El convenio como solución al concurso
+Pregunta: ¿Cuál es el contenido mínimo obligatorio de una propuesta de convenio según el art. 317 LC?
+Respuesta Correcta: Puede basarse en: quitas (reducción del importe principal, pago inmediato al aprobar), esperas (aplazamiento de pagos, máximo 10 años, pago íntegro), o quitas y esperas a la vez. También puede preverse una modificación estructural de la empresa (art. 317 bis), como absorción o fusión por grupo solvente que liquide créditos inmediatamente.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+
+Pregunta: ¿Cuáles son las prohibiciones absolutas del contenido del convenio según el art. 318 LC?
+Respuesta Correcta: Se prohíbe: alterar la clasificación de créditos o modificar su cuantía; solicitar la liquidación de la sociedad; modificar sustancialmente créditos públicos y laborales (no pueden convertirse en acciones, cambiar ley aplicable, cambiar deudor sin consentimiento, ni modificar garantías); establecer quita o espera sobre cuotas de Seguridad Social del empresario (contingencias comunes/profesionales).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+
+Pregunta: ¿Qué establece el art. 319 LC sobre las propuestas condicionadas?
+Respuesta Correcta: Prohíbe de forma general que la propuesta contemple condiciones a su eficacia; tales cláusulas se tendrán por no puestas. Excepción: se admiten condiciones suspensivas en concursos conexos (grupo de sociedades donde varias empresas en concurso comparten acreedores, pudiendo condicionar su adhesión a la previa aceptación de otras propuestas conexas).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+
+Pregunta: ¿Cuáles son los requisitos formales para la admisión de una propuesta de convenio?
+Respuesta Correcta: Forma escrita (no requiere documento público ni firma notarial); firma del deudor o acreedores proponentes o representantes (su ausencia es defecto subsanable en 3 días); traslado a todas las partes del procedimiento concursal (art. 341), incluso si no han sido proponentes.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+
+Pregunta: ¿Qué tipos específicos de propuestas de convenio regulan los arts. 320-330 LC?
+Respuesta Correcta: Cláusula de Intereses (solo esperas): permite que los intereses suspendidos sigan devengándose; Limitación de Facultades: limita las facultades de disposición del deudor; Atribución de Funciones a la AC: funciones de fiscalización hasta el cumplimiento íntegro; Contenidos Alternativos: acreedores eligen entre modalidades (ej. tramos quita-espera inversos); Cesión en Pago: deudor cede bienes para satisfacer créditos.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+
+Pregunta: ¿Qué tutela tienen los acreedores que financian el plan de viabilidad según el art. 332 LC?
+Respuesta Correcta: Si los acreedores conceden créditos al concursado para financiar el plan de viabilidad (dinero nuevo), el pago se efectuará conforme a los términos pactados en el convenio (autonomía de la voluntad). Si el convenio fracasa y se abre la liquidación, los créditos por dinero nuevo se reconocen como créditos contra la masa (preferencia de pago).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: La Propuesta de Convenio
+Pregunta: ¿Cómo se abre la fase de convenio y qué novedad introduce la nueva ley?
+Respuesta Correcta: Se inicia tras la presentación del informe de la AC (plazo de 2 meses). El LAJ dicta decreto en 15 días poniendo fin a la fase común. Novedad: la nueva ley vincula la apertura a la presentación del informe provisional (no necesariamente al definitivo), permitiendo al juez finalizar la fase común y abrir convenio/liquidación sin esperar a los textos definitivos, agilizando el procedimiento.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+
+Pregunta: ¿Cuántas propuestas de convenio pueden coexistir y cómo se gestionan las adhesiones múltiples?
+Respuesta Correcta: Máximo cinco propuestas: una del deudor y cuatro de acreedores que cumplan el requisito del quinto del pasivo. Los acreedores pueden adherirse a una, varias o todas, expresando orden de preferencia. Si no lo indican, se aplica el orden legal de verificación. Los no adheridos se adhieren primero a la del concursado. Cuando una es aceptada, las demás se desechan.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+
+Pregunta: ¿Cómo funciona el mecanismo de adhesión a las propuestas de convenio?
+Respuesta Correcta: Adhesión individual y ponderada: cada voto pesa según la importancia del crédito real. Adhesión pura y simple: no caben condiciones (si se establecen, se entienden como no adheridos). No tienen derecho de adhesión los titulares de créditos subordinados ni las personas especialmente relacionadas con el concursado. El escrito debe indicar créditos y su categoría.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+
+Pregunta: ¿Cuáles son los plazos de adhesión y revocación?
+Respuesta Correcta: Plazo de adhesión (art. 358): dos meses desde la admisión a trámite (puede finalizar antes si las adhesiones ya son suficientes). Revocación: si las adhesiones son anteriores a la lista de acreedores, los disconformes con la calificación/cuantía tienen 15 días después de la presentación de la lista para retirar su aceptación (por escrito y firmada).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+
+Pregunta: ¿Qué mayorías se requieren para la aprobación del convenio según el art. 376 LC?
+Respuesta Correcta: Mayoría simple: para contenido básico (pago <3 años o pago inmediato con quita ≤20%), pasivo adheridos > pasivo opuestos. Mayoría cualificada (50% pasivo ordinario): quitas 20-50% o esperas 3-5 años. Mayoría reforzada (65% pasivo ordinario): contenidos más gravosos (quitas >50% o esperas >5 años). Los no pronunciados no computan.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+
+Pregunta: ¿Qué papel tiene el consentimiento del deudor en la aprobación del convenio?
+Respuesta Correcta: Es requisito imprescindible que el deudor dé su consentimiento expreso para la aprobación del convenio. Sin la aceptación del deudor, las propuestas presentadas por los acreedores no podrán jamás ser aprobadas por el juez. Es un elemento sine qua non de la aprobación judicial.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Tramitación del Convenio I
+Pregunta: ¿Cómo se produce la declaración de cumplimiento del convenio?
+Respuesta Correcta: El deudor prepara un informe justificando cada acción realizada y lo presenta al juez solicitando la resolución que declare el cumplimiento. Solo el deudor está legitimado para solicitarlo. Los acreedores tienen 15 días para revisar y verificar. Si confirman el cumplimiento, el juez dicta auto declarando el cumplimiento. Esto no significa que el concurso haya terminado inmediatamente.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+
+Pregunta: ¿Qué requisitos exige el art. 401 bis LC para la modificación del convenio aprobado?
+Respuesta Correcta: Legitimación exclusiva del deudor; riesgo real de incumplimiento (no es necesario que ya se haya producido); plazo mínimo de dos años de vigencia del convenio; justificar que el riesgo no es debido a dolo, culpa o negligencia y que la modificación es imprescindible para la viabilidad. No hay límite al alcance salvo los límites legales (ej. no esperas >10 años).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+
+Pregunta: ¿Cuándo se considera que ha habido incumplimiento del convenio según la jurisprudencia?
+Respuesta Correcta: Cuando alguna de las obligaciones fundamentales del convenio no se cumple y se frustra la satisfacción de los acreedores en los términos acordados. No basta un simple retraso con solución; debe ser grave y persistente. Da igual que sea imputable al deudor o por caso fortuito/fuerza mayor (el hecho objetivo del incumplimiento no se altera).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+
+Pregunta: ¿Quién puede solicitar la declaración de incumplimiento y en qué plazo?
+Respuesta Correcta: Cualquier acreedor que estime incumplido el convenio en lo que le afecte, mediante demanda tramitada por incidente concursal. Plazo: dos meses desde que se produjo el incumplimiento. El deudor NO tiene legitimación para pedir la declaración de incumplimiento (sí tiene deber de solicitar la liquidación si prevé imposibilidad de cumplimiento).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+
+Pregunta: ¿Cuáles son las consecuencias de la declaración de incumplimiento del convenio?
+Respuesta Correcta: El juez pone fin al convenio y abre la liquidación. Los acreedores pueden exigir el pago íntegro de sus créditos (sin quitas ni esperas). Las garantías no se afectan. Los actos ya realizados (pagos, garantías) mantienen validez. Los acreedores privilegiados adheridos recuperan la posibilidad de ejecución separada. Los que ya cobraron no devuelven pero esperan a que otros alcancen proporción equivalente.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+
+Pregunta: ¿Qué acciones prevé la LC para actos realizados fraudulentamente durante el convenio?
+Respuesta Correcta: Acción rescisoria ordinaria (art. 405 LC): si el acto es perjudicial para la masa y fraudulento, para rescindir actos que perjudiquen la par conditio creditorum. Acción de nulidad por ilicitud de la causa: si ambas partes realizaron el negocio con propósito de defraudar acreedores (prescribe a los 4 años según CC), con efecto de inexistencia del acto y apertura automática de la liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Cumplimiento del Convenio
+Pregunta: ¿Qué es la liquidación y cuál es su objetivo según los arts. 406 y ss. LC?
+Respuesta Correcta: Liquidar consiste en convertir los bienes de la masa activa (inventario) en dinero líquido para pagar a los acreedores en el orden de prelación legal según la clasificación de sus créditos. El mecanismo más habitual es la venta o subasta de los bienes. Es una de las dos vías de finalización del concurso, mutuamente excluyente con el convenio.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+
+Pregunta: ¿En qué situaciones se abre la fase de liquidación?
+Respuesta Correcta: Por fracaso del convenio (ninguna propuesta aprobada) o por frustración del convenio (convenio aprobado que se incumple o se declara nulo). Se abre por resolución judicial del juez del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+
+Pregunta: ¿Quiénes están legitimados para solicitar la apertura de la liquidación?
+Respuesta Correcta: El deudor (en cualquier momento; deber legal si sabe que no podrá cumplir); los acreedores (si el deudor no solicita, acreditando insolvencia del art. 2 LC); la AC (cuando hay cese total o parcial de la actividad); el juez de oficio (art. 409 LC: no se presenta/admite propuesta, acreedores no aceptan, se rechaza/anula/incumple el convenio).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+
+Pregunta: ¿Cuáles son los efectos de la liquidación sobre el concursado persona física y persona jurídica?
+Respuesta Correcta: Persona física: pierde facultades de administración y disposición; se extingue el derecho de alimento con cargo a la masa (salvo mínimo vital para concursado, cónyuge e hijos). Persona jurídica: disolución de la sociedad; cese de administradores/liquidadores sustituidos por la AC (mantienen funciones de representación).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+
+Pregunta: ¿Qué efectos produce la liquidación sobre los créditos concursales según el art. 114 LC?
+Respuesta Correcta: Se aplican los efectos de la declaración de concurso (arts. 152 y 155 LC). Efectos específicos del art. 114 LC: vencimiento anticipado de los créditos concursales aplazados; conversión en dinero de los créditos que consistan en otras prestaciones no dinerarias.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+
+Pregunta: ¿Qué sucede con la Administración Concursal al abrirse la liquidación?
+Respuesta Correcta: Si había cesado por aprobación de convenio, el juez debe reponerla en el ejercicio de sus funciones o nombrar una nueva, en la misma resolución que acuerde la apertura de la liquidación. Asume plenamente la administración y disposición del patrimonio del concursado.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Liquidación
+Pregunta: ¿Cómo ha cambiado el protagonismo en las operaciones de liquidación tras la Ley 16/2022?
+Respuesta Correcta: Ha desaparecido el plan de liquidación que elaboraba la AC. Ahora el juez tiene mayor protagonismo: elabora los criterios de realización de los bienes (reglas especiales de liquidación), no predeterminadas sino establecidas para cada concurso al acordar la apertura de la liquidación. La AC tiene rol más residual, aunque previo a las medidas el juez debe recabar su informe.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+
+Pregunta: ¿Qué deberes tiene la Administración Concursal durante la fase de liquidación?
+Respuesta Correcta: Dos tareas esenciales: 1) Informe trimestral: detallando el estado de las operaciones durante toda la fase; 2) Informe final: justificativo de todas las operaciones, a presentar máximo 15 días después de terminada la última operación. Debe indicar crédito obtenido, dinero dedicado a cada acreedor, justificar facultades, acciones de reintegración e intervención de auxiliares.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+
+Pregunta: ¿Cuál es el plazo máximo de liquidación y qué prohibición tiene la AC?
+Respuesta Correcta: Plazo máximo: un año desde el auto de apertura de la fase de liquidación para convertir todos los bienes en dinero líquido. Si la AC no cumple el plazo, los acreedores pueden solicitar su separación por incompetencia. Prohibición: la AC tiene prohibido adquirir bienes de la masa activa del concurso (art. 208 LC).
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+
+Pregunta: ¿Cuáles son las tres reglas supletorias de liquidación según los arts. 421-423 bis LC?
+Respuesta Correcta: Regla del Conjunto (art. 422): enajenación como un todo de establecimientos, explotaciones o unidades productivas, salvo que el juez decida lo contrario si se saca más por separado. Regla de la Subasta (art. 423): bienes ≥5% de masa activa pueden subastarse electrónicamente. Regla de Subasta sin Postores (art. 423 bis): si nadie puja por bien hipotecado, el titular de las cargas puede adjudicárselo por el 50% de su valor.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+
+Pregunta: ¿Qué es la consignación para gastos del procedimiento según los arts. 425-426 LC?
+Respuesta Correcta: El juez puede acordar retener un máximo del 15% del dinero total obtenido en la liquidación, para asegurar el pago de gastos ocasionados por el procedimiento concursal (recursos, impugnaciones, acciones de reintegración). Si alguna acción es estimada, el acreedor que la solicitó tiene derecho a que los gastos incurridos se le abonen.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+
+Pregunta: ¿Pueden los acreedores oponerse a las medidas de liquidación fijadas por el juez?
+Respuesta Correcta: Sí. Si el 50% de los acreedores ordinarios (o el 50% de todos los acreedores si se juntan) no están de acuerdo con las medidas adoptadas por el juez, pueden solicitar que queden sin efecto. Es un mecanismo de control de los acreedores sobre las reglas especiales de liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 6
+Tema: Operaciones de Liquidación
+Pregunta: ¿Cuáles son los dos tipos de calificación del concurso de acreedores?
+Respuesta Correcta: Concurso Culpable: cuando en la generación o agravación del estado de insolvencia hubiera mediado dolo o culpa grave del deudor, sus representantes legales, administradores/liquidadores (de derecho o de hecho), directores generales, o quienes tuvieran estas condiciones en los dos años anteriores. Concurso Fortuito: cuando la generación o agravación de la insolvencia no haya mediado dolo o culpa grave del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+
+Pregunta: ¿Qué cambios introdujo el RDL 1/2020 en materia concursal?
+Respuesta Correcta: Supuso la derogación de la Ley 22/2003 Concursal casi en su totalidad, adecuando la norma española a la directiva europea en: marcos de reestructuración preventiva, exoneración de deudas e inhabilitaciones, y medidas para aumentar la eficiencia de los procedimientos de reestructuración, insolvencia y exoneración de deudas.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+
+Pregunta: ¿Cuál es la retribución máxima de la Administración Concursal según la LO 1/2025?
+Respuesta Correcta: La menor de entre: 1.500.000 euros, o el 4% de la valoración del activo del concursado. La retribución tiene consideración de crédito contra la masa. Si la declaración de concurso la solicitó el deudor, el cobro de la retribución se producirá tras la satisfacción de la totalidad de los créditos públicos calificados contra la masa.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+
+Pregunta: ¿Qué requisitos debe cumplir una microempresa para acogerse al procedimiento especial?
+Respuesta Correcta: Ser persona natural o jurídica que lleve a cabo actividad empresarial o profesional y: 1) Haber empleado durante el año anterior a la solicitud una media de menos de 10 trabajadores; 2) Tener un volumen de negocio anual inferior a 700.000 euros o un pasivo inferior a 350.000 euros, según las últimas cuentas cerradas.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+
+Pregunta: ¿En qué supuestos existe concurso sin masa?
+Respuesta Correcta: Cuando: el concursado carece de bienes y derechos legalmente embargables; el coste de realización es manifiestamente desproporcionado respecto al previsible valor; los bienes libres de cargas son de valor inferior al previsible coste del procedimiento; los gravámenes y cargas sobre los bienes son por importe superior al valor de mercado de esos bienes y derechos.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+
+Pregunta: ¿Qué contenido mínimo debe tener el informe de la Administración Concursal según el art. 292 LC?
+Respuesta Correcta: Análisis de la memoria que acompaña la solicitud de declaración de concurso; exposición del estado de la contabilidad del concursado y juicio sobre los documentos contables; memoria de las principales decisiones y actuaciones de la AC; exposición motivada acerca de la situación patrimonial del concursado. Debe incluir cuentas anuales de los tres últimos ejercicios y memoria de cambios patrimoniales significativos.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Calificación del Concurso de Acreedores
+Pregunta: ¿Cuándo se abre la Sección Sexta de calificación del concurso?
+Respuesta Correcta: Con la Reforma de 2022, se abre siempre por ley al terminar la fase común, salvo en casos de concursos sin masa y concursos de microempresas que van directamente a liquidación (art. 441 LC). El concurso solo tiene dos calificaciones posibles: fortuito o culpable.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+
+Pregunta: ¿Cuáles son los tres mecanismos de calificación culpable?
+Respuesta Correcta: 1) Análisis causal: cuando el deudor provoca o agrava su insolvencia (requiere acto u omisión, dolo o negligencia grave, y relación de causalidad). 2) Presunciones relativas (art. 444 LC): admiten prueba en contrario (incumplimiento deber declarar concurso, incumplimientos contables culpables, incumplir obligación de colaborar). 3) Presunciones absolutas (art. 443 LC): no admiten prueba en contrario.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+
+Pregunta: ¿Cuáles son los supuestos de presunción absoluta de culpabilidad del art. 443 LC?
+Respuesta Correcta: Incumplimientos contables graves (no tener registro contable); simulación de situación patrimonial (manipulación de cuentas); inexactitud grave de documentos presentados; alzamiento de bienes (ocultación en perjuicio de acreedores); salida fraudulenta de bienes (retrasar, dificultar o impedir embargo); apertura de liquidación por incumplimiento del convenio cuando se debe única y exclusivamente a la culpa del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+
+Pregunta: ¿Cuáles son los efectos de la calificación culpable que afectan tanto a autores como a cómplices?
+Respuesta Correcta: Efectos económicos comunes: perder el derecho a cobrar créditos del concurso; devolver lo percibido; pagar indemnización por daños. Efecto exclusivo de autores: inhabilitación de 2 a 15 años para administrar bienes propios o ajenos y para actuar en representación de entidades. La inhabilitación no se aplica a los cómplices.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+
+Pregunta: ¿La responsabilidad por deudas (cobertura del déficit) es consecuencia automática de la calificación culpable?
+Respuesta Correcta: No. El TS considera que la responsabilidad por deudas no es consecuencia necesaria de la culpabilidad del concurso. Requiere: que la calificación se derive de la fase de liquidación; que se haya solicitado expresamente la imposición de la responsabilidad concursal (no es de oficio); y que el juez valore discrecionalmente si procede condenar a los autores a cubrir el déficit. Solo se aplica a autores, no a cómplices.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+
+Pregunta: ¿Cuáles son los tres conceptos principales a retener tras la conclusión del concurso?
+Respuesta Correcta: 1) Rendición de cuentas (art. 478 LC): la AC debe justificar su gestión con escrito detallado de facultades, retribución, personal y horas. 2) Efectos generales y específicos (arts. 483-485 LC): cesan limitaciones de gestión y cesa la AC; efectos diferenciados para persona natural (responsabilidad personal salvo BEPI) y jurídica (cierre provisional 1 año). 3) Reapertura del concurso (arts. 503-507 LC): por el mismo juez, plazos según tipo de deudor.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Repaso de la calificación del concurso
+Pregunta: ¿Quiénes son los autores en el concurso culpable de persona jurídica?
+Respuesta Correcta: Tres categorías con responsabilidad solidaria: 1) Administradores o Liquidadores de Derecho (órgano de administración legalmente constituido); 2) Administradores o Liquidadores de Hecho (desplazamiento de facultades, requiere autonomía, habitualidad y amplio poder decisorio); 3) Directores Generales (art. 442 LC, actuación general de representación con autonomía, sin subordinación).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+
+Pregunta: ¿Qué requisitos jurisprudenciales se exigen para atribuir responsabilidad por administración de hecho?
+Respuesta Correcta: Elemento esencial de autonomía: realizar actos que sean expresión de la voluntad de la empresa sin pedir permiso (falta de subordinación). Habitualidad: ejercicio habitual de funciones (no basta intervención aislada). Poder decisorio amplio: manifestación de autonomía de criterio, excluyendo a quienes actúan en la esfera previa subordinada.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+
+Pregunta: ¿Qué requisitos se exigen para ser considerado cómplice según el art. 445 LC?
+Respuesta Correcta: Cuatro requisitos jurisprudenciales: 1) Acto de cooperación en actos ajenos (los del concursado); 2) Que la cooperación sea relevante y haya provocado la agravación de la insolvencia; 3) Que se trate de un acto que haya determinado la culpabilidad del concurso; 4) Que haya culpa o negligencia grave en el cómplice.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+
+Pregunta: ¿Cuáles son los efectos patrimoniales de la calificación culpable sobre los autores?
+Respuesta Correcta: Tres efectos económicos: 1) Pérdida de derechos: perderán cualquier derecho que tuvieran frente a la masa (no cobran nada); 2) Devolución de cobros: si ya hubieran cobrado algo, tendrán que devolverlo; 3) Indemnización: tendrán que pagar indemnización por daños y perjuicios.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+
+Pregunta: ¿Qué es la inhabilitación y cuál es su duración en el concurso culpable?
+Respuesta Correcta: Es una sanción que afecta solo a los autores (no a los cómplices), por la que quedan inhabilitados para: administrar bienes propios o ajenos, y actuar en representación de personas o entidades. Duración: de 2 a 15 años.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+
+Pregunta: ¿Cuáles son los efectos de la calificación culpable sobre los cómplices?
+Respuesta Correcta: Efectos principalmente económicos: 1) Pérdida de derechos: perderán cualquier derecho de cobro que tuvieran; 2) Devolución de lo obtenido: tendrán que devolver lo que hubieran obtenido indebidamente del patrimonio del deudor o recibido de la masa activa; 3) Indemnización: tendrán que pagar indemnización por daños y perjuicios. No se les aplica la inhabilitación.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos de la calificación del concurso
+Pregunta: ¿Qué es el déficit patrimonial en el concurso de acreedores?
+Respuesta Correcta: Es la diferencia entre el valor de los bienes y derechos de la masa activa y la suma de los importes de los créditos reconocidos en la lista de acreedores. Existe déficit cuando el valor de la masa activa es inferior a la suma total de los créditos reconocidos (Masa Activa < Masa Pasiva).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+
+Pregunta: ¿Cuáles son los presupuestos para la condena a la cobertura del déficit según el art. 456 LC?
+Respuesta Correcta: Dos presupuestos acumulativos: 1) Liquidación: que la tramitación del concurso haya llevado a la liquidación; 2) Insuficiencia: que la masa activa sea insuficiente para pagar a los acreedores (que exista déficit). Si se dan ambos, el juez decidirá discrecionalmente si acuerda la responsabilidad por deudas.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+
+Pregunta: ¿A quiénes se aplica la condena a la cobertura del déficit?
+Respuesta Correcta: Solo se aplica a los autores: administradores o liquidadores (de hecho o de derecho). Quedan excluidos los cómplices y terceros. La ley impone al juez un análisis individualizado de la participación de cada afectado, graduando la condena atendiendo a su participación en los hechos que determinaron la culpabilidad (con o sin régimen de solidaridad).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+
+Pregunta: ¿Cuáles son los criterios de graduación de la condena a la cobertura del déficit?
+Respuesta Correcta: El juez debe atender a tres criterios: 1) La gravedad de los hechos (criterio cualitativo); 2) La reiteración o número de conductas que han determinado la culpabilidad (criterio cuantitativo); 3) El protagonismo o intervención de las personas afectadas (directa o indirecta).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+
+Pregunta: ¿Puede apreciarse de oficio la condena a la cobertura del déficit?
+Respuesta Correcta: No. Es necesario que alguna de las partes que hubiera solicitado la calificación del concurso como culpable haya ejercitado también esta pretensión específica. La responsabilidad concursal no puede apreciarse de oficio; alguien tiene que solicitar expresamente que se cubra el déficit.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+
+Pregunta: ¿Cuáles son las tesis doctrinales sobre la naturaleza de la condena a la cobertura del déficit?
+Respuesta Correcta: Tres tesis: 1) Causal: responsabilidad resarcitoria, exige probar nexo causal entre conducta y daño; 2) Sancionadora: máximo reproche, no exige enlace causal, queda al criterio del juez (criticada por falta de seguridad jurídica); 3) Intermedia: mezcla de ambas, exige cierto grado de causalidad/culpa. El TS considera que no es consecuencia necesaria de la culpabilidad, sino que requiere justificación añadida caso por caso.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Condena a la cobertura del déficit
+Pregunta: ¿Cuándo se abre la Sección Sexta del concurso y qué trámite previo existe?
+Respuesta Correcta: Se abre siempre que termine la fase común (desde 26/09/2022 es obligatoria). Trámite previo paralelo a la fase común (art. 447 LC): dentro del plazo de comunicación de créditos (1 mes), los interesados pueden dirigirse a la AC por correo electrónico para realizar alegaciones sobre la culpabilidad, acompañando documentación. Este trámite es crucial para la legitimación en la calificación.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+
+Pregunta: ¿Qué requisitos debe cumplir el informe de calificación de la Administración Concursal?
+Respuesta Correcta: Forma: adoptar forma de demanda cuando se solicita concurso culpable. Contenido: referencia a todos los hechos relevantes, fundamentación jurídica, aportación de prueba pertinente. Pretensiones: propuesta de calificación; si es culpabilidad: identidad de autores y cómplices, demás personas afectadas, y consecuencias (pérdida derecho cobro, indemnización, inhabilitación).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+
+Pregunta: ¿Qué plazos rigen para la presentación de informes de calificación?
+Respuesta Correcta: AC: 15 días siguientes a la presentación de su informe con inventario y lista de acreedores provisionales. Acreedores: 10 días siguientes a la presentación del informe de calificación por la AC. Legitimación acreedores: limitada a quienes tengan pasivo superior al 5% del total o deuda superior a 1 millón de euros. La AC puede ampliar su informe con posterioridad si conoce hechos relevantes.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+
+Pregunta: ¿Cómo varía la tramitación judicial según la calificación propuesta?
+Respuesta Correcta: Concurso Fortuito: si todos los informes proponen fortuito, el juez dicta auto de archivo (no recurrible). Concurso Culpable: en 5 días el juez debe dar audiencia al deudor (10 días), emplazar a afectados/cómplices para comparecer (5 días), y fijar vista dentro de 2 meses (salvo prueba solo documental). Las partes deben manifestar conformidad u oposición.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+
+Pregunta: ¿Qué es el acuerdo transaccional en la calificación del concurso según el art. 451 bis LC?
+Respuesta Correcta: Permite evitar la vista si se alcanza un acuerdo entre autores y cómplices de la calificación culpable y el resto de afectados, sobre el contenido económico de la calificación (ej. renunciar a derechos de cobro y devolver lo percibido a cambio de no imposición de indemnización). Requisito: debe ser legalmente válido y contar con la aprobación del juez.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+
+Pregunta: ¿Qué pronunciamientos debe contener la sentencia de calificación culpable y qué recursos caben?
+Respuesta Correcta: Pronunciamientos: causa o causas con referencia a hechos y fundamentos de derecho; descripción de sujetos afectados (autores y cómplices); consecuencias (pérdida de créditos, devolución, indemnización, y condena a cobertura del déficit). Recursos: apelación y, posteriormente, casación. Ejecución: corresponde a la AC solicitarla; si no lo hace en 1 mes desde requerimiento, quedan legitimados los acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Tramitación del Procedimiento
+Pregunta: ¿Qué objeto tiene la calificación por incumplimiento del convenio según el art. 452 LC?
+Respuesta Correcta: No se enjuicia el comportamiento previo a la aprobación del convenio, sino solo la conducta posterior que llevó a su frustración. Se analiza si la frustración del cumplimiento es imputable al concursado (si ha concurrido dolo o culpa grave en el incumplimiento). No se revisan las conclusiones de la pieza de calificación relativas a las circunstancias originales del concurso.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+
+Pregunta: ¿Cuáles son las particularidades de la tramitación procesal por incumplimiento del convenio?
+Respuesta Correcta: Plazo para informes: 15 días siguientes a la notificación de la apertura de la liquidación. Contenido: limitado a determinar si ha concurrido dolo o culpa grave en el incumplimiento. Personación: cualquier interesado puede personarse para defender la culpabilidad. Procedimiento supletorio: emplazamiento, vista. Condena al déficit: posible al conducir a liquidación.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+
+Pregunta: ¿Cuáles son las fases principales de la tramitación de la Sección Sexta?
+Respuesta Correcta: 1) Incoación y fase previa: se abre al cierre de la fase común, alegaciones de interesados a la AC en 1 mes. 2) Informes de calificación: AC (15 días) y acreedores (10 días después). 3) Procedimiento contradictorio: archivo si fortuito, o apertura con audiencia/emplazamiento/vista si culpable. 4) Acuerdos y sentencia: posible acuerdo transaccional o sentencia con pronunciamientos y ejecución.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+
+Pregunta: ¿Qué ocurre en el procedimiento contradictorio si todos están de acuerdo con la calificación propuesta?
+Respuesta Correcta: Si todos están de acuerdo en una determinada calificación, no habrá vista. El juez dicta su sentencia directamente. Solo si hay distintas apreciaciones se celebra la vista, que se desarrolla conforme a lo establecido para los incidentes concursales.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+
+Pregunta: ¿Qué diferencia existe entre el procedimiento ordinario de calificación y el de incumplimiento del convenio?
+Respuesta Correcta: Alcance: el ordinario analiza las circunstancias que dieron lugar al concurso; el de incumplimiento solo la conducta posterior a la aprobación del convenio. Plazo: en el ordinario 15 días desde el informe AC; en el de incumplimiento 15 días desde notificación de apertura de liquidación. Objeto: el ordinario examina dolo/culpa en la generación/agravación de insolvencia; el de incumplimiento solo si hubo dolo/culpa grave en la frustración del convenio.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+
+Pregunta: ¿Quién puede solicitar la ejecución de la sentencia de calificación?
+Respuesta Correcta: La Administración Concursal es la legitimada principal para solicitar la ejecución de la sentencia firme. Legitimación subsidiaria: los acreedores que hayan instado a la AC por escrito quedan legitimados para solicitarla si transcurre un mes desde el requerimiento sin que la AC la haya solicitado.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Especialidades Procedimentales
+Pregunta: ¿Cuáles son las principales causas de conclusión del concurso según el art. 465 LC?
+Respuesta Correcta: Siete categorías: 1) Revocación del auto de declaración por la Audiencia Provincial; 2) Desaparición de insolvencia (pago/consignación de totalidad de créditos); 3) Renuncia/desistimiento unánime de todos los acreedores; 4) Cumplimiento íntegro del convenio (doble auto judicial); 5) Final de liquidación (pagados todos los acreedores posibles); 6) Insuficiencia de masa (causa más habitual).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+
+Pregunta: ¿Qué requisitos se exigen para la conclusión por cumplimiento del convenio?
+Respuesta Correcta: El juez debe dictar dos autos: 1) Auto de Cumplimiento: declara que el deudor ha llevado a cabo sus obligaciones (previa comunicación del deudor y comprobación judicial); 2) Auto de Conclusión: solo si el auto de cumplimiento es firme, han caducado o sido rechazadas todas las acciones de incumplimiento, y no existe ninguna demanda pendiente. La petición de incumplimiento caduca en 2 meses desde la última publicación del auto de cumplimiento.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+
+Pregunta: ¿Qué es la insuficiencia de masa activa y cuáles son sus presupuestos?
+Respuesta Correcta: Es cuando el patrimonio del concursado es insuficiente incluso para satisfacer los créditos contra la masa. Cinco presupuestos: 1) Inviabilidad de acciones de reintegración/impugnación/responsabilidad; 2) Inviabilidad de calificación culpable; 3) Patrimonio insuficiente para créditos contra la masa; 4) Falta de garantías de terceros para pagar créditos contra la masa; 5) Momento procesal oportuno.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+
+Pregunta: ¿Cuál es el orden de prelación en la insuficiencia de masa según el art. 250 LC?
+Respuesta Correcta: 1º) Créditos salariales: últimos 30 días de trabajo (máx. doble SMI); 2º) Indemnizaciones laborales: límite 3 veces el SMI; 3º) Alimentos: máximo el SMI; 4º) Costas y gastos judiciales del procedimiento; 5º) Los demás créditos contra la masa. En concurso sin masa puede alterarse este orden.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+
+Pregunta: ¿Cómo se desarrolla el procedimiento de insuficiencia de masa?
+Respuesta Correcta: Dos fases: 1ª) Comunicación: la AC comunica al juez mediante informe razonado (basta indicios fundados), expresando créditos contra la masa, requisitos de conclusión, importe de masa activa, y si se alterará el orden de pago. 2ª) Oposición y conclusión: traslado a partes, acreedores pueden oponerse en 15 días (incidente concursal) o pedir continuación si hay indicios de acciones/calificación culpable (depositando garantía). Auto de conclusión si no hay oposición fundada.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+
+Pregunta: ¿Qué contenido mínimo debe tener el informe final de liquidación?
+Respuesta Correcta: Tres elementos: 1) Operaciones realizadas: explicación de todas las operaciones para obtener dinero, incluyendo venta de bienes y dinero obtenido en cada transacción; 2) Bienes inembargables: lista con bienes inembargables (arts. 605 y ss. LEC) y bienes sin alto valor de mercado; 3) Bienes con derechos reales: aquellos con derechos reales suscritos, para proteger mínima calidad de vida del deudor.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Conclusión del Concurso de Acreedores
+Pregunta: ¿Qué debe contener el escrito de rendición de cuentas de la Administración Concursal según el art. 478 LC?
+Respuesta Correcta: Aspectos de gestión: justificación del modo de utilizar facultades de administración/disposición, especificación de actuaciones procesales, saldo final de operaciones. Aspectos económicos: retribución detallada por fases con cantidades percibidas y fechas, gastos de auxiliares (tasadores, expertos) con cargo a retribución de la AC, número de trabajadores asignados y horas totales dedicadas al concurso.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+
+Pregunta: ¿Cómo se tramita la oposición a la rendición de cuentas?
+Respuesta Correcta: Los implicados pueden formular oposición al escrito de rendición de cuentas dentro del mismo plazo de 15 días fijado para oponerse a la conclusión del concurso. Ambas oposiciones (a la rendición de cuentas y a la conclusión) se sustanciarán en el mismo incidente y se resolverán en la misma sentencia. Si no se formula oposición o el juez la desestima, declarará aprobadas las cuentas y dictará auto de conclusión.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+
+Pregunta: ¿Cuáles son los efectos generales de la conclusión del concurso?
+Respuesta Correcta: Fin de limitaciones de gestión: las limitaciones sobre facultades de administración y disposición del concursado llegan a su fin, recuperando la empresa sus facultades de dirección (excepción: se mantienen si se fijaron límites en la sentencia de calificación). Cese de la AC y archivo: cesará la Administración Concursal y el juez ordenará el archivo de las actuaciones. El auto de conclusión debe publicarse en el BOE.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+
+Pregunta: ¿Cuáles son los efectos específicos de la conclusión para el deudor persona natural?
+Respuesta Correcta: Si el concurso termina por liquidación o insuficiencia de masa: el deudor es responsable a título personal del pago de los créditos insatisfechos; los acreedores pueden iniciar ejecuciones singulares contra el deudor. Excepción: esta responsabilidad no se produce si obtiene el BEPI (Beneficio de Exoneración del Pasivo Insatisfecho). La posibilidad de ejecuciones se paraliza si se acuerda reapertura o nuevo concurso.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+
+Pregunta: ¿Cuáles son los efectos específicos de la conclusión para la persona jurídica?
+Respuesta Correcta: Si el concurso concluye por liquidación o insuficiencia de masa: cierre provisional de la hoja registral de la persona jurídica en el registro público correspondiente. Caducidad: este cierre provisional caduca en un año. Cancelación definitiva: si transcurrido el año no se ha reabierto el concurso, el registrador cancela la inscripción de la empresa y cierra definitivamente su hoja (la empresa deja de existir).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+
+Pregunta: ¿Por qué la renuncia de los acreedores tiene efectos distintos al desistimiento?
+Respuesta Correcta: Renuncia: supone la renuncia al derecho de cobro, el acreedor no podrá iniciar nuevas acciones, efecto definitivo y vinculante. Desistimiento: es puramente procesal (renuncia al proceso), no impide a los acreedores instar nuevas demandas, efecto limitado al procedimiento actual. Ambos requieren unanimidad de todos los acreedores y solo pueden ejercerse una vez terminada la fase común.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Efectos del Concurso
+Pregunta: ¿En qué casos puede reabrirse el concurso de un deudor persona natural?
+Respuesta Correcta: Solo dentro de los cinco años siguientes al auto de conclusión, si el concurso original concluyó por liquidación o insuficiencia de la masa activa, y se constate que han aparecido nuevos bienes en el patrimonio del deudor. Transcurrido el plazo de 5 años, el concurso no se reabrirá, aunque cabría iniciar un nuevo procedimiento. Legitimación: el deudor persona física o los acreedores.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso
+
+Pregunta: ¿Qué requisitos se exigen para la reapertura del concurso de persona jurídica?
+Respuesta Correcta: Dos condiciones acumulativas: 1) El concurso original hubiera terminado por liquidación o insuficiencia de la masa activa; 2) Se constate que han aparecido nuevos bienes en el patrimonio del deudor. Legitimación: acreedores no satisfechos que fueron parte en el procedimiento concluido, o socios/miembros personalmente responsables de las deudas de la sociedad (interesados en liberarse de su responsabilidad solidaria).
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso
+
+Pregunta: ¿Puede el juez declarar la reapertura de oficio o puede solicitarla la AC?
+Respuesta Correcta: No. El juez no puede declarar la reapertura de oficio, ni puede solicitarla la Administración Concursal, ya que esta cesa en su cargo una vez concluido el concurso. Solo están legitimados: para persona natural, el propio deudor o los acreedores; para persona jurídica, los acreedores no satisfechos partes del procedimiento o los socios personalmente responsables.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso
+
+Pregunta: ¿Cuál es el procedimiento tras el auto judicial que acuerda la reapertura?
+Respuesta Correcta: 1) Publicidad: publicación del auto en el BOE. 2) Persona jurídica: el juez ordena abrir de nuevo la hoja registral para que "vuelva a tener personalidad jurídica". 3) Actualización de textos: la AC actualiza inventario de bienes y lista de acreedores en plazo de 2 meses. 4) Límites: solo puede corregir valoración de bienes, incorporar bienes aparecidos posteriormente, y modificar cuantías de los acreedores por el incremento de masa activa.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso
+
+Pregunta: ¿Qué límites tiene la actualización de textos tras la reapertura?
+Respuesta Correcta: La AC solo puede: corregir la valoración de los bienes ya descritos; incorporar y valorar los bienes que hayan aparecido con posterioridad; modificar las cuantías que corresponderá cobrar a los acreedores como consecuencia del incremento en la masa activa. Es posible impugnar las actualizaciones por el procedimiento de impugnación del inventario y lista de acreedores (arts. 297 y ss. LC). Si se intenta impugnar algo fuera de las actualizaciones, el juez rechaza de oficio sin recurso.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso
+
+Pregunta: ¿Qué interés tienen los socios personalmente responsables en solicitar la reapertura del concurso de persona jurídica?
+Respuesta Correcta: El interés es claro: la reapertura podrá liberarles de su responsabilidad solidaria en la medida en que los créditos de los acreedores sean saldados total o parcialmente con los nuevos bienes aparecidos. Al pagarse más créditos con los nuevos bienes de la sociedad, disminuye la cantidad que los socios tendrían que abonar personalmente por su responsabilidad solidaria.
+Manual: Derecho Mercantil IV
+Bloque: 7
+Tema: Reapertura del Concurso

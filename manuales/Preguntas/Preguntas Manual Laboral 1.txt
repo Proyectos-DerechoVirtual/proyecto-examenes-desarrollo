@@ -1,0 +1,2030 @@
+Pregunta: ¿Qué es el Derecho Laboral?
+Respuesta Correcta: Es la rama del ordenamiento jurídico que regula las relaciones entre el trabajador y el empresario derivadas del trabajo humano.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+
+Pregunta: ¿Cuál es la finalidad principal del Derecho Laboral?
+Respuesta Correcta: Paliar el desequilibrio existente entre trabajador y empresario, configurándose como un instrumento protector del trabajador.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+
+Pregunta: ¿Cuáles son las cuatro notas de laboralidad?
+Respuesta Correcta: Voluntariedad, carácter personalísimo, ajenidad y dependencia.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+
+Pregunta: ¿Qué sucede si falta alguna de las notas de laboralidad?
+Respuesta Correcta: No estaremos ante una relación laboral y no será de aplicación el Derecho del Trabajo.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+
+Pregunta: ¿Qué establece el artículo 1.2 del ET sobre el concepto de empresario?
+Respuesta Correcta: Se considera empresario a toda persona física o jurídica o comunidad de bienes que reciba la prestación de servicios por parte de los trabajadores.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+
+Pregunta: ¿Qué significa el principio de intangibilidad de derechos en el Derecho Laboral?
+Respuesta Correcta: Que los mínimos legales pueden mejorarse por negociación privada pero nunca empeorarse. Por ejemplo, los 30 días de vacaciones del ET pueden aumentarse pero no disminuirse.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Definición de Derecho Laboral
+Pregunta: ¿Qué artículo del ET establece las notas de laboralidad?
+Respuesta Correcta: El artículo 1.1 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+
+Pregunta: ¿Qué significa que la calificación legal prima sobre la voluntad de las partes?
+Respuesta Correcta: Que los contratos no son lo que las partes dicen que son, sino lo que su naturaleza determina que son.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+
+Pregunta: ¿En qué consiste la ajenidad en los frutos?
+Respuesta Correcta: En que los beneficios del negocio van a parar al empresario, no al trabajador.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+
+Pregunta: ¿Qué significa la dependencia o subordinación en la relación laboral?
+Respuesta Correcta: Que el trabajador está sujeto a las órdenes del empleador, dentro de su ámbito de organización y dirección.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+
+Pregunta: ¿Cuáles son los indicios de ajenidad según el Tribunal Supremo?
+Respuesta Correcta: Puesta a disposición de productos al empresario, decisiones del empresario sobre relaciones con el público, remuneración fija o periódica, y cálculo de retribución sin asumir riesgo empresarial.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+
+Pregunta: ¿Cuáles son los indicios de dependencia en una relación laboral?
+Respuesta Correcta: Sometimiento a jornada y horario, poder sancionador del empresario, uso de medios de la empresa, lugar de trabajo determinado por el empresario, inserción en la organización y control del resultado.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Los elementos de la Relación Laboral
+Pregunta: ¿Qué artículo del ET recoge las relaciones laborales excluidas?
+Respuesta Correcta: El artículo 1.3 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+
+Pregunta: ¿Por qué se excluyen los funcionarios públicos del ámbito laboral?
+Respuesta Correcta: Porque no existe la figura del empresario en sentido tradicional, ya que quien contrata es el Estado, comunidad autónoma o corporaciones locales, dificultando la apreciación de dependencia o ajenidad.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+
+Pregunta: ¿Por qué se excluye el trabajo realizado a título de amistad o benevolencia?
+Respuesta Correcta: Porque carece de retribución y dependencia. Sin embargo, si el favor se vuelve habitual y retribuido, podría transformarse en relación laboral.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+
+Pregunta: ¿Cuándo puede un familiar ser contratado laboralmente en el negocio familiar?
+Respuesta Correcta: Cuando no existe dependencia económica con el empleador. Los menores de 30 años, con o sin convivencia, sí pueden ser contratados y se considera relación laboral.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+
+Pregunta: ¿Qué son las relaciones laborales especiales del artículo 2.1 ET?
+Respuesta Correcta: Son relaciones que cumplen las notas de laboralidad pero presentan peculiaridades que requieren normativa específica (personal alta dirección, servicio hogar, deportistas profesionales, artistas, etc.).
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+
+Pregunta: ¿Cómo se distingue un contrato de transporte laboral de uno mercantil?
+Respuesta Correcta: Es laboral si el transportista recibe salario, trabaja voluntariamente y bajo dirección del empresario. Es mercantil si dispone de su propio vehículo, presta servicio puntual y no está bajo el poder de organización del empresario.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Supuestos especiales de Relaciones Laborales
+Pregunta: ¿Qué caracteriza al trabajador autónomo?
+Respuesta Correcta: Realiza un trabajo por cuenta propia, caracterizado por la ausencia de las notas de ajenidad o dependencia propias de una relación laboral asalariada.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+
+Pregunta: ¿Qué ley regula principalmente el trabajo autónomo?
+Respuesta Correcta: La Ley 20/2007, de 11 de julio (LETA - Ley del Estatuto del Trabajo Autónomo).
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+
+Pregunta: ¿Qué tipo de contratos celebran los trabajadores autónomos?
+Respuesta Correcta: Contratos mercantiles, realizando su actividad de forma habitual, personal y directa sin estar sujetos a contrato de trabajo.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+
+Pregunta: ¿Qué es un TRADE?
+Respuesta Correcta: Es el Trabajador Autónomo Económicamente Dependiente, un autónomo que mantiene una fuerte vinculación económica con un único cliente o empresa.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+
+Pregunta: ¿Cuál es la condición principal de dependencia económica para ser considerado TRADE?
+Respuesta Correcta: Recibir al menos el 75% de sus ingresos por rendimientos de trabajo y actividades económicas o profesionales de una empresa o cliente.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+
+Pregunta: ¿Qué condiciones adicionales debe cumplir un TRADE además de la dependencia económica?
+Respuesta Correcta: No tener trabajadores a su cargo, no subcontratar, disponer de infraestructura propia, no ejecutar actividad indiferenciada con la empresa cliente, trabajar bajo criterio organizativo propio y asumir el riesgo de su actividad.
+Manual: Derecho Laboral
+Bloque: 1
+Tema: Trabajo Autónomo
+Pregunta: ¿Qué es la OIT y cuándo fue creada?
+Respuesta Correcta: Es la Organización Internacional del Trabajo, creada en 1919, fuente institucional básica del derecho internacional del trabajo y organismo especializado de la ONU.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+
+Pregunta: ¿Cuándo surten efectos los convenios de la OIT en el derecho interno español?
+Respuesta Correcta: Cuando han sido ratificados por la autoridad competente y publicados oficialmente en el BOE.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+
+Pregunta: ¿Qué prelación tiene un tratado internacional publicado oficialmente en España?
+Respuesta Correcta: Goza de prelación sobre cualquier disposición, incluidas las leyes en sentido propio.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+
+Pregunta: ¿Cuáles son los dos mecanismos de control de aplicación de los convenios de la OIT?
+Respuesta Correcta: Control indirecto (exigencia de memorias anuales) y control directo (sistema de quejas ante el Consejo de Administración o reclamaciones a través de representaciones sindicales).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+
+Pregunta: ¿Cuál es la finalidad central de los acuerdos bilaterales o multilaterales en materia laboral?
+Respuesta Correcta: La protección laboral de los trabajadores emigrantes.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+
+Pregunta: ¿Qué obstáculos ha encontrado la adopción de un Convenio Colectivo Internacional?
+Respuesta Correcta: La precariedad de la organización y acción sindical internacional, y la falta de viabilidad por las condiciones nacionales muy distintas (económicas y productivas).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Derecho Internacional y Laboral
+Pregunta: ¿Cuáles son las fuentes del Derecho Laboral según el artículo 3 del ET?
+Respuesta Correcta: Disposiciones legales y reglamentarias del Estado, convenios colectivos, voluntad de las partes en el contrato, y usos y costumbres locales y profesionales.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+
+Pregunta: ¿Qué peculiaridad tiene la negociación colectiva como fuente del Derecho Laboral?
+Respuesta Correcta: Es una fuente propia sin equivalente en ninguna otra rama del ordenamiento jurídico, resultado de la negociación privada entre empresa y trabajadores a través de sus representantes.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+
+Pregunta: ¿Qué competencia tiene el Estado en materia de legislación laboral?
+Respuesta Correcta: Competencia exclusiva. Las CCAA no pueden establecer leyes o reglamentos laborales propios, solo pueden ejecutar las leyes estatales.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+
+Pregunta: ¿Qué competencia tienen las CCAA en materia de Seguridad Social?
+Respuesta Correcta: Pueden dictar leyes que desarrollen las bases estatales, ya que el Estado solo tiene competencia exclusiva para la legislación básica y el régimen económico.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+
+Pregunta: ¿Qué competencia tienen las CCAA en materia de asistencia social?
+Respuesta Correcta: Competencia exclusiva.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+
+Pregunta: ¿Qué límite tienen las disposiciones reglamentarias según el artículo 3 del ET?
+Respuesta Correcta: Desarrollarán las leyes de rango superior pero no podrán establecer condiciones de trabajo distintas o inferiores a las establecidas en la ley.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes del Derecho Laboral
+Pregunta: ¿En qué artículo de la Constitución se reconoce el convenio colectivo?
+Respuesta Correcta: En el artículo 37.1 de la Constitución Española.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+
+Pregunta: ¿Qué es un convenio colectivo?
+Respuesta Correcta: Es un pacto suscrito entre organizaciones sindicales y empresariales que fija condiciones de trabajo para su ámbito de aplicación, con naturaleza normativa y fuerza vinculante.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+
+Pregunta: ¿Qué diferencia hay entre un convenio estatutario y uno extraestatutario?
+Respuesta Correcta: El estatutario cumple todos los requisitos del ET y tiene eficacia erga omnes. El extraestatutario carece de fuerza normativa general y solo vincula a quienes lo firmen o se adhieran.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+
+Pregunta: ¿Qué principios rigen la relación entre el convenio colectivo y el contrato de trabajo?
+Respuesta Correcta: El principio de mínimos (no se pueden establecer condiciones perjudiciales para el trabajador) y la intangibilidad de derechos (el trabajador no puede disponer por contrato de los derechos reconocidos por convenio).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+
+Pregunta: ¿Qué significa el principio de suplementariedad en la relación convenio-ley?
+Respuesta Correcta: La norma estatal fija un mínimo o máximo, y el convenio colectivo procede a mejorarlo añadiendo un suplemento.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+
+Pregunta: ¿Qué significa el principio de subsidiariedad en la relación convenio-ley?
+Respuesta Correcta: La norma estatal opera de forma supletoria cuando no haya un convenio colectivo aplicable.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenios Colectivos
+Pregunta: ¿Cuál es la regla fundamental del convenio colectivo respecto a los derechos del ET?
+Respuesta Correcta: El convenio colectivo solo puede mejorar los derechos reconocidos en el Estatuto de los Trabajadores, nunca reducirlos.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+
+Pregunta: ¿A qué materias debe limitarse la negociación colectiva?
+Respuesta Correcta: A materias de índole económica, laboral, sindical o cualquier otra que afecte al empleo, y debe estar dirigida a promover la igualdad de trato entre mujeres y hombres.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+
+Pregunta: ¿Cuál es el contenido mínimo obligatorio de un convenio colectivo según el art. 85.3 ET?
+Respuesta Correcta: Determinación de las partes, ámbito personal/funcional/territorial/temporal, procedimiento para discrepancias, forma de denuncia y plazo, y designación de comisión paritaria.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+
+Pregunta: ¿Quiénes están legitimados para negociar convenios sectoriales por parte de los trabajadores?
+Respuesta Correcta: Sindicatos más representativos a nivel estatal, sindicatos más representativos a nivel autonómico, o sindicatos con mínimo del 10% de representación en el ámbito del convenio.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+
+Pregunta: ¿Quiénes están legitimados para negociar convenios de empresa por parte de los trabajadores?
+Respuesta Correcta: El comité de empresa, delegados de personal o las secciones sindicales que en su conjunto sumen la mayoría de los miembros del comité.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+
+Pregunta: ¿Qué requisitos deben cumplir las asociaciones empresariales para negociar convenios sectoriales?
+Respuesta Correcta: Contar con el 10% de los empresarios en el ámbito geográfico del convenio, o dar ocupación al 15% de los trabajadores afectados.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo I
+Pregunta: ¿Qué debe contener la comunicación escrita para iniciar la negociación de un convenio?
+Respuesta Correcta: La legitimación de la parte promotora, el ámbito del convenio y las materias que se quieren negociar.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+
+Pregunta: ¿En qué plazo debe constituirse la comisión negociadora desde la recepción de la comunicación?
+Respuesta Correcta: En un plazo máximo de un mes.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+
+Pregunta: ¿Cuántos miembros máximos puede tener la comisión negociadora en convenios sectoriales?
+Respuesta Correcta: No más de 15 miembros por cada parte (máximo 30 personas en total).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+
+Pregunta: ¿Qué mayoría se requiere para los acuerdos de la comisión negociadora?
+Respuesta Correcta: El voto favorable de la mayoría de cada una de las dos representaciones (no basta la mayoría simple de votos totales).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+
+Pregunta: ¿En qué plazo debe presentarse el convenio ante la autoridad laboral para su registro?
+Respuesta Correcta: En un plazo de 15 días desde que las partes negociadoras lo firmen.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+
+Pregunta: ¿En qué plazo debe publicarse el convenio tras su presentación en el registro?
+Respuesta Correcta: En un plazo máximo de 20 días desde la presentación, en el BOE o boletín correspondiente según su ámbito territorial.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo II
+Pregunta: ¿Quién determina la duración y fecha de entrada en vigor del convenio colectivo?
+Respuesta Correcta: Las partes negociadoras (representantes de trabajadores y empresarios) durante el proceso de negociación colectiva.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+
+Pregunta: ¿Qué sucede si nadie denuncia el convenio colectivo al finalizar su vigencia?
+Respuesta Correcta: El convenio se prorroga anualmente de forma tácita, salvo acuerdo en contrario.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+
+Pregunta: ¿Qué es la ultraactividad del convenio colectivo?
+Respuesta Correcta: Es la fase en la que entra el convenio una vez denunciado formalmente, asegurando el mantenimiento de su contenido durante la negociación del nuevo convenio.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+
+Pregunta: ¿Qué ocurre si transcurre un año desde la denuncia sin acordar un nuevo convenio?
+Respuesta Correcta: Las partes deben acudir a uno de los procedimientos de mediación previstos en el artículo 83 del ET para solventar sus discrepancias.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+
+Pregunta: ¿Qué cláusulas decaen durante la fase de ultraactividad?
+Respuesta Correcta: Las cláusulas por las que se hubiera renunciado al ejercicio del derecho a huelga (cláusulas de paz).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+
+Pregunta: ¿Quiénes están legitimados para denunciar un convenio colectivo?
+Respuesta Correcta: Los mismos sujetos legitimados para negociarlo, aunque no coincidan con aquellos que lo suscribieron originalmente.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Convenio Colectivo III
+Pregunta: ¿Qué es la conciliación extrajudicial previa?
+Respuesta Correcta: Es el intento obligatorio de solución del conflicto antes de acudir a la vía judicial, garantizando la posibilidad de un acuerdo entre las partes.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+
+Pregunta: ¿Para qué materias no es obligatoria la conciliación según el art. 64 LRJS?
+Respuesta Correcta: Seguridad Social, vacaciones, materia electoral y tutela de la libertad sindical.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+
+Pregunta: ¿Qué consecuencia tiene la incomparecencia del demandante al acto de conciliación?
+Respuesta Correcta: Se tiene la conciliación por no presentada y se archiva todo lo actuado.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+
+Pregunta: ¿Qué consecuencia tiene la incomparecencia del demandado al acto de conciliación?
+Respuesta Correcta: Se tiene la conciliación por intentada sin efecto, y el juez puede apreciar temeridad o mala fe e imponer multa si la sentencia coincide con la pretensión de la papeleta.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+
+Pregunta: ¿Qué fuerza tiene el acuerdo alcanzado en conciliación extrajudicial?
+Respuesta Correcta: Tiene fuerza ejecutiva entre las partes sin necesidad de ratificación judicial y puede ejecutarse por el trámite de ejecución de sentencia.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+
+Pregunta: ¿En qué plazo puede impugnarse un acuerdo de conciliación y por qué causas?
+Respuesta Correcta: En un plazo de 30 días, mediante acción de nulidad por las causas que invalidan los contratos.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: La Conciliación Laboral
+Pregunta: ¿Qué implica el principio de jerarquía normativa en Derecho Laboral?
+Respuesta Correcta: Que una norma de rango inferior no puede ir en contra de una norma de rango superior, salvo que se permita expresamente.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+
+Pregunta: ¿Qué establece el principio de norma más favorable?
+Respuesta Correcta: Que las normas de rango superior establecen condiciones mínimas que solo pueden ser mejoradas por normas de rango inferior.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+
+Pregunta: ¿Qué es el principio de absorción y compensación del art. 26 ET?
+Respuesta Correcta: Busca evitar que la mejora de un concepto salarial por norma posterior obligue al empresario a aumentar un salario ya superior al mínimo legal o convencional.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+
+Pregunta: ¿Qué es el principio de condición más beneficiosa adquirida?
+Respuesta Correcta: Es un derecho otorgado unilateralmente por el empresario o mediante pacto que mejora las condiciones del convenio o ET, como la cesta de Navidad.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+
+Pregunta: ¿Qué establece el principio de irrenunciabilidad de derechos del art. 3.5 ET?
+Respuesta Correcta: Que existen derechos de los que los trabajadores no pueden disponer ni negociar, siendo nulo cualquier acuerdo en contrario (ej: salario mínimo, descansos semanales).
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+
+Pregunta: Pon un ejemplo del principio de absorción y compensación.
+Respuesta Correcta: Si el salario pactado es de 50.000€ y el convenio sube el mínimo a 45.000€, no existe obligación de subir el pacto individual de 50.000€. La mejora superior absorbe la inferior.
+Manual: Derecho Laboral
+Bloque: 2
+Tema: Fuentes Nacionales del Derecho Laboral
+Pregunta: ¿Cómo define el artículo 1.2 del ET al empresario?
+Respuesta Correcta: Se considera empresario a toda persona física o jurídica, o comunidad de bienes, que reciba la prestación de servicios de un trabajador.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+
+Pregunta: ¿Cuáles son los tres poderes inherentes del empresario?
+Respuesta Correcta: Poder de dirección y organización, poder de vigilancia y control, y poder disciplinario.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+
+Pregunta: ¿Qué facultades incluye el poder de dirección del empresario?
+Respuesta Correcta: Dictar instrucciones sobre organización, potestad normativa interna, movilidad funcional y geográfica de trabajadores, y modificación sustancial de condiciones de trabajo.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+
+Pregunta: ¿Qué requisitos debe cumplir el registro de taquillas según el art. 20.3 ET?
+Respuesta Correcta: Debe hacerse en horario de trabajo y con un representante legal de los trabajadores presente o, en su defecto, con otro trabajador de la empresa.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+
+Pregunta: ¿Qué límites tiene el poder de vigilancia y control del empresario?
+Respuesta Correcta: Debe guardar el máximo respeto a la dignidad e intimidad del trabajador, y antes de ejecutar el control debe realizarse un juicio de proporcionalidad, idoneidad y necesidad.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+
+Pregunta: ¿Qué límites fundamentales tiene el poder de dirección del empresario?
+Respuesta Correcta: Respetar los derechos fundamentales del trabajador y las normas protectoras relativas al grupo profesional, duración del contrato, lugar de trabajo y prevención de riesgos laborales.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: El Empresario
+Pregunta: ¿Qué diferencia hay entre empresa y empresario?
+Respuesta Correcta: La empresa es la organización de medios personales, financieros y técnicos con objetivo productivo. El empresario (persona física o jurídica) puede ser titular de varias empresas al mismo tiempo.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+
+Pregunta: ¿Cómo define el artículo 1.5 del ET el centro de trabajo?
+Respuesta Correcta: Es la unidad productiva con organización específica que sea dada de alta como tal ante la autoridad laboral.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+
+Pregunta: ¿Qué características tiene el centro de trabajo?
+Respuesta Correcta: Es una unidad productiva con individualidad propia, posee autonomía organizativa y de funcionamiento, y debe comunicarse su alta ante la autoridad laboral.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+
+Pregunta: ¿Qué es un grupo de empresas laboral?
+Respuesta Correcta: Existe cuando un trabajador realiza labores o se encuentra bajo la dirección de varias empresas de un grupo mercantil, debiendo el trabajador demostrar su existencia.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+
+Pregunta: ¿Cuáles son los indicios del Tribunal Supremo para acreditar un grupo laboral?
+Respuesta Correcta: Dirección unitaria, prestación de trabajo común o simultáneo para varias empresas, confusión de patrimonios o caja única, y confusión de plantilla o única plantilla.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+
+Pregunta: ¿Qué consecuencia tiene la existencia de un grupo de empresas laboral?
+Respuesta Correcta: Todas las empresas del grupo responden solidariamente de todas las obligaciones contraídas con el trabajador, pudiendo este exigir el pago a cualquiera de ellas.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Empresa
+Pregunta: ¿Cuáles son los cuatro ámbitos principales de responsabilidad del empresario?
+Respuesta Correcta: Responsabilidad civil, responsabilidad laboral, responsabilidad de Seguridad Social y responsabilidad penal.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+
+Pregunta: ¿Qué establece el artículo 1903 del Código Civil sobre la responsabilidad del empresario?
+Respuesta Correcta: Los dueños o directores de un establecimiento son responsables de los perjuicios causados por sus dependientes en el servicio o con ocasión de sus funciones.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+
+Pregunta: ¿Qué es el principio "non bis in idem" en materia de PRL?
+Respuesta Correcta: Impide ser sancionado dos veces por el mismo hecho si concurre identidad de sujeto, hecho y fundamento, aunque un mismo hecho puede generar diferentes tipos de responsabilidad.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+
+Pregunta: ¿A partir de qué cuantía defraudada se tipifica como delito contra la Seguridad Social?
+Respuesta Correcta: Cuando la cuantía defraudada supera los 90.151,82 euros.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+
+Pregunta: ¿Quiénes pueden ser responsables penalmente en el ámbito empresarial?
+Respuesta Correcta: Los administradores de derecho (formalmente nombrados y registrados) y los administradores de hecho (quienes sin título formal ejercen funciones de dirección y control).
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+
+Pregunta: ¿Cuáles son las obligaciones clave del empresario en materia de Seguridad Social?
+Respuesta Correcta: Alta de trabajadores, comunicación de variaciones de datos, cotización por las bases correctas, ingreso de cuotas en plazo y custodia de la documentación pertinente.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Responsabilidad del Empresario
+Pregunta: ¿Qué artículo del ET prohíbe la cesión ilegal de trabajadores?
+Respuesta Correcta: El artículo 43 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+
+Pregunta: ¿Qué requisitos debe cumplir una subcontratación lícita?
+Respuesta Correcta: Independencia funcional (autonomía en sus funciones), independencia organizativa (estructura propia de gestión) e independencia material (propios trabajadores, material y organización productiva).
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+
+Pregunta: ¿Cuáles son los indicios de cesión ilegal según el Tribunal Supremo?
+Respuesta Correcta: Formación conjunta impartida por la empresa principal, uniforme común, mismo sistema de control de acceso y directrices conjuntas para trabajadores de ambas empresas.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+
+Pregunta: ¿Cuáles son las consecuencias de la cesión ilegal de trabajadores?
+Respuesta Correcta: Responsabilidad solidaria de ambas empresas, derecho del trabajador a ser fijo en la empresa que elija, y obligación de demandar mientras la cesión esté vigente.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+
+Pregunta: ¿Qué derechos tiene el trabajador cedido por una ETT?
+Respuesta Correcta: Se le aplica el mismo convenio que a la plantilla de la empresa usuaria, no puede haber discriminación, tiene derecho a las mismas condiciones esenciales y uso de instalaciones comunes.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+
+Pregunta: ¿Qué obligaciones tiene la ETT respecto al trabajador cedido?
+Respuesta Correcta: Es responsable de cotizar por el trabajador a la Seguridad Social y de abonar la indemnización por fin de contrato. No puede descontarle nada ni cobrarle por la intermediación.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: La Cesión de Trabajadores
+Pregunta: ¿En qué artículo del ET se recogen los deberes básicos de los trabajadores?
+Respuesta Correcta: En el artículo 5 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+
+Pregunta: ¿Cuáles son los deberes principales de la prestación laboral?
+Respuesta Correcta: Diligencia y buena fe, respetar las medidas de higiene y seguridad, obediencia a las órdenes del empresario y contribuir a la mejora de la productividad.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+
+Pregunta: ¿En qué consiste el deber de no concurrencia?
+Respuesta Correcta: El trabajador no puede ejercer competencia desleal, es decir, no puede realizar la misma actividad que perjudique a su empresa para otra empresa competidora.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+
+Pregunta: ¿Es legal el pluriempleo?
+Respuesta Correcta: Sí, la situación de pluriempleo es legal. Una persona puede trabajar en varias empresas a la vez o por cuenta propia y ajena simultáneamente, siempre que no constituya competencia desleal.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+
+Pregunta: ¿Qué es el pacto de plena dedicación?
+Respuesta Correcta: Es un pacto por el que se prohíbe totalmente el pluriempleo al trabajador, pero solo puede pactarse mediante compensación económica expresa.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+
+Pregunta: ¿Cuándo existe competencia desleal por parte de un trabajador?
+Respuesta Correcta: Cuando la segunda actividad del trabajador supone un daño o perjuicio a la empresa donde trabaja, realizando la misma labor para un competidor.
+Manual: Derecho Laboral
+Bloque: 3
+Tema: Deberes de los Trabajadores
+Pregunta: ¿Qué contratos temporales ha establecido la reforma laboral de 2022?
+Respuesta Correcta: Dos modalidades de contratos por circunstancias de la producción (incremento ocasional imprevisible e incremento ocasional previsible) y el contrato de sustitución.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+
+Pregunta: ¿Cuál es la duración máxima del contrato por incremento ocasional imprevisible?
+Respuesta Correcta: No puede durar más de seis meses, ampliable a doce meses por convenio colectivo sectorial, y solo cabe una única prórroga.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+
+Pregunta: ¿Cuál es el límite anual para el contrato por incremento ocasional previsible?
+Respuesta Correcta: 90 días al año, que no se pueden utilizar de forma continuada y son independientes del número de trabajadores contratados.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+
+Pregunta: ¿Cuándo adquiere un trabajador la condición de fijo por concatenación de contratos temporales?
+Respuesta Correcta: Cuando en un periodo de 24 meses hubiera estado contratado durante más de 18 meses, independientemente de que fuera continuado o no, o para el mismo puesto o diferente.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+
+Pregunta: ¿Desde qué fecha tienen vigencia los nuevos contratos de la reforma laboral?
+Respuesta Correcta: A partir del 30 de marzo de 2022.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+
+Pregunta: ¿Qué exclusión existe para el contrato por incremento ocasional previsible?
+Respuesta Correcta: No se puede usar para contratar trabajadores en el marco de contratas, subcontratas o concesiones administrativas que constituyan la actividad normal de la empresa.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales
+Pregunta: ¿Qué nuevos supuestos incluye el contrato fijo-discontinuo tras la reforma?
+Respuesta Correcta: Trabajos con períodos de ejecución ciertos, trabajos en contratas mercantiles o administrativas previsibles, y contratos suscritos por ETT con trabajadores cedidos.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+
+Pregunta: ¿Cuál es el plazo máximo de inactividad en contratas según la reforma?
+Respuesta Correcta: Lo que determine el convenio colectivo sectorial; en defecto de previsión, será de tres meses como plazo de espera de recolocación.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+
+Pregunta: ¿Qué obligación tiene la empresa respecto al calendario de llamamientos?
+Respuesta Correcta: Debe trasladar a la representación legal de los trabajadores, con suficiente antelación, un calendario con las previsiones de llamamiento anual o semestral.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+
+Pregunta: ¿Qué es el censo anual del personal fijo-discontinuo?
+Respuesta Correcta: Es un documento que la empresa tiene obligación de elaborar anualmente con todos los trabajadores fijos-discontinuos.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+
+Pregunta: ¿Cómo se computa la antigüedad según la nueva legislación?
+Respuesta Correcta: Debe tener en cuenta toda la duración de la relación laboral, no solo el tiempo de servicio efectivamente prestado.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+
+Pregunta: ¿Qué derechos formativos tienen los trabajadores fijos-discontinuos?
+Respuesta Correcta: Son colectivos prioritarios para acceder a formación profesional para el empleo, especialmente durante los periodos de inactividad. Pueden acceder a bolsas sectoriales de empleo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Fijos-Discontinuos (novedades)
+Pregunta: ¿Cuáles son las tres causas del contrato temporal por sustitución según el art. 15 ET?
+Respuesta Correcta: Sustitución con reserva de puesto, completar jornada reducida de otro trabajador, y cubrir puesto vacante durante proceso de selección.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+
+Pregunta: ¿Cuánto tiempo antes puede incorporarse el sustituto respecto al trabajador sustituido?
+Respuesta Correcta: Hasta 15 días antes de que la persona sustituida se ausente.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+
+Pregunta: ¿Cuál es la duración máxima del contrato de sustitución por proceso de selección?
+Respuesta Correcta: 3 meses (o el plazo del convenio colectivo), sin poder volver a fijar contrato con el mismo objeto superada esta duración.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+
+Pregunta: ¿Qué se excluye como causa de temporalidad en el contrato por circunstancias de la producción?
+Respuesta Correcta: La realización de trabajos en el marco de contratas, subcontratas o concesiones administrativas que constituyan la actividad ordinaria de la empresa.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+
+Pregunta: ¿Cuándo adquiere la condición de indefinido un trabajador por encadenamiento de contratos?
+Respuesta Correcta: Cuando ha encadenado contratos temporales durante más de 18 meses en un periodo de 24 meses en la misma empresa, incluyendo contratos a través de ETT.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+
+Pregunta: ¿Qué ocurre si un puesto es cubierto por distintas personas durante más de 18 meses en 24?
+Respuesta Correcta: La última persona que ocupe el puesto adquiere la condición de trabajadora fija.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos de Duración Determinada
+Pregunta: ¿En qué dos supuestos podía celebrarse el contrato de interinidad (régimen derogado)?
+Respuesta Correcta: Para sustituir a un trabajador con reserva de puesto de trabajo, o para cubrir un puesto vacante durante el proceso de selección para su cobertura definitiva.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+
+Pregunta: ¿Qué prohibía el Tribunal Supremo respecto al contrato de interinidad?
+Respuesta Correcta: Usar este tipo de contrato para sustituir a un trabajador que se encontraba ausente por vacaciones.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+
+Pregunta: ¿Cuál era la duración del contrato de interinidad por sustitución?
+Respuesta Correcta: Sin duración mínima ni máxima; duraba el tiempo de la causa (ej: incapacidad temporal), pudiendo ser de un mes a 15 años.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+
+Pregunta: ¿Cuál era la duración máxima del contrato de interinidad por plaza vacante?
+Respuesta Correcta: 3 meses en empresa privada y 3 años en la Administración Pública.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+
+Pregunta: ¿Qué ocurría si el trabajador interino continuaba trabajando tras la finalización de la causa?
+Respuesta Correcta: La relación laboral se presumía indefinida, y la empresa debía probar la temporalidad.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+
+Pregunta: ¿Generaba indemnización la extinción del contrato de interinidad?
+Respuesta Correcta: No generaba derecho a ninguna indemnización, salvo pacto en convenio colectivo o en el contrato.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato de Interinidad
+Pregunta: ¿Qué es el Convenio de Cooperación Educativa?
+Respuesta Correcta: Es el acuerdo entre un centro educativo y una empresa para la formación práctica de estudiantes. El becario es estudiante, no trabajador, y no genera los mismos derechos laborales.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+
+Pregunta: ¿Qué limitaciones tiene la actividad del becario?
+Respuesta Correcta: No puede realizar trabajo ni cubrir necesidades estructurales de la empresa, sus funciones deben relacionarse directamente con los estudios y ampliar su formación.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+
+Pregunta: ¿Qué sanción existe si se demuestra que el becario realizó trabajo de empleado?
+Respuesta Correcta: Multas por infracciones graves de hasta 200.000€, y los jueces pueden reconocer al becario como trabajador ordinario indefinido.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+
+Pregunta: ¿Desde cuándo cotizan los becarios a la Seguridad Social?
+Respuesta Correcta: Desde el 1 de enero de 2024, cotizando obligatoriamente a jubilación, invalidez e incapacidad temporal por accidente o enfermedad común.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+
+Pregunta: ¿Quién paga la cotización del becario según sea remunerado o no?
+Respuesta Correcta: En prácticas remuneradas paga la empresa; en prácticas no remuneradas paga el centro educativo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+
+Pregunta: ¿El tiempo de prácticas del becario cuenta como antigüedad si es contratado después?
+Respuesta Correcta: No, el tiempo de prácticas no cuenta como antigüedad ni exime de superar un periodo de prueba.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Formativo (Becarios)
+Pregunta: ¿Cuál es la diferencia principal entre el becario y el trabajador con contrato formativo?
+Respuesta Correcta: El becario es estudiante sin condición de trabajador, mientras que los contratos formativos laborales otorgan la condición de trabajador a la persona.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+
+Pregunta: ¿Cómo se divide la jornada en el contrato de formación en alternancia?
+Respuesta Correcta: Primer año: máximo 65% trabajo efectivo y mínimo 35% formación. Segundo año: máximo 85% trabajo efectivo y mínimo 15% formación.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+
+Pregunta: ¿Cuál es la retribución mínima en el contrato de formación en alternancia?
+Respuesta Correcta: No inferior al 70% el primer año ni al 75% el segundo de lo fijado en convenio, y nunca inferior al SMI en proporción a la jornada.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+
+Pregunta: ¿A qué se cotiza en el contrato de formación en alternancia?
+Respuesta Correcta: Se cotiza a todos los conceptos, incluido el desempleo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+
+Pregunta: ¿Cuál es el tiempo máximo de contratación por la misma titulación en el contrato para práctica profesional?
+Respuesta Correcta: Un año en la misma empresa o en otra. Si obtiene título superior (ej: máster), puede volver a acogerse a esta modalidad.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+
+Pregunta: ¿Qué exclusión por experiencia existe en el contrato para práctica profesional?
+Respuesta Correcta: No puede celebrarse con quien ya haya obtenido experiencia profesional o realizado actividad formativa en la misma empresa por más de 3 meses (no se computan prácticas curriculares).
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Contratos Formativos (segunda parte)
+Pregunta: ¿Qué normas regulan el trabajo a distancia?
+Respuesta Correcta: El artículo 13 del Estatuto de los Trabajadores y la Ley 10/2021, de 9 de julio, de trabajo a distancia.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+
+Pregunta: ¿Cuál es la diferencia entre trabajo a distancia y teletrabajo?
+Respuesta Correcta: El trabajo a distancia es la modalidad general desde lugar elegido por el trabajador. El teletrabajo es una forma de trabajo a distancia realizada mediante medios informáticos y telemáticos.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+
+Pregunta: ¿Qué porcentaje mínimo de jornada debe prestarse a distancia para aplicar la Ley 10/2021?
+Respuesta Correcta: Mínimo del 30% de la jornada (o porcentaje equivalente) debe prestarse a distancia con carácter regular.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+
+Pregunta: ¿Es obligatorio el teletrabajo si lo propone el empresario?
+Respuesta Correcta: No, el teletrabajo es voluntario tanto para el trabajador como para el empresario. El trabajador puede rechazarlo sin que sea causa de despido ni modificación sustancial.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+
+Pregunta: ¿Qué derecho de reversibilidad tiene el trabajador a distancia?
+Respuesta Correcta: Puede ejercer la reversibilidad y volver a prestar los servicios de forma presencial.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+
+Pregunta: ¿Qué límite existe para el trabajo a distancia en contratos formativos?
+Respuesta Correcta: Como mínimo un 50% de la prestación de servicio debe ser presencial cuando se celebra con menores o en contratos de prácticas y formación.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Trabajo a Distancia
+Pregunta: ¿Qué es el contrato indefinido?
+Respuesta Correcta: Es el que se acuerda sin establecer un límite de tiempo en la prestación de servicios, perdurando hasta que una de las partes lo extinga.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+
+Pregunta: ¿En qué modalidades de jornada puede celebrarse el contrato indefinido?
+Respuesta Correcta: Jornada completa, jornada parcial y fijo discontinuo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+
+Pregunta: ¿Qué ocurre si un contrato indefinido a tiempo parcial se celebra verbalmente?
+Respuesta Correcta: Se presumirá que el contrato está celebrado a jornada completa, ya que el art. 8.2 ET exige forma escrita obligatoria para contratos a tiempo parcial o fijo discontinuo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+
+Pregunta: ¿Qué son las horas complementarias pactadas en un contrato a tiempo parcial?
+Respuesta Correcta: Son horas adicionales que el empresario puede exigir si se han pactado expresamente por escrito, con un mínimo de 20 horas semanales y límite del 30% (ampliable al 60% por convenio).
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+
+Pregunta: ¿Cuál es el preaviso para conocer las horas complementarias pactadas?
+Respuesta Correcta: El trabajador debe conocer el día y hora con un preaviso de 3 días, salvo que el convenio establezca un plazo inferior.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+
+Pregunta: ¿Cómo puede renunciar el trabajador a las horas complementarias pactadas?
+Respuesta Correcta: Dando un preaviso de 15 días, una vez cumplido el año del pacto, por responsabilidades familiares, necesidades formativas o incompatibilidad horaria con otro contrato.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido
+Pregunta: ¿Qué es el contrato fijo-discontinuo?
+Respuesta Correcta: Es un contrato indefinido con trabajo intermitente dentro del volumen habitual de la empresa, donde el trabajador es fijo en plantilla pero no trabaja todo el año.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+
+Pregunta: ¿Cuáles son los dos requisitos esenciales del contrato fijo-discontinuo?
+Respuesta Correcta: Que la contratación no se repita en fechas ciertas y que el trabajo sea dentro del volumen habitual de la empresa.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+
+Pregunta: ¿Qué diferencia hay entre fijo-discontinuo y contrato indefinido a tiempo parcial?
+Respuesta Correcta: Si la contratación se repite en fecha cierta (ej: siempre del 1 de noviembre al 2 de febrero), es indefinido a tiempo parcial, no fijo-discontinuo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+
+Pregunta: ¿Cómo se computa la antigüedad en el contrato fijo-discontinuo?
+Respuesta Correcta: Se cuenta todo el tiempo de duración de la relación laboral, incluidos los periodos de inactividad.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+
+Pregunta: ¿Qué ocurre si el empresario no realiza el llamamiento al trabajador fijo-discontinuo?
+Respuesta Correcta: Se entiende que el trabajador está despedido, pudiendo reclamar por despido improcedente en un plazo de 20 días hábiles.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+
+Pregunta: ¿Cómo se calcula la indemnización por despido en el contrato fijo-discontinuo?
+Respuesta Correcta: Solo se tiene en cuenta el tiempo de prestación efectiva de servicios, sin incluir los periodos de inactividad.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo
+Pregunta: ¿Cuáles son las dos modalidades de contrato temporal por circunstancias de la producción?
+Respuesta Correcta: Incremento ocasional imprevisible (desajuste temporal) e incremento ocasional previsible (duración reducida).
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+
+Pregunta: ¿Qué incluye y excluye el contrato por incremento ocasional imprevisible?
+Respuesta Correcta: Incluye las oscilaciones derivadas de las vacaciones anuales. Excluye las variaciones estacionales o de temporada.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+
+Pregunta: ¿Cómo se cuentan los 90 días del contrato por incremento previsible?
+Respuesta Correcta: Se cuentan por año natural y son independientes del número de trabajadores contratados. El límite se consume por la empresa, no por trabajador.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+
+Pregunta: ¿Qué obligación informativa tiene el empresario respecto a los contratos temporales?
+Respuesta Correcta: Debe informar a la representación legal de los trabajadores de la previsión anual del uso de estos contratos y de las vacantes para puestos permanentes.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+
+Pregunta: ¿Cuándo un puesto cubierto por distintas personas genera conversión a indefinido?
+Respuesta Correcta: Si un puesto ha sido cubierto durante más de 18 meses en un periodo de 24 meses por distintas personas, la última persona que lo ocupe adquiere la condición de fija.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+
+Pregunta: ¿Qué contratos no se tienen en cuenta para el cómputo de conversión a indefinido?
+Respuesta Correcta: Los contratos anteriores al 30 de marzo de 2022, conforme al régimen transitorio de la reforma laboral.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales
+Pregunta: ¿Cuáles son las tres causas del contrato temporal por sustitución?
+Respuesta Correcta: Sustitución de trabajador con reserva de puesto, completar la jornada reducida de otro trabajador, y cubrir un puesto durante un proceso de selección.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+
+Pregunta: ¿Cuánto tiempo puede coincidir el sustituto con el trabajador sustituido?
+Respuesta Correcta: Máximo 15 días antes de que el trabajador sustituido se ausente, para garantizar el adecuado traspaso de tareas.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+
+Pregunta: ¿Cuál es la duración máxima del contrato de sustitución para proceso de selección?
+Respuesta Correcta: No puede durar más de tres meses, y no puede volverse a fijar un contrato con el mismo objeto una vez superada esta duración.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+
+Pregunta: ¿Cuáles son los límites legales máximos del periodo de prueba?
+Respuesta Correcta: Técnicos titulados: máximo 6 meses. Resto de trabajadores: máximo 2 meses. En empresas de menos de 25 trabajadores: máximo 3 meses para no técnicos.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+
+Pregunta: ¿Cómo se calculan las vacaciones en un contrato de sustitución?
+Respuesta Correcta: El trabajador tiene derecho a la parte proporcional de los 30 días naturales de vacaciones correspondiente al tiempo que ha estado prestando servicios.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+
+Pregunta: ¿En qué casos puede celebrarse el contrato de sustitución a jornada parcial?
+Respuesta Correcta: Para completar la jornada reducida del trabajador sustituido o cuando el puesto original ya era a tiempo parcial.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Temporales por Sustitución
+Pregunta: ¿Cuáles son las dos modalidades de contratos formativos tras la reforma laboral?
+Respuesta Correcta: Contrato de formación en alternancia y contrato formativo para la obtención de la práctica profesional.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+
+Pregunta: ¿Cuál es la edad máxima y la duración del contrato de formación en alternancia?
+Respuesta Correcta: Hasta 30 años de edad, con duración mínima de 3 meses y máxima de 2 años.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+
+Pregunta: ¿Cuál es el límite de tiempo de trabajo efectivo en el contrato de formación en alternancia?
+Respuesta Correcta: Primer año: máximo 65% de la jornada. Segundo año: máximo 85% de la jornada.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+
+Pregunta: ¿Qué está prohibido en el contrato de formación en alternancia?
+Respuesta Correcta: Realizar horas extraordinarias, trabajo a turnos, trabajos nocturnos y establecer periodo de prueba.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+
+Pregunta: ¿En qué plazo debe celebrarse el contrato para obtención de práctica profesional?
+Respuesta Correcta: Dentro de los 3 años siguientes a la terminación de los estudios (5 años si el trabajador tiene discapacidad).
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+
+Pregunta: ¿Qué consecuencia tiene el incumplimiento de las obligaciones formativas por la empresa?
+Respuesta Correcta: Los contratos en fraude de ley o con incumplimiento de obligaciones formativas se entienden como contratos indefinidos de carácter ordinario.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Formativos
+Pregunta: ¿Cuál es la modalidad ordinaria del contrato de trabajo?
+Respuesta Correcta: Todo contrato de trabajo es indefinido y a jornada completa, salvo que en él mismo se establezca lo contrario.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+
+Pregunta: ¿Qué requisitos necesitan los mayores de 16 y menores de 18 años para firmar un contrato?
+Respuesta Correcta: Autorización expresa de los padres o de quien los tenga a su cargo. Tienen prohibido el trabajo nocturno, horas extraordinarias y máximo 8 horas de trabajo efectivo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+
+Pregunta: ¿Cuándo es nulo el periodo de prueba?
+Respuesta Correcta: Cuando el trabajador ya ha desempeñado las mismas funciones con anterioridad en la empresa.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+
+Pregunta: ¿Qué es el pacto de dedicación exclusiva?
+Respuesta Correcta: Es un pacto que prohíbe el pluriempleo al trabajador, debe ir acompañado de compensación económica expresa. El incumplimiento conlleva sanción disciplinaria y resarcir daños.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+
+Pregunta: ¿Cuál es la duración máxima del pacto de no competencia postcontractual?
+Respuesta Correcta: Dos años para técnicos titulados y seis meses para los demás trabajadores. Requiere compensación económica adecuada e interés industrial o comercial de la empresa.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+
+Pregunta: ¿Qué es el pacto de permanencia en la empresa?
+Respuesta Correcta: Es un pacto que obliga al trabajador a permanecer máximo 2 años cuando ha recibido especialización profesional con cargo al empresario. El abandono da derecho a indemnización por daños.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: Los Contratos Laborales (Concepto)
+Pregunta: ¿Qué se presume si un contrato de trabajo no está por escrito?
+Respuesta Correcta: Se presume iuris tantum que es un contrato indefinido y a jornada completa, salvo que se demuestre lo contrario.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+
+Pregunta: ¿Qué contratos indefinidos requieren obligatoriamente forma escrita?
+Respuesta Correcta: Los del programa de fomento de empleo, los de tiempo parcial, los fijos discontinuos y los de trabajo a distancia.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+
+Pregunta: ¿Cuál es la indemnización por despido objetivo en contrato indefinido?
+Respuesta Correcta: 20 días por año trabajado.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+
+Pregunta: ¿Cuál es la indemnización por despido improcedente en contrato indefinido?
+Respuesta Correcta: 45 días por año hasta el 12 de febrero de 2012 y 33 días por año desde esa fecha.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+
+Pregunta: ¿Qué ocurre con la antigüedad si un trabajador es contratado tras un contrato formativo?
+Respuesta Correcta: No se puede fijar periodo de prueba y se le computa la antigüedad desde el inicio del contrato formativo.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+
+Pregunta: ¿Cómo debe formalizarse la conversión de contrato temporal a indefinido?
+Respuesta Correcta: Debe hacerse por escrito y en modelo oficial para poder acceder a las bonificaciones existentes.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Indefinido (ampliación)
+Pregunta: ¿Qué debe contener el contrato fijo-discontinuo por escrito?
+Respuesta Correcta: La duración estimada de la actividad, la forma y orden de llamamiento del convenio colectivo, y la jornada laboral estimada con su distribución horaria.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+
+Pregunta: ¿Qué puede hacer el trabajador fijo-discontinuo durante el periodo de inactividad?
+Respuesta Correcta: Acceder a prestación por desempleo si cumple requisitos, buscar otro trabajo (sin competencia desleal ni pacto de exclusividad), pero no cotiza a la Seguridad Social.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+
+Pregunta: ¿Cómo debe realizarse el llamamiento en el contrato fijo-discontinuo?
+Respuesta Correcta: Por escrito o debidamente notificado, con indicaciones precisas de la incorporación y antelación adecuada.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+
+Pregunta: ¿Qué ocurre si el trabajador fijo-discontinuo no responde al llamamiento sin causa justificada?
+Respuesta Correcta: Se entiende que existe voluntad de dar por finalizada la relación laboral (dimisión).
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+
+Pregunta: ¿Qué ocurre si el trabajador no responde al llamamiento por causa de fuerza mayor?
+Respuesta Correcta: Si acredita la causa de fuerza mayor que le impide acudir, no existiría dimisión.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+
+Pregunta: ¿Desde cuándo se cuenta el plazo de 20 días para reclamar por falta de llamamiento?
+Respuesta Correcta: Desde el día siguiente a aquel en que el trabajador tenga conocimiento de la falta de llamamiento.
+Manual: Derecho Laboral
+Bloque: 4
+Tema: El Contrato Fijo-Discontinuo (ampliación)
+Pregunta: ¿Qué artículo del ET regula el salario?
+Respuesta Correcta: El artículo 26 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+
+Pregunta: ¿Cuáles son las dos partes principales de la estructura salarial?
+Respuesta Correcta: Salario base (cantidad fija mensual) y complementos salariales (cantidad que se agrega al salario base).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+
+Pregunta: ¿Cuáles son los tres tipos de complementos salariales?
+Respuesta Correcta: Condiciones personales (ej: antigüedad), trabajo realizado (ej: peligrosidad, nocturnidad) y situación/resultados de la empresa (ej: comisiones).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+
+Pregunta: ¿Qué diferencia hay entre complementos consolidables y no consolidables?
+Respuesta Correcta: Los consolidables se siguen percibiendo aunque cambie la relación laboral. Los no consolidables están vinculados al puesto y se pierden si este se modifica.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+
+Pregunta: ¿Qué son los complementos extrasalariales?
+Respuesta Correcta: Son los que compensan gastos ocasionados por el trabajo (ej: dietas, indemnizaciones), no ligados a la prestación de servicios. No computan para SS ni indemnizaciones.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+
+Pregunta: ¿Quién fija el Salario Mínimo Interprofesional (SMI)?
+Respuesta Correcta: El Gobierno, tras reunirse con las organizaciones sindicales y asociaciones empresariales más representativas, teniendo en cuenta índices de precios, productividad y coyuntura económica.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario
+Pregunta: ¿Cuál es el límite máximo del salario en especie?
+Respuesta Correcta: No puede ser superior al 30% del total del salario, y el salario en dinero no puede ser nunca inferior al SMI.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+
+Pregunta: ¿El ticket restaurante es salario en especie o extrasalarial?
+Respuesta Correcta: Es salario en especie, porque no compensa un gasto obligatorio, sino que el trabajador puede optar por usarlo o no (es un bien disponible).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+
+Pregunta: ¿En qué consiste el principio de absorción y compensación salarial?
+Respuesta Correcta: Los incrementos salariales posteriores del convenio quedan absorbidos automáticamente por el salario mayor que ya percibía el trabajador, siempre que los conceptos sean homogéneos.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+
+Pregunta: ¿Qué interés por mora genera el impago puntual del salario?
+Respuesta Correcta: Un 10% de interés por mora del salario adeudado, computable anualmente.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+
+Pregunta: ¿Qué es el FOGASA y cuál es su función?
+Respuesta Correcta: Es el Fondo de Garantía Salarial, organismo autónomo que abona a los trabajadores los salarios pendientes de pago por insolvencia o concurso de acreedores del empresario.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+
+Pregunta: ¿Cuál es el límite de responsabilidad del FOGASA?
+Respuesta Correcta: El doble del SMI diario por el número de días de salario pendiente, con un máximo de 120 días.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Salario (Segunda Parte)
+Pregunta: ¿Cuáles son los cuatro tipos de horario de trabajo?
+Respuesta Correcta: Horario fijo (entrada/salida siempre igual), horario flexible (con flexibilidad de entrada/salida), horario a turno (que rota mañana/tarde/noche) y horario libre (sin hora fija).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+
+Pregunta: ¿Cómo puede el empresario modificar el horario de trabajo?
+Respuesta Correcta: Solo mediante un proceso de modificación sustancial de condiciones de trabajo, no puede hacerlo unilateralmente.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+
+Pregunta: ¿Qué se considera trabajo nocturno?
+Respuesta Correcta: El realizado entre las 10 de la noche y las 6 de la mañana.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+
+Pregunta: ¿Qué se considera trabajador nocturno?
+Respuesta Correcta: Aquel que realiza normalmente en periodo de noche una parte no inferior a 3 horas de su jornada diaria, o un tercio de su jornada de trabajo anual.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+
+Pregunta: ¿Cuánto tiempo puede estar un trabajador en turno de noche consecutivamente?
+Respuesta Correcta: Máximo dos semanas consecutivas, salvo que el trabajador lo quiera voluntariamente.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+
+Pregunta: ¿Qué es el calendario laboral y qué requisitos tiene?
+Respuesta Correcta: Es el documento con los días de trabajo, descanso, festivos y vacaciones. Debe exponerse a la vista de los trabajadores anualmente, con informe previo (no vinculante) de los representantes.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: El Horario de Trabajo
+Pregunta: ¿Cuál es el límite anual de horas extraordinarias según el art. 35 ET?
+Respuesta Correcta: 80 horas extraordinarias anuales. Las compensadas con descanso en los 4 meses siguientes no computan en este límite.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+
+Pregunta: ¿Cuál es la diferencia entre horas extraordinarias estructurales y por fuerza mayor?
+Respuesta Correcta: Las estructurales son por imprevistos o picos de producción (no obligatorias, salvo convenio) y computan en el límite. Las de fuerza mayor son obligatorias y no computan.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+
+Pregunta: ¿Quiénes tienen prohibido realizar horas extraordinarias?
+Respuesta Correcta: Menores de 18 años, trabajadores nocturnos (salvo excepciones), trabajadores con discapacidad en centros especiales (salvo fuerza mayor), y durante permiso de maternidad a tiempo parcial.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+
+Pregunta: ¿Cuál es el límite máximo de horas complementarias pactadas?
+Respuesta Correcta: 30% de las horas ordinarias, ampliable al 60% por convenio. El contrato debe ser de al menos 10 horas semanales.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+
+Pregunta: ¿Cómo se retribuyen las horas complementarias?
+Respuesta Correcta: Exactamente igual que la hora ordinaria, sin cantidad añadida (a diferencia de las horas extraordinarias que pueden ser superiores).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+
+Pregunta: ¿Puede ser sancionado el trabajador por negarse a realizar horas complementarias?
+Respuesta Correcta: No, el trabajador no puede ser sancionado por negarse a realizar horas complementarias.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: La Jornada Laboral
+Pregunta: ¿Qué norma estableció la obligación del registro diario de jornada?
+Respuesta Correcta: El Real Decreto Ley 8/2019, que modificó el artículo 34 del ET añadiendo el nuevo artículo 34.9.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+
+Pregunta: ¿Qué debe incluir el registro diario de jornada?
+Respuesta Correcta: El horario concreto de inicio y finalización de la jornada de trabajo de cada persona, cada día.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+
+Pregunta: ¿Durante cuánto tiempo debe conservarse el registro de jornada?
+Respuesta Correcta: Durante un plazo de cuatro años.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+
+Pregunta: ¿Para quién debe estar disponible el registro de jornada?
+Respuesta Correcta: Para el trabajador (acceso a sus registros), los representantes legales y la Inspección de Trabajo y Seguridad Social.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+
+Pregunta: ¿Cómo puede organizarse el sistema de registro de jornada?
+Respuesta Correcta: Por negociación colectiva, acuerdo de empresa o decisión unilateral del empresario (previa consulta con representantes legales).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+
+Pregunta: ¿Cuándo entró en vigor la obligación de registro de jornada?
+Respuesta Correcta: Dos meses después de la publicación del RDL 8/2019 (publicado el 12 de marzo de 2019).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Registro Horario
+Pregunta: ¿Cuál es la duración mínima de las vacaciones anuales retribuidas?
+Respuesta Correcta: 30 días naturales al año. Es un derecho irrenunciable que no puede compensarse económicamente ni restarse como sanción.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+
+Pregunta: ¿Con cuánta antelación debe conocer el trabajador la fecha de sus vacaciones?
+Respuesta Correcta: Con dos meses de antelación.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+
+Pregunta: ¿Qué ocurre si las vacaciones coinciden con incapacidad temporal?
+Respuesta Correcta: El trabajador puede disfrutarlas una vez recibida el alta, siempre que no hayan transcurrido más de 18 meses desde el final del año en que se originaron.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+
+Pregunta: ¿Cuál es el descanso mínimo semanal?
+Respuesta Correcta: Un día y medio ininterrumpido (normalmente tarde del sábado o mañana del lunes y domingo). Para menores de 18 años, mínimo dos días ininterrumpidos.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+
+Pregunta: ¿Cuántos días de fiestas laborales hay al año?
+Respuesta Correcta: Máximo 14 días al año, siendo dos de ellas locales. Son retribuidos y no recuperables.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+
+Pregunta: ¿Cómo debe retribuirse el trabajo en día festivo?
+Respuesta Correcta: Las horas trabajadas en festivo o descanso semanal deben incrementarse en un 75% como mínimo, salvo que se pacte descanso equivalente.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso
+Pregunta: ¿Qué norma introdujo las modificaciones en permisos y descansos de 2023?
+Respuesta Correcta: El Real Decreto Ley 5/2023, de 28 de junio, que adaptó la legislación a directivas europeas.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+
+Pregunta: ¿Qué derechos se han equiparado entre parejas de hecho y matrimonio?
+Respuesta Correcta: Permisos por hospitalización y fallecimiento, 15 días por registro de pareja de hecho, y reducción de jornada por motivos familiares.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+
+Pregunta: ¿Cuánto dura ahora el permiso por enfermedad grave u hospitalización de familiares?
+Respuesta Correcta: Se amplió de 2 a 5 días retribuidos.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+
+Pregunta: ¿Qué es el nuevo permiso por causa de fuerza mayor?
+Respuesta Correcta: Permite ausentarse del trabajo por motivos familiares urgentes e imprevisibles cuando sea indispensable la presencia inmediata por enfermedad o accidente.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+
+Pregunta: ¿Qué es el nuevo permiso parental del art. 48 bis ET?
+Respuesta Correcta: Un permiso no retribuido de 8 semanas (continuas o discontinuas) para cuidar a un hijo menor o acogido hasta que cumpla 9 años.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+
+Pregunta: ¿Hasta qué edad se amplía la reducción de jornada para cuidado de hijos con cáncer?
+Respuesta Correcta: Se amplía para cuidar a hijos o personas a cargo con discapacidad menores de 26 años con cáncer u otra enfermedad grave.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Periodos de Descanso en el 2024
+Pregunta: ¿En qué artículo del ET se regulan los permisos retribuidos?
+Respuesta Correcta: En el artículo 37.3 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+
+Pregunta: ¿Cuántos días de permiso corresponden por matrimonio?
+Respuesta Correcta: 15 días naturales.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+
+Pregunta: ¿Cuántos días corresponden por fallecimiento o enfermedad grave de familiar?
+Respuesta Correcta: 2 días (ampliables a 4 si necesita desplazamiento), para parientes de hasta segundo grado de consanguinidad o afinidad.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+
+Pregunta: ¿Cómo se computan los días de permiso según el Tribunal Supremo?
+Respuesta Correcta: En casos de matrimonio, nacimiento y fallecimiento, el cómputo empieza desde el primer día laborable (ej: si es domingo, cuenta desde el lunes).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+
+Pregunta: ¿Es retribuido el permiso para ir al médico el propio trabajador?
+Respuesta Correcta: No, salvo que lo contemple el convenio. Debe recuperar las horas o se le descuentan. Sí es retribuido llevar a los hijos (deber inexcusable).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+
+Pregunta: ¿Qué ocurre si el cumplimiento de un deber supone más del 20% de horas en 3 meses?
+Respuesta Correcta: La empresa podrá pasar al trabajador afectado a la situación de excedencia forzosa.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Los Permisos Laborales Retribuidos
+Pregunta: ¿Qué norma regula la ampliación del permiso por nacimiento y cuidado?
+Respuesta Correcta: El Real Decreto Ley 9/2025, de 29 de julio, que transpone la Directiva UE-2019/1158.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+
+Pregunta: ¿Cuántas semanas dura el permiso por nacimiento para familias biparentales?
+Respuesta Correcta: 19 semanas totales: 6 semanas obligatorias (inmediatamente después del parto) y 13 semanas flexibles (hasta los 12 meses del menor).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+
+Pregunta: ¿Qué es el permiso de cuidado parental intransferible?
+Respuesta Correcta: 2 semanas extra por progenitor, que pueden disfrutarse de forma semanal hasta que el menor cumpla 8 años. Es individual e intransferible (si no se usa, se pierde).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+
+Pregunta: ¿Cuántas semanas de permiso tienen las familias monoparentales?
+Respuesta Correcta: 32 semanas totales: 6 obligatorias, 22 flexibles (hasta 12 meses) y 4 de cuidado parental (hasta 8 años).
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+
+Pregunta: ¿Cuántas semanas adicionales se conceden por hospitalización del bebé?
+Respuesta Correcta: Hasta 13 semanas adicionales en caso de parto prematuro o necesidad de hospitalización del bebé.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+
+Pregunta: ¿Quién asume el coste del permiso por nacimiento y cuidado?
+Respuesta Correcta: La Seguridad Social a través de la prestación por nacimiento y cuidado de menor, no la empresa.
+Manual: Derecho Laboral
+Bloque: 5
+Tema: Permisos de paternidad y maternidad
+Pregunta: ¿En qué artículo del ET se regula la modificación sustancial de condiciones de trabajo?
+Respuesta Correcta: En el artículo 41 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+
+Pregunta: ¿Cuándo se considera colectiva una modificación sustancial de condiciones de trabajo?
+Respuesta Correcta: Cuando en 90 días afecta a: 10 trabajadores en empresas de menos de 100; 10% de plantilla en empresas de 100-300; 30 trabajadores en empresas de más de 300.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+
+Pregunta: ¿Cuál es el plazo de preaviso para la MSCT individual?
+Respuesta Correcta: 15 días de antelación mediante notificación escrita al trabajador, indicando la condición modificada, origen, alcance, fecha de efectividad y causas.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+
+Pregunta: ¿Cuál es la duración máxima del periodo de consultas en la MSCT colectiva?
+Respuesta Correcta: No superior a 15 días con los representantes de los trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+
+Pregunta: ¿En qué plazo puede el trabajador impugnar judicialmente la MSCT?
+Respuesta Correcta: 20 días de caducidad desde el día siguiente a la notificación.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+
+Pregunta: ¿Qué indemnización corresponde si el trabajador opta por resolver el contrato por MSCT perjudicial?
+Respuesta Correcta: 20 días de salario por año trabajado con un máximo de 9 meses, más acceso a prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Modificaciones Sustanciales de las Condiciones de Trabajo
+Pregunta: ¿Qué ocurre con el contrato cuando el trabajador está privado de libertad sin sentencia firme?
+Respuesta Correcta: El contrato se suspende (no se extingue) mientras no exista sentencia condenatoria firme. Cesan las obligaciones de prestar y remunerar trabajo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+
+Pregunta: ¿Qué ocurre si hay sentencia condenatoria y el trabajador no puede reincorporarse?
+Respuesta Correcta: La relación laboral se puede extinguir por despido disciplinario o considerarse dimisión por faltar al trabajo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+
+Pregunta: ¿Qué formas de sanción prohíbe el ET?
+Respuesta Correcta: Prohíbe sancionar reduciendo jornada, reduciendo vacaciones o quitando descansos. La sanción debe ser suspensión de empleo y sueldo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+
+Pregunta: ¿Qué efectos tiene la huelga legal sobre el contrato de trabajo?
+Respuesta Correcta: El contrato se suspende solo para quien participa en la huelga. El trabajador no cobra el salario proporcional al tiempo de huelga.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+
+Pregunta: ¿Cuándo está permitido el cierre patronal?
+Respuesta Correcta: Solo el cierre patronal defensivo: por notorio peligro de violencia, ocupación ilegal del centro de trabajo, o irregularidades que impidan el proceso de producción.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+
+Pregunta: ¿En qué plazo debe comunicar el empresario el cierre patronal?
+Respuesta Correcta: En un plazo de 12 horas a la autoridad laboral.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Suspensión por privación de libertad, sanción y huelga
+Pregunta: ¿Qué artículo del ET regula la sucesión empresarial?
+Respuesta Correcta: El artículo 44 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+
+Pregunta: ¿Qué es la sucesión empresarial?
+Respuesta Correcta: El cambio de titularidad de la empresa por compra, absorción, fusión u otra causa, siempre que se continúe con la actividad económica.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+
+Pregunta: ¿Cuáles son los dos requisitos esenciales de la sucesión empresarial?
+Respuesta Correcta: Continuidad de la actividad económica y transmisión de una unidad productiva autónoma.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+
+Pregunta: ¿Qué efecto tiene la sucesión empresarial sobre los contratos de trabajo?
+Respuesta Correcta: El nuevo titular se subroga en los derechos y obligaciones laborales del anterior, manteniéndose los contratos de trabajo vigentes.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+
+Pregunta: ¿Qué responsabilidad tienen el cedente y cesionario en la sucesión empresarial?
+Respuesta Correcta: Responsabilidad solidaria durante 3 años por las obligaciones laborales nacidas antes de la transmisión que no hubieran sido satisfechas.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+
+Pregunta: ¿Qué obligación de información existe en la sucesión empresarial?
+Respuesta Correcta: Cedente y cesionario deben informar a los representantes de los trabajadores afectados por la transmisión sobre fecha, motivos, consecuencias y medidas previstas.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Sucesión Empresarial
+Pregunta: ¿Qué artículo del ET regula la movilidad geográfica?
+Respuesta Correcta: El artículo 40 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+
+Pregunta: ¿Cuál es el requisito esencial para que exista movilidad geográfica?
+Respuesta Correcta: El cambio obligatorio de la residencia habitual del trabajador. Sin este requisito, es una modificación accidental.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+
+Pregunta: ¿Qué distancia orientativa ha fijado el TS para considerar movilidad geográfica?
+Respuesta Correcta: 30 kilómetros, aunque aplica criterio flexible valorando infraestructura de transporte, tiempo de desplazamiento (>25% jornada), costes (>20% salario) y tipo de jornada.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+
+Pregunta: ¿Cuál es la diferencia entre traslado y desplazamiento?
+Respuesta Correcta: Desplazamiento: cambio que no supera 12 meses en 3 años (temporal). Traslado: cambio definitivo o que supera 12 meses en 3 años.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+
+Pregunta: ¿Con cuánta antelación debe notificarse el traslado?
+Respuesta Correcta: Mínimo 30 días de antelación a los representantes y trabajadores, por escrito, indicando destino, fecha y causas.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+
+Pregunta: ¿Qué permiso tiene el trabajador desplazado más de 3 meses?
+Respuesta Correcta: 4 días laborables en su domicilio de origen por cada 3 meses de desplazamiento, sin contar días de viaje, con coste a cargo del empresario.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Movilidad Geográfica
+Pregunta: ¿Qué artículos del ET regulan la suspensión del contrato de trabajo?
+Respuesta Correcta: Los artículos 45 a 48 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+
+Pregunta: ¿Cuáles son los requisitos definitorios de la suspensión del contrato?
+Respuesta Correcta: Carácter temporal, no prestación de trabajo, no remuneración del salario, y continuidad del vínculo jurídico (el contrato no se extingue).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+
+Pregunta: ¿Qué periodo de cotización se exige para la IT por enfermedad común?
+Respuesta Correcta: 180 días cotizados dentro de los 5 años anteriores a la fecha de la baja. Para accidente laboral, no laboral o enfermedad profesional no se exige periodo previo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+
+Pregunta: ¿Cuál es la duración máxima de la IT y su prórroga?
+Respuesta Correcta: Máximo 365 días, ampliable 180 días más si se presume que el trabajador puede ser dado de alta por curación.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+
+Pregunta: ¿Qué es la recaída en la IT?
+Respuesta Correcta: Si el trabajador recae dentro de los 180 días naturales siguientes al alta médica, los periodos se computan en el mismo proceso (continuación de la IT original).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+
+Pregunta: ¿Quién abona el subsidio por enfermedad común o accidente no laboral del día 4 al 15?
+Respuesta Correcta: El empresario. El subsidio comienza a partir del día 4 de la baja.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 1)
+Pregunta: ¿Cuál es la duración total del permiso por nacimiento y cuidado del menor?
+Respuesta Correcta: 16 semanas totales. Las primeras 6 semanas son obligatoriamente ininterrumpidas y a jornada completa tras el parto/adopción/acogimiento.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Cuántas semanas adicionales se conceden por parto múltiple?
+Respuesta Correcta: 2 semanas más por cada hijo a partir del segundo (ej: trillizos = 4 semanas adicionales).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Cuántas semanas antes del parto puede anticipar la trabajadora el descanso?
+Respuesta Correcta: Hasta 4 semanas antes de la fecha prevista para el parto.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué periodo de cotización se exige para mayores de 26 años para la prestación por nacimiento?
+Respuesta Correcta: 180 días en los 7 años anteriores o 360 días a lo largo de toda su vida laboral. Menores de 21 años no requieren periodo previo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué ocurre si las vacaciones coinciden con la baja por nacimiento y cuidado?
+Respuesta Correcta: El trabajador tiene derecho a disfrutarlas en fecha distinta, incluso si ha finalizado el año natural al que correspondieran.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué subsidio existe si no se tiene cotizado el tiempo mínimo?
+Respuesta Correcta: Un subsidio no contributivo de 42 días naturales por el 100% del IPREM, ampliable en 14 días más por familia numerosa/monoparental, parto múltiple o discapacidad ≥65%.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 2)
+Pregunta: ¿En qué artículo se regula la prestación por riesgo durante el embarazo?
+Respuesta Correcta: En el artículo 26 de la Ley de Prevención de Riesgos Laborales. Aplica cuando la actividad laboral influye negativamente en la salud de la embarazada o del bebé.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Cuánto dura el permiso de lactancia y hasta qué edad del hijo?
+Respuesta Correcta: 1 hora al día (divisible en 2 fracciones) o reducción de media hora, hasta que el hijo cumpla 9 meses. El coste es de la empresa.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Cuáles son las tres modalidades de disfrute del permiso de lactancia?
+Respuesta Correcta: Ausentarse 1 hora al día, reducción de media hora la jornada (al principio o final), o acumulación de horas para conseguir jornadas completas.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Puede prolongarse el permiso de lactancia más allá de los 9 meses?
+Respuesta Correcta: Sí, hasta los 12 meses si ambos progenitores lo ejercen, pero con reducción proporcional del salario de los 9 a los 12 meses.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Cuándo finaliza la prestación por riesgo durante la lactancia?
+Respuesta Correcta: Cuando el hijo cumpla 9 meses, la mujer se reincorpore, se extinga el contrato, se interrumpa la lactancia natural, o fallezca la beneficiaria o el hijo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Se exige periodo de cotización para la prestación por riesgo durante la lactancia?
+Respuesta Correcta: No se exige periodo de cotización previo para poder disfrutarlo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 3)
+Pregunta: ¿Cuál es la duración de la suspensión por violencia de género?
+Respuesta Correcta: Duración inicial no superior a 6 meses, prorrogable por el juez en periodos de 3 meses hasta un máximo de 18 meses.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+
+Pregunta: ¿Qué requisitos debe cumplir la fuerza mayor para suspender el contrato?
+Respuesta Correcta: Evento ajeno a la empresa, extraordinario, independiente de la voluntad del empresario e imprevisible (ej: maremoto, pandemia).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+
+Pregunta: ¿Qué necesita el empresario para suspender contratos por fuerza mayor?
+Respuesta Correcta: Autorización de la autoridad laboral, tramitando expediente con medios de prueba, justificación de la causa y comunicación a los representantes legales.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+
+Pregunta: ¿Qué son las causas ETOP en un ERTE?
+Respuesta Correcta: Causas Económicas, Técnicas, Organizativas o de Producción que justifican la suspensión o reducción de jornada temporal.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+
+Pregunta: ¿Generan indemnización las suspensiones por fuerza mayor o causas ETOP?
+Respuesta Correcta: No generan derecho a indemnización, pero los trabajadores sí pueden solicitar prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+
+Pregunta: ¿Cuál es la duración máxima de la suspensión por ERTE?
+Respuesta Correcta: No se regula duración máxima; es indeterminada mientras persistan las causas que lo provocaron.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Suspensión del Contrato de Trabajo (Parte 4)
+Pregunta: ¿Qué artículo del ET regula la excedencia forzosa?
+Respuesta Correcta: El artículo 45.1.b del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+
+Pregunta: ¿Cuáles son los derechos del trabajador en excedencia forzosa?
+Respuesta Correcta: Reserva del puesto de trabajo y cómputo del periodo a efectos de antigüedad.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+
+Pregunta: ¿En qué plazo debe solicitar el reingreso el trabajador excedente forzoso?
+Respuesta Correcta: 30 días naturales siguientes al cese de su puesto (cargo público o función sindical). Si no lo hace, se entiende baja voluntaria.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+
+Pregunta: ¿Cuáles son las tres causales de excedencia forzosa?
+Respuesta Correcta: Ejercer cargo público que imposibilite asistencia al trabajo, funciones sindicales de ámbito provincial o superior, y cumplimiento de deber público.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+
+Pregunta: ¿Cuándo pasa un deber público de permiso retribuido a excedencia forzosa?
+Respuesta Correcta: Cuando suponga imposibilidad de prestación de trabajo en más del 20% de la jornada laboral en un periodo de 3 meses.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+
+Pregunta: ¿Qué ocurre si el empresario se niega a readmitir al trabajador excedente forzoso?
+Respuesta Correcta: Se considera despido, con derecho a indemnización para el trabajador.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: La Excedencia Forzosa
+Pregunta: ¿Qué requisitos se exigen para la excedencia voluntaria genérica?
+Respuesta Correcta: Antigüedad mínima de 1 año en la empresa y no haber solicitado otra excedencia voluntaria en los últimos 4 años.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+
+Pregunta: ¿Cuál es la duración de la excedencia voluntaria genérica?
+Respuesta Correcta: Mínimo 4 meses y máximo 5 años.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+
+Pregunta: ¿Tiene el trabajador en excedencia voluntaria derecho a reserva del puesto?
+Respuesta Correcta: No tiene reserva del puesto, solo derecho de reingreso preferente cuando existan vacantes en puesto igual o similar.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+
+Pregunta: ¿Qué ocurre si el trabajador no solicita readmisión al finalizar la excedencia voluntaria?
+Respuesta Correcta: Se considera baja voluntaria, perdiendo derechos de reingreso, posible indemnización y prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+
+Pregunta: ¿Qué ocurre si la empresa deniega injustamente la readmisión existiendo vacante?
+Respuesta Correcta: El trabajador puede demandar por despido. El juez puede declararlo improcedente (indemnización o readmisión) o nulo (readmisión obligatoria + salarios de tramitación).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+
+Pregunta: ¿Pierde el trabajador sus derechos si rechaza una vacante adecuada?
+Respuesta Correcta: Sí, pierde el derecho de reingreso preferente, la posible indemnización y la prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Las Excedencias Voluntarias
+Pregunta: ¿Cuál es la duración máxima de la excedencia por cuidado de hijos?
+Respuesta Correcta: Hasta 3 años desde el nacimiento/adopción/acogimiento. No es que dure 3 años, sino hasta que el menor cumpla 3 años.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+
+Pregunta: ¿Qué requisitos se exigen para la excedencia por cuidado de familiar?
+Respuesta Correcta: Familiar hasta 2º grado de consanguinidad/afinidad, por razones de edad/accidente/enfermedad/discapacidad, que no pueda valerse por sí mismo y no tenga actividad retribuida.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+
+Pregunta: ¿Cuál es la duración máxima de la excedencia por cuidado de familiar?
+Respuesta Correcta: 2 años, salvo que el convenio colectivo la amplíe.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+
+Pregunta: ¿Durante cuánto tiempo hay reserva del puesto de trabajo original en excedencia por cuidado familiar?
+Respuesta Correcta: Durante el primer año. Después, solo reserva de puesto en el mismo grupo profesional. Familia numerosa general: 15 meses; especial: 18 meses.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+
+Pregunta: ¿Computa la excedencia por cuidado de hijos a efectos de antigüedad?
+Respuesta Correcta: Sí, el tiempo de excedencia se tiene en cuenta para calcular la antigüedad y un posible despido.
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+
+Pregunta: ¿Es compatible trabajar durante la excedencia por cuidado de hijos?
+Respuesta Correcta: Sí, si hay compatibilidad entre el cuidado del hijo y las nuevas condiciones laborales (ej: trabajo de media jornada mientras el hijo está en guardería).
+Manual: Derecho Laboral
+Bloque: 6
+Tema: Excedencia Voluntaria por cuidado familiar
+Pregunta: ¿En qué artículo del ET se regulan las causas de extinción del contrato de trabajo?
+Respuesta Correcta: En el artículo 49 del Estatuto de los Trabajadores. Es una lista cerrada que no puede ser ampliada por convenio colectivo o voluntad de las partes.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+
+Pregunta: ¿Cuáles son las tres posibles calificaciones judiciales del despido?
+Respuesta Correcta: Procedente (despido justificado y válido), Improcedente (causas no ajustadas a ley o incumplimiento de formalidades) y Nulo (vulneración de derechos fundamentales).
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+
+Pregunta: ¿Qué efectos tiene la declaración de despido improcedente?
+Respuesta Correcta: La empresa debe elegir entre readmitir al trabajador con salarios de tramitación o extinguir la relación pagando indemnización. Si no elige, se entiende readmisión.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+
+Pregunta: ¿Qué efectos tiene la declaración de despido nulo?
+Respuesta Correcta: Readmisión inmediata obligatoria del trabajador más pago de salarios de tramitación. Si no es posible, indemnización como despido improcedente.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+
+Pregunta: ¿Cuáles son las principales causas de nulidad del despido?
+Respuesta Correcta: Despido discriminatorio o contrario a derechos fundamentales, despido tras permisos de nacimiento/adopción (dentro de 12 meses), y despido de trabajadora embarazada por esa causa.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+
+Pregunta: ¿Qué garantías tienen los representantes de los trabajadores frente al despido?
+Respuesta Correcta: Expediente contradictorio para faltas graves, prioridad de permanencia, inmunidad durante mandato y año siguiente, libertad de opinión, y ellos eligen entre indemnización o readmisión.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo
+Pregunta: ¿Tiene derecho a paro el trabajador que extingue el contrato por mutuo acuerdo?
+Respuesta Correcta: No, por tratarse de extinción voluntaria no se encuentra en situación legal de desempleo y no puede cobrar el paro.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué causas recoge el art. 50 ET para la resolución contractual por incumplimiento empresarial?
+Respuesta Correcta: Modificaciones sustanciales perjudiciales, negativa a reintegrar al trabajador, falta de pago o retraso continuado del salario, y cualquier incumplimiento contractual grave del empresario.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué indemnización corresponde por rescisión causal del art. 50 ET?
+Respuesta Correcta: La misma que por despido improcedente, y el trabajador sí tiene derecho a prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué indemnización corresponde por extinción por expiración del tiempo convenido?
+Respuesta Correcta: 12 días de salario por año trabajado, y el trabajador sí tiene derecho a prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué ocurre si el contrato expira y el trabajador continúa trabajando sin que nadie diga nada?
+Respuesta Correcta: Se entiende prorrogado tácitamente por tiempo indefinido, salvo prueba en contrario de la naturaleza temporal.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+
+Pregunta: ¿Qué preaviso se requiere para contratos superiores a un año?
+Respuesta Correcta: Mínimo 15 días de antelación. El incumplimiento por el empresario obliga al abono de una indemnización equivalente a los salarios del plazo incumplido.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 2)
+Pregunta: ¿Qué indemnización corresponde por muerte del trabajador por causa natural?
+Respuesta Correcta: 15 días de salario a cargo del empresario, más auxilio de defunción de 30 euros, y pensiones correspondientes (viudedad, orfandad).
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿En qué grados de incapacidad permanente se extingue la relación laboral?
+Respuesta Correcta: Incapacidad permanente total, incapacidad permanente absoluta y gran invalidez. No hay derecho a indemnización, pero sí a prestaciones de la Seguridad Social.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Qué ocurre cuando muere el empresario persona física sin continuación del negocio?
+Respuesta Correcta: Los trabajadores tienen derecho a indemnización (a cargo de herederos), y a prestación por desempleo. El FOGASA no cubre estos supuestos.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Qué procedimiento debe seguirse para la extinción por personalidad jurídica de la empresa?
+Respuesta Correcta: Debe seguirse el trámite del despido colectivo, con derecho a indemnización para los trabajadores.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Qué situaciones NO constituyen causa suficiente de extinción de contratos?
+Respuesta Correcta: Jubilación/incapacidad/muerte de un socio, titularidad conjunta con baja de uno, subrogación empresarial que mantenga actividad, y continuidad del negocio por sociedad familiar.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+
+Pregunta: ¿Tiene derecho a indemnización el trabajador que se jubila?
+Respuesta Correcta: No tiene derecho a indemnización, pero percibirá su pensión a cargo de la Seguridad Social.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: Extinción del Contrato de Trabajo (Parte 3)
+Pregunta: ¿Qué requisitos se exigen para el despido por fuerza mayor?
+Respuesta Correcta: Acontecimiento externo e imprevisible fuera del control de la empresa, necesidad definitiva de extinguir contratos, y autorización de la autoridad laboral.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+
+Pregunta: ¿Cuál es la indemnización por despido por fuerza mayor?
+Respuesta Correcta: 20 días de salario por año trabajado, con un máximo de 12 mensualidades.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+
+Pregunta: ¿Puede el FOGASA asumir parte de la indemnización en despido por fuerza mayor?
+Respuesta Correcta: Sí, la autoridad laboral puede acordar que la totalidad o parte de la indemnización sea satisfecha por el FOGASA.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+
+Pregunta: ¿En qué plazo pueden los trabajadores impugnar el despido por fuerza mayor?
+Respuesta Correcta: 20 días hábiles desde la fecha de efectos del despido, pudiendo solicitar la improcedencia o nulidad.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+
+Pregunta: ¿Cuáles son las causas del despido objetivo según el art. 52 ET?
+Respuesta Correcta: Ineptitud del trabajador, falta de adaptación a modificaciones técnicas (tras 2 meses de formación), causas ETOP, y faltas de asistencia injustificadas recurrentes.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+
+Pregunta: ¿Qué requisitos formales tiene el despido objetivo?
+Respuesta Correcta: Comunicación escrita de la causa, entrega simultánea de indemnización, preaviso de 15 días, y 6 horas semanales de permiso retribuido durante el preaviso para buscar empleo.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido por Fuerza Mayor
+Pregunta: ¿En qué artículo del ET se regula el despido disciplinario?
+Respuesta Correcta: En el artículo 54 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+
+Pregunta: ¿Qué requisitos debe cumplir el incumplimiento del trabajador para un despido disciplinario?
+Respuesta Correcta: Debe ser grave (entidad suficiente para romper la confianza) y culpable (imputable a la acción u omisión del trabajador).
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+
+Pregunta: ¿Cuáles son las causas típicas del despido disciplinario del art. 54 ET?
+Respuesta Correcta: Disminución continuada del rendimiento, transgresión de buena fe, falta de asistencia/puntualidad repetida, indisciplina o desobediencia, ofensas y acoso.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+
+Pregunta: ¿Se necesita preaviso e indemnización en el despido disciplinario?
+Respuesta Correcta: No es necesario preaviso (puede realizarse el mismo día) y no hay derecho a indemnización. Sí hay derecho a finiquito y prestación por desempleo.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+
+Pregunta: ¿Qué debe contener la carta de despido disciplinario?
+Respuesta Correcta: Descripción clara y precisa de los hechos, fecha de efectos del despido, y obligaciones incumplidas según ET o convenio colectivo.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+
+Pregunta: ¿En qué plazo puede impugnar el trabajador el despido disciplinario?
+Respuesta Correcta: 20 días hábiles de caducidad, presentando primero papeleta de conciliación y posteriormente demanda judicial. La carga de la prueba recae sobre el empresario.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Disciplinario
+Pregunta: ¿Qué artículo del ET regula el despido colectivo?
+Respuesta Correcta: El artículo 51 del Estatuto de los Trabajadores.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo
+
+Pregunta: ¿Cuáles son los umbrales cuantitativos del despido colectivo en 90 días?
+Respuesta Correcta: 10 trabajadores en empresas de menos de 100; 10% de plantilla en empresas de 100-300; 30 trabajadores en empresas de más de 300.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo
+
+Pregunta: ¿Cuál es la duración máxima del periodo de consultas en el despido colectivo?
+Respuesta Correcta: 30 días naturales. En empresas de menos de 50 trabajadores, máximo 15 días.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo
+
+Pregunta: ¿Qué se requiere si el despido colectivo afecta a más de 50 trabajadores?
+Respuesta Correcta: Plan de recolocación externa gestionado por entidades de recolocación, con duración mínima de 6 meses, incluyendo acciones formativas, orientación profesional y atención personalizada.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo
+
+Pregunta: ¿Qué protección existe para trabajadores mayores en despido colectivo?
+Respuesta Correcta: Para mayores de 55 años: la empresa abona cuotas de convenio especial con SS. Para mayores de 50 años: aportación al Tesoro Público.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo
+
+Pregunta: ¿Qué obligación tiene la empresa si despide a más de la mitad de la plantilla?
+Respuesta Correcta: Debe dar cuenta de la venta de los bienes de la empresa a los representantes legales de los trabajadores y a la autoridad competente.
+Manual: Derecho Laboral
+Bloque: 7
+Tema: El Despido Colectivo

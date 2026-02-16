@@ -1,0 +1,1296 @@
+Pregunta: ¿Cómo influye el origen histórico del vinculum iuris en la comprensión moderna de la relación obligatoria?
+Respuesta Correcta: El concepto de vinculum iuris, proveniente del derecho romano, subraya el vínculo jurídico entre dos partes, lo que fundamenta la idea de obligación bilateral en el derecho moderno. Este origen refuerza la importancia del compromiso legal entre deudor y acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: Explica cómo el artículo 1088 del Código Civil define la esencia de una obligación.
+Respuesta Correcta: El artículo 1088 establece que toda obligación consiste en 'dar, hacer o no hacer alguna cosa', lo que abarca el espectro completo de acciones o inacciones exigibles legalmente, reflejando la diversidad de compromisos que pueden surgir en una relación obligatoria.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: Analiza la naturaleza bipolar de la relación obligatoria y su importancia en el derecho.
+Respuesta Correcta: La naturaleza bipolar implica que siempre hay dos partes contrapuestas: acreedor y deudor. Este equilibrio es crucial, ya que permite al acreedor exigir el cumplimiento de la obligación mientras el deudor asume responsabilidades, garantizando así la protección jurídica de ambas partes.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: Describe el papel del acreedor en la relación obligatoria y los derechos que le asisten.
+Respuesta Correcta: El acreedor posee un derecho subjetivo, conocido como derecho de crédito, que le permite exigir la prestación al deudor y, en caso de incumplimiento, proceder contra sus bienes. Este derecho es esencial para la protección de sus intereses legales.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: Explica las responsabilidades del deudor en una relación obligatoria y las consecuencias de su incumplimiento.
+Respuesta Correcta: El deudor está obligado a cumplir con la prestación debida. Si incumple, enfrenta la posibilidad de que el acreedor actúe contra su patrimonio, lo que subraya la seriedad de sus responsabilidades y el riesgo legal de no cumplirlas.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: ¿Qué equilibrio jurídico se crea entre acreedor y deudor en una relación obligatoria?
+Respuesta Correcta: Se crea un equilibrio donde el acreedor tiene protección legal para exigir sus derechos, mientras el deudor asume obligaciones específicas que son legalmente exigibles. Este equilibrio es fundamental para el funcionamiento justo del sistema jurídico.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 1: La relación obligatoria
+
+Pregunta: Analice la diferencia entre deuda y responsabilidad en el contexto de las obligaciones naturales.
+Respuesta Correcta: En las obligaciones naturales, existe una deuda sin responsabilidad exigible. Estas obligaciones, aunque no pueden ser reclamadas jurídicamente, producen efectos si se cumplen voluntariamente, como reconoce el artículo 1901 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: Explique cómo se manifiesta la responsabilidad sin deuda en el caso de la fianza.
+Respuesta Correcta: La fianza implica responsabilidad sin deuda, ya que el fiador asume la obligación de garantizar el cumplimiento de una deuda ajena sin ser el deudor principal. Esto se refleja en el artículo 1822 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: ¿Por qué se considera que las obligaciones naturales tienen una naturaleza moral en lugar de jurídica?
+Respuesta Correcta: Las obligaciones naturales tienen una naturaleza moral porque, aunque no son exigibles judicialmente, se basan en deberes de conciencia, como el pago de deudas de juego ilícito, donde el cumplimiento es voluntario y no permite repetición.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: Discuta la importancia de la distinción entre deuda y responsabilidad en el estudio de las obligaciones.
+Respuesta Correcta: La distinción es crucial para entender las obligaciones, ya que ayuda a identificar casos especiales como obligaciones naturales o fianza, y clarifica las implicaciones y límites de las obligaciones en el derecho español.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: ¿Cómo se diferencia la deuda con responsabilidad limitada de las otras dos categorías analizadas en el tema?
+Respuesta Correcta: La deuda con responsabilidad limitada no supone una disociación entre deuda y responsabilidad, sino una restricción patrimonial específica, como en las hipotecas, limitando la responsabilidad a ciertos bienes.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: Evalúe la relevancia del artículo 1798 del Código Civil en el contexto de las obligaciones naturales.
+Respuesta Correcta: El artículo 1798 CC ilustra cómo las obligaciones naturales operan en la práctica, estableciendo que al pagar deudas de juego ilícito voluntariamente, el deudor no puede reclamar devolución, reflejando el cumplimiento de un deber moral.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 2: Deuda y responsabilidad
+
+Pregunta: ¿Por qué el legislador español ha optado por un sistema cerrado de fuentes de las obligaciones en el Código Civil?
+Respuesta Correcta: El legislador español ha optado por un sistema cerrado para delimitar taxativamente las fuentes de las obligaciones, evitando incertidumbres y asegurando la claridad en las relaciones jurídicas, diferenciándose de otros ordenamientos con catálogos abiertos.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: Analiza el principio de 'pacta sunt servanda' y su relevancia en el contexto del contrato como fuente de obligaciones.
+Respuesta Correcta: El principio 'pacta sunt servanda' refleja la fuerza vinculante de los contratos, estableciendo que los acuerdos tienen fuerza de ley entre las partes y deben cumplirse, garantizando la seguridad jurídica y la autonomía de la voluntad, aunque limitada por la ley, moral y orden público.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: ¿Cómo se diferencian las obligaciones derivadas de delitos y faltas de las derivadas de actos con culpa o negligencia?
+Respuesta Correcta: Las obligaciones de delitos y faltas se rigen por el Código Penal y tienen tipicidad penal, mientras que las de actos con culpa o negligencia, reguladas en los artículos 1902 y siguientes del CC, carecen de tipicidad penal, centrándose en la indemnización del daño causado.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: Explica el papel de la ley como fuente de obligaciones según el artículo 1090 del Código Civil.
+Respuesta Correcta: La ley, según el artículo 1090 del CC, es una fuente estricta de obligaciones, requiriendo una disposición normativa concreta y explícita para su exigibilidad, sin admitir presunciones o interpretaciones extensivas, asegurando así la claridad y seguridad jurídica.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: Discute la función de los cuasicontratos como fuente de obligaciones en el derecho español.
+Respuesta Correcta: Los cuasicontratos, según el artículo 1887 del CC, son hechos lícitos y voluntarios que generan obligaciones sin un acuerdo contractual, como la gestión de negocios ajenos y el cobro de lo indebido, reflejando la regulación de obligaciones por comportamientos lícitos no contractuales.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: ¿En qué condiciones la voluntad unilateral puede ser considerada una fuente de obligaciones en el derecho español?
+Respuesta Correcta: La voluntad unilateral puede generar obligaciones cuando la ley lo prevé expresamente o cuando es aceptada tácitamente por la sociedad, como en la promesa pública de recompensa, aunque la jurisprudencia del Tribunal Supremo ha sido reticente a reconocerla plenamente.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 3: Fuentes de las obligaciones
+
+Pregunta: ¿Cómo se diferencia la solidaridad activa de la solidaridad pasiva en las obligaciones?
+Respuesta Correcta: La solidaridad activa permite a cualquier acreedor reclamar la totalidad de la prestación al deudor, mientras que la solidaridad pasiva obliga a cualquier deudor a cumplir completamente con el acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: Analice el principio de no presunción de solidaridad y su importancia en la relación obligatoria.
+Respuesta Correcta: El principio de no presunción de solidaridad, establecido en el artículo 1137 del CC, implica que la solidaridad debe ser explícita en el acuerdo, protegiendo así la voluntad de las partes y evitando interpretaciones erróneas de las obligaciones.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: Explique la diferencia entre obligaciones parciarias y mancomunadas según el Código Civil español.
+Respuesta Correcta: Las obligaciones parciarias dividen el crédito o deuda en partes iguales entre los sujetos, mientras que las mancomunadas requieren la actuación conjunta de todos los sujetos para la ejecución de la obligación.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: En el contexto de pluralidad de sujetos, ¿por qué es crucial distinguir entre 'parte' y 'persona' en una relación obligatoria?
+Respuesta Correcta: Distinguir entre 'parte' y 'persona' es crucial porque una parte puede incluir varias personas, afectando la estructura de la obligación y el modo de cumplimiento o reclamación de las prestaciones.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: ¿Qué rol juega la voluntad de las partes en la determinación del régimen de solidaridad en las obligaciones?
+Respuesta Correcta: La voluntad de las partes es determinante para establecer el régimen de solidaridad, ya que, según la jurisprudencia, debe reflejarse inequívocamente en el acuerdo, incluso si no se menciona la palabra 'solidaridad'.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: Analice cómo la presunción de parcialidad complementa el principio de no presunción de solidaridad.
+Respuesta Correcta: La presunción de parcialidad, según el artículo 1138 del CC, supone que, en ausencia de disposición contraria, las obligaciones son parciarias, asegurando que la solidaridad no se asuma sin una declaración explícita de las partes.
+Manual: Manual Civil 2
+Bloque: Bloque 1
+Tema: Tema 4: Sujetos de la obligación
+
+Pregunta: ¿Cómo se diferencia la solidaridad de la mancomunidad en el contexto de las obligaciones según el Código Civil?
+Respuesta Correcta: La solidaridad permite a cada acreedor exigir la totalidad del crédito y a cada deudor tener que cumplir con la totalidad de la deuda, a diferencia de la mancomunidad, donde la obligación se divide entre los sujetos.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: Explique la importancia de la facultad de elección (ius electionis) del deudor en las obligaciones solidarias.
+Respuesta Correcta: El ius electionis otorga al deudor la capacidad de escoger a cuál acreedor realizar el pago, permitiendo gestionar estratégicamente sus obligaciones mientras no haya sido demandado judicialmente.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: Analice la acción de reembolso entre codeudores en una deuda solidaria según el régimen del Código Civil.
+Respuesta Correcta: La acción de reembolso permite al deudor que ha pagado la totalidad de la deuda reclamar a los otros codeudores su parte proporcional, evitando el enriquecimiento injusto y equilibrando las posiciones patrimoniales.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: ¿Qué mecanismos ofrece el Código Civil para la cobertura de la insolvencia en deudas solidarias?
+Respuesta Correcta: Si un deudor solidario resulta insolvente, los otros deudores deben cubrir su parte proporcional a prorrata, asegurando que el acreedor reciba el pago completo y manteniendo la garantía de la solidaridad.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: Discuta las excepciones que puede oponer un deudor solidario frente a una reclamación del acreedor.
+Respuesta Correcta: Un deudor solidario puede oponer excepciones reales, como nulidad o prescripción, que afectan a todos, y excepciones personales, como vicios del consentimiento, que solo lo liberan a él.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: ¿Qué efectos tienen los actos de extinción sobre las obligaciones solidarias según el Código Civil?
+Respuesta Correcta: Actos como la novación, compensación o remisión total de la deuda extinguen la obligación para todos los deudores solidarios, incluso si solo afectan a uno de ellos, asegurando la liberación conjunta.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 1: Obligaciones solidarias y mancomunadas
+
+Pregunta: ¿Cuál es la importancia jurídica del objeto en la relación obligatoria según el Código Civil?
+Respuesta Correcta: El objeto define el contenido del vínculo jurídico entre acreedor y deudor, ya que determina lo debido por el deudor y lo que el acreedor puede reclamar, siendo esencial en la estructura de la obligación.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: Analice cómo el artículo 1095 del Código Civil protege al acreedor en una obligación de dar.
+Respuesta Correcta: El artículo 1095 otorga al acreedor el derecho a los frutos de la cosa desde que nace la obligación de entregarla, asegurando que los beneficios generados pertenezcan al acreedor incluso antes de la entrega.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: Explique la distinción entre obligaciones de medios y de resultado y su relevancia práctica.
+Respuesta Correcta: La distinción radica en que las obligaciones de medios requieren diligencia en el proceso, mientras que las de resultado exigen un fin concreto. Esto es crucial para determinar si la obligación se ha cumplido.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: ¿Qué implica el deber de conservación para el deudor en una obligación de dar según el artículo 1094?
+Respuesta Correcta: El deudor debe conservar la cosa con diligencia media, evitando su deterioro o pérdida antes de la entrega, actuando como un 'buen padre de familia', según el lenguaje del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: Discuta la aplicación del principio 'genus nunquam perit' en las obligaciones genéricas.
+Respuesta Correcta: Este principio establece que el género nunca perece, por lo tanto, la pérdida fortuita de los objetos preparados no extingue la obligación, ya que el deudor debe obtener otros del mismo género.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: Analice la diferencia entre obligaciones específicas y genéricas en el contexto de su extinción por imposibilidad sobrevenida.
+Respuesta Correcta: En obligaciones específicas, la pérdida sin culpa del deudor extingue la obligación, mientras que en las genéricas, el deudor sigue obligado a cumplir, ya que el género no perece.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 2: Objeto y clases de obligación
+
+Pregunta: ¿En qué se diferencia el dinero fiduciario del dinero legal y forzoso, y cómo ha evolucionado su uso en la historia monetaria?
+Respuesta Correcta: El dinero fiduciario se basa en la confianza para su valor, mientras que el dinero legal y forzoso tiene respaldo normativo. Históricamente, el fiduciario evolucionó de la convertibilidad en metales preciosos al actual sistema basado en confianza institucional.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: Analiza cómo el principio del nominalismo afecta a las obligaciones de pago aplazado en caso de devaluación monetaria.
+Respuesta Correcta: El nominalismo permite cumplir con el monto pactado pese a la devaluación. Garantiza estabilidad contractual al asumir las partes el riesgo inflacionario, evitando renegociaciones por fluctuaciones monetarias.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: Explica la función de las cláusulas rebus sic stantibus como medida correctora del nominalismo.
+Respuesta Correcta: Las cláusulas rebus sic stantibus permiten revisar contratos ante cambios imprevisibles en las circunstancias, protegiendo el equilibrio económico original y adaptando las obligaciones a nuevas realidades.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: ¿Cómo se determina la moneda de pago cuando no se especifica en una obligación, y qué ocurre si se paga en moneda extranjera?
+Respuesta Correcta: Si no se especifica, se usa el euro en España. Si el pago es en moneda extranjera, puede permitirse por la UE, calculándose al cambio oficial del día del despacho de ejecución judicial.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: Discute el papel del interés como obligación accesoria en las deudas pecuniarias y su relación con el anatocismo.
+Respuesta Correcta: El interés es el costo por usar capital ajeno y puede devengarse como porcentaje o cantidad fija. El anatocismo permite que intereses no pagados se sumen al capital, generando nuevos intereses.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: Define y compara el sinalagma genético y funcional en las obligaciones recíprocas.
+Respuesta Correcta: El sinalagma genético refiere al origen causal de las obligaciones, mientras que el funcional al cumplimiento simultáneo de prestaciones, asegurando que ambas partes cumplan sus obligaciones contractuales.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 3: Clases de obligación II
+
+Pregunta: Analice la diferencia entre plazo y término en el contexto de las obligaciones, y explique cómo afecta su cumplimiento.
+Respuesta Correcta: El plazo es un período de tiempo, mientras que el término es un momento concreto que marca el fin del plazo. El cumplimiento de la obligación está condicionado a la llegada del término, impidiendo al acreedor exigir y al deudor cumplir antes del término pactado.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: Explique las condiciones bajo las cuales un acreedor puede exigir el cumplimiento anticipado de una obligación.
+Respuesta Correcta: Según el artículo 1129 del Código Civil, el acreedor puede exigir cumplimiento anticipado si el deudor se vuelve insolvente, no otorga las garantías comprometidas, o estas disminuyen. Las partes pueden pactar cláusulas adicionales dentro de la autonomía de la voluntad.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: Discuta la importancia del término esencial en el cumplimiento de obligaciones y proporcione un ejemplo.
+Respuesta Correcta: El término esencial es crucial cuando el momento de cumplimiento es vital, y su incumplimiento equivale a un incumplimiento total. Por ejemplo, una banda contratada para una boda debe cumplir el 8 de agosto; tocar el día 9 sería inaceptable.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: Analice cómo se determina el lugar de cumplimiento de una obligación y cuándo se aplica la regla 'favor debitoris'.
+Respuesta Correcta: El lugar se determina por acuerdo de las partes; si no existe, para obligaciones de dar, es donde existía la cosa; en otros casos, se aplica 'favor debitoris', siendo el domicilio del deudor para facilitar el cumplimiento.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: Explique el concepto de condición suspensiva y los deberes del deudor cuando la condición está pendiente.
+Respuesta Correcta: La condición suspensiva hace que la adquisición de derechos dependa de un evento futuro e incierto. El deudor debe conservar diligentemente la cosa y no impedir el cumplimiento; si lo hace, la condición se considera cumplida.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: Distinga entre extinción absoluta y relativa en el contexto de la condición resolutoria.
+Respuesta Correcta: La extinción absoluta anula todos los efectos pasados de una obligación, mientras que la extinción relativa solo afecta los efectos futuros, manteniendo los efectos ya producidos antes del cumplimiento de la condición resolutoria.
+Manual: Manual Civil 2
+Bloque: Bloque 2
+Tema: Tema 4: lugar, término y condición
+
+Pregunta: ¿En qué circunstancias podría una novación ser considerada extintiva según el Código Civil?
+Respuesta Correcta: Una novación es extintiva si hay declaración expresa de las partes para extinguir la obligación, o si existe incompatibilidad total entre las obligaciones antigua y nueva, como cambios significativos en el objeto o condiciones.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Analiza cómo afecta la novación extintiva a las obligaciones accesorias y a los terceros.
+Respuesta Correcta: La novación extintiva extingue la obligación principal, pero las obligaciones accesorias subsisten si benefician a terceros que no consintieron la novación, protegiendo sus derechos conforme al artículo 1207 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: ¿Qué papel juega la incompatibilidad en determinar una novación extintiva?
+Respuesta Correcta: La incompatibilidad entre obligaciones, evaluada por cambios en el objeto o condiciones económicas, es clave para considerar una novación extintiva, ya que impide la coexistencia de ambas obligaciones.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Explica cómo la cesión de créditos afecta al deudor si no se le notifica el cambio de acreedor.
+Respuesta Correcta: Si no se notifica al deudor la cesión de créditos y paga al acreedor original, el deudor queda liberado de la obligación, conforme al artículo 1527 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: ¿Qué diferencias existen entre una cesión pro soluto y una cesión pro solvendo?
+Respuesta Correcta: En una cesión pro soluto, la deuda se extingue al transmitir un crédito; en una cesión pro solvendo, la deuda solo se extingue cuando el cesionario liquida los bienes recibidos.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Discute el mecanismo de subrogación legal y su función en el tráfico jurídico.
+Respuesta Correcta: La subrogación legal, según el artículo 1210 del Código Civil, permite a terceros pagar deudas ajenas y adquirir el crédito con sus garantías, facilitando el tráfico jurídico y protegiendo a quienes tienen un interés legítimo.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Analiza las consecuencias jurídicas de la falta de consentimiento del acreedor en un cambio de deudor.
+Respuesta Correcta: Sin el consentimiento del acreedor, el cambio de deudor no se produce. El deudor original y el nuevo deudor se convierten en deudores solidarios, asumiendo ambos la responsabilidad frente al acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Evalúa la importancia del momento del consentimiento del acreedor en la asunción de deuda.
+Respuesta Correcta: El momento del consentimiento, según el artículo 1205 del Código Civil, puede ser anterior, coetáneo o posterior a la asunción. Este momento determina la liberación del deudor original y afecta la estructura de la obligación.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Discute el impacto de la insolvencia del nuevo deudor en los derechos del acreedor y los fiadores.
+Respuesta Correcta: Si el nuevo deudor es insolvente y el cambio fue liberatorio, el acreedor no puede reclamar al deudor original, salvo excepciones del artículo 1206 CC. Los fiadores quedan liberados a menos que consientan el cambio.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Compara la delegación pasiva con la cesión del contrato en cuanto a la transmisión de obligaciones.
+Respuesta Correcta: En la delegación pasiva, el delegado asume la deuda frente al acreedor. En la cesión del contrato, se transfiere la posición contractual completa, incluyendo derechos y obligaciones, siempre que las prestaciones estén pendientes.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Argumenta sobre la extinción de la fianza en caso de confusión de derechos.
+Respuesta Correcta: La fianza se extingue si la confusión ocurre entre el deudor o acreedor principal, según el artículo 1193 CC. Esta extinción protege al fiador de obligaciones que ya no tienen sentido jurídico.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Analiza los efectos de la confusión de derechos en deudas mancomunadas y solidarias.
+Respuesta Correcta: En deudas mancomunadas, solo se extingue la porción correspondiente al sujeto afectado (art. 1194 CC). En deudas solidarias, toda la obligación se extingue, reajustando la relación interna entre los demás deudores.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: ¿Cómo se justifica el principio de par conditio creditorum en el concurso de acreedores y cuáles son sus excepciones?
+Respuesta Correcta: El principio de par conditio creditorum garantiza la igualdad de todos los acreedores en el cobro de sus créditos. Sin embargo, este principio se rompe cuando existen créditos privilegiados que, por ley, tienen prelación sobre otros créditos, por ejemplo, los garantizados por un bien específico.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Analiza las razones por las cuales un concurso podría ser declarado culpable según la normativa concursal.
+Respuesta Correcta: Un concurso se declara culpable cuando el deudor o sus administradores actúan con dolo o culpa grave, como no solicitar el concurso en el plazo legal de dos meses desde que conocen la insolvencia, lo cual conlleva sanciones adicionales.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Discute las ventajas del convenio en la fase de resolución del concurso frente a la liquidación.
+Respuesta Correcta: El convenio permite la continuidad empresarial, preservando el empleo y logrando una mayor recuperación para los acreedores. Además, es un proceso más rápido y menos costoso que la liquidación, que implica la venta de todos los bienes del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: ¿Por qué se considera que los créditos subordinados están en desventaja dentro del procedimiento concursal?
+Respuesta Correcta: Los créditos subordinados se pagan en último lugar, después de los privilegiados y ordinarios. Dado que el patrimonio disponible suele ser insuficiente para cubrirlos, rara vez se cobran, lo que los coloca en una posición desventajosa.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Evalúa el impacto de la fase común del concurso de acreedores sobre las facultades del deudor.
+Respuesta Correcta: Durante la fase común, se limitan las facultades del deudor sobre su patrimonio para proteger los activos, asegurando que estos se conserven para el pago ordenado de los acreedores. Además, se le impone la obligación de colaborar con la administración concursal.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Explica cómo la prelación de créditos afecta el orden de pago en un concurso de acreedores según el Código Civil.
+Respuesta Correcta: La prelación de créditos, regulada en los artículos 1926 y 1927 del Código Civil, establece el orden de pago según la prioridad legal de los créditos. Los créditos con privilegio especial tienen prioridad sobre los bienes específicos, mientras que los generales afectan a todo el patrimonio.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: ¿Cómo determina el Código Civil la mora del deudor y cuáles son sus efectos jurídicos principales?
+Respuesta Correcta: La mora del deudor se produce cuando, tras la intimación del acreedor, el deudor no cumple a tiempo una obligación exigible. Sus efectos incluyen la obligación de indemnizar daños y perjuicios y la obligación de cumplir si el acreedor aún lo desea.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Analiza las situaciones en las que no es necesaria la intimación del acreedor para que exista mora.
+Respuesta Correcta: No se requiere intimación si así lo establece un contrato o ley, si la obligación tiene un término esencial o en obligaciones recíprocas donde el acreedor no cumple su parte.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Diferencia entre incumplimiento definitivo e imposibilidad sobrevenida, y las consecuencias para el deudor.
+Respuesta Correcta: El incumplimiento definitivo se da cuando el cumplimiento ya no satisface al acreedor, mientras que la imposibilidad sobrevenida extingue la obligación si es por causas ajenas al deudor. En ambos casos, el deudor puede quedar exento de responsabilidad si no hay culpa.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Examina el papel del acreedor en el cumplimiento defectuoso de una obligación.
+Respuesta Correcta: El acreedor puede rechazar una prestación defectuosa por no satisfacer su interés, exigir su correcta ejecución, o incluso resolver el contrato si el incumplimiento es grave, conforme a las consecuencias jurídicas señaladas en el Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Discute la relevancia de la culpabilidad del deudor en la configuración de la mora.
+Respuesta Correcta: La culpabilidad del deudor es esencial para declarar la mora, ya que el retraso debe ser imputable a él. Si el retraso es por caso fortuito, como una inundación, no se considera mora.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Cómo afecta la imposibilidad sobrevenida a las acciones del acreedor frente a terceros?
+Respuesta Correcta: Si la imposibilidad sobrevenida es causada por un tercero, el acreedor puede ejercer las acciones que el deudor tenía contra dicho tercero, como se ilustra en el artículo 1186 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Cómo se diferencia la imputabilidad de la responsabilidad en el ámbito contractual?
+Respuesta Correcta: La imputabilidad atribuye los hechos que causan la lesión del derecho de crédito, mientras que la responsabilidad determina quién debe asumir las consecuencias jurídicas. Aunque suelen recaer en el deudor, pueden atribuirse al acreedor o a terceros.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Analiza la importancia de la culpa en la imputabilidad del deudor según el Código Civil.
+Respuesta Correcta: La culpa es la omisión de la diligencia exigida por la obligación. Si no se especifica, se requiere la diligencia de 'un buen padre de familia'. La culpa se presume, y el deudor responde por daños, independientemente de su buena o mala fe.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Explica la diferencia entre dolo y culpa en el incumplimiento de obligaciones contractuales.
+Respuesta Correcta: El dolo es la infracción consciente y voluntaria de deberes, y debe ser probado por el acreedor. La culpa, en cambio, se presume con solo alegar el incumplimiento. Esta diferencia afecta la carga de la prueba en juicios.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: ¿En qué casos puede el deudor exonerarse de responsabilidad y cómo pueden las partes modificar esto?
+Respuesta Correcta: El deudor se exonera por caso fortuito o fuerza mayor, pero las partes pueden pactar que el deudor responda incluso en estos casos, alterando el régimen de responsabilidad conforme a los arts. 1152 y 1105 CC.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: ¿Qué papel juega la mora credendi en la imputabilidad al acreedor y cuáles son sus consecuencias?
+Respuesta Correcta: La mora credendi ocurre cuando el acreedor impide el cumplimiento del deudor. Si ambas partes están en mora, se compensan. El riesgo de pérdida se traslada al acreedor y el deudor puede liberarse mediante consignación.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Analiza la responsabilidad de terceros en el incumplimiento contractual y su impacto en los derechos del acreedor.
+Respuesta Correcta: Terceros pueden lesionar el derecho de crédito destruyendo, deteriorando o impidiendo el cumplimiento. Aunque no son partes, deben respetar el derecho de crédito y, si lo lesionan intencionadamente, deben indemnizar al acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: ¿Qué circunstancias justifican la activación de la tutela preventiva frente a la defensiva en el derecho de crédito?
+Respuesta Correcta: La tutela preventiva se activa cuando el acreedor anticipa un peligro futuro de incumplimiento, permitiéndole actuar antes de que ocurra. Por el contrario, la tutela defensiva se utiliza tras un incumplimiento ya materializado.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Analiza cómo varía el régimen de ejecución forzosa de obligaciones de dar según el tipo de cosa, determinada o indeterminada.
+Respuesta Correcta: Para obligaciones de dar cosas determinadas, el acreedor puede compeler judicialmente al deudor a entregarlas. En cambio, para cosas indeterminadas, la ejecución se realiza a expensas del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Discute la diferencia entre incumplimiento por equivalente y resarcimiento de daños y perjuicios.
+Respuesta Correcta: El incumplimiento por equivalente convierte la obligación original en una de pago monetario cuando la prestación es imposible. El resarcimiento de daños y perjuicios busca reparar el menoscabo sufrido por el acreedor debido al incumplimiento.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Explica los componentes del daño indemnizable según el artículo 1106 del Código Civil.
+Respuesta Correcta: La indemnización comprende daño emergente (pérdida sufrida), lucro cesante (ganancia no obtenida) y daño moral (sufrimiento no patrimonial), cada uno requiriendo prueba específica del acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Compara la responsabilidad del deudor de buena fe con la del deudor de mala fe en caso de incumplimiento.
+Respuesta Correcta: El deudor de buena fe responde solo por daños previsibles, mientras que el de mala fe responde por todos los daños, previsibles o no. La responsabilidad es más amplia en casos de dolo.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Analiza el deber de mitigar el daño y su impacto en la responsabilidad del deudor.
+Respuesta Correcta: El acreedor debe tomar medidas razonables para no agravar el daño. Si no lo hace, no podrá reclamar al deudor por daños evitables, lo que equilibra la protección del acreedor con la responsabilidad del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Analiza el fundamento legal de la acción subrogatoria y explica cómo protege los derechos del acreedor.
+Respuesta Correcta: La acción subrogatoria se fundamenta en el artículo 1111 del Código Civil, permitiendo al acreedor ejercitar derechos del deudor para incrementar su patrimonio. Esto protege al acreedor al posibilitarle cobrar su crédito a través de los activos que el deudor podría no gestionar adecuadamente.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Compara la acción subrogatoria y la pauliana en cuanto a su finalidad y objeto.
+Respuesta Correcta: La acción subrogatoria busca que el acreedor ejerza derechos del deudor, mientras que la pauliana impugna actos fraudulentos que perjudican al acreedor. La subrogatoria es satisfactoria, aumentando el patrimonio del deudor; la pauliana rescinde actos perjudiciales, protegiendo intereses crediticios.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Evalúa los requisitos necesarios para el ejercicio de la acción subrogatoria.
+Respuesta Correcta: El acreedor debe demostrar que su crédito es cierto, líquido y exigible, y que ha intentado sin éxito perseguir los bienes del deudor. Además, debe probar la insolvencia del deudor, entendida como insuficiencia patrimonial, no carencia total.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: ¿Qué papel juegan las presunciones de fraude en la acción pauliana y cómo facilitan la prueba del fraude?
+Respuesta Correcta: Las presunciones facilitan la prueba al considerar fraudulentas las enajenaciones a título gratuito (iuris et de iure) y las onerosas por personas con sentencia condenatoria anterior (iuris tantum). Estas presunciones simplifican el proceso al evitar la necesidad de pruebas exhaustivas.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Discute el impacto de la buena o mala fe del subadquiriente en la eficacia de la acción pauliana.
+Respuesta Correcta: La acción pauliana no procede contra un subadquiriente de buena fe, protegiendo así la seguridad jurídica. Sin embargo, si el subadquiriente actuó de mala fe, con conocimiento del fraude, la acción puede dirigirse contra él, asegurando la reparación del perjuicio al acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Argumenta sobre los efectos jurídicos de la rescisión en la acción pauliana según el artículo 1295 del Código Civil.
+Respuesta Correcta: La rescisión implica la devolución de los bienes afectados al patrimonio del deudor para que el acreedor cobre sobre ellos. La rescisión solo afecta la parte fraudulenta del acto, manteniendo proporcionalidad y sin extinguir partes no fraudulentas, protegiendo así intereses legítimos.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: ¿Cómo se asegura la prelación de créditos una distribución equitativa entre los acreedores en caso de insolvencia del deudor?
+Respuesta Correcta: La prelación de créditos establece un orden jerárquico de pago, priorizando acreedores con privilegios especiales, luego generales, ordinarios y finalmente subordinados, asegurando que los recursos limitados se distribuyan según su importancia y protección legal.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Analiza la importancia del principio de responsabilidad patrimonial en la prelación de créditos.
+Respuesta Correcta: El principio de responsabilidad patrimonial, recogido en el artículo 1911 del Código Civil, asegura que el deudor responda con todo su patrimonio, permitiendo la aplicación de la prelación para satisfacer deudas según los activos disponibles.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Evalúa el impacto de los créditos con privilegio especial en un procedimiento concursal.
+Respuesta Correcta: Los créditos con privilegio especial, garantizados por bienes específicos como hipotecas, tienen máxima prioridad en el cobro durante el concurso, asegurando que los acreedores con estas garantías recuperen sus deudas antes que otros.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Discute las posibles consecuencias para acreedores sin privilegios en la prelación de créditos.
+Respuesta Correcta: Acreedores sin privilegios, como los ordinarios y subordinados, pueden no recibir el pago completo o nada, ya que los recursos se agotan tras los pagos preferentes, lo que refleja la importancia de las garantías en el cobro de deudas.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Explica cómo un pacto de subordinación puede alterar el orden de prelación de créditos.
+Respuesta Correcta: Un pacto de subordinación permite a un acreedor aceptar ser pagado después de otros, modificando voluntariamente el orden legal de prelación, lo cual puede facilitar reestructuraciones o acuerdos entre partes.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Analiza el papel del administrador concursal en la gestión de la prelación de créditos.
+Respuesta Correcta: El administrador concursal clasifica los créditos según su prelación legal, gestiona la liquidación de activos y distribuye los fondos resultantes, asegurando que el proceso concursal respete las prioridades establecidas por la ley.
+Manual: Manual Civil 2
+Bloque: Bloque 3
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: ¿En qué casos una novación extintiva se considera incompatible con la obligación original y qué criterios se utilizan para determinar esta incompatibilidad?
+Respuesta Correcta: Una novación extintiva se considera incompatible cuando las obligaciones son totalmente opuestas, con alteraciones significativas en el objeto o condiciones principales, o cambios económicos trascendentales. El análisis cuidadoso de los elementos esenciales es clave para determinar la incompatibilidad.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: ¿Cómo afecta la novación extintiva a las obligaciones accesorias y bajo qué condiciones pueden éstas subsistir?
+Respuesta Correcta: La novación extintiva extingue la obligación principal, pero las obligaciones accesorias subsisten si benefician a terceros que no consintieron en la novación, protegiendo así los derechos de aquellos que no participaron en el nuevo acuerdo.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Explique cómo se regula la cesión de créditos en el Código Civil y cuál es la posición del deudor ante la misma.
+Respuesta Correcta: La cesión de créditos permite al cesionario adquirir el crédito con derechos accesorios, salvo reserva del cedente. El deudor queda liberado si paga al acreedor original sin notificación de la cesión, según el artículo 1527 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Analice el régimen de compensación que puede oponer el deudor ante el cesionario y cómo varía según el conocimiento del deudor sobre la cesión.
+Respuesta Correcta: El deudor puede oponer compensación al cesionario si no consintió la cesión o desconocía la misma, aplicando las deudas anteriores. El régimen protege al deudor, permitiéndole mantener ventajas frente al acreedor original.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Diferencie entre la cesión pro soluto y la cesión pro solvendo en el contexto de la transmisión de créditos.
+Respuesta Correcta: En la cesión pro soluto, el cedente extingue su deuda transmitiendo un crédito. En la cesión pro solvendo, el cedente entrega bienes que extinguen la deuda solo al liquidarse, condicionando la extinción a un evento futuro.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Explique la subrogación en el crédito según el Código Civil y cómo protege los intereses de quienes realizan pagos por cuenta ajena.
+Respuesta Correcta: La subrogación permite a un tercero ocupar el lugar del acreedor original al pagar la deuda, adquiriendo derechos y garantías. Las presunciones legales protegen a quienes pagan con interés legítimo, garantizando su posición frente al deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 1: Modificación y extinción de la relación obligatoria
+
+Pregunta: Analiza la importancia del consentimiento del acreedor en el proceso de cambio de deudor y sus implicaciones legales.
+Respuesta Correcta: El consentimiento del acreedor es crucial para liberar al deudor original en un cambio de deudor. Sin este, el cambio es ineficaz y puede resultar en una asunción acumulativa, obligando a ambos deudores a responder solidariamente.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Examina las consecuencias jurídicas de la insolvencia del nuevo deudor en una asunción liberatoria aceptada por el acreedor.
+Respuesta Correcta: Si el nuevo deudor es insolvente tras una asunción liberatoria, el acreedor no puede reclamar al deudor original, salvo que la insolvencia fuera anterior y pública o conocida por el deudor original, según el artículo 1206 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Discute la diferencia entre cesión del contrato y cesión de créditos/deudas, y su relevancia en la estructura contractual.
+Respuesta Correcta: La cesión del contrato implica la transferencia completa de la posición contractual, incluyendo derechos y obligaciones, a diferencia de la cesión de créditos/deudas, que solo transfiere el rol de acreedor o deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Argumenta sobre las formas de extinción de la relación obligatoria y su impacto en las partes implicadas.
+Respuesta Correcta: La extinción puede ser por mutuo disenso, decisión unilateral, cumplimiento total o circunstancia prevista. Cada forma afecta las obligaciones residuales, modificando derechos y deberes de las partes.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Evalúa los efectos de la confusión de derechos en deudas solidarias y su influencia en las relaciones entre co-deudores.
+Respuesta Correcta: En deudas solidarias, la confusión extingue toda la obligación, reajustando internamente las relaciones entre co-deudores como si la parte del sujeto afectado se hubiera cumplido, conforme al artículo 1194 del CC.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Considera el papel de los fiadores en el cambio de deudor y cómo se protegen sus derechos en dicho proceso.
+Respuesta Correcta: El cambio de deudor extingue automáticamente las garantías de los fiadores a menos que consientan expresamente, protegiéndolos de asumir riesgos no previstos originalmente.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 2: Modificación y extinción de la relación obligatoria II
+
+Pregunta: Analiza el principio de par conditio creditorum y explica en qué casos este principio se rompe.
+Respuesta Correcta: El principio de par conditio creditorum garantiza la igualdad de los acreedores para cobrar. Se rompe cuando existen créditos privilegiados, que tienen prioridad sobre otros créditos debido a su naturaleza especial, como los garantizados por bienes específicos o los generales como salarios y tributos.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Discute la importancia del juez único en el procedimiento concursal y cómo afecta a la coherencia del proceso.
+Respuesta Correcta: El juez único es crucial para asegurar la unidad y coherencia del procedimiento concursal, ya que centraliza todas las decisiones y garantiza un tratamiento uniforme de las cuestiones procesales, evitando conflictos de interpretación y asegurando una gestión eficiente del concurso.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Evalúa las consecuencias de no solicitar el concurso en el plazo legal de dos meses desde que se conoce la insolvencia.
+Respuesta Correcta: No solicitar el concurso en el plazo legal puede llevar a que el concurso sea declarado culpable, implicando sanciones para el deudor o sus administradores, como la inhabilitación o responsabilidad patrimonial, además de perjudicar la credibilidad y situación financiera del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Explica por qué el convenio es considerado una solución preferida frente a la liquidación en un concurso de acreedores.
+Respuesta Correcta: El convenio es preferido porque permite la continuidad empresarial, preservando empleos y manteniendo la actividad económica. Además, suele ofrecer a los acreedores una mayor recuperación de sus créditos que la liquidación, y es un proceso más ágil y menos costoso.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Analiza la diferencia entre créditos privilegiados y créditos subordinados en el contexto del concurso de acreedores.
+Respuesta Correcta: Los créditos privilegiados tienen prioridad en el pago antes que otros créditos, debido a su garantía especial o general. En contraste, los créditos subordinados se pagan en último lugar, después de los créditos ordinarios, y suelen ser consecuencia de comportamientos inadecuados o tardíos.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: Reflexiona sobre las fases del concurso de acreedores y su impacto en la gestión del patrimonio del deudor.
+Respuesta Correcta: Las fases del concurso, desde los actos previos hasta la calificación, estructuran el proceso para asegurar una gestión ordenada del patrimonio. La fase común impone limitaciones al deudor y acreedores, mientras que la fase de resolución determina si se busca un convenio o se procede a liquidación.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 3: Modificación y extinción de la relación obligatoria III
+
+Pregunta: ¿Cómo se diferencia el incumplimiento definitivo del retraso en el cumplimiento en cuanto a la satisfacción del acreedor?
+Respuesta Correcta: El retraso en el cumplimiento permite un cumplimiento tardío que aún satisface al acreedor, mientras que en el incumplimiento definitivo el cumplimiento ya no satisface el interés del acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Explique cómo las obligaciones recíprocas afectan la intimación para la mora del deudor.
+Respuesta Correcta: En las obligaciones recíprocas, no hay mora si el acreedor no cumple o no está dispuesto a cumplir su parte, eliminando la necesidad de intimación por parte del acreedor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Qué efecto tendría la imposibilidad sobrevenida en la obligación si el deudor ya estaba en mora?
+Respuesta Correcta: Si el deudor ya estaba en mora, la imposibilidad sobrevenida no extinguiría la obligación, ya que uno de los requisitos es que el deudor no esté en mora al sobrevenir la imposibilidad.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Qué factores determinan la cesación de los efectos de la mora del deudor?
+Respuesta Correcta: La cesación de los efectos de la mora ocurre cuando el acreedor decide cancelar sus efectos a futuro, aunque los efectos ya producidos se mantienen y deben ser indemnizados.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: Analice la obligación del deudor de indemnizar en casos de cumplimiento defectuoso.
+Respuesta Correcta: El deudor debe indemnizar los daños causados por el cumplimiento defectuoso, ya que este no satisface el interés del acreedor, quien puede rechazarlo y exigir el cumplimiento correcto.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Cuáles son las acciones del acreedor si la imposibilidad sobrevenida se debe a un tercero?
+Respuesta Correcta: El acreedor puede ejercer las acciones que el deudor tuviera contra el tercero responsable de la imposibilidad, según el artículo 1186 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 4: Incumplimiento de las obligaciones
+
+Pregunta: ¿Cómo se diferencia la imputabilidad al deudor de la responsabilidad por incumplimiento contractual?
+Respuesta Correcta: La imputabilidad atribuye los hechos causantes de lesión al derecho de crédito, mientras que la responsabilidad establece quién asume las consecuencias jurídicas. Ambas suelen recaer en el deudor, pero pueden imputarse también al acreedor o a terceros.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Analiza la distinción entre dolo y culpa en el contexto del incumplimiento contractual.
+Respuesta Correcta: La culpa se presume y el acreedor solo debe alegar el incumplimiento, mientras que el dolo requiere prueba específica de infracción voluntaria y consciente. Esta distinción afecta la carga de la prueba en los procesos judiciales.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: En qué casos puede un deudor exonerarse de la responsabilidad por incumplimiento de la obligación?
+Respuesta Correcta: El deudor puede exonerarse en casos de fuerza mayor y caso fortuito, aunque las partes pueden pactar lo contrario. La fuerza mayor es un suceso extraordinario y externo, mientras que el caso fortuito es imprevisible dentro de la esfera del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Discute la responsabilidad del deudor por los actos de sus auxiliares en el cumplimiento de una obligación.
+Respuesta Correcta: El deudor es responsable por culpa in eligendo (mala elección) y culpa in vigilando (falta de vigilancia) sobre sus auxiliares. Esto significa que debe elegir y supervisar adecuadamente a quienes colaboran en el cumplimiento de sus obligaciones.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Explora las situaciones en las que la imputabilidad del incumplimiento recae sobre el acreedor.
+Respuesta Correcta: La imputabilidad recae en el acreedor en casos de provocación dolosa o negligente, imposibilidad de cumplimiento, y mora credendi, donde este no facilita las condiciones necesarias para que el deudor cumpla la obligación.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: Analiza el papel de los terceros en la imputabilidad y responsabilidad en el derecho de crédito.
+Respuesta Correcta: Terceros pueden lesionar el derecho de crédito mediante destrucción, daño físico al deudor o colaboración fraudulenta. Aunque no son parte de la obligación, se les exige respetar el derecho de crédito y pueden ser responsables por daños intencionados.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 5: Imputabilidad y responsabilidad
+
+Pregunta: ¿En qué situaciones puede un acreedor optar por la tutela preventiva y cuáles son sus ventajas?
+Respuesta Correcta: La tutela preventiva se utiliza cuando el acreedor percibe un riesgo de incumplimiento futuro. Permite actuar antes del incumplimiento, asegurando la protección del interés crediticio y evitando daños mayores.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Analiza la diferencia entre la ejecución forzosa en obligaciones de dar y de hacer según el Código Civil.
+Respuesta Correcta: En obligaciones de dar, el acreedor puede compeler judicialmente al deudor a cumplir. En obligaciones de hacer, si el deudor no cumple, se ordena la ejecución a su costa y puede deshacerse lo mal hecho.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Explica cómo se transforma una obligación original en una de pago por incumplimiento por equivalente.
+Respuesta Correcta: Cuando la prestación se vuelve imposible por causa del deudor, el acreedor puede reclamar el valor económico de la prestación no ejecutada, transformando así la obligación en una de pago.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: ¿Qué componentes del daño indemnizable debe probar el acreedor y por qué es importante?
+Respuesta Correcta: El acreedor debe probar daño emergente, lucro cesante y daño moral. Esto es vital para demostrar el perjuicio sufrido, el nexo causal con el incumplimiento y la imputabilidad al deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: ¿Cómo varía la responsabilidad del deudor según su buena o mala fe en el incumplimiento de una obligación?
+Respuesta Correcta: Un deudor de buena fe responde solo por daños previsibles. Uno de mala fe responde por todos los daños, previsibles o no, lo que amplía su responsabilidad.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: Discute el deber de mitigar el daño por parte del acreedor y sus implicaciones legales.
+Respuesta Correcta: El acreedor debe tomar medidas razonables para evitar la agravación del daño. Si no lo hace, no puede exigir al deudor reparar daños evitables, buscando un equilibrio justo en la indemnización.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 6: Defensa del derecho de crédito
+
+Pregunta: ¿Cuál es el fundamento jurídico de la acción subrogatoria y en qué casos se considera inaplicable?
+Respuesta Correcta: La acción subrogatoria se fundamenta en el artículo 1111 del Código Civil. Es inaplicable cuando se trata de derechos inherentes a la persona del deudor, respetando así los derechos personalísimos.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Analiza la relación entre la insolvencia del deudor y la procedencia de la acción subrogatoria.
+Respuesta Correcta: La acción subrogatoria procede cuando el acreedor demuestra la insolvencia del deudor, entendida como insuficiencia patrimonial. No es necesario que haya una carencia total de bienes, pero sí debe ser un recurso de último recurso tras intentar otros medios.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Comparando las acciones subrogatoria y pauliana, ¿cómo se diferencian en cuanto a sus objetivos y derechos ejercitados?
+Respuesta Correcta: La acción subrogatoria permite al acreedor ejercer derechos del deudor para incrementar su patrimonio, mientras que la acción pauliana es un derecho propio del acreedor para rescindir actos fraudulentos del deudor, sin ejercer derechos del mismo.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Explica los requisitos necesarios para que un acreedor pueda ejercer la acción pauliana.
+Respuesta Correcta: El acreedor debe demostrar que el deudor realizó un acto perjudicial de forma fraudulenta, con intención de perjudicar. No se requiere que el acreedor haya perseguido previamente todos los bienes del deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Discute las presunciones de fraude en la acción pauliana según el artículo 1297 del Código Civil.
+Respuesta Correcta: El artículo 1297 establece que las enajenaciones a título gratuito son siempre fraudulentas (iuris et de iure), mientras que las a título oneroso se presumen fraudulentas (iuris tantum) si existen sentencias condenatorias previas contra el deudor.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: Describe cómo afecta la buena o mala fe del subadquiriente en la eficacia de la acción pauliana.
+Respuesta Correcta: Si el subadquiriente es de buena fe, la acción pauliana no procede contra él, y el acreedor solo puede reclamar una indemnización. Si es de mala fe, con conocimiento del fraude, la acción tiene plenos efectos jurídicos.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 7: Acciones para la defensa del crédito
+
+Pregunta: ¿Cuál es la diferencia fundamental entre un crédito con privilegio especial y uno con privilegio general?
+Respuesta Correcta: El crédito con privilegio especial está garantizado por un bien específico, como una hipoteca, lo que le da máxima prioridad en el cobro. En cambio, el crédito con privilegio general protege intereses sociales, como salarios o tributos, pero no está vinculado a un bien concreto.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Analiza la importancia del principio de responsabilidad patrimonial en la prelación de créditos.
+Respuesta Correcta: El principio de responsabilidad patrimonial, según el artículo 1911 del Código Civil, establece que el deudor responde con todos sus bienes. Este principio es crucial en la prelación, ya que garantiza que todos los activos del deudor se usen para satisfacer las deudas en el orden legalmente establecido.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Discute las implicaciones de la prelación de créditos para los acreedores ordinarios en un concurso de acreedores.
+Respuesta Correcta: Los acreedores ordinarios, al no tener garantías especiales, son pagados después de los privilegiados. Esto implica que en muchos casos, si los activos son insuficientes, estos acreedores podrían no recibir el pago total o incluso nada, resaltando la importancia de la prelación.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Evalúa cómo los pactos de subordinación pueden afectar la distribución de recursos en la prelación de créditos.
+Respuesta Correcta: Los pactos de subordinación permiten que un acreedor acepte ser pagado después de otros, alterando el orden de prelación legal. Esto puede facilitar acuerdos de reestructuración, pero también puede impactar negativamente a ciertos acreedores al retrasar sus pagos.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Explica el papel del administrador concursal en la gestión de la prelación de créditos.
+Respuesta Correcta: El administrador concursal verifica y clasifica los créditos según su prelación, asegurando que los activos del deudor se liquiden y distribuyan conforme a la jerarquía legal. Su rol es crucial para cumplir con el procedimiento de concurso de acreedores.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: Analiza el impacto del derecho de retención como excepción a la prelación de créditos.
+Respuesta Correcta: El derecho de retención permite a un acreedor retener un bien hasta que se pague la deuda relacionada, creando un privilegio especial. Esto puede alterar el orden de prelación, ya que el bien retenido se convierte en garantía directa del pago.
+Manual: Manual Civil 2
+Bloque: Bloque 4
+Tema: Tema 8: Concurrencia y prelación de créditos
+
+Pregunta: ¿Cuál es la principal diferencia entre responsabilidad contractual y extracontractual en cuanto a su origen?
+Respuesta Correcta: La responsabilidad contractual surge de obligaciones derivadas de un contrato, mientras que la extracontractual nace de una relación jurídica sin contrato previo, basada en actos u omisiones que causan daño por culpa o negligencia.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: ¿Cómo se diferencia la responsabilidad subjetiva de la objetiva en el contexto de la responsabilidad extracontractual?
+Respuesta Correcta: La responsabilidad subjetiva requiere demostrar la culpa o negligencia del causante del daño, mientras que la objetiva no depende de la culpa, sino de que el daño ocurra bajo ciertas circunstancias.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: Explique la diferencia entre responsabilidad directa e indirecta en la responsabilidad extracontractual.
+Respuesta Correcta: La responsabilidad directa se impone al causante directo del daño, mientras que la indirecta recae sobre una persona distinta, como los padres por los actos de sus hijos menores.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: ¿Qué condiciones deben cumplirse simultáneamente para que exista responsabilidad extracontractual?
+Respuesta Correcta: Deben concurrir un comportamiento ilícito o negligente, la producción de un daño cierto, un nexo causal entre ambos y un criterio de imputación que permita atribuir la responsabilidad al demandado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: ¿Por qué es importante la certeza del daño en la responsabilidad extracontractual y cómo se aplica al daño futuro?
+Respuesta Correcta: La certeza del daño es crucial para evitar indemnizaciones basadas en especulaciones. Un daño futuro es indemnizable si su existencia es cierta y demostrable, como en lesiones con secuelas comprobables.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: Analice cómo el artículo 1089 del Código Civil fundamenta la responsabilidad extracontractual.
+Respuesta Correcta: El artículo 1089 menciona los actos y omisiones ilícitos con culpa o negligencia como fuentes de obligaciones, estableciendo el deber de indemnizar por daños causados extracontractualmente.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 1: Responsabilidad extracontractual I 1. Responsabilidad extracontractual: conceptos fundamentales
+
+Pregunta: Analice si un daño moral futuro puede dar lugar a una obligación de reparación y cómo se cuantifica dicha reparación.
+Respuesta Correcta: Sí, un daño moral futuro puede generar una obligación de reparación si es cierto. Su cuantificación es compleja debido a su subjetividad, y se realiza mediante compensación económica.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: Explique cómo la culpa exclusiva de la víctima afecta la obligación de reparar del agente.
+Respuesta Correcta: La culpa exclusiva de la víctima exime al agente de la obligación de reparar, ya que el daño es atribuible únicamente a la conducta de la víctima, sin intervención culposa del agente.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: Compare las teorías de la equivalencia y la causa adecuada en la determinación de la relación causal del daño.
+Respuesta Correcta: La teoría de la equivalencia considera todas las concausas igual de relevantes, mientras que la teoría de la causa adecuada identifica un antecedente como el más idóneo para causar el daño. El Tribunal Supremo prefiere esta última.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: Discuta la aplicación de la inversión de la carga de la prueba en actividades menos riesgosas.
+Respuesta Correcta: En actividades menos riesgosas, se presume la culpa del agente, quien debe demostrar haber actuado diligentemente para exonerarse. Esto contrasta con la responsabilidad objetiva en actividades de riesgo.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: Analice la compatibilidad de reclamaciones por daños patrimoniales y morales en un mismo suceso.
+Respuesta Correcta: Un mismo suceso puede generar reclamaciones por daños patrimoniales y morales, ya que ambos tipos de daños pueden coexistir y ser compensados de manera independiente.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: Evalúe cómo el estado de necesidad afecta la responsabilidad civil y la obligación de reparar.
+Respuesta Correcta: El estado de necesidad no excluye la responsabilidad civil, aunque exime al causante del daño si actúa para evitar un mal mayor. La obligación de reparar recae en quien se benefició de la evitación del daño.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 2: Responsabilidad extracontractual II 1. El daño como presupuesto de la responsabilidad
+
+Pregunta: ¿Cómo se aplica la teoría de la equivalencia de las condiciones en el análisis de un caso con múltiples concausas?
+Respuesta Correcta: La teoría de la equivalencia de las condiciones considera que todas las condiciones que, al suprimirlas mentalmente, hacen desaparecer el resultado, son causas del mismo. En casos con múltiples concausas, como el atropello, el retraso de la ambulancia y la falta de medicamento, todas serían consideradas causas de la muerte.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: Explique cómo el Tribunal Supremo español utiliza la teoría de la causalidad adecuada para resolver casos de responsabilidad civil.
+Respuesta Correcta: El Tribunal Supremo aplica la teoría de la causalidad adecuada realizando un juicio de probabilidad para identificar cuál de las causas contribuyentes es la más adecuada para producir el resultado. Así, se busca una determinación más justa, como considerar la negligencia del hospital y el retraso de la ambulancia más adecuadas que el atropello leve.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: ¿Qué papel juegan los criterios de proximidad causal y la intervención de terceros en la determinación del nexo causal?
+Respuesta Correcta: El criterio de proximidad causal da prioridad a la causa más cercana al resultado, como la negligencia del hospital respecto al atropello. La intervención de terceros no rompe el nexo causal si solo contribuyen al resultado, como el segundo balonazo que agrava un daño inicial causado por otro.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: Analice la responsabilidad en un caso de pluralidad de responsables sin acuerdo previo.
+Respuesta Correcta: En pluralidad sin acuerdo previo, cada responsable responde en proporción al daño causado. Por ejemplo, si dos cazadores disparan y hieren a un senderista, ambos son responsables, pero se determinará la proporción del daño causado por cada uno para fijar su responsabilidad concreta.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: ¿Cuándo se considera que se rompe el nexo causal en casos de responsabilidad civil?
+Respuesta Correcta: El nexo causal se rompe en casos de fuerza mayor o caso fortuito, eventos imprevisibles e inevitables, o cuando el daño es por culpa exclusiva de la víctima. También se considera la concurrencia de culpas, donde la indemnización se ajusta proporcionalmente a la culpa de la víctima.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: Explique cómo se distribuye la responsabilidad cuando un daño es causado por un grupo y no se puede identificar al individuo específico.
+Respuesta Correcta: Cuando el daño es causado por un grupo y no se identifica al individuo responsable, todos los miembros del grupo son solidariamente responsables. Esto se basa en que todos participaron en la actividad que generó el riesgo, como en un caso donde un grupo causa un daño y no se puede aislar al causante específico.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 3: Responsabilidad extracontractual III
+
+Pregunta: ¿Por qué la mera constatación de una relación de causalidad no es suficiente para atribuir responsabilidad en el derecho extracontractual?
+Respuesta Correcta: La teoría de la equivalencia de las condiciones puede extender desmedidamente el nexo causal, identificando una serie infinita de antecedentes. Por ello, se requiere un juicio de imputación objetiva para delimitar qué resultados deben ser atribuidos al autor.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: Explique el papel de la imputación objetiva en la atribución de responsabilidad por daños.
+Respuesta Correcta: La imputación objetiva actúa como filtro para establecer si un sujeto creó o incrementó un riesgo desaprobado que se materializó en daño. Solo así, junto a otros elementos de responsabilidad extracontractual, se puede imputar el resultado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: Analice cómo el criterio de 'creación de un riesgo jurídicamente relevante' influye en la imputación objetiva de un resultado.
+Respuesta Correcta: Un resultado es imputable si la conducta generó un riesgo que el ordenamiento jurídico no tolera. La imputación se da cuando el daño es consecuencia del riesgo específico asociado a la acción del autor.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: ¿En qué casos se excluye la imputación objetiva bajo el criterio de 'incremento del riesgo permitido'?
+Respuesta Correcta: Se excluye cuando la conducta no incrementó el riesgo del resultado o el daño habría ocurrido igualmente con una conducta diligente. Así, el exceso de velocidad no imputa si el accidente se habría dado por otro factor inevitable.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: Describa cómo opera la 'prohibición de regreso' en la interrupción del nexo de imputación.
+Respuesta Correcta: Interviene cuando una conducta dolosa de un tercero reconduce el curso causal hacia el daño. El primer agente responde solo por el daño inicial, mientras el tercero es responsable de los daños ulteriores.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: ¿Cómo se aplica el criterio del 'fin de protección de la norma' en la imputación de daños?
+Respuesta Correcta: Se imputa solo si el daño coincide con el que la norma infringida pretendía evitar. Si el daño está fuera del ámbito de protección normativo, no hay imputación, aunque haya infracción causalmente conectada.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 4: Responsabilidad extracontractual IV
+
+Pregunta: Analiza cómo se configura la responsabilidad civil de las personas jurídicas en el ámbito extracontractual según la jurisprudencia española.
+Respuesta Correcta: La jurisprudencia española acepta la responsabilidad civil extracontractual de las personas jurídicas por actos de sus representantes en funciones, consolidando su imputación directa por acciones u omisiones que causen daño.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: Explora la figura de la responsabilidad precontractual y su impacto en las obligaciones indemnizatorias.
+Respuesta Correcta: La responsabilidad precontractual surge cuando una entidad genera expectativas razonables de una relación jurídica y, al romper injustificadamente las negociaciones, incurre en el deber de indemnizar los daños causados por la confianza generada.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: Argumenta sobre la diferencia entre obligaciones mancomunadas y solidarias en casos de responsabilidad colectiva según el Código Civil.
+Respuesta Correcta: El Código Civil establece que la solidaridad no se presume, por lo que en casos de responsabilidad colectiva, las obligaciones son mancomunadas, salvo que la jurisprudencia declare solidaridad por imposibilidad de individualizar el daño causado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: Evalúa la aplicación de la 'solidaridad impropia' en casos de responsabilidad extracontractual con pluralidad de causantes.
+Respuesta Correcta: La 'solidaridad impropia', de creación jurisprudencial, se aplica en casos donde no se puede individualizar el daño causado por múltiples agentes, permitiendo que todos respondan solidariamente, salvo prueba en contrario de un miembro.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: Compara las modalidades de reparación del daño en la responsabilidad civil y su aplicación práctica.
+Respuesta Correcta: La reparación puede ser in natura, restaurando el estado anterior al daño, o mediante equivalente pecuniario si la primera es inviable, asegurando la compensación adecuada para restablecer al perjudicado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: Discute el principio de la prohibición de lucro en la fijación de indemnizaciones por daños.
+Respuesta Correcta: El principio de prohibición de lucro establece que la indemnización debe reparar el daño sin enriquecer al perjudicado, deduciendo cualquier ventaja patrimonial obtenida del hecho dañoso del montante final.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 5: Responsabilidad civil I
+
+Pregunta: ¿Cuál es la principal finalidad del seguro de responsabilidad civil y cómo se articula en un contexto de responsabilidad contractual y extracontractual?
+Respuesta Correcta: La finalidad es proteger el patrimonio del asegurado frente a reclamaciones de indemnización. En contextos contractuales y extracontractuales, la aseguradora asume el pago de indemnizaciones por daños previstos en la póliza, evitando que recaigan sobre el patrimonio del asegurado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: Analiza cómo el seguro de responsabilidad civil cubre los riesgos asociados a ilícitos penales y su relación con el Código Civil y Penal.
+Respuesta Correcta: El seguro cubre la obligación de indemnizar derivada de un ilícito penal, conforme al art. 1902 del Código Civil. Aunque la responsabilidad civil es resarcitoria, está conectada al ilícito penal por el Código Penal, garantizando la reparación del daño causado al perjudicado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: Examina la dualidad de responsabilidades derivadas de un mismo hecho ilícito y su relevancia en el ámbito asegurador.
+Respuesta Correcta: Un mismo hecho ilícito genera responsabilidad penal y civil. La penal busca castigar y prevenir, mientras la civil persigue reparar el daño. En seguros, la civil es clave, pues la aseguradora cubre la indemnización sin afectar al patrimonio del asegurado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: Discute la importancia de la relación tripartita entre asegurado, aseguradora y perjudicado en el seguro de responsabilidad civil.
+Respuesta Correcta: La relación tripartita es crucial: el asegurado paga la prima, la aseguradora cubre el daño asegurado, y el perjudicado recibe la indemnización. Esto asegura que el daño causado al perjudicado se repare económicamente sin afectar al asegurado.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: ¿Cómo influye el seguro de responsabilidad civil en la protección del patrimonio del asegurado frente a delitos cometidos por empleados?
+Respuesta Correcta: El seguro protege el patrimonio del asegurado cubriendo indemnizaciones derivadas de delitos de empleados. La aseguradora indemniza al perjudicado, aunque puede ejercitar acción de repetición contra el empleado, manteniendo el patrimonio del asegurado intacto.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: Reflexiona sobre el impacto del seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor en la protección de terceros.
+Respuesta Correcta: Este seguro garantiza que los terceros afectados por accidentes de tráfico reciban indemnización por daños sufridos. Esto protege a las víctimas, asegurando reparación sin depender del estado patrimonial del causante, y cumple una función social preventiva.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 6: Responsabilidad civil II
+
+Pregunta: ¿Cuál es el fundamento de la responsabilidad por hecho ajeno según el artículo 1903 del Código Civil?
+Respuesta Correcta: El fundamento no radica en una imputación objetiva, sino en una falta propia atribuida al sujeto responsable, presumida iuris tantum, que puede desvirtuarse probando diligencia (culpa in eligendo o in vigilando).
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: Analiza la dificultad actual en la aplicación de la responsabilidad de los padres por daños causados por sus hijos.
+Respuesta Correcta: La aplicación rigurosa enfrenta dificultades por el desarrollo tecnológico y cambios sociales, que limitan la capacidad de vigilancia parental que se presuponía en el momento de la codificación.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: ¿Qué elementos determinan la responsabilidad del empresario por los actos de sus dependientes?
+Respuesta Correcta: La existencia de una relación de dependencia y la presunción de culpa in eligendo o in vigilando son esenciales, abarcando daños causados durante el desempeño del servicio, incluso fuera de las funciones específicas del contrato.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: Explica la responsabilidad de los tutores por daños causados por menores o incapacitados bajo su autoridad.
+Respuesta Correcta: Los tutores responden por los daños causados por menores no sujetos a patria potestad o incapacitados judicialmente bajo su autoridad, basada en culpa in vigilando, desvirtuable mediante prueba de diligencia.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: Describe el proceso de la acción de repetición del empresario según el artículo 1904.
+Respuesta Correcta: El empresario, tras indemnizar al perjudicado por un daño causado por su dependiente, puede ejercer la acción de repetición contra el empleado responsable, con un plazo de prescripción de quince años.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: ¿Cuál es la diferencia entre la prescripción de la acción de repetición y la responsabilidad extracontractual?
+Respuesta Correcta: La acción de repetición prescribe en quince años, en contraste con el plazo de un año para la responsabilidad extracontractual del perjudicado, subrayando su distinta naturaleza jurídica.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 7: Responsabilidad por hecho ajeno
+
+Pregunta: ¿Cómo se diferencia la responsabilidad por daños causados por animales bajo el artículo 1905 del Código Civil de la responsabilidad por daños en la actividad cinegética según el artículo 1906?
+Respuesta Correcta: La responsabilidad por daños causados por animales es cuasi-objetiva, basada en la posesión o uso del animal, mientras que en la actividad cinegética es subjetiva, fundamentada en la culpa por omisión del propietario del coto de caza.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: Analice el principio de responsabilidad cuasi-objetiva en el contexto del artículo 1905 del Código Civil y su implicación para los responsables de animales.
+Respuesta Correcta: El artículo 1905 establece una responsabilidad cuasi-objetiva, donde el poseedor o usuario del animal responde por los daños causados, sin necesidad de probar culpa, lo que implica un riesgo inherente asociado a la posesión del animal.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: Explique el papel de la jurisprudencia en determinar el control efectivo sobre un animal y cómo afecta la responsabilidad según el artículo 1905 del Código Civil.
+Respuesta Correcta: La jurisprudencia interpreta que la responsabilidad recae en quien tiene el control efectivo del animal, independientemente de la propiedad, determinando así la imputación en función del manejo y dirección del animal.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: Discuta cómo el artículo 1907 del Código Civil trata la responsabilidad por ruina de edificios y compare con el tratamiento de vicios de construcción bajo el artículo 1909.
+Respuesta Correcta: El artículo 1907 establece responsabilidad del propietario por falta de reparaciones, mientras el 1909 desplaza la responsabilidad a arquitectos o constructores si el daño se debe a vicios de construcción, permitiendo acción de repetición.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: ¿Cómo afectan las causas de exoneración específicas del artículo 1905 del Código Civil el régimen de responsabilidad por daños causados por animales?
+Respuesta Correcta: Las causas de exoneración, limitadas a fuerza mayor y culpa del perjudicado, refuerzan el carácter cuasi-objetivo de la responsabilidad, excluyendo el caso fortuito y enfatizando la carga sobre el poseedor o usuario del animal.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: Analice la obligación preventiva impuesta al propietario por el artículo 389 del Código Civil respecto a la amenaza de ruina y su impacto en la seguridad pública.
+Respuesta Correcta: El artículo 389 obliga al propietario a demoler o reparar construcciones en riesgo de ruina, con la administración facultada para intervenir subsidiariamente, protegiendo así la seguridad de propiedades vecinas y transeúntes.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 8: Responsabilidad por daños causados por animales y cosas
+
+Pregunta: ¿Cómo justifica el Código Civil de 1889 la necesidad de un desarrollo de regímenes de responsabilidad específicos en el contexto actual?
+Respuesta Correcta: El Código Civil de 1889 fue creado en un contexto diferente al actual, y el progreso tecnológico ha generado nuevas actividades con riesgos a gran escala que requieren regímenes de responsabilidad específicos, como la circulación de vehículos a motor o la navegación aérea.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: Explique por qué la legislación actual en la circulación de vehículos a motor establece un régimen de responsabilidad objetiva.
+Respuesta Correcta: La legislación actual, como el Real Decreto Legislativo 8/2004, consagra un régimen de responsabilidad objetiva debido al riesgo inherente a la circulación de vehículos, desvinculando la obligación de indemnizar de la idea de culpa y basándola en la titularidad de una actividad peligrosa.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: Analice las condiciones bajo las cuales un transportista aéreo puede ser exonerado de responsabilidad por daños a pasajeros.
+Respuesta Correcta: El transportista aéreo puede ser exonerado si prueba que el daño fue causado por una acción u omisión indebida del propio pasajero, como en el caso de un pasajero que ignora instrucciones de seguridad y se lesiona durante una turbulencia.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: Discuta la importancia del seguro obligatorio en el régimen de responsabilidad en la actividad cinegética.
+Respuesta Correcta: El seguro obligatorio en la actividad cinegética asegura que los cazadores puedan cumplir con la obligación de indemnizar por daños causados, proporcionando una garantía para las víctimas ante los riesgos inherentes al uso de armas en el medio natural.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: Compare la exoneración de responsabilidad en los regímenes de responsabilidad objetiva para vehículos a motor y caza.
+Respuesta Correcta: En ambos regímenes, la exoneración solo procede por culpa exclusiva de la víctima o fuerza mayor, pero fallos mecánicos en vehículos o de armas no se consideran fuerza mayor, destacando la asunción del riesgo por el titular de la actividad.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: Evalúe el principio 'quien contamina, paga' en el contexto del régimen de responsabilidad medioambiental.
+Respuesta Correcta: El principio 'quien contamina, paga' fundamenta la legislación medioambiental, obligando a empresas a adoptar medidas preventivas y de reparación ante daños ambientales y a contar con garantías financieras que aseguren el cumplimiento de estas obligaciones.
+Manual: Manual Civil 2
+Bloque: Bloque 5
+Tema: Tema 9: Leyes posteriores al código civil
+
+Pregunta: ¿Cuál es la relevancia histórica de la figura del cuasicontrato en el Derecho español y cómo se refleja en el Código Civil?
+Respuesta Correcta: La figura del cuasicontrato tiene origen en el Derecho Romano, donde Justiniano I la sistematizó. En el Código Civil español, se reconoce en el artículo 1089 como fuente de obligaciones, reflejando la influencia bizantina histórica.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: Analiza la crisis de la categoría del cuasicontrato y su vigencia actual en el ordenamiento jurídico español.
+Respuesta Correcta: A pesar de su disminuida relevancia doctrinal debido a su heterogeneidad, la gestión de negocios ajenos sin mandato sigue siendo importante en la práctica actual, reflejando una supervivencia pragmática en el sistema legal español.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: Explica los elementos constitutivos de la gestión de negocios ajenos sin mandato según el Código Civil.
+Respuesta Correcta: Los elementos incluyen una actuación voluntaria del gestor, inexistencia de mandato, gestión de asuntos ajenos, interés del dominus, licitud del negocio, y la viabilidad del negocio sin la intervención del dominus.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: Discute las obligaciones del gestor en la gestión de negocios ajenos sin mandato.
+Respuesta Correcta: El gestor debe continuar la gestión, actuar con diligencia, evitar operaciones arriesgadas sin costumbre del dominus, y responder por delegaciones. Estas obligaciones buscan proteger los intereses del dominus y asegurar una gestión adecuada.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: Examina las condiciones bajo las cuales el dominus asume obligaciones en la gestión de negocios ajenos sin mandato.
+Respuesta Correcta: El dominus asume obligaciones al ratificar la gestión, respondiendo por obligaciones contraídas por el gestor y debiendo indemnizar los gastos y perjuicios sufridos por el gestor, lo cual genera efectos comparables a un mandato expreso.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: Analiza la relación entre el concepto de licitud y la figura del cuasicontrato en el ordenamiento jurídico español.
+Respuesta Correcta: La licitud es esencial en los cuasicontratos, ya que los actos deben ser completamente lícitos para generar obligaciones. Esto asegura que las obligaciones derivadas sean reconocidas y protegidas por el ordenamiento jurídico.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 1: Los cuasicontratos
+
+Pregunta: ¿Cuál es el fundamento jurídico que justifica la obligación de restitución en el pago de lo indebido según el Código Civil?
+Respuesta Correcta: El fundamento reside en la ausencia de causa justificativa para la atribución patrimonial, lo que genera una obligación de restitución en el accipiens, quien recibe algo sin derecho y por error del solvens, conforme al artículo 1895 del Código Civil.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: Analice cómo se manifiesta el indebitum en una situación donde la deuda existe pero vincula a personas distintas.
+Respuesta Correcta: El indebitum se manifiesta cuando el solvens paga a un accipiens que no es el verdadero acreedor, generando así una obligación de restitución, ya que no existe un vínculo obligatorio entre ellos que justifique la prestación realizada.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: Explique las diferencias en la obligación de restitución entre el accipiens de buena fe y el de mala fe.
+Respuesta Correcta: El accipiens de buena fe solo debe restituir lo indebidamente recibido y responde por enriquecimientos. El de mala fe, además, paga intereses y responde por daños, incluso fortuitos, debido a su conocimiento del carácter indebido del pago.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: ¿Qué papel juega el error del solvens en el pago de lo indebido y cómo afecta la obligación de restitución?
+Respuesta Correcta: El error del solvens es esencial, pues sin él no existiría el pago de lo indebido. Este error justifica la obligación de restitución, ya que el solvens actuó bajo una falsa creencia de obligación.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: ¿Cómo protege la ley al accipiens de buena fe que ha realizado actos perjudiciales tras un pago indebido?
+Respuesta Correcta: La ley exime al accipiens de buena fe de restituir si, al recibir el pago, cree legítimamente que satisface un crédito válido y ha realizado actos que comprometen su cobro del verdadero deudor, según el artículo 1899 CC.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: Analice la subrogación del solvens en la posición del accipiens en casos de error exclusivo del solvens.
+Respuesta Correcta: En caso de error exclusivo del solvens, este puede reclamar al deudor real, subrogándose en la posición del accipiens, protegiendo así la seguridad jurídica del accipiens de buena fe y permitiendo al solvens recuperar lo pagado.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 2: Cobro de lo indebido
+
+Pregunta: ¿Por qué se considera el enriquecimiento sin causa un principio general del Derecho pese a no estar explícitamente formulado en el Código Civil español?
+Respuesta Correcta: El enriquecimiento sin causa es reconocido por la jurisprudencia como un principio general del Derecho, basado en el Derecho Romano y las Partidas históricas españolas, lo que evidencia su aplicación y trascendencia en nuestro ordenamiento.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
+Pregunta: Analice el carácter subsidiario de la acción por enriquecimiento injusto y su implicación en el ejercicio de acciones legales.
+Respuesta Correcta: La acción por enriquecimiento injusto es subsidiaria, lo que significa que solo puede ejercerse cuando no existen otras acciones disponibles para el demandante, como la nulidad contractual o la responsabilidad civil, sirviendo como último recurso para restituir el equilibrio patrimonial.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
+Pregunta: Compare las diferencias entre la acción de enriquecimiento injusto y la acción indemnizatoria por responsabilidad civil.
+Respuesta Correcta: La acción de enriquecimiento injusto es restitutoria y se fundamenta en un desplazamiento patrimonial sin causa, mientras que la acción indemnizatoria es reparatoria, basada en un daño causado por culpa o negligencia, y tiene un carácter principal en el sistema legal.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
+Pregunta: Explique cómo se determina la inexistencia de causa en un desplazamiento patrimonial para configurar el enriquecimiento injusto.
+Respuesta Correcta: La inexistencia de causa se determina cuando el desplazamiento patrimonial carece de justificación jurídica, como una ley, contrato válido o donación, siendo este elemento esencial para considerar el enriquecimiento como injusto.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
+Pregunta: ¿Cuál es la relevancia del empobrecimiento correlativo del demandante en la acción por enriquecimiento injusto?
+Respuesta Correcta: El empobrecimiento correlativo es crucial, ya que debe existir una pérdida patrimonial en el demandante que coincida con el enriquecimiento del demandado, sin lo cual no se configuraría el enriquecimiento injusto.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
+Pregunta: Discuta la evolución histórica del concepto de enriquecimiento sin causa desde el Derecho romano hasta su reconocimiento en el Derecho español.
+Respuesta Correcta: El concepto de enriquecimiento sin causa se originó en el Derecho Romano con juristas como Sexto Pomponio y fue recogido en el derecho histórico español, especialmente en las Partidas, aunque no fue formulado explícitamente en los códigos civiles decimonónicos.
+Manual: Manual Civil 2
+Bloque: Bloque 6
+Tema: Tema 3: Enriquecimiento injusto 1. Concepto y origen histórico 1.1 Noción y fundamento El enriquecimiento injusto, también denominado
+
