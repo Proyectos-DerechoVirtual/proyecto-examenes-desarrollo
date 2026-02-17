@@ -1,8 +1,4 @@
-// Evaluación de respuestas usando Gemini 3 Flash
-
-const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
-const GEMINI_MODEL = 'gemini-3-flash-preview';
-const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
+// Evaluación de respuestas usando Gemini 3 Flash (via serverless API route)
 
 // Interfaz para la evaluación completa generada por IA
 interface AIEvaluationResult {
@@ -12,28 +8,14 @@ interface AIEvaluationResult {
   feedback: string;
 }
 
-// Función para llamar a Gemini API
+// Función para llamar a Gemini API a través del servidor (la API key queda protegida)
 async function callGeminiAPI(prompt: string, systemPrompt: string): Promise<string> {
-  const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+  const response = await fetch('/api/evaluate', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
-      contents: [
-        {
-          parts: [
-            { text: `${systemPrompt}\n\n${prompt}` }
-          ]
-        }
-      ],
-      generationConfig: {
-        temperature: 0.2,
-        topK: 40,
-        topP: 0.95,
-        maxOutputTokens: 2048,
-      }
-    })
+    body: JSON.stringify({ prompt, systemPrompt })
   });
 
   if (!response.ok) {
@@ -42,10 +24,7 @@ async function callGeminiAPI(prompt: string, systemPrompt: string): Promise<stri
   }
 
   const data = await response.json();
-
-  // Extraer el texto de la respuesta de Gemini
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-  return text;
+  return data.text || '';
 }
 
 // Función para evaluar respuesta completa usando Gemini (nota + feedback)
